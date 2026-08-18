@@ -30,21 +30,20 @@ the liquidity event. The dilution resulting from the subscription shall not
 exceed the percentage laid down in paragraph 2. A covered undertaking shall not be required to hold more than one citizens'
 capital warrant in respect of the same designation. The subscription shall
 be executed within 20 working days of the delivery of the valuation
-referred to in Article 6.
+referred to in Article 6, and the shares shall be paid up in full in cash
+at their nominal value upon execution.
 
 5. A covered undertaking shall notify the Reserve and the Commission of any
 impending liquidity event no later than the earlier of its public
 announcement and 30 working days before its completion.
 
-6. Articles 49, 68(1), (2) and (3) and 72 of Directive (EU) 2017/1132, the
-provisions of that Directive concerning the consideration for and the
-minimum price of issued shares in so far as they would prevent a
-subscription at nominal value pursuant to paragraph 2, and any
+6. Article 49, Article 68(1), (2) and (3), the first subparagraph of
+Article 70(2) and Article 72 of Directive (EU) 2017/1132, and any
 corresponding provisions of the law of a Member State conferring
 pre-emption rights, requiring a decision of the general meeting or
-requiring an expert report on consideration shall not apply to the
-issuance of the citizens' capital warrant or to the subscription of shares
-pursuant to it. Provisions of the law of a Member State restricting the
+requiring an expert report on consideration, shall not apply to the
+issuance of the citizens' capital warrant or to the subscription of
+shares pursuant to it. Provisions of the law of a Member State restricting the
 proportion, issuance conditions or characteristics of non-voting shares
 shall not apply to the extent that they would prevent the issuance or
 holding of shares pursuant to this Article.
@@ -64,7 +63,21 @@ event.
 
 ---
 
-Drafting notes (non-normative). The chapter is the assets-not-flows test as
+Drafting notes (non-normative). The paragraph 6 enumeration was verified
+against the consolidated Directive (CELEX 02017L1132-20220812, capital
+chapter unamended since) on 19 August 2026 and mirrors Article 84(3) of
+the Directive itself, the BRRD-inserted list of exactly the provisions
+that block a by-operation-of-law issuance: Article 72(4) makes a general
+meeting the only lawful route to disapply pre-emption, which is why the
+whole of Article 72 is disapplied; the expert-report rule for increases
+is the first subparagraph of Article 70(2), not Article 49 alone.
+Articles 45, 46, 47, 69 and 71 need no derogation: subscription at
+nominal is not below nominal, and paragraph 4 now provides full cash
+payment on execution, satisfying Article 69 expressly. Article 85 equal
+treatment is complied with, not derogated from: the dilution falls on
+all shareholders pro rata. The capital chapter binds only the public
+company forms in Annex I of the Directive (Article 44(1)); for private
+forms the Member-State-law limb of paragraph 6 does the same work. The chapter is the assets-not-flows test as
 law. Paragraph 3(b) is DC-4 and DC-9 verbatim: the obligation can never
 collapse into a fee, which also carries the incidence answer (objection 4).
 Dormancy until the event is DC-12; permanent non-voting is DC-13; operation
