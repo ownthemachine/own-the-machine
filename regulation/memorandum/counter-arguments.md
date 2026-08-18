@@ -48,6 +48,17 @@ harmonised regime in place of twenty-seven national experiments. Whether that
 consideration is sufficient is the single largest legal risk in the project,
 and Gate 1 exists to test it.
 
+The drafting research (18 August) settled the architecture to use: BRRD is
+the judicially validated template for interfering with equity by act of law
+(Kotnik C-526/14, Ledra C-8/15 P, Aeris Invest C-535/22 P), and the
+instrument adopts its machinery: an honest interference recital naming
+Charter Article 17, a full Article 52(1) proportionality recital, and a
+quantified no-worse-off safeguard with independent, separately challengeable
+valuation. One adaptation is mandatory: BRRD's counterfactual is insolvency,
+and a permanent regime cannot lean on crisis reasoning (Dowling C-41/15), so
+our floor is market-consistent: no shareholder worse off than under an
+equivalent market-terms issuance.
+
 **Design consequence.** DC-1: prospective warrant on future value creation at
 defined events, never retroactive transfer of existing shares. DC-2: high
 group-consolidated thresholds. DC-3: passivity and crystallisation-at-events
@@ -80,6 +91,15 @@ cash-settlement options that would let the obligation collapse into a fee.
 And the ask must be layered so that if the Legal Service still reads it as
 fiscal, the severable outer layer (assess and propose instruments for citizen
 participation in automated productivity gains) registers on its own.
+
+Recalibration from the drafting research: registration is a lower hurdle
+than this objection assumes. The test is "manifestly outside" the
+Commission's powers (Reg 2019/788 Art 6(3)(c)), partial registration is
+judicially established (C-899/19 P), and the Commission registered the EU
+wealth-tax ECI in 2023. The characterisation fight is real but is fought in
+Council, after registration. The layering therefore protects the campaign
+moment; the warrant-not-levy drafting protects the instrument's life after
+it.
 
 **Design consequence.** DC-4: no monetary flow from undertakings; instruments
 only. DC-5: distributions defined as property income of the reserve. DC-6:
@@ -500,11 +520,17 @@ review regardless of its prose.
 | DC-26 | Explicit scope-and-limits recital | 12 |
 | DC-27 | UBI distinction carried by legal form | 13 |
 | DC-28 | Funding-source novelty only; existing rails for delivery | 14 |
+| DC-29 | Market-consistent no-worse-off safeguard, independent and separately challengeable valuation, judicial review | 1 |
+| DC-30 | Essential elements (trigger, reserve ownership, entitlement, interference) in the articles, never delegated | 1 |
 
 ## Status
 
 All objections OPEN until the articles answer them; 12 is CONCEDED by scope.
 Objection 1 carries the largest legal risk and objection 6 the largest design
-risk; Gate 1's admissibility letter must lead with objections 1 and 2.
+risk. Gate 1's admissibility letter still leads with objections 1 and 2, but
+recalibrated by the drafting research: registration is the lower hurdle
+(manifestly-outside test, partial registration, the registered wealth-tax
+ECI), so the letter tests the characterisation for the Council stage, not for
+the register.
 
 Evidence citations resolve in ../../evidence/, EUROPE.md first.

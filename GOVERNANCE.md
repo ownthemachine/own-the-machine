@@ -60,4 +60,7 @@ least as well as before.
 - Every review round, including failed ones, is committed.
 - Editor dispositions that decline a finding are written into the review
   file, as in the wider project's practice.
+- The site's public ledger is rendered from the review files and release
+  notes: outcomes and dispositions are the public story; prompts and tooling
+  remain inspectable here.
 - Funding, if any ever exists, is disclosed in campaign/ to the cent.

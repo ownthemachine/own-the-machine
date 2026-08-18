@@ -36,9 +36,30 @@ free; no excuse to skip).
 - Constitutional changes: all six plus the 14-day public issue
   (GOVERNANCE.md).
 
+## Review file convention, and what the public actually sees
+
+Review files live at pipeline/reviews/YYYY-MM-DD-<gate>-<slug>.md and open
+with front matter the site can render:
+
+    gate: hostile-counsel
+    target: regulation/articles/03-designation.md
+    commit: <sha>
+    verdict: REVISE
+    disposition: merged-with-fixes | declined (reason) | pending
+    date: 2026-09-04
+
+The campaign site renders a public ledger of the law's evolution from these
+files and from release notes: what changed, what prompted it, what review
+found, how the editor disposed of it, with a diff link. That ledger, not
+this tooling, is the public story. The prompts and runner stay inspectable
+here, because the repo is open and hiding machinery reads worse than owning
+it, but the product is a law that shows its work, not a showcase of the
+workshop.
+
 ## Status
 
-DRAFTING-RULES.md and the legal-form prompt are scaffolds pending the
-legislative-drafting research (in flight, 18 Aug); they carry TODO markers
-and must be completed from its findings before the first article is gated.
-Gates 2-6 are operational now.
+All six gates are operational. DRAFTING-RULES.md was completed from the
+legislative-drafting research on 18 August (source record with all URLs:
+research-drafting-2026-08-18.md); the legal-form gate now enforces the Joint
+Practical Guide, the DMA Article 3 threshold pattern, the BRRD property
+architecture and the Commission's memorandum skeleton.
