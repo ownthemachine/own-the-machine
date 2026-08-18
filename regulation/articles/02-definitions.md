@@ -19,8 +19,8 @@ performing tasks that would otherwise require human cognitive labour;
 pursuant to Article 5 which confers the right to subscribe for shares in a
 covered undertaking;
 
-(5) 'the Reserve' means the European Citizens' Capital Reserve established
-by Article 8;
+(5) 'Reserve' means the European Citizens' Capital Reserve established by
+Article 8;
 
 (6) 'liquidity event' means any of the following:
 (a) the admission of shares of the covered undertaking to trading on a

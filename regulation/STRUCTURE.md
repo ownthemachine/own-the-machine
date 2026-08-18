@@ -10,13 +10,13 @@ the industrial-policy dimension. Severable layers per DC-6.
 | Ch | Articles | Content | Status |
 |---|---|---|---|
 | I | 1-2 | Subject matter, scope, definitions | drafted |
-| II | 3-4 | Designation of covered undertakings; review of designation | 3 drafted, 4 reserved |
-| III | 5-7 | The citizens' capital warrant; crystallisation valuation; safeguards | 5 drafted, 6-7 reserved |
-| IV | 8-9 | The European Citizens' Capital Reserve; prohibited holdings and conduct | 8 drafted, 9 reserved |
-| V | 10-11 | The citizens' entitlement; national vehicles | 10 drafted, 11 reserved |
+| II | 3-4 | Designation of covered undertakings; market investigation and review | drafted |
+| III | 5-7 | The citizens' capital warrant; independent valuation; safeguards | drafted |
+| IV | 8-9 | The European Citizens' Capital Reserve; prohibited holdings and conduct | drafted |
+| V | 10-11 | The citizens' entitlement; national vehicles | drafted |
 | VI | 12 | Protection of the Reserve and of entitlements | drafted |
-| VII | 13-15 | Penalties; monitoring and evaluation; powers (delegation, comitology) | reserved |
-| VIII | 16-17 | Transitional and final provisions | reserved |
+| VII | 13-16 | Penalties; monitoring and evaluation; delegation; committee procedure | drafted |
+| VIII | 17-18 | Transitional and final provisions | drafted |
 
 Annex I: methodology for counting turnover, fair market value and full-time
 equivalents (referenced by Article 3; technical only per JPG G22).
