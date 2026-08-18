@@ -69,6 +69,9 @@ period thereafter. Arguments against the presumption should be taken into
 account only where they manifestly call it into question, and arguments
 based on the definition of the relevant market should not be taken into
 account, since designation does not depend on a finding of market power.
+Where a designation is repealed, a warrant not yet crystallised should
+lapse after five years, ensuring legal certainty for the undertaking while
+preserving for a reasonable period the rights acquired by the Reserve.
 
 (8) The citizens' capital warrant should be modest, precise and singular:
 a right to subscribe, at nominal value, for shares representing 3 % of the
@@ -184,7 +187,11 @@ entitlement held by all is defensible by all.
 (20) The entitlement should be personal. It should be incapable of
 transfer, assignment, pledge, attachment, surrender or redemption, so that
 it cannot be bought out of the hands of those it serves, whether by
-markets, by creditors or by the holder's own moment of hardship. Amounts
+markets, by creditors or by the holder's own moment of hardship. That
+restriction on the alienability of the entitlement is a justified and
+proportionate limitation, necessary so that the objective of durable,
+broadly held capital ownership is not defeated by immediate liquidation.
+Amounts
 distributed, once received, are ordinary property of the holder,
 inheritable and freely usable.
 
@@ -193,12 +200,19 @@ vehicles, since Member States hold the civil registries and payment
 infrastructure that administration requires. Administration fees should be
 capped and entitlements portable, so that the quality of a Member State's
 administration cannot diminish the substance of a citizen's entitlement.
+The cap on fees limits the freedom of designated vehicles to set prices;
+that limitation is necessary and proportionate to prevent the erosion of
+the entitlement by administrative costs, and Member States remain free to
+compensate designated vehicles for verifiable net costs above the cap.
 
 (22) The history of pooled public assets is a history of raids. The assets
 of the Reserve should therefore be protected by enumerated prohibitions on
 lending, guarantee, transfer and encumbrance in favour of public
 authorities, and the Reserve should not acquire sovereign debt, so that it
-cannot become a captive purchaser of the obligations of any government. An
+cannot become a captive purchaser of the obligations of any government.
+The exclusion of sovereign debt is a rule of portfolio governance internal
+to the Reserve, securing its independence, and restricts no movement of
+capital by any other person. An
 ordinary regulation cannot bind future legislatures, and this Regulation
 does not pretend otherwise; what it can do is ensure that no derogation
 from these protections arises by interpretation, and that any future
@@ -210,7 +224,12 @@ dissuasive, and set at a level meaningful to undertakings of the scale
 designated. Fines and periodic penalty payments should accrue to the
 general budget of the Union and not to the Reserve, so that the body
 holding assets for citizens never acquires a financial interest in the
-punishment of undertakings.
+punishment of undertakings. Where an undertaking governed by the law of a
+third country persistently refuses to comply with its core obligations,
+the Commission should be empowered, as a measure of last resort and
+subject to proportionality, to prohibit the making available of the
+relevant goods and services on the internal market, since no other means
+of enforcement reaches an undertaking with no assets in the Union.
 
 (24) The premise of this Regulation, that automation at the designated
 scale durably decouples output from labour and concentrates ownership, is

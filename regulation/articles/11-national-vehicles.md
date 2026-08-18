@@ -4,7 +4,13 @@
 force of this Regulation, one or more national vehicles to administer
 entitlements. Existing institutions within the meaning of Directive (EU)
 2016/2341, providers within the meaning of Regulation (EU) 2019/1238 and
-statutory funds may be designated.
+statutory funds may be designated. By way of derogation from Article 7 of
+Directive (EU) 2016/2341, an institution designated as a national vehicle
+may carry out the account administration and distribution activities
+provided for in this Regulation. A provider within the meaning of
+Regulation (EU) 2019/1238 designated as a national vehicle shall maintain
+holders' accounts separately from any product governed by that Regulation,
+and the requirements of that Regulation shall not apply to those accounts.
 
 2. A national vehicle shall:
 (a) maintain an individual account in the name of each holder registered
@@ -18,7 +24,9 @@ Article 10(1).
 
 3. Charges levied by a national vehicle on holders shall not exceed the
 costs actually incurred in administering the accounts and in any event
-0,3 % annually of the amounts administered.
+0,3 % annually of the amounts administered. A Member State may compensate a
+national vehicle for verifiable net costs exceeding that ceiling; such
+compensation shall not be charged to holders or to the Reserve.
 
 4. Where a Member State has not designated a national vehicle, or where the
 designated vehicle does not comply with paragraph 2, a holder residing in
