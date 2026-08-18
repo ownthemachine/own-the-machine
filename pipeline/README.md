@@ -13,20 +13,25 @@ lands. The final read is always human.
 
 ## The six gates
 
-Run in this order; later gates assume earlier ones passed. All via
-`pipeline/review.sh <file-or-bundle> <out> pipeline/prompts/<gate>.md`.
+Run in this order; later gates assume earlier ones passed. **The runner, the
+six gate prompts and the linter live in the
+[own-the-machine-tools](https://github.com/thetwit4u/own-the-machine-tools)
+repository (MIT)**: machinery there, so this repository stays the civic
+artefact: the law, its evidence, its governance and the ledger of its own
+evolution. Review OUTPUTS are committed here under pipeline/reviews/,
+because a verdict on a statute is part of the statute's history.
 
-| # | Gate | Prompt | Catches | Suggested model tier |
-|---|---|---|---|---|
-| 1 | Legal form | legal-form.md | Joint Practical Guide violations: normative recitals, "should" in enacting terms, undefined terms, broken cross-references, powers architecture | fast |
-| 2 | DC compliance | dc-compliance.md | violations of the 28-row constraints table | fast |
-| 3 | Legal basis and rights | legal-basis.md | Art. 114/173 reasoning, subsidiarity, proportionality, Charter Art. 17, Art. 345 | strongest available |
-| 4 | Hostile counsel | hostile-counsel.md | how a litigator for covered undertakings, or the Legal Service, kills the text | strongest available |
-| 5 | Acquis coherence | acquis-coherence.md | collisions with company law, Prospectus, IORP II, PEPP, DMA definitions | strong |
-| 6 | Layer fidelity | layer-fidelity.md | drift between the articles, the memorandum and the plain-language layer | fast |
+| # | Gate | Catches | Suggested model tier |
+|---|---|---|---|
+| 1 | Legal form | Joint Practical Guide violations, powers architecture, DMA threshold pattern, memorandum skeleton | fast |
+| 2 | DC compliance | violations of the 30-row constraints table | fast |
+| 3 | Legal basis and rights | Art. 114/173 reasoning, subsidiarity, proportionality, Charter Art. 17, Art. 345 | strongest available |
+| 4 | Hostile counsel | how a litigator for covered undertakings, or the Legal Service, kills the text | strongest available |
+| 5 | Acquis coherence | collisions with company law, Prospectus, IORP II, PEPP, DMA definitions | strong |
+| 6 | Layer fidelity | drift between the articles, the memorandum and the plain-language layer | fast |
 
-Before any gate: `python3 scripts/lint-legislation.py` (mechanical checks;
-free; no excuse to skip).
+Before any gate: the linter from the tools repo (mechanical checks; free; no
+excuse to skip).
 
 ## Which gates when
 
