@@ -62,5 +62,5 @@ least as well as before.
   file, as in the wider project's practice.
 - The site's public ledger is rendered from the review files and release
   notes: outcomes and dispositions are the public story; prompts and tooling
-  remain inspectable here.
+  remain inspectable in the tools repository.
 - Funding, if any ever exists, is disclosed in campaign/ to the cent.

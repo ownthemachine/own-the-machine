@@ -17,8 +17,9 @@ register, not essay register. The English text is the draft; translations
 are for understanding.
 
 **Style:** British English in prose; EU legislative drafting conventions in
-regulation/ (see pipeline/DRAFTING-RULES.md); no em-dashes anywhere; run
-`python3 scripts/lint-legislation.py` before pushing.
+regulation/ (see pipeline/DRAFTING-RULES.md); no em-dashes anywhere; run the linter from the
+[tools repo](https://github.com/thetwit4u/own-the-machine-tools) before
+pushing.
 
 **What we will not merge:** anonymous-source claims in the evidence base,
 weakening of the four tests, tracking of any kind in site code, campaign
