@@ -19,10 +19,17 @@ State.
 4. The Reserve shall retain from its realised income in each financial year
 the amount necessary to preserve the real value of its capital, calculated
 in accordance with the methodology laid down in Annex II, and shall make
-the remainder available for distribution pursuant to Article 10(6).
+the remainder available for distribution pursuant to Article 10(6). No
+distribution shall be financed by borrowing or by the disposal of holdings
+effected for the purpose of the distribution.
 
 5. The Reserve shall publish annually audited accounts, the valuation of
 its holdings and the calculation referred to in paragraph 4.
+
+6. The Commission is empowered to adopt delegated acts in accordance with
+Article 15 to amend the methodology laid down in Annex II where necessary
+to preserve the real value of the capital of the Reserve in the light of
+market developments.
 
 ---
 
@@ -39,5 +46,5 @@ rule generalised (retain enough to preserve real capital, distribute the
 rest), which also enforces DC-14: distributions grow with the portfolio and
 start small. Governance, passivity at Reserve level and prohibited conduct
 are Article 9, still reserved; the non-voting rule already binds via
-Article 5(3)(a). Requires a new Annex II (retention methodology) in
-STRUCTURE. Satisfies DC-4, DC-5, DC-14, DC-19 in part, DC-24.
+Article 5(3)(a). The retention methodology is Annex II, amendable
+under the paragraph 6 empowerment via Article 15. Satisfies DC-4, DC-5, DC-14, DC-19 in part, DC-24.

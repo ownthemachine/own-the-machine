@@ -3,7 +3,8 @@
 1. The power to adopt delegated acts is conferred on the Commission subject
 to the conditions laid down in this Article.
 
-2. The power to adopt delegated acts referred to in Article 3(9) shall be
+2. The power to adopt delegated acts referred to in Article 3(9) and
+Article 8(6) shall be
 conferred on the Commission for a period of five years from the entry into
 force of this Regulation. The Commission shall draw up a report in respect
 of the delegation of power not later than nine months before the end of
@@ -12,7 +13,8 @@ for periods of an identical duration, unless the European Parliament or
 the Council opposes such extension not later than three months before the
 end of each period.
 
-3. The delegation of power referred to in Article 3(9) may be revoked at
+3. The delegation of power referred to in Article 3(9) and Article 8(6)
+may be revoked at
 any time by the European Parliament or by the Council. A decision to
 revoke shall put an end to the delegation of the power specified in that
 decision. It shall take effect the day following the publication of the
@@ -28,7 +30,8 @@ Law-Making.
 5. As soon as it adopts a delegated act, the Commission shall notify it
 simultaneously to the European Parliament and to the Council.
 
-6. A delegated act adopted pursuant to Article 3(9) shall enter into force
+6. A delegated act adopted pursuant to Article 3(9) or Article 8(6) shall
+enter into force
 only if no objection has been expressed either by the European Parliament
 or by the Council within a period of two months of notification of that
 act to the European Parliament and the Council or if, before the expiry of
@@ -39,6 +42,7 @@ two months at the initiative of the European Parliament or of the Council.
 ---
 
 Drafting notes (non-normative). The standard six-paragraph article, CSDR
-Article 67 pattern, verbatim where the convention is fixed. Open point: a
-second conferral is needed for amending Annex II (Article 8(4) methodology);
-adding it means listing it in paragraphs 2, 3 and 6 alongside Article 3(9).
+Article 67 pattern, verbatim where the convention is fixed. Both
+conferrals, Annex I methodology (Article 3(9)) and Annex II methodology
+(Article 8(6)), are listed in paragraphs 2, 3 and 6, per the convention
+that every conferral is named in each of the three control paragraphs.
