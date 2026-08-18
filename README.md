@@ -24,14 +24,16 @@ plan and its kill criteria.
 
 ## Layout
 
-- `regulation/` — the law: recitals, articles, explanatory memorandum
+- `regulation/`: the law: recitals, articles, explanatory memorandum
   (including its own counter-arguments, written first)
-- `evidence/` — the verified European evidence base the memorandum cites
-- `translations/` — 24 official languages, machine-first plus adversarial gate
-- `simulator/` — client-side dividend simulator, embeddable, no backend
-- `site/` — campaign hub at ownthemachine.eu; links out to the Commission's
+- `evidence/`: the verified European evidence base the memorandum cites
+- `translations/`: 24 official languages, machine-first plus adversarial gate
+- `simulator/`: client-side dividend simulator, embeddable, no backend
+- `site/`: campaign hub at ownthemachine.eu; links out to the Commission's
   Central Online Collection System and collects nothing itself
-- `campaign/` — gates, distribution plan, naming record, organiser kit
+- `campaign/`: gates, distribution plan, naming record, organiser kit
+- `pipeline/`: the six review gates every change to the law passes, and
+  `GOVERNANCE.md` for how an open-source statute gets amended
 
 ## Declared interest
 
