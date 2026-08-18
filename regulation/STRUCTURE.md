@@ -18,11 +18,16 @@ the industrial-policy dimension. Severable layers per DC-6.
 | VII | 13-16 | Penalties; monitoring and evaluation; delegation; committee procedure | drafted |
 | VIII | 17-18 | Transitional and final provisions | drafted |
 
+Recitals: drafted, regulation/recitals.md (30 recitals; DC-26 carried in
+recital 24).
+
 Annex I: methodology for counting turnover, fair market value and full-time
-equivalents (referenced by Article 3; technical only per JPG G22).
+equivalents (referenced by Article 3; technical only per JPG G22). Drafted,
+regulation/annexes/annex-1-counting.md.
 
 Annex II: methodology for the capital-preservation retention (referenced by
-Article 8(4); technical only).
+Article 8(4); technical only). Drafted,
+regulation/annexes/annex-2-retention.md.
 
 The four tests map: in time = Chapter II; assets not flows = Chapter III;
 universal = Chapter V; raid-proof = Chapter VI. Each drafted article carries

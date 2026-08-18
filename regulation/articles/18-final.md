@@ -5,7 +5,8 @@ that of its publication in the Official Journal of the European Union.
 
 2. It shall apply from [OP: please insert the date 18 months after the
 date of entry into force of this Regulation], with the exception of
-Article 11(1), which shall apply from the date of entry into force.
+Article 3(3), Article 11(1) and Article 17(1), which shall apply from the
+date of entry into force of this Regulation.
 
 3. This Regulation shall be binding in its entirety and directly applicable
 in all Member States.
