@@ -36,15 +36,25 @@ referred to in Article 6.
 impending liquidity event no later than the earlier of its public
 announcement and 30 working days before its completion.
 
-6. Articles 68(1), (2) and (3) and 72 of Directive (EU) 2017/1132 and any
-corresponding provisions of the law of a Member State conferring pre-emption
-rights or requiring a decision of the general meeting shall not apply to the
+6. Articles 49, 68(1), (2) and (3) and 72 of Directive (EU) 2017/1132, the
+provisions of that Directive concerning the consideration for and the
+minimum price of issued shares in so far as they would prevent a
+subscription at nominal value pursuant to paragraph 2, and any
+corresponding provisions of the law of a Member State conferring
+pre-emption rights, requiring a decision of the general meeting or
+requiring an expert report on consideration shall not apply to the
 issuance of the citizens' capital warrant or to the subscription of shares
-pursuant to it.
+pursuant to it. Provisions of the law of a Member State restricting the
+proportion, issuance conditions or characteristics of non-voting shares
+shall not apply to the extent that they would prevent the issuance or
+holding of shares pursuant to this Article.
 
-7. The offer and subscription of shares pursuant to this Article shall not
-constitute an offer of securities to the public for the purposes of
-Regulation (EU) 2017/1129.
+7. The issuance, offer and subscription of shares pursuant to this Article
+shall not constitute an offer of securities to the public for the purposes
+of Regulation (EU) 2017/1129, and the admission to trading of those shares
+shall be exempt from the obligation to publish a prospectus under that
+Regulation where shares of the same class are already admitted to trading
+on the same regulated market.
 
 8. The valuation of the fully diluted capital for the purposes of paragraph
 2 shall be performed by an independent valuer appointed in accordance with
