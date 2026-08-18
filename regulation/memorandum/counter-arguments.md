@@ -52,7 +52,7 @@ The drafting research (18 August) settled the architecture to use: BRRD is
 the judicially validated template for interfering with equity by act of law
 (Kotnik C-526/14, Ledra C-8/15 P, Aeris Invest C-535/22 P), and the
 instrument adopts its machinery: an honest interference recital naming
-Charter Article 17, a full Article 52(1) proportionality recital, and a
+Charter Article 17, a full proportionality recital under Article 52(1) of the Charter, and a
 quantified no-worse-off safeguard with independent, separately challengeable
 valuation. One adaptation is mandatory: BRRD's counterfactual is insolvency,
 and a permanent regime cannot lean on crisis reasoning (Dowling C-41/15), so
@@ -334,10 +334,11 @@ raid is not a tail risk; on the European record it is the modal outcome.
 clause by clause. Against Poland: the reserve may not hold the sovereign debt
 of any Member State or of the Union, removing the self-dealing channel that
 made OFE worth cancelling. Against Spain: the prohibition on disposal is in
-the founding Regulation from day one, not retrofitted, and any amendment to
-the protection provisions requires the same procedure as Treaty-adjacent
-change, with a supermajority and a delay spanning at least one full
-parliamentary term. Against Ireland: no emergency-use clause of any kind,
+the founding Regulation from day one, not retrofitted, and amendment of the
+protection provisions is reserved to express legislative change accompanied
+by a published independent assessment of the effect on holders; a Regulation
+cannot prescribe voting thresholds or delays for future legislatures, and
+pretending otherwise would hand critics the easiest ridicule in the file. Against Ireland: no emergency-use clause of any kind,
 because the NPRF's raid was lawful under its own emergency provisions.
 Against Estonia: individual claims are locked to retirement age with
 forfeiture of matched amounts on early exit, the Danish and Irish devices
@@ -511,7 +512,7 @@ review regardless of its prose.
 | DC-17 | Strongest nulls cited in the memorandum itself | 8 |
 | DC-18 | Stated falsification condition with a date | 8 |
 | DC-19 | No sovereign debt holdings | 9 |
-| DC-20 | Entrenchment from day one; supermajority plus full-term delay | 9 |
+| DC-20 | Entrenchment from day one: express amendment only, published independent assessment, honesty about Treaty limits | 9 |
 | DC-21 | No emergency clause | 9 |
 | DC-22 | Individual, locked, inheritable claims; forfeiture on early exit | 9, 13 |
 | DC-23 | Raid resistance claimed as friction, never impossibility | 9 |
