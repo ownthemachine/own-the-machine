@@ -36,7 +36,9 @@ meets all the thresholds in paragraph 2, it does not satisfy the
 requirements of paragraph 1. Those arguments shall be taken into account
 only where they manifestly call the presumption into question; arguments
 based on the definition of the relevant market shall not be taken into
-account.
+account. Where such arguments require detailed assessment, the Commission
+may open a market investigation pursuant to Article 4(1) instead of
+designating within the period laid down in paragraph 4.
 
 6. The Commission may designate as a covered undertaking any undertaking
 that satisfies the requirements of paragraph 1 without meeting the
