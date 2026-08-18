@@ -52,7 +52,9 @@ paragraph 2 are met before that event.
 activities, or acquire or dispose of undertakings, where the main purpose or
 one of the main effects thereof is to avoid meeting the thresholds laid down
 in paragraph 2. The Commission shall disregard any such arrangement when
-applying this Regulation.
+applying this Regulation, and shall likewise disregard any attribution of
+consideration the main purpose or one of the main effects of which is to
+reduce the turnover referred to in point (b) of paragraph 2.
 
 9. The Commission is empowered to adopt delegated acts in accordance with
 Article 15 to amend the methodology laid down in Annex I where necessary to
