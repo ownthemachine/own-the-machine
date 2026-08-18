@@ -27,9 +27,10 @@ governing the covered undertaking does not give effect to the first
 sentence, the covered undertaking shall take all measures necessary to
 procure a subscription of equivalent effect no later than the completion of
 the liquidity event. The dilution resulting from the subscription shall not
-exceed the percentage laid down in paragraph 2. A covered undertaking shall
-not be required to issue more than one citizens' capital warrant under this
-Regulation.
+exceed the percentage laid down in paragraph 2. A covered undertaking shall not be required to hold more than one citizens'
+capital warrant in respect of the same designation. The subscription shall
+be executed within 20 working days of the delivery of the valuation
+referred to in Article 6.
 
 5. A covered undertaking shall notify the Reserve and the Commission of any
 impending liquidity event no later than the earlier of its public
