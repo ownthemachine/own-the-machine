@@ -15,7 +15,7 @@ lands. The final read is always human.
 
 Run in this order; later gates assume earlier ones passed. **The runner, the
 six gate prompts and the linter live in the
-[own-the-machine-tools](https://github.com/thetwit4u/own-the-machine-tools)
+[own-the-machine-tools](https://github.com/ownthemachine/own-the-machine-tools)
 repository (MIT)**: machinery there, so this repository stays the civic
 artefact: the law, its evidence, its governance and the ledger of its own
 evolution. Review OUTPUTS are committed here under pipeline/reviews/,
