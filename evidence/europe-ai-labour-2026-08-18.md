@@ -6,7 +6,7 @@ evidence exists for the AI transition.
 
 ## THE PATTERN, IN AUDITED FILINGS
 
-**Hays plc, H1 FY26 (to 31 Dec 2025), Germany** — largest professional staffer in
+**Hays plc, H1 FY26 (to 31 Dec 2025), Germany**: largest professional staffer in
 Germany, Technology is 35% of German net fees. Listed and audited, not
 self-reported. Verbatim:
 

@@ -232,11 +232,11 @@ question and largely absent from the English-language debate.
 
 ## 6. WHERE THE DETAIL LIVES
 
-- **`consultancy-volumes-2026-08-18.md`** — the Belgian and Dutch consultancy
+- **`consultancy-volumes-2026-08-18.md`**: the Belgian and Dutch consultancy
   finding that started this, and the price-versus-volume table.
-- **`europe-labour-share-2026-08-18.md`** — labour share by country, wealth and
+- **`europe-labour-share-2026-08-18.md`**: labour share by country, wealth and
   equity ownership, housing as the false asset, pensions funded versus promised.
-- **`europe-ai-labour-2026-08-18.md`** — whether the signature generalises, ICT
+- **`europe-ai-labour-2026-08-18.md`**: whether the signature generalises, ICT
   vacancies across Europe, juniors, firm-level cases, who owns the compute.
 - **`europe-remedies-2026-08-18.md`** - where Europeans hold an actual claim,
   Denmark's LD in full, the Polish statute verbatim, Spain's 97% drawdown,
