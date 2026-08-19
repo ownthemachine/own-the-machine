@@ -10,7 +10,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.1-pro-preview` · 2026-08-18T22:25:23+00:00 · tokens in=5461 out=4457
-> Prompt: ../own-the-machine-tools/prompts/hostile-counsel.md · Verbatim model output below — do not edit.
+> Prompt: prompts/hostile-counsel.md · Verbatim model output below — do not edit.
 
 Here is the memorandum. 
 

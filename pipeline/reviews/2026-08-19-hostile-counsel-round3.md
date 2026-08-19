@@ -10,7 +10,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.1-pro-preview` · 2026-08-18T23:48:50+00:00 · tokens in=11363 out=4533
-> Prompt: /Users/dave/Dev/own-the-machine-tools/prompts/hostile-counsel.md · Verbatim model output below — do not edit.
+> Prompt: prompts/hostile-counsel.md · Verbatim model output below — do not edit.
 
 MEMORANDUM OF ADVICE
 TO: Coalition of Covered Undertakings / European Commission Legal Service
