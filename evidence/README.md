@@ -1,8 +1,8 @@
 # The evidence base
 
-Imported 18 August 2026 from the book repository's research programme
-(the-horse-is-here-to-stay, docs/research/), where it was assembled and
-source-verified across three strands on 18 August 2026. EUROPE.md is the entry
+Imported 18 August 2026 from the editor's research programme, where it
+was assembled and source-verified across three strands on 18 August
+2026. EUROPE.md is the entry
 point: the verdict table, the ranked numbers, the dead citations and the
 measurement traps. The four strand notes carry the detail and every caveat.
 

@@ -10,7 +10,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-18T22:24:11+00:00 · tokens in=5799 out=4536
-> Prompt: ../own-the-machine-tools/prompts/legal-form.md · Verbatim model output below — do not edit.
+> Prompt: prompts/legal-form.md · Verbatim model output below — do not edit.
 
 ### 1. Structure
 * **Finding 1.1 (Missing structural elements):**
