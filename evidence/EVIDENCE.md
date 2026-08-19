@@ -3,8 +3,8 @@
 A draft law owes its readers three things: the evidence for its premise,
 the evidence against it, and the numbers it refuses to use. This page
 carries all three. Every figure was verified at source, not relayed from
-commentary; assembled 18 August 2026, corrections welcome by pull
-request.
+commentary; assembled 18 August 2026, extended 19 August 2026, corrections
+welcome by pull request.
 
 The Regulation's premise is stated in its own recitals and tested by its
 own Article 14: hyper-automated production decouples output from labour
@@ -190,6 +190,49 @@ some that would have helped us.
   it. **Germany has a hard series break at 1991**; never splice.
 - **Eurostat ICT vacancy data stop at 2025-Q4** while price and
   employment series run into 2026; the legs are not aligned in time.
+
+## 7. The long horizon
+
+The Reserve is an instrument built for a horizon politics rarely
+rewards, so this page states plainly what fifty years do, and what they
+do not.
+
+- **Alaska has paid every resident a dividend for 44 consecutive
+  years.** The Permanent Fund holds more than USD 86 bn for about
+  740 000 residents, roughly USD 116 000 of fund capital per resident;
+  a resident collecting every dividend from 1982 to 2016 received
+  USD 37 027 in total. *Alaska Permanent Fund Corporation; Alaska
+  Department of Revenue, dividend table.* No legislature has touched
+  the principal in half a century, because every citizen had a reason
+  to defend it.
+- **Alaska also shows the failure mode.** Since 2016 the dividend has
+  been set by annual political bargain; the statutory formula remains
+  in law and is simply not followed, and the 2025 dividend of
+  USD 1 000 is the smallest in the programme's history once adjusted
+  for inflation. A distribution rule in ordinary statute is capturable
+  by a budget fight. That is why the rule here is Annex II of the
+  Regulation itself, why the entitlement is an operative article, and
+  why the Commission reports on the formula rather than sets it.
+- **The AI-value forecasts stay out of the premise.** PwC puts
+  artificial intelligence at USD 15,7 tn of global product by 2030;
+  Goldman Sachs at about USD 7 tn over a decade; McKinsey at USD 2,6
+  to 4,4 tn a year. These are forecasts of a mechanism, with error
+  bars measured in trillions, and section 5's discipline applies: this
+  Regulation does not rest on them. They appear in one place only, as
+  labelled scenario inputs to the public simulator, beside a sceptic
+  setting that assumes almost nothing.
+- **What the arithmetic of Annex II does with fifty years.** Run
+  cautiously (EUR 150 bn of designated revenue, Norway-class real
+  returns), the simulator's central curve reaches a stake of roughly
+  EUR 1 200 of Reserve capital per citizen and a dividend of roughly
+  EUR 47 a year by year fifty; run at the forecasts above, roughly
+  EUR 10 000 and EUR 370, in constant 2026 euros: a fund on the scale
+  Norway's rule built. Both curves spend their first decade
+  indistinguishable from zero. That is the design: Annex II preserves
+  capital before it distributes, and the stake compounds while the
+  payout waits. If neither curve materialises, Article 14(3) obliges
+  the Commission to report that the premise failed and to propose
+  amendment or repeal.
 
 ---
 
