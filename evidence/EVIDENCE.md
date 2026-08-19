@@ -222,8 +222,8 @@ do not.
   labelled scenario inputs to the public simulator, beside a sceptic
   setting that assumes almost nothing.
 - **What the arithmetic of Annex II does with fifty years.** Run
-  cautiously (EUR 150 bn of designated revenue, Norway-class real
-  returns), the simulator's central curve reaches a stake of roughly
+  cautiously (EUR 150 bn of covered revenue at designated firms,
+  Norway-class real returns), the simulator's central curve reaches a stake of roughly
   EUR 1 200 of Reserve capital per citizen and a dividend of roughly
   EUR 47 a year by year fifty; run at the forecasts above, roughly
   EUR 10 000 and EUR 370, in constant 2026 euros: a fund on the scale
