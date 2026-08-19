@@ -505,7 +505,7 @@ with. Basic income at least promises the rent.
 campaign is structurally barred from inflating it. The collection risk
 is real: deferred rewards lose to immediate ones on every doorstep.
 
-**The answer the instrument gives.** Three parts. First, the smallness
+**The answer the instrument must give.** Three parts. First, the smallness
 is calibration, not failure: the instrument's size tracks the
 phenomenon's size by construction. Three per cent of little is little,
 taken from almost no one, and in that world Article 14(3) obliges the
@@ -525,7 +525,7 @@ thirty, before any single year's payout impresses. A campaign that
 shows the payout without the stake is misdescribing its own
 instrument.
 
-**Design consequences.** This objection is why DC-14 exists (never lead
+**Design consequence.** This objection is why DC-14 exists (never lead
 with an early-year figure), why Article 14(3) carries the falsification
 condition on its face, and why Annex II distributes income and never
 principal. It adds one mechanical rule of its own: wherever a
