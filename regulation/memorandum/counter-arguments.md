@@ -533,5 +533,3 @@ recalibrated by the drafting research: registration is the lower hurdle
 (manifestly-outside test, partial registration, the registered wealth-tax
 ECI), so the letter tests the characterisation for the Council stage, not for
 the register.
-
-Evidence citations resolve in ../../evidence/, EUROPE.md first.
