@@ -53,11 +53,11 @@ which makes them near-competitors; worth tracking, not sounding.
 
 ### LinkedIn connection note (274 characters)
 
-> Hello [first name], I have a complete, adversarially reviewed draft
-> EU regulation for a possible ECI on an economic theme. Before
-> forming an organisers' group I would value one private hour on your
-> registration-stage experience. No funding sought; happy to share the
-> PDF. David
+> Hello [first name], I have published a complete, adversarially
+> reviewed draft EU regulation for a possible ECI on an economic
+> theme: ownthemachine.eu. Before forming an organisers' group I would
+> value one private hour on your registration-stage experience. No
+> funding sought. David
 
 ### LinkedIn follow-up
 
@@ -71,12 +71,12 @@ which makes them near-competitors; worth tracking, not sounding.
 > with someone who has been through the process: what the registration
 > unit reacts to, realistic timelines, organiser-group pitfalls and
 > collection realities. I am not seeking funding or endorsement, only
-> practical experience. The project is not yet public, so I would ask
-> for discretion at this stage.
+> practical experience. The project is public but unannounced: the
+> draft, its objections and its review ledger are at ownthemachine.eu,
+> with the complete text downloadable as PDF.
 >
-> I can send the draft PDF in advance so you can judge whether the
-> hour is worth your time. Would you be open to a call in the coming
-> weeks?
+> Ten minutes on the site should tell you whether the hour is worth
+> your time. Would you be open to a call in the coming weeks?
 >
 > David Vanheeswijck
 
@@ -101,11 +101,12 @@ which makes them near-competitors; worth tracking, not sounding.
 > My ask is one hour, in private: what the registration unit reacts
 > to, realistic timelines, organiser-group pitfalls and collection
 > realities under the central system. I am not seeking funding,
-> endorsement or public association, and I would treat the
-> conversation as confidential at this stage.
+> endorsement or public association.
 >
-> I am happy to send the draft PDF in advance so you can judge whether
-> the hour is worth your time.
+> Everything is on the site, unannounced for now: the full draft (PDF
+> included), the objections published at full strength, and the review
+> ledger. Ten minutes there should tell you whether the hour is worth
+> your time: ownthemachine.eu
 >
 > With thanks and best regards,
 > David Vanheeswijck
