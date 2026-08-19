@@ -27,9 +27,11 @@ subsequent years before any distribution.
 
 For the purposes of point 1, changes in fair value are recognised
 evenly over five financial years from the year in which they arise. The
-distributable amount for a financial year does not exceed 125 % of the
-average of the distributable amounts for the three preceding financial
-years, except where the average is zero.
+distributable amount for a financial year does not exceed the greater
+of:
+(a) 125 % of the average of the distributable amounts for the three
+preceding financial years; and
+(b) 2 % of the capital of the Reserve at the end of that year.
 
 ## 4. Exclusions
 
@@ -46,7 +48,14 @@ preservation is distributed, and point 3's five-year smoothing plus the
 liquidate holdings for a headline payment; the outright prohibition on
 funding distributions by borrowing or forced disposal moved to
 Article 8(4) after the form gate found an autonomous command in an annex
-(JPG 22), and point 4 keeps the arithmetic aligned with it.
+(JPG 22), and point 4 keeps the arithmetic aligned with it. The
+capital-fraction floor in point 3(b) was added on 19 August 2026 after
+the public simulator, implementing this Annex exactly as drafted,
+exposed a crumb-trap: a collar measured only against a trailing average
+that starts near zero suppresses distributions for over a decade even
+as capital accumulates. The floor lets distributions scale with the
+Reserve while the collar still smooths spikes; realised income remains
+the binding ceiling under point 2.
 Point 2's carry-forward makes bad years honest instead of deferred. The
 methodology enforces DC-14 at the level of arithmetic: early distributions
 are small because early realised income is small, and no clause here can
