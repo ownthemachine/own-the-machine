@@ -349,7 +349,8 @@ future sovereign; the design goal is to make the raid loud, slow and
 electorally expensive, which is the most any constitution has ever achieved.
 
 **Design consequence.** DC-19: no sovereign debt holdings. DC-20:
-entrenchment from day one, supermajority plus full-term delay. DC-21: no
+entrenchment as friction from day one: express amendment only, a
+published independent assessment, and honesty about Treaty limits. DC-21: no
 emergency clause. DC-22: individual claims, locked, with forfeiture on exit.
 DC-23: the raid-resistance claim is stated as friction, never as
 impossibility.
@@ -486,6 +487,51 @@ source, where it is necessary.
 
 ---
 
+### 15. A euro a year is an insult, not a policy
+
+**The objection, at full strength.** Run the instrument's own simulator
+on cautious assumptions and it pays a citizen a euro or two a year for
+its first decade. No rational person values that; no voter campaigns
+for it; no journalist resists the headline. The apparatus is grotesquely
+disproportionate to its payload: a new Union body, a designation regime,
+valuation machinery, comitology, penalties reaching 10 % of worldwide
+turnover, all to deliver less than the price of a coffee. Worse, the
+project's own honesty doctrine forbids promising more. An initiative
+that must, by its own rules, tell every signer "you will not feel this
+for twenty years" has chosen a message no mass campaign has ever won
+with. Basic income at least promises the rent.
+
+**What it gets right.** The early flow is genuinely small, and the
+campaign is structurally barred from inflating it. The collection risk
+is real: deferred rewards lose to immediate ones on every doorstep.
+
+**The answer the instrument gives.** Three parts. First, the smallness
+is calibration, not failure: the instrument's size tracks the
+phenomenon's size by construction. Three per cent of little is little,
+taken from almost no one, and in that world Article 14(3) obliges the
+Commission to report that the premise failed and to propose amendment
+or repeal; a permanently small dividend is the falsification condition
+firing, not the policy limping. The dividend is only ever small in the
+world where the problem is also small. Second, the claim can only be
+bought early. The Danish worker's frozen 1978 instalment of DKK 4 368,
+pointless money at the time, is DKK 119 506 today; two thirds of
+Norway's fund is compound return, not oil. The alternative timing,
+claiming the stake after the gains are visible and the owners
+entrenched, is expropriation and politically impossible. The euro buys
+the certificate, and the certificate is the point. Third, the stock
+outruns the flow: on the same cautious assumptions the Reserve stands
+at roughly EUR 400 of owned capital behind every citizen by year
+thirty, before any single year's payout impresses. A campaign that
+shows the payout without the stake is misdescribing its own
+instrument.
+
+**Design consequences.** This objection is why DC-14 exists (never lead
+with an early-year figure), why Article 14(3) carries the falsification
+condition on its face, and why Annex II distributes income and never
+principal. It adds one mechanical rule of its own: wherever a
+per-citizen payout figure is shown, the per-citizen stake in the
+Reserve is shown beside it (DC-31).
+
 ## The constraints table
 
 The articles are drafted against this table. A draft that violates a DC fails
@@ -523,6 +569,7 @@ review regardless of its prose.
 | DC-28 | Funding-source novelty only; existing rails for delivery | 14 |
 | DC-29 | Market-consistent no-worse-off safeguard, independent and separately challengeable valuation, judicial review | 1 |
 | DC-30 | Essential elements (trigger, reserve ownership, entitlement, interference) in the articles, never delegated | 1 |
+| DC-31 | Wherever a per-citizen payout figure is shown, the per-citizen stake in the Reserve is shown beside it | 15 |
 
 ## Status
 
