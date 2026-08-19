@@ -10,7 +10,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-18T23:09:20+00:00 · tokens in=11657 out=3085
-> Prompt: [path removed]· Verbatim model output below — do not edit.
+> Prompt: prompts/layer-fidelity.md · Verbatim model output below — do not edit.
 
 ### Layer-Fidelity & Drift Audit
 

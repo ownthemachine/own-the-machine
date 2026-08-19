@@ -10,7 +10,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-19T12:42:23+00:00 · tokens in=7783 out=11248
-> Prompt: [path removed]· Verbatim model output below — do not edit.
+> Prompt: prompts/dc-compliance.md · Verbatim model output below — do not edit.
 
 ### Compliance Evaluation (DC-1 through DC-28)
 

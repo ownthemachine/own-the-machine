@@ -10,7 +10,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.1-pro-preview` · 2026-08-18T23:05:49+00:00 · tokens in=10734 out=4941
-> Prompt: [path removed]· Verbatim model output below — do not edit.
+> Prompt: prompts/legal-basis.md · Verbatim model output below — do not edit.
 
 **OPINION OF THE LEGAL SERVICE**
 

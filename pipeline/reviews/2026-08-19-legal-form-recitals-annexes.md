@@ -10,7 +10,7 @@ date: 2026-08-19
 # Review
 
 > Reviewer: OpenRouter `google/gemini-3.7-flash` · 2026-08-18T23:02:37+00:00 · tokens in=11477 out=3643
-> Prompt: [path removed]· Verbatim model output below — do not edit.
+> Prompt: prompts/legal-form.md · Verbatim model output below — do not edit.
 
 ### 1. Recitals — Missing EDPS Consultation Recital
 
