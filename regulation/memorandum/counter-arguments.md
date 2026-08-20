@@ -53,11 +53,20 @@ the judicially validated template for interfering with equity by act of law
 (Kotnik C-526/14, Ledra C-8/15 P, Aeris Invest C-535/22 P), and the
 instrument adopts its machinery: an honest interference recital naming
 Charter Article 17, a full proportionality recital under Article 52(1) of the Charter, and a
-quantified no-worse-off safeguard with independent, separately challengeable
+quantified executional safeguard with independent, separately challengeable
 valuation. One adaptation is mandatory: BRRD's counterfactual is insolvency,
 and a permanent regime cannot lean on crisis reasoning (Dowling C-41/15), so
-our floor is market-consistent: no shareholder worse off than under an
-equivalent market-terms issuance.
+our floor is executional rather than counterfactual: the interference can
+never exceed the stated 3 % in execution, its price is set by the
+liquidity event itself under an independent and separately challengeable
+valuation, and no application of the instrument may take more than the
+interference it names. The doctrine underneath is older than any
+of this: property in the Union legal order is not an unfettered prerogative
+but is protected in its social function, and may be restricted in the
+general interest where the restriction is proportionate and leaves the
+right's substance intact (Hauer 44/79; Bosphorus C-84/95). The instrument's
+restriction is quantified, event-bound and substance-preserving by
+construction, which is what those cases require the legislature to show.
 
 **Design consequence.** DC-1: prospective warrant on future value creation at
 defined events, never retroactive transfer of existing shares. DC-2: high
@@ -340,9 +349,10 @@ by a published independent assessment of the effect on holders; a Regulation
 cannot prescribe voting thresholds or delays for future legislatures, and
 pretending otherwise would hand critics the easiest ridicule in the file. Against Ireland: no emergency-use clause of any kind,
 because the NPRF's raid was lawful under its own emergency provisions.
-Against Estonia: individual claims are locked to retirement age with
-forfeiture of matched amounts on early exit, the Danish and Irish devices
-that held. Against Greece: raid-proofing must never be achieved by removing
+Against Estonia: the periodic entitlement is incapable of surrender or
+redemption against payment, so there is no exit for a buyout to purchase,
+which is the failure Estonia proved; amounts already distributed are the
+holder's property, inheritable, the Danish device that held. Against Greece: raid-proofing must never be achieved by removing
 the citizen's claim, which is the failure dressed as success. And one honest
 sentence the memorandum must contain: no drafting defeats a determined
 future sovereign; the design goal is to make the raid loud, slow and
@@ -351,7 +361,7 @@ electorally expensive, which is the most any constitution has ever achieved.
 **Design consequence.** DC-19: no sovereign debt holdings. DC-20:
 entrenchment as friction from day one: express amendment only, a
 published independent assessment, and honesty about Treaty limits. DC-21: no
-emergency clause. DC-22: individual claims, locked, with forfeiture on exit.
+emergency clause. DC-22: individual claims incapable of surrender; distributed amounts owned and inheritable.
 DC-23: the raid-resistance claim is stated as friction, never as
 impossibility.
 
@@ -532,6 +542,109 @@ principal. It adds one mechanical rule of its own: wherever a
 per-citizen payout figure is shown, the per-citizen stake in the
 Reserve is shown beside it (DC-31).
 
+### 16. This is a golden share, and the Court strikes golden shares down
+
+**The objection, at full strength.** For twenty years the Court has
+dismantled every special public equity position in the internal market.
+Commission v Germany (C-112/05) struck the Volkswagen Law because voting
+caps and a blocking minority gave public authorities influence exceeding
+their investment and thereby deterred direct investment; the Portuguese,
+French, Italian, British and Dutch golden shares fell the same way under
+what is now Article 63 TFEU. A Union-chartered Reserve holding a statutory
+3 % of every covered undertaking is a golden share cast as a regulation: a
+permanent state-adjacent shareholder no investor chose, planted in the
+capital structure of every frontier firm, deterring exactly the
+cross-border investment Article 63 protects. Article 345's neutrality about
+systems of ownership did not save the Volkswagen Law and will not save
+this. The deterrence is not hypothetical: every venture round in a covered
+undertaking now prices a mandatory future dilution.
+
+**What it gets right.** The dilution is real and investors will price it,
+and any position that carried control-flavoured rights would fall exactly
+as Volkswagen fell. The golden-share cases are the controlling
+jurisprudence for any public equity position, and the instrument must be
+drafted against them, not around them.
+
+**The answer the instrument must give.** The golden-share line condemns one
+thing: special rights of control disproportionate to investment, voting
+caps, blocking minorities, approval vetoes, board seats, the machinery by
+which a state steers a company it does not own. The instrument constructs
+the exact inverse, in the articles rather than in assurances. The Reserve's
+holding carries no vote, ever (Articles 5(3)(a) and 9(1)(a)); no board
+presence (Article 9(1)(b)); no instructions (Article 9(1)(c)); no
+acquisitions beyond the warrant and index-style diversification (Article
+9(1)(d)); no leverage or derivatives that would make it a strategic actor
+(Article 9(1)(e) to (g)). What remains is pure economic participation, the
+position of any passive minority holder, which is the position Norway's
+fund holds at comparable scale across European listed undertakings without
+an Article 63 case ever being brought. What the case law demands of any
+restriction that survives, the instrument answers on its face:
+non-discrimination (identical treatment of Union and third-country
+undertakings under Article 3), an overriding general interest stated in the
+recitals, and proportionality carried by the fixed 3 %, the independent and
+separately justiciable valuation (Articles 5(8), 6 and 7) and the Article
+52(1) balance. And unlike every struck golden share, this is not a Member
+State reserving national influence against integration: it is a uniform
+Union rule for the whole internal market, and its uniformity removes the
+divergence that national participation schemes would create. The honest
+residue is that mandatory future dilution is itself a cost investors will
+price; objection 4 prices it, and proportionality, not denial, is the
+defence.
+
+**Design consequence.** DC-13's permanent non-voting rule and Article 9's
+conduct prohibitions are this objection's answer in law. It adds one rule
+of its own: no amendment may ever attach a control right, veto or
+governance privilege to the Reserve's holdings; economic participation is
+the constitutional maximum (DC-32).
+
+### 17. You are seizing equity in companies Europe does not govern
+
+**The objection, at full strength.** The warrant obligation reaches
+undertakings incorporated in Delaware or Singapore, whose shares sit
+offshore and whose systems are built offshore, because their services are
+used in the Union. Public international law lets the Union regulate foreign
+conduct only where it has immediate, substantial and foreseeable effects in
+the internal market (Gencor T-102/96; Intel C-413/14 P), and even then it
+regulates conduct, not ownership: no effects-doctrine case has ever
+required a foreign parent to dilute its own capital. Third-country
+governments will treat a compulsory 3 % subscription in their champions as
+expropriation by regulation, answerable under investment treaties and
+trade commitments, and they will retaliate. The Union would be claiming a
+power it would never concede to others: a foreign statute demanding 3 % of
+a European champion's equity as the price of serving that market.
+
+**What it gets right.** A warrant on a foreign parent whose only Union link
+is that its website resolves would overreach and would deserve to lose. The
+nexus must be economic substance in the Union, not accessibility.
+Retaliation is a real cost and reciprocity a real argument.
+
+**The answer the instrument must give.** Four structural choices, all
+already in the articles. First, the trigger is Union commerce, not Union
+accessibility: designation requires provision in the internal market with
+EUR 7,5 billion of annual Union turnover in at least three Member States
+(Article 3(2)(a)), an economic-presence test far above any effects-doctrine
+threshold, and the rents being shared are by construction rents drawn from
+Union users. Second, the undertaking is the group: 'undertaking'
+consolidates linked enterprises (Article 2(1)), the single-economic-unit
+principle of Union competition law (Akzo Nobel C-97/08 P), so no thin
+Union subsidiary can shield the parent to which the automated services'
+value actually accrues. Third, the mechanism respects foreign company law
+rather than purporting to override it: for undertakings governed by
+third-country law the subscription is an obligation of result (Article
+5(4)), enforced through Article 13 as a condition of continuing access to
+the internal market, the architecture of every market-access condition the
+Union already imposes, and the company-law derogations of Article 5(6)
+reach Member State law only. Fourth, the condition is universal: Union
+undertakings bear it identically, so a treaty claim or trade panel has no
+discrimination to hold on to, and reciprocity runs in the instrument's
+favour, because a Union that asserts the principle accepts it from others.
+
+**Design consequence.** DC-10's market-access nexus and DC-2's group
+consolidation are this objection's answers in law. It adds one rule of its
+own: for undertakings governed by third-country law, the warrant is an
+obligation of result enforced as a market-access condition, never a
+purported override of foreign company law (DC-33).
+
 ## The constraints table
 
 The articles are drafted against this table. A draft that violates a DC fails
@@ -540,7 +653,7 @@ review regardless of its prose.
 | DC | Constraint | Source objection |
 |---|---|---|
 | DC-1 | Prospective warrants on future value; never retroactive transfer | 1 |
-| DC-2 | High, objective, group-consolidated thresholds | 1, 5 |
+| DC-2 | High, objective, group-consolidated thresholds | 1, 5, 17 |
 | DC-3 | Statutory passivity; crystallisation at events only | 1, 6 |
 | DC-4 | No monetary flow from undertakings; instruments only | 2, 4 |
 | DC-5 | Distributions are property income of the reserve | 2 |
@@ -548,10 +661,10 @@ review regardless of its prose.
 | DC-7 | Union warrant standards; Member State custody via pension rails | 3, 14 |
 | DC-8 | Minimum standards, not uniform machinery | 3 |
 | DC-9 | Obligation never convertible into a flow charge | 4 |
-| DC-10 | Market-access nexus, not establishment nexus | 5 |
+| DC-10 | Market-access nexus, not establishment nexus | 5, 17 |
 | DC-11 | Substance-over-form headcount consolidation | 5 |
 | DC-12 | Event-triggered crystallisation; no ongoing valuation | 6 |
-| DC-13 | Permanently non-voting economic interests | 6 |
+| DC-13 | Permanently non-voting economic interests | 6, 16 |
 | DC-14 | Dividend communicated as compounding from small | 6 |
 | DC-15 | Recitals argue ownership and mechanism, never wage-share decline | 7 |
 | DC-16 | Value stated under both futures | 7 |
@@ -560,20 +673,27 @@ review regardless of its prose.
 | DC-19 | No sovereign debt holdings | 9 |
 | DC-20 | Entrenchment from day one: express amendment only, published independent assessment, honesty about Treaty limits | 9 |
 | DC-21 | No emergency clause | 9 |
-| DC-22 | Individual, locked, inheritable claims; forfeiture on early exit | 9, 13 |
+| DC-22 | Individual claims incapable of surrender or seizure; distributed amounts owned and inheritable | 9, 13 |
 | DC-23 | Raid resistance claimed as friction, never impossibility | 9 |
 | DC-24 | Self-executing by operation of law; no programme machinery | 10 |
 | DC-25 | Consumer surplus affirmed; instrument additive to it | 11 |
 | DC-26 | Explicit scope-and-limits recital | 12 |
 | DC-27 | UBI distinction carried by legal form | 13 |
 | DC-28 | Funding-source novelty only; existing rails for delivery | 14 |
-| DC-29 | Market-consistent no-worse-off safeguard, independent and separately challengeable valuation, judicial review | 1 |
+| DC-29 | Interference capped at the stated percentage in execution; independent, separately challengeable valuation; judicial review | 1 |
 | DC-30 | Essential elements (trigger, reserve ownership, entitlement, interference) in the articles, never delegated | 1 |
 | DC-31 | Wherever a per-citizen payout figure is shown, the per-citizen stake in the Reserve is shown beside it | 15 |
+| DC-32 | No control right, veto or governance privilege may ever attach to the Reserve's holdings | 16 |
+| DC-33 | For third-country-law undertakings the warrant is an obligation of result as a market-access condition, never an override of foreign company law | 17 |
 
 ## Status
 
 All objections OPEN until the articles answer them; 12 is CONCEDED by scope.
+Objections 16 and 17 were added on 20 August 2026 from an external
+challenge (the Article 63 golden-share line; qualified-effects overreach);
+their answers were already in Articles 3, 5(4) and 9, which is what
+drafting against the table is for, and the residue they add is DC-32 and
+DC-33.
 Objection 1 carries the largest legal risk and objection 6 the largest design
 risk. Gate 1's admissibility letter still leads with objections 1 and 2, but
 recalibrated by the drafting research: registration is the lower hurdle
