@@ -33,11 +33,35 @@ of:
 preceding financial years; and
 (b) 2 % of the capital of the Reserve at the end of that year.
 
-## 4. Exclusions
+## 4. Cost of executing a payment
+
+The average cost of executing one payment to a holder, for the purposes of
+Article 10(6), is the total of the charges levied by national vehicles and
+by payment service providers for executing the most recent distribution,
+divided by the number of holders paid. Where no distribution has yet been
+made, it is the average of the charges quoted to the Reserve by national
+vehicles for executing one payment.
+
+## 5. Exclusions
 
 For the purposes of point 2, realised income excludes amounts obtained by
 borrowing and the proceeds of disposals of holdings effected for the
 purpose of funding a distribution.
+
+---
+
+Drafting note (non-normative). Point 4 was added on 21 August 2026 against
+the objection that early distributions would be too small to be worth
+transferring, and rewritten the same day. Two figures were rejected. A
+floor of EUR 50, as proposed in review, would suppress every distribution
+until roughly the fiftieth year on this instrument's own central
+assumptions: that is a policy of deferral wearing the costume of an
+efficiency measure. A floor of EUR 2 was drafted and then withdrawn
+because hostile counsel wrote the headline it hands over, and because a
+figure in an annex ages while the cost it stands for moves. What remains
+is a ratio: ten times what it costs to make the payment. It is
+self-adjusting, it states the actual reason, and there is no number in it
+for anyone to quote.
 
 ---
 
