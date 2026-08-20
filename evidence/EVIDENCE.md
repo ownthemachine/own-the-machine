@@ -234,6 +234,48 @@ do not.
   the Commission to report that the premise failed and to propose
   amendment or repeal.
 
+## 8. The fragmentation is not hypothetical
+
+Article 114 TFEU carries this Regulation only if divergent national rules
+obstruct the internal market or distort competition appreciably, and
+*Tobacco Advertising* (C-376/98) means that has to be shown rather than
+asserted. It can be shown, because the Union has already watched it happen
+once in the same economic domain.
+
+- **Eight Member States tax digital activity unilaterally, at rates from
+  1,5 % to 7,5 %, on bases that do not match.** Austria 5 % on online
+  advertising alone; Denmark 2 % with a 3 % surcharge on streaming;
+  France 3 % on digital interfaces, targeted advertising and the
+  transmission of user data, with a reduced 1,2 % band; Hungary 7,5 %,
+  currently suspended to nil through June 2026; Italy 3 %, having
+  removed its global-turnover threshold; Poland 1,5 % and 3 % on
+  audiovisual media and advertising; Portugal 4 % and 1 % on video and
+  on-demand platforms; Spain 3 % on advertising and the sale of user
+  data. *Tax Foundation Europe, digital services taxes in Europe, 2026.*
+- **The entry thresholds differ by four orders of magnitude,** from
+  HUF 100 million in Hungary and EUR 3 million in Spain to EUR 25
+  million in France and Austria and EUR 1 billion of group turnover in
+  Poland. The same undertaking is inside one national regime and outside
+  its neighbour's on the same revenue.
+- **Six more Member States have proposed or announced such taxes without
+  adopting them:** Belgium, Czechia, Germany, Latvia, Slovakia and
+  Slovenia. Roughly half of European OECD members have announced,
+  proposed or implemented one. *Same source.*
+- **The sequence is the point.** A Union-level measure was attempted and
+  did not pass; Member States then legislated alone, and the fragmented
+  landscape the Commission had hoped to avoid is what the internal
+  market now has. Nothing about the next round is different: the
+  European Parliament rejected a robot tax in February 2017 (the
+  Delvaux report), the proposal has returned in the current debate on
+  large-scale AI adoption, and no Union instrument occupies the field.
+- **What the comparison does and does not establish.** It does not show
+  that automation levies are coming; it shows what Member States do when
+  a new form of value appears in the internal market and the Union does
+  not act, and that they do it at incompatible rates, on incompatible
+  bases, with incompatible thresholds. That is the obstacle this
+  Regulation forecloses by harmonising the trigger, the instrument and
+  the vehicle before twenty-seven answers exist rather than after.
+
 ---
 
 Working notes for the three research strands sit in this directory;

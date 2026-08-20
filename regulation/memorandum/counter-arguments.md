@@ -48,6 +48,36 @@ harmonised regime in place of twenty-seven national experiments. Whether that
 consideration is sufficient is the single largest legal risk in the project,
 and Gate 1 exists to test it.
 
+Two authorities belong in this file because a hostile reader will bring
+them, and because each is less one-sided than it first appears. The first
+is Strasbourg's rule that a deprivation without an amount reasonably
+related to the value taken is normally disproportionate (James and Others
+v United Kingdom, 1986). The same judgment holds, in the same breath, that
+legitimate objectives of public interest, and expressly measures of
+economic reform or measures designed to achieve greater social justice,
+may warrant reimbursement at less than full market value. That is the
+authority under which this instrument has to be argued, and it is
+available on its terms rather than in spite of them: a 3 % dilution
+crystallising at a moment of realised gain, calibrated to a decoupling of
+output from labour, is a measure of economic reform if anything is.
+
+The second is Article 345 TFEU. It provides that the Treaties shall in no
+way prejudice the rules in Member States governing the system of property
+ownership, and the hostile reading is that a mandatory transfer of 3 % of
+private enterprise value is a partial socialisation the Union may not
+decree. That reading mistakes the addressee. Article 345 preserves the
+Member States' freedom to choose between public and private ownership
+against the Treaties; it is not a charter of immunity for property against
+Union legislation, which is what Article 17 of the Charter governs and
+what this memorandum answers under Article 52(1). The Court has read
+Article 345 narrowly in precisely that direction, holding that a property
+regime chosen by a Member State remains subject to the fundamental
+freedoms (Essent, C-105/12 to C-107/12). The instrument leaves every
+Member State's system of ownership exactly as it found it: the shares
+subscribed are ordinary shares under national company law, held by an
+owner with no special rights, and no national rule about who may own what
+is displaced.
+
 The drafting research (18 August) settled the architecture to use: BRRD is
 the judicially validated template for interfering with equity by act of law
 (Kotnik C-526/14, Ledra C-8/15 P, Aeris Invest C-535/22 P), and the
@@ -55,7 +85,15 @@ instrument adopts its machinery: an honest interference recital naming
 Charter Article 17, a full proportionality recital under Article 52(1) of the Charter, and a
 quantified executional safeguard with independent, separately challengeable
 valuation. One adaptation is mandatory: BRRD's counterfactual is insolvency,
-and a permanent regime cannot lean on crisis reasoning (Dowling C-41/15), so
+and a permanent regime cannot lean on crisis reasoning (Dowling C-41/15).
+The distinction has to be stated rather than blurred: bank resolution
+dilutes shareholders whose shares would be worth nothing in the
+counterfactual insolvency, and these undertakings are healthy going
+concerns whose shares are worth a great deal. BRRD is therefore borrowed
+for its machinery, not for its justification, and this file does not
+pretend otherwise; the justification is the one in James and in Hauer, and
+it stands or falls on proportionality rather than on a crisis that is not
+happening. So
 our floor is executional rather than counterfactual: the interference can
 never exceed the stated 3 % in execution, its price is set by the
 liquidity event itself under an independent and separately challengeable
@@ -237,10 +275,28 @@ say plainly that the dividend starts small and compounds, Norway-style, and
 that anyone promising otherwise is not us. Two-thirds of Norway's fund is
 compound return; the honest pitch is the rule, not the first cheque.
 
+One refinement has been considered and rejected. It is put that valuations
+of fast-growing private undertakings are volatile enough that disputes over
+the dilution ratio could bog the instrument down in litigation, and that an
+expedited binding arbitration should therefore sit between the valuer and
+the courts. The instrument already answers the problem the proposal aims
+at, and the proposal would cost more than it saves. Article 6(5) provides
+that a challenge suspends neither the liquidity event nor the subscription,
+and Article 6(4) corrects an erroneous valuation afterwards in either
+direction, so a dispute delays nobody: this is the resolution-law pattern,
+where litigation runs beside the transaction rather than across it. Where
+the event itself sets a price, Article 6(2) makes the valuation arithmetic
+on that price rather than an opinion about it, which is where volatility
+would otherwise enter. And an arbitral tier whose award bound the parties
+would meet Article 47 of the Charter on access to a court, and the limits
+on conferring discretionary judgement on bodies of the Union; a tier whose
+award did not bind them would add a stage without removing one.
+
 **Design consequence.** DC-12: event-triggered crystallisation, no ongoing
 valuation. DC-13: permanently non-voting economic interests. DC-14: the
 dividend is communicated as compounding from small, never as immediate
-income.
+income. DC-34: no tier may be inserted between the valuation and the
+courts; correction is ex post and the transaction never waits.
 
 ---
 
@@ -685,6 +741,7 @@ review regardless of its prose.
 | DC-31 | Wherever a per-citizen payout figure is shown, the per-citizen stake in the Reserve is shown beside it | 15 |
 | DC-32 | No control right, veto or governance privilege may ever attach to the Reserve's holdings | 16 |
 | DC-33 | For third-country-law undertakings the warrant is an obligation of result as a market-access condition, never an override of foreign company law | 17 |
+| DC-34 | No tier between valuation and the courts; correction is ex post and the transaction never waits | 6 |
 
 ## Status
 

@@ -11,8 +11,14 @@ national social-dividend schemes and mandatory employee-participation
 regimes extended to undertakings with few employees. Such divergence
 creates fragmentation, distorts competition and gives undertakings an
 incentive to locate activities according to regulatory exposure rather
-than economic merit. Harmonised rules at Union level are therefore
-necessary.
+than economic merit. That this is the pattern rather than a
+possibility is established by the taxation of digital activity, where
+the absence of a Union measure was followed by unilateral national
+taxes in a majority of Member States, at rates, on bases and with
+thresholds that do not correspond, so that the same undertaking falls
+inside one national regime and outside its neighbour's on identical
+revenue. Harmonised rules at Union level are therefore necessary, and
+are more effective before national answers multiply than after.
 
 (2) Advances in artificial intelligence and related automation
 technologies enable a new category of undertaking: one which attains very
