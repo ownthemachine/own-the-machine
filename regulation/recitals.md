@@ -58,7 +58,14 @@ Regulation.
 (6) The quantitative thresholds should capture only undertakings of very
 substantial scale whose turnover per full-time equivalent, measured on the
 automated segment of their activity and counting labour in substance
-rather than in form, has no precedent in labour-intensive business. The
+rather than in form, has no precedent in labour-intensive business.
+Counting labour in substance imposes a compliance burden that is confined
+to undertakings of that scale and is necessary to prevent avoidance of
+designation by fragmentation or subcontracting, which a form-based count
+would invite. For the same reason the thresholds should be assessed at
+the level of the group of linked enterprises, the single economic unit to
+which the value of the automated services accrues, so that no structuring
+of the group places the undertaking's Union activity beyond designation. The
 counting methodology is laid down in Annex I so that it can follow
 technological and market developments without amendment of the essential
 elements of this Regulation.
@@ -100,16 +107,27 @@ force.
 entitlement to shares and to nothing else. It is accordingly not a levy,
 not a charge on turnover or profit and not revenue of any public
 authority, and it is so designed that no payment obligation towards any
-budget can arise from it.
+budget can arise from it. In excluding settlement in money, the
+prohibition restricts the freedom of the undertaking to structure the
+discharge of its obligation; that restriction is justified and
+proportionate, because it confines the interference to capital ownership
+and keeps the undertaking's operating liquidity untouched, which a cash
+alternative would not.
 
 (11) Undertakings within the scope of this Regulation include undertakings
 governed by the law of third countries which meet the thresholds through
 their activity in the internal market. Equal treatment and the level
 playing field require that such undertakings assume obligations of
-equivalent effect. Where the law governing an undertaking does not give
+equivalent effect. The obligations laid down in this Regulation attach
+only where activity in the internal market meets the thresholds laid down
+in it, so that their application to such undertakings rests on the
+immediate, substantial and foreseeable effects of their conduct within
+the internal market and not on the mere accessibility of their services.
+Where the law governing an undertaking does not give
 effect to the subscription right, the undertaking should be required to
-procure a subscription of equivalent effect, and compliance should be
-secured through the enforcement powers laid down in this Regulation,
+procure a subscription of equivalent effect as an obligation of result,
+without prejudice to the company law of its incorporation, and compliance
+should be secured through the enforcement powers laid down in this Regulation,
 including, as a last resort, the power to prohibit the making available of
 the relevant goods and services on the internal market.
 
@@ -120,7 +138,10 @@ rights and the consideration for issued shares. Comparable derogations,
 adopted in the general interest, form part of the established acquis in
 the field of bank recovery and resolution. The derogations provided for in
 this Regulation are strictly limited to what the execution of the
-subscription requires.
+subscription requires, and they are necessary: an issuance that existing
+shareholders could pre-empt, or make conditional on a resolution of the
+general meeting, could not perform the function this Regulation assigns
+to it.
 
 (13) This Regulation interferes with the right to property of the
 shareholders of covered undertakings, whose holdings are diluted upon
@@ -134,12 +155,27 @@ right to property is not absolute and that its exercise may be regulated
 where regulation is proportionate to a legitimate aim of general
 interest. The interference effected by this Regulation is quantified,
 foreseeable from designation and less intrusive than measures already
-upheld in the field of bank resolution.
+upheld in the field of bank resolution. Subscription at nominal
+value rather than by gratuitous transfer keeps the mechanism within the
+forms of company law while ensuring that the interference is the stated
+dilution and nothing more; requiring the Reserve to pay a market price
+would demand public expenditure this Regulation is designed not to need
+and would convert a mechanism of ownership into a budgetary one. The fair balance rests also on
+what the covered undertaking receives: a single harmonised regime of
+access to the internal market in place of divergent national levies and
+participation schemes, and the legal certainty of an interference fixed
+in advance in amount and in moment.
 
 (14) Proportionality further requires safeguards. The dilution borne by
 shareholders is capped by this Regulation and verified by an independent
 valuation, which is challengeable separately from the transaction it
-accompanies and correctable in both directions. Neither designation nor
+accompanies and correctable in both directions. The safeguard the
+valuation secures is that the interference can never exceed the stated
+percentage in execution: the dilution is capped, its price is set by the
+liquidity event itself, and no application of this Regulation may take
+from shareholders more than the interference it names. That executional
+floor, not a crisis counterfactual, is what keeps the interference
+proportionate in a permanent regime. Neither designation nor
 crystallisation suspends, conditions or unwinds any transaction. Every
 decision taken under this Regulation is subject to effective judicial
 protection in accordance with Article 47 of the Charter of Fundamental
@@ -166,7 +202,15 @@ makes this Regulation a mechanism of ownership rather than of taxation.
 (17) The Reserve should be a passive owner. It should exercise no votes,
 seek no influence over the management of any undertaking and pursue no
 industrial policy. Its function is to hold and to distribute, not to
-direct.
+direct. The mandatory presence of the Reserve in the capital of covered
+undertakings restricts the free movement of capital. That restriction is
+justified: it serves the general interest set out in these recitals, it
+applies without distinction to undertakings and investors of the Union
+and of third countries, and it is proportionate precisely because the
+statutory passivity of the Reserve withholds from it every attribute of
+special control that has led the Court of Justice to censure public
+shareholdings. A holding which can neither vote nor veto nor instruct
+exerts no public influence for an investor to fear.
 
 (18) The Reserve should retain from its income what is necessary to
 preserve the real value of its capital and distribute the remainder. That
@@ -189,7 +233,10 @@ transfer, assignment, pledge, attachment, surrender or redemption, so that
 it cannot be bought out of the hands of those it serves, whether by
 markets, by creditors or by the holder's own moment of hardship. That
 restriction on the alienability of the entitlement is a justified and
-proportionate limitation, necessary so that the objective of durable,
+proportionate limitation under Article 52(1) of the Charter and respects
+the essence of the right, since it attaches to the underlying entitlement
+only, while amounts distributed are the holder's property, freely usable
+and inheritable, and it is necessary so that the objective of durable,
 broadly held capital ownership is not defeated by immediate liquidation.
 Amounts
 distributed, once received, are ordinary property of the holder,
@@ -202,8 +249,12 @@ capped and entitlements portable, so that the quality of a Member State's
 administration cannot diminish the substance of a citizen's entitlement.
 The cap on fees limits the freedom of designated vehicles to set prices;
 that limitation is necessary and proportionate to prevent the erosion of
-the entitlement by administrative costs, and Member States remain free to
-compensate designated vehicles for verifiable net costs above the cap.
+the entitlement by administrative costs. The administration of
+entitlements is a service of general economic interest, and the cap is
+compatible with the freedom to conduct a business on the conditions
+Article 106(2) TFEU attaches to such services and proportionate under
+Article 52(1) of the Charter; Member States remain free
+to compensate designated vehicles for verifiable net costs above the cap.
 
 (22) The history of pooled public assets is a history of raids. The assets
 of the Reserve should therefore be protected by enumerated prohibitions on
@@ -229,7 +280,15 @@ third country persistently refuses to comply with its core obligations,
 the Commission should be empowered, as a measure of last resort and
 subject to proportionality, to prohibit the making available of the
 relevant goods and services on the internal market, since no other means
-of enforcement reaches an undertaking with no assets in the Union.
+of enforcement reaches an undertaking with no assets in the Union. Such a
+prohibition restricts the freedom to conduct a business recognised by
+Article 16 of the Charter of Fundamental Rights of the European Union, and
+should accordingly remain available only where no less restrictive measure
+can secure compliance, for as long as the refusal persists and no longer.
+So conditioned, the prohibition respects the essence of that freedom: it
+is temporary, reversible on compliance and confined to the goods and
+services concerned, and it leaves the undertaking's activity outside the
+internal market untouched.
 
 (24) The premise of this Regulation, that automation at the designated
 scale durably decouples output from labour and concentrates ownership, is
@@ -266,8 +325,10 @@ Commission. Those powers should be exercised in accordance with Regulation
 
 (27) The administration of entitlements involves the processing of
 personal data, limited to what the identification of holders and the
-execution of distributions require. Regulation (EU) 2016/679 applies to
-such processing. The European Data Protection Supervisor was consulted in
+execution of distributions require. That processing is necessary for the
+performance of a task carried out in the public interest, and no data
+beyond those fields should be collected or retained. Regulation (EU)
+2016/679 applies to such processing. The European Data Protection Supervisor was consulted in
 accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European
 Parliament and of the Council and delivered an opinion on [date].
 

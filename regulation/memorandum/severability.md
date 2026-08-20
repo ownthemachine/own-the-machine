@@ -57,9 +57,12 @@ participation schemes (recital 1), harmonises the company-law derogations
 the subscription needs, and secures the level playing field between Union
 and third-country undertakings. The attack (legal-basis gate, first run):
 the centre of gravity is redistribution, not market-building, and
-Article 114(2) excludes fiscal provisions. The defence rests on the
+Article 114(2) excludes fiscal provisions; the controlling line is Tobacco
+Advertising (C-376/98), which demands genuine obstacles or appreciable
+distortions, not a desirable policy. The defence rests on the
 non-fiscal structure being real (Article 8's insulation, settlement in
-shares only), not asserted.
+shares only), not asserted, and on recital 1's divergence record being
+genuine.
 
 If the characterisation fails, this layer moves to Article 352: unanimity
 in Council, consent of the Parliament. That is a political mountain, and
@@ -73,7 +76,13 @@ The Reserve as a new Union-level body holding assets for citizens, the
 universal entitlement arising by operation of law, national vehicles, the
 raid-proofing. Creating a new body with legal personality and a direct
 Union-to-citizen property relationship is where Article 114 is weakest
-and where the subsidiarity objection concentrates. The honest position:
+and where the subsidiarity objection concentrates. The body-creation
+precedents cut both ways: Article 114 has sustained Union bodies that
+serve harmonisation (ENISA, C-217/04; ESMA's intervention powers,
+C-270/12), but a new legal form standing apart from national laws
+required what is now Article 352 (the European Cooperative Society,
+C-436/03), and a Reserve owing citizens a direct property relationship
+resembles the second more than the first. The honest position:
 Layer 3 is drafted to be defensible under Article 352, and its unanimity
 requirement is priced in. The campaign's answer to "you will never get
 unanimity" is the wealth-tax precedent: the fight is meant for the
