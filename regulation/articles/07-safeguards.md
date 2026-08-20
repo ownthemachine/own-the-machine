@@ -1,7 +1,8 @@
 # Article 7: Safeguards and judicial review
 
 1. A challenge to the valuation referred to in Article 6 may be brought,
-separately from any challenge to the designation or to the liquidity event,
+separately from any challenge to the designation, to the liquidity event or
+to the crystallisation under Article 5(3),
 before the courts of the Member State in which the covered undertaking has
 its registered office or, where it has none in the Union, before the Court
 of Justice of the European Union.

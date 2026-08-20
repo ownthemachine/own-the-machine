@@ -594,9 +594,15 @@ instrument.
 **Design consequence.** This objection is why DC-14 exists (never lead
 with an early-year figure), why Article 14(3) carries the falsification
 condition on its face, and why Annex II distributes income and never
-principal. It adds one mechanical rule of its own: wherever a
+principal. It adds two mechanical rules of its own: wherever a
 per-citizen payout figure is shown, the per-citizen stake in the
-Reserve is shown beside it (DC-31).
+Reserve is shown beside it (DC-31); and where a year's distributable
+amount would be too small to be worth transferring, the interval
+lengthens rather than the money vanishing, subject to a hard backstop of
+one distribution in every three years and a duty to publish what was not
+paid (DC-40). The threshold is a ratio to the cost of making the payment,
+not a figure: a number in an annex ages, and hands a headline to anyone
+who wants one.
 
 ### 16. This is a golden share, and the Court strikes golden shares down
 
@@ -626,7 +632,7 @@ thing: special rights of control disproportionate to investment, voting
 caps, blocking minorities, approval vetoes, board seats, the machinery by
 which a state steers a company it does not own. The instrument constructs
 the exact inverse, in the articles rather than in assurances. The Reserve's
-holding carries no vote, ever (Articles 5(3)(a) and 9(1)(a)); no board
+holding carries no vote, ever (Articles 5(4)(a) and 9(1)(a)); no board
 presence (Article 9(1)(b)); no instructions (Article 9(1)(c)); no
 acquisitions beyond the warrant and index-style diversification (Article
 9(1)(d)); no leverage or derivatives that would make it a strategic actor
@@ -638,7 +644,7 @@ restriction that survives, the instrument answers on its face:
 non-discrimination (identical treatment of Union and third-country
 undertakings under Article 3), an overriding general interest stated in the
 recitals, and proportionality carried by the fixed 3 %, the independent and
-separately justiciable valuation (Articles 5(8), 6 and 7) and the Article
+separately justiciable valuation (Articles 5(9), 6 and 7) and the Article
 52(1) balance. And unlike every struck golden share, this is not a Member
 State reserving national influence against integration: it is a uniform
 Union rule for the whole internal market, and its uniformity removes the
@@ -687,9 +693,9 @@ Union subsidiary can shield the parent to which the automated services'
 value actually accrues. Third, the mechanism respects foreign company law
 rather than purporting to override it: for undertakings governed by
 third-country law the subscription is an obligation of result (Article
-5(4)), enforced through Article 13 as a condition of continuing access to
+5(5)), enforced through Article 13 as a condition of continuing access to
 the internal market, the architecture of every market-access condition the
-Union already imposes, and the company-law derogations of Article 5(6)
+Union already imposes, and the company-law derogations of Article 5(7)
 reach Member State law only. Fourth, the condition is universal: Union
 undertakings bear it identically, so a treaty claim or trade panel has no
 discrimination to hold on to, and reciprocity runs in the instrument's
@@ -700,6 +706,112 @@ consolidation are this objection's answers in law. It adds one rule of its
 own: for undertakings governed by third-country law, the warrant is an
 obligation of result enforced as a market-access condition, never a
 purported override of foreign company law (DC-33).
+
+### 18. Corporate structuring will simply route around all of this
+
+**The objection, at full strength.** Every mechanism in this Regulation
+assumes a moment at which value becomes visible, and corporate law exists
+to move that moment. A hyper-automated undertaking is the ideal escape
+artist: it needs little capital, so it need never list; it generates cash,
+so it can pay its founders through decades of dividends, leveraged
+recapitalisations and selective buybacks while the warrant sits dormant
+for ever. If it must eventually deal, it deals in a capital stack the
+Reserve does not sit in: seed through Series G preferred with two- and
+three-times participating liquidation preferences, so that a sale
+distributes everything to preferred holders and the Reserve's three per
+cent of common is worth precisely nothing. If the trigger still nears, the
+group demerges: model weights, training infrastructure and user base
+migrate to an unlisted sister, and what floats is a low-margin European
+storefront. If all else fails, a friendly private credit fund converts
+debt to equity in a preventive restructuring, old equity is extinguished
+by court order, and the same people own the same models through a new
+company the following morning. Meanwhile the shares the Reserve does hold
+in third-country parents are taxed at source at rates it cannot reclaim,
+because a supranational body resident nowhere has no treaty to invoke.
+Each of these is ordinary practice, not abuse; the instrument is a
+crystallisation event in a world that has spent forty years learning to
+avoid events.
+
+**What it gets right.** All of it. An instrument that hangs on a single
+trigger will be routed around by people who structure for a living, and a
+regulation that says so only in its recitals has conceded the point. The
+answers below are additions the file did not have; they came from outside
+review and the memorandum says so.
+
+**The answer the instrument must give.** Close the timing, the ranking,
+the perimeter and the exit, and be honest where the closure is partial.
+
+Timing first: the warrant no longer waits on a sale. Article 5(3) makes
+it crystallise where shareholder extraction over three consecutive years
+exceeds 15 % of the undertaking's fair market value, which is the point at
+which staying private has become a way of paying oneself rather than a way
+of building; and in any event on the seventh anniversary of issuance,
+whatever the undertaking has or has not done. An undertaking may still
+stay private for ever. It may no longer stay private and be paid.
+
+Ranking second: Article 5(4)(b) entitles the Reserve to shares ranking,
+for dividends and for the proceeds of any sale or liquidation, no less
+favourably than the most favourable class in issue. Three per cent of a
+common tranche standing behind a three-times participating preference is
+not three per cent of anything, and the instrument now says which three
+per cent it means. Article 5(10) disregards any reorganisation whose main
+purpose or effect is to put the Reserve below where that paragraph places
+it.
+
+Perimeter third: Article 5(11) attaches the obligation to the transferee,
+pro rata to the value moved, where automated assets go to an affiliate or
+a commonly controlled entity or leave at less than arm's length, and keeps
+it on the transferor for the rest. Article 2(14) names what may not be
+walked out of the door: model parameters, training and inference
+infrastructure, data sets, the intellectual property the service depends
+on. This is the succession logic of merger control rather than an
+invention.
+
+Exit fourth: Article 5(12) reattaches the obligation where the automated
+assets emerge from insolvency or a restructuring under Directive (EU)
+2019/1023 into an entity controlled by the same people or by the creditors
+who held the debt when the procedure opened, and requires the warrant to
+be reissued within three months. A genuine failure still extinguishes the
+Reserve's holding, as it extinguishes every shareholder's, because the
+Reserve is an owner and owners bear that. What it does not do is bless the
+version where the owners survive and only the obligation dies.
+
+And the honest partial: source taxation. A Union regulation cannot confer
+on the Reserve a treaty benefit that a third country has not granted, and
+a body resident nowhere may be withheld against at the full statutory
+rate. Two answers were drafted and struck. Instructing the Commission to
+negotiate with third countries would have commanded a prerogative that
+Article 218 TFEU places elsewhere. Permitting the Reserve to route its
+holdings so as to reduce the rate would have written treaty shopping into
+an instrument whose entire case is that capital should be broadly owned
+and should pay what it owes; hostile counsel had the headline ready, and
+was right to have it. What survives is Article 8(5): the Reserve
+publishes each year the tax it could not reclaim, and the Commission
+answers for it in the Article 14 report. That is a smaller answer than the
+problem, and it is the honest one. A leak reported annually is a leak the
+campaign can be judged on; a leak nobody measures only grows.
+
+One route counsel kept and the instrument deliberately leaves open. An
+undertaking may borrow heavily from lenders who are nobody's relation, pay
+them market interest, and arrive at the long-stop worth less than it would
+have been unlevered. That is not extraction and the definition should not
+pretend otherwise: the money goes to strangers, not to insiders, and the
+founders are poorer by exactly the same proportion as the Reserve. Every
+shareholder in a leveraged company owns a smaller claim on a larger
+balance sheet, and an instrument that took 3 % of the equity cannot also
+insist the equity be unencumbered. What the file must not do is confuse
+that with the routes above, where value leaves for pockets that are the
+same pockets. Leverage is a risk the Reserve takes as an owner; extraction
+is a transfer the Regulation stops.
+
+**Design consequence.** DC-35: crystallisation triggers on extraction and
+on time, not only on a sale. DC-36: the Reserve's shares rank with the
+most favoured class, and subordinating arrangements are disregarded.
+DC-37: the obligation follows the automated assets to any affiliate or
+successor, pro rata to value. DC-38: unrecoverable source taxation is
+minimised where it can be and published where it cannot. DC-39: the
+obligation reattaches where the same owners or their creditors reacquire
+the assets out of a restructuring.
 
 ## The constraints table
 
@@ -742,13 +854,26 @@ review regardless of its prose.
 | DC-32 | No control right, veto or governance privilege may ever attach to the Reserve's holdings | 16 |
 | DC-33 | For third-country-law undertakings the warrant is an obligation of result as a market-access condition, never an override of foreign company law | 17 |
 | DC-34 | No tier between valuation and the courts; correction is ex post and the transaction never waits | 6 |
+| DC-35 | Crystallisation triggers on shareholder extraction and on time, not only on a sale | 18 |
+| DC-36 | The Reserve's shares rank with the most favoured class; subordinating arrangements are disregarded | 18 |
+| DC-37 | The obligation follows the automated assets to any affiliate or successor, pro rata to value | 18 |
+| DC-38 | Unrecoverable source taxation minimised where possible, published where not | 18 |
+| DC-39 | The obligation reattaches where the same owners or their creditors reacquire the assets out of a restructuring | 18 |
+| DC-40 | Below a de minimis the distribution interval lengthens; it never becomes a reason not to pay | 15 |
 
 ## Status
 
 All objections OPEN until the articles answer them; 12 is CONCEDED by scope.
+Objection 18 was added on 21 August 2026 from an external review of
+corporate-structuring routes around the instrument. Unlike objections 16
+and 17, it did not find the answers already in the articles: five of its
+six routes were open, and Articles 2, 5, 8 and 10 and Annex II were
+amended to close them. It is the first objection in this file whose
+answer had to be written rather than cited.
+
 Objections 16 and 17 were added on 20 August 2026 from an external
 challenge (the Article 63 golden-share line; qualified-effects overreach);
-their answers were already in Articles 3, 5(4) and 9, which is what
+their answers were already in Articles 3, 5(5) and 9, which is what
 drafting against the table is for, and the residue they add is DC-32 and
 DC-33.
 Objection 1 carries the largest legal risk and objection 6 the largest design

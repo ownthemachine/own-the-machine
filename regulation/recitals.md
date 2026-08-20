@@ -205,6 +205,19 @@ a fund of the Union. The insulation of the Reserve from public finances is
 not an administrative preference but a constitutive feature: it is what
 makes this Regulation a mechanism of ownership rather than of taxation.
 
+(16a) Income from holdings in undertakings governed by the law of a third
+country may be taxed at source in that country at rates which the Reserve,
+being resident in no State, may be unable to reduce by treaty. The remedy, where there is one, lies in
+international agreements, which are concluded in accordance with the
+procedures laid down in the Treaties and which this Regulation neither
+prejudges nor requires. This Regulation does not direct the Reserve to
+arrange its holdings so as to reduce taxation in a third country; an
+instrument founded on the proposition that capital should be broadly owned
+is in no position to legislate its own treaty shopping. What this
+Regulation can do, and does, is oblige the Reserve to report each year the
+amount it was unable to recover, so that the cost is known rather than
+assumed away.
+
 (17) The Reserve should be a passive owner. It should exercise no votes,
 seek no influence over the management of any undertaking and pursue no
 industrial policy. Its function is to hold and to distribute, not to

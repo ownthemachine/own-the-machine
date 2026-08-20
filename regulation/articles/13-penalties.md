@@ -6,8 +6,8 @@ year where it finds that the undertaking, intentionally or negligently:
 (a) fails to issue the citizens' capital warrant in accordance with
 Article 5(1);
 (b) fails to take the measures required by the second sentence of
-Article 5(4);
-(c) fails to notify a liquidity event in accordance with Article 5(5);
+Article 5(5);
+(c) fails to notify a liquidity event in accordance with Article 5(6);
 (d) supplies incorrect, incomplete or misleading information under
 Article 3(3) or Article 4;
 (e) circumvents or attempts to circumvent Article 3(8).
