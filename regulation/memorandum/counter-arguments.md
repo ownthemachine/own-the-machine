@@ -743,25 +743,28 @@ the perimeter and the exit, and be honest where the closure is partial.
 
 Timing first: the warrant no longer waits on a sale. Article 5(3) makes
 it crystallise where shareholder extraction over three consecutive years
-exceeds 15 % of the undertaking's fair market value, which is the point at
-which staying private has become a way of paying oneself rather than a way
-of building; and in any event on the seventh anniversary of issuance,
+exceeds 25 % of the undertaking's turnover from the covered activity, which
+is the point at which staying private has become a way of paying oneself
+rather than a way of building; and in any event on the seventh anniversary of issuance,
 whatever the undertaking has or has not done. An undertaking may still
 stay private for ever. It may no longer stay private and be paid.
 
 Ranking second: Article 5(4)(b) entitles the Reserve to shares ranking,
-for dividends and for the proceeds of any sale or liquidation, no less
-favourably than the most favourable class in issue. Three per cent of a
-common tranche standing behind a three-times participating preference is
-not three per cent of anything, and the instrument now says which three
-per cent it means. Article 5(10) disregards any reorganisation whose main
-purpose or effect is to put the Reserve below where that paragraph places
-it.
+for dividends and for the proceeds of any sale or liquidation, equally
+with the most favourably ranking class created after designation, and with
+ordinary shares otherwise. Three per cent of a common tranche standing
+behind a three-times participating preference is not three per cent of
+anything, and the instrument now says which three per cent it means,
+without taking from investors the preference they actually paid for before
+designation. Article 5(10) makes any reorganisation whose main purpose or
+effect is to put the Reserve below where that paragraph places it
+ineffective as against the Reserve, while leaving it good between the
+parties to it.
 
-Perimeter third: Article 5(11) attaches the obligation to the transferee,
-pro rata to the value moved, where automated assets go to an affiliate or
-a commonly controlled entity or leave at less than arm's length, and keeps
-it on the transferor for the rest. Article 2(14) names what may not be
+Perimeter third: Article 5(11) requires the transferee to issue a warrant
+of its own where automated assets go to an affiliate or a commonly
+controlled entity or leave at less than arm's length, and leaves the
+transferor's own obligation untouched. Article 2(14) names what may not be
 walked out of the door: model parameters, training and inference
 infrastructure, data sets, the intellectual property the service depends
 on. This is the succession logic of merger control rather than an
@@ -769,9 +772,9 @@ invention.
 
 Exit fourth: Article 5(12) reattaches the obligation where the automated
 assets emerge from insolvency or a restructuring under Directive (EU)
-2019/1023 into an entity controlled by the same people or by the creditors
-who held the debt when the procedure opened, and requires the warrant to
-be reissued within three months. A genuine failure still extinguishes the
+2019/1023 into an entity controlled by the same people, or in which those
+people hold the majority of the economic rights, and requires a warrant to
+be issued afresh within three months. A genuine failure still extinguishes the
 Reserve's holding, as it extinguishes every shareholder's, because the
 Reserve is an owner and owners bear that. What it does not do is bless the
 version where the owners survive and only the obligation dies.
