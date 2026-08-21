@@ -115,6 +115,20 @@ Council, in public, on the record.
    registration, if the Commission insists on it, trims the annex and
    not the ask.
 
+   **This rule is an assumption, not a finding, and it is the first thing
+   Gate 1 has to test.** Preparing the request to the ECI Forum on 21
+   August 2026 surfaced the contrary reading: that the Commission examines
+   the whole of an initiative, annex and any draft legal act included,
+   rather than the title and objectives alone, and that framing an
+   objective as a request to assess and propose does not insulate it if
+   the mechanism it points at needs a power the Union lacks. On that
+   reading, annexing the Regulation does not protect the ask and may
+   enlarge what is assessed. The point is put to the Forum as questions 2
+   and 3 of campaign/GATE1-LETTER.md. If the answer is that the annex is
+   assessed on the same footing as the ask, this rule changes and so does
+   what goes in the registration form, so nothing downstream should be
+   built on it until the answer is in.
+
 ## What this costs and why it is worth it
 
 Layering is a concession in advance, and hostile readers will quote it as

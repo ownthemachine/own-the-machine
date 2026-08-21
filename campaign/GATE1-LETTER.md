@@ -39,79 +39,105 @@ automated productivity gains
 Dear ECI Forum legal team,
 
 I am preparing a European Citizens' Initiative and would value your advice
-on registrability before constituting the organisers' group. My question is
-narrow, and I have tried to do the preparatory work so that your time goes
-on the part I cannot answer myself.
+on registrability before I constitute an organisers' group. The text I
+would enter in the registration form is set out in full below, so that you
+can assess the words themselves rather than a description of them.
 
-The initiative asks the Commission to assess, and to propose instruments
-for, the participation of citizens of the Union in the productivity gains
-of hyper-automated production, meaning production whose output is
-substantially decoupled from employment. A complete draft Regulation exists
-and is published, prepared as a working demonstration that the ask can be
-given legislative form. The initiative asks for the objectives, not for the
-draft verbatim.
+**Title, 79 characters.**
 
-The mechanism, in brief. Undertakings above objective thresholds would be
-designated on the model of Regulation (EU) 2022/1925. Each designated
-undertaking would issue, once, a non-voting warrant entitling a common
-reserve to subscribe at nominal value for 3 % of its fully diluted capital,
-crystallising on the undertaking's first liquidity event, or earlier where
-it distributes value to its own shareholders above a stated share of its
-turnover, or in any event seven years after issuance. The reserve would
-hold the resulting shares passively and without votes for the benefit of
-all Union citizens, who would hold equal, personal and non-transferable
-entitlements to its distributions. The instrument is deliberately not a
-levy: nothing is payable in cash, nothing enters any public budget, and the
-reserve is insulated from Union and national finances in both directions.
+Citizens' participation in the productivity gains of hyper-automated
+production
+
+**Objectives, 944 characters without spaces.**
+
+We ask the Commission to assess, and to propose instruments ensuring, the
+participation of citizens of the Union in the productivity gains of
+hyper-automated production, meaning production whose output is
+substantially decoupled from employment.
+
+Automation is concentrating the returns of production in a few very large
+undertakings as the labour share falls. Member States have begun to respond
+separately, with divergent levies and participation schemes, which
+fragments the internal market.
+
+We therefore ask the Commission:
+
+1. to assess, and to propose harmonised criteria and a procedure for, the
+designation of undertakings whose output is substantially decoupled from
+employment;
+
+2. to propose mechanisms by which the gains and value of such production
+become broadly owned by, or shared with, citizens of the Union;
+
+3. to report periodically on automation, employment and ownership
+concentration, so that any instrument adopted can be corrected or repealed
+on the evidence.
+
+A complete draft Regulation accompanies this initiative as an
+illustration. The objectives, not the draft, are what we ask for.
+
+**Treaty provisions we consider relevant.**
+
+Article 114 TFEU as the primary contemplated basis, Article 352 TFEU as
+the residual basis for any element falling outside it, and Article 3(3)
+TEU and Article 9 TFEU as to the objectives of a social market economy.
+
+**The accompanying draft, in one sentence.** A complete draft Regulation
+exists. It would designate undertakings above objective thresholds on the
+model of Regulation (EU) 2022/1925 and require each to issue, once, a
+non-voting warrant over 3 % of its capital to a common reserve holding for
+all Union citizens. It is deliberately not a levy: nothing is payable in
+cash and nothing enters any public budget, which matters to the Article
+114(2) question below.
+
+My present intention is to submit that draft formally as a draft legal act
+under Article 6(2), together with the Annex II background text, rather than
+merely to publish it. Whether that is wise is part of what question 3 asks,
+so if the answer is that it should be withheld, that is a decision I have
+not yet taken. I can paste either text in full if it would help.
 
 Three questions.
 
-**1. Registrability under Article 6(3)(c) of Regulation (EU) 2019/788.** I
-am aware the test is whether the initiative manifestly falls outside the
-framework of the Commission's powers to propose a legal act. My primary
-contemplated basis is Article 114 TFEU, on the ground that divergent
-national levies and participation schemes for automated production are
-emerging and fragment the internal market. I am aware the characterisation
-is contestable and that Article 352 TFEU is the candidate residual basis.
-The registration of the initiative on wealth taxation in 2023 suggests that
-characterisation disputes of this kind belong to the legislative stage
-rather than the registration stage. The text I would enter in the
-registration form is published, drafted to the Annex II fields and limits.
-Do you agree that the ask, framed as it is there, is not manifestly outside
-the framework, whichever of those bases the Commission would ultimately
-choose?
+**1. Competence under Article 6(3)(c).** What are the principal risks to
+registration of the objectives above, taking Article 114 TFEU and Article
+352 TFEU in turn? I am aware that Article 114(2) excludes fiscal
+provisions, and that Article 114 requires genuine obstacles or appreciable
+distortions of competition rather than a desirable policy. I would rather
+have your unvarnished reading of where this is weakest than confirmation
+that it is arguable.
 
-**2. Partial registration.** If the Commission takes the view that parts of
-the draft Regulation exceed what it could propose, I would prefer partial
-registration of the core ask to refusal. I have drafted the objectives so
-that they ask only for an assessment and a proposal, and put the mechanism
-in the accompanying draft, on the reading that Article 6(4) permits
-trimming only where the main objectives themselves survive. Is that the
-right way round, in your experience, and is the separation as visible on
-the form as I intend it to be?
+**2. Partial registration.** The objectives ask only for an assessment and
+a proposal, and the mechanism sits in the accompanying draft. I had assumed
+that keeping the mechanism out of the objectives leaves room for the
+Commission to trim under Article 6(4) rather than refuse. I would like to
+know whether that is right, because a good deal of my drafting rests on it.
+How would the Commission apply Article 6(4) if it considered that elements
+of the mechanism exceeded Union powers, and does framing an objective as a
+request to assess and propose make any difference to that?
 
-**3. Form of the ask.** Does submitting a complete draft legal act help or
-hinder at the registration stage, in your experience? I have published it
-rather than attached it, and published with it every design choice it
-makes, the objections I consider strongest against it, and the record of
-every review it has been through.
+**3. The accompanying draft act.** I take it from the case law that the
+Commission examines the whole of an initiative, annexes and any draft legal
+act included, rather than the title and objectives alone. On that footing,
+how far does the design of the mechanism in the accompanying draft bear on
+the assessment of the objectives themselves, and is there a point at which
+submitting a complete draft act makes registration harder rather than
+easier?
 
-Everything is published and unannounced for now:
+On precedent: the Commission registered "Taxing great wealth to finance the
+ecological and social transition" on 11 July 2023 by Commission
+Implementing Decision (EU) 2023/1487, on a subject where competence is at
+least as contested as here. I have not assumed what that implies for my own
+case, and I would value your view on whether it reads across at all.
 
-* the draft Regulation, the objections at full strength and the review
-  ledger: https://ownthemachine.eu
-* the complete draft as a single PDF:
-  https://ownthemachine.eu/downloads/own-the-machine-draft.pdf
-* the objections, including the ones I have conceded:
-  https://ownthemachine.eu/law/objections/
-* the evidence the legal basis relies on:
-  https://ownthemachine.eu/evidence/
-* the text I would enter in the registration form, drafted to Annex II:
-  https://github.com/ownthemachine/own-the-machine/blob/main/campaign/REGISTRATION-TEXT.md
+I understand that your advice is independent and informal and does not bind
+the Commission. I am asking now because the answer decides whether I
+constitute an organisers' group at all.
 
-I understand that advice from the Forum is independent and informal, and
-does not bind the Commission. I am asking at this stage because the answer
-decides whether I constitute an organisers' group at all.
+Everything is published, unannounced, at https://ownthemachine.eu: the
+draft Regulation, the objections I consider strongest against it, the
+evidence the internal-market argument relies on, and the record of every
+review the text has been through. Nothing there is needed to answer the
+three questions above.
 
 With thanks,
 David Vanheeswijck
@@ -121,33 +147,35 @@ Belgium
 
 ## If the form will not take that much text
 
-Keep questions 1 and 2, which are the ones that decide the gate, and
-replace the mechanism paragraph with:
-
-> The initiative asks the Commission to assess, and to propose instruments
-> for, the participation of citizens of the Union in the productivity gains
-> of hyper-automated production. A complete draft Regulation, the
-> objections against it and the text I would enter in the registration form
-> are published at https://ownthemachine.eu and in the repository linked
-> from it.
-
-Question 3 can wait for the reply.
+Cut, in this order: the sentence about the accompanying draft, then
+question 3, then the precedent paragraph. Keep the title, the objectives
+and questions 1 and 2 whatever happens, because those are what decide the
+gate.
 
 ---
 
-Drafting notes (not part of the submission). The letter leads with
-characterisation because objections 1 and 2 of the memorandum are the
-registration-stage risks and everything else is legislative-stage. It
-deliberately does not argue the merits, does not mention the book, and does
-not name the campaign. The wealth-tax precedent is the load-bearing
-citation: registered in 2023, characterisation fight deferred to Council,
-which is this project's model of where the real fight belongs. Sending it
-is the first of the three Gate 1 soundings in campaign/GATES.md, alongside
-ETUC or ETUI and one Belgian MEP office; the kill criterion stays as
-written there.
+Drafting notes (not part of the submission). Revised on 21 August 2026
+after a review that read it in the role of the adviser receiving it. Four
+things changed and each is worth keeping in mind for the other soundings.
 
-The mechanism paragraph was corrected on 21 August 2026. It had described
-the warrant as crystallising only on a liquidity event, which stopped being
-true when Article 5(3) added the extraction trigger and the seven-year
-long-stop. Understating the instrument to the body whose advice you are
-asking for is the worst place to do it.
+The registration text is now pasted in full rather than linked. An adviser
+with eight working days and a queue will not open five external pages, and
+if the text they are asked about is not in front of them the only possible
+reply is a request for it, which costs a full cycle.
+
+The questions were leading. "Do you agree that the ask is not manifestly
+outside the framework" invites a yes that tells us nothing; asking where it
+is weakest gets the answer worth having.
+
+The third question used to ask whether attaching a draft act helps or
+hinders. Annex II expressly permits a draft legal act, so that reads as
+asking for tactical gossip rather than advice. It now asks the thing we
+actually need to know: whether the draft is itself assessed under Article
+6(3)(c).
+
+The precedent is now stated as a fact with its decision number and put as a
+question. It had asserted that the registration showed characterisation
+disputes belong to the legislative stage, which is our inference and not
+something the decision says. Asserting our own reading of a file to the
+people who know it is the wrong way round, and the correct number is
+2023/1487.
