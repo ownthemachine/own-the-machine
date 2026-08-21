@@ -55,9 +55,20 @@ that for an income stream. It now says what it is.
 
 Verified against Annex II to Regulation (EU) 2019/788, which counts the
 objectives and the annex *without spaces*: title 79 of 100, objectives
-944 of 1 100, annex 3 048 of 5 000. The margin is deliberate, since the
+944 of 1 100, annex 3 114 of 5 000. The margin is deliberate, since the
 figures are re-verified before filing and the text is translated into
 every language it is registered in.
+
+## Corrected after the gate
+
+The annex said the 2017 Delvaux report "asked the Commission to consider
+rules of this kind". It did not: the plenary rejected a robot tax in
+February 2017, and the report concerns civil law rules on robotics, not
+capital participation. evidence/EVIDENCE.md section 8 had it right and
+the registration text was the loose one; it now tracks the evidence base.
+The gate does not check external facts, which is the standing reason to
+re-verify every figure and citation against the source before filing
+rather than against our own prose.
 
 ## Standing
 

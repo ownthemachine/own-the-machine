@@ -90,8 +90,9 @@ digital services taxes at rates between 1,5 % and 7,5 % with thresholds
 that differ by orders of magnitude, several more have proposals before
 their parliaments, and the resulting patchwork applies different
 liabilities to the same cross-border service depending on where its
-users happen to be. The 2017 Delvaux report asked the Commission to
-consider rules of this kind and no harmonised instrument followed.
+users happen to be. The European Parliament rejected a robot tax in
+February 2017, the question has returned with the large-scale adoption of
+artificial intelligence, and no Union instrument occupies the field.
 
 The mechanism we illustrate. Undertakings above objective thresholds
 would be designated on the model of Regulation (EU) 2022/1925. Each
@@ -137,7 +138,7 @@ instrument is to be corrected or repealed. The complete text, the
 objections to it, the evidence base and the record of every adversarial
 review it has been through are public at ownthemachine.eu.
 
-3048 characters without spaces (3599 with), limit 5 000.
+3114 characters without spaces (3675 with), limit 5 000.
 
 ---
 
