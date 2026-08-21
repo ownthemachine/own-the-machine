@@ -1,0 +1,52 @@
+name: Organiser interest
+description: You would consider being named as one of the seven, or you want to ask what that would involve.
+title: "Organiser interest: "
+labels: ["organiser", "gate-2"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Nothing here is a commitment. This project has published gates with
+        kill criteria: nobody is asked to be an organiser before the
+        registrability question is answered, and if the answer is bad the
+        file is published as a model law and the initiative stops.
+
+        This issue is public and permanent. Put in it only what you are
+        content to have read by anyone, now and in ten years. If the
+        question is personal, write to hello@ownthemachine.eu instead.
+
+        Do not post your address, date of birth, or any identity document
+        number. Nothing here needs them. If a filing ever happens, the
+        Commission collects what it requires, on its own system.
+  - type: input
+    id: member-state
+    attributes:
+      label: Which Member State do you live in?
+      description: Organisers must be resident in seven different Member States, so this is the field that decides whether the group is possible at all.
+      placeholder: e.g. Portugal
+    validations:
+      required: true
+  - type: textarea
+    id: bring
+    attributes:
+      label: What would you bring?
+      description: Standing in a field, a network, a language, legal or economic expertise, campaign experience, or simply a willingness to be named. All of these are real answers.
+    validations:
+      required: true
+  - type: dropdown
+    id: named
+    attributes:
+      label: Would you consider being named publicly as an organiser?
+      options:
+        - "Yes, if the registrability question is answered well"
+        - "Maybe, I want to know more first"
+        - "No, but I want to help in another way"
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: What would you change first?
+      description: If you would file this text only with changes, that is more useful than agreement. Name the article or the objection.
+    validations:
+      required: false

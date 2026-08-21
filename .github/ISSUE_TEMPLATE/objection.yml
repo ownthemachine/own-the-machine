@@ -1,0 +1,50 @@
+name: Objection to the draft
+description: This will not work, because. The most useful thing anyone can send.
+title: "Objection: "
+labels: ["objection"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every objection on the site was written by this project against
+        itself, which is a method with an obvious ceiling. An objection from
+        someone who did not write the text is worth more than any number of
+        them.
+
+        Objections are answered in the open and published at full strength,
+        including the ones that land. If yours is right, it goes on the site
+        with your reasoning intact, not with a softened version of it.
+  - type: textarea
+    id: objection
+    attributes:
+      label: The objection, stated at its strongest
+      description: Do not soften it. If it kills the instrument, say that it kills the instrument.
+    validations:
+      required: true
+  - type: input
+    id: target
+    attributes:
+      label: What does it bite on?
+      description: An article number, a recital, a DC row, an existing objection number, or the whole approach.
+      placeholder: e.g. Article 5(11), or objection 12, or DC-32
+    validations:
+      required: false
+  - type: textarea
+    id: authority
+    attributes:
+      label: Authority, if you have one
+      description: A case, a regulation, a directive, a dataset, a paper. Not required. An argument with no citation is still an argument.
+    validations:
+      required: false
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem is it?
+      options:
+        - "Legal: it cannot be adopted on this basis, or it breaches something"
+        - "Economic: the mechanism does not do what it claims"
+        - "Political: it cannot survive the process, whatever its merits"
+        - "Drafting: the text does not say what it means to say"
+        - "Evidence: a figure or a source is wrong"
+    validations:
+      required: true
