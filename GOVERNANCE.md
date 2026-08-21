@@ -42,6 +42,30 @@ least as well as before.
 | Substantive | any enacting term, any threshold, any definition | full pipeline (all six gates) + editor |
 | Constitutional | the four tests, the DC table, this file | full pipeline + public issue open ≥14 days + editor |
 
+### The 14-day window assumes a public, and there is not one yet
+
+The constitutional window was written for a repository people read. This one
+is public but unannounced, and nobody has been asked to look at it. Running
+a 14-day comment period against that audience produces no comments and then
+treats the silence as ratification, which is a worse outcome than not
+running it: it manufactures a legitimacy this project has not earned and
+would have to defend later.
+
+So the window runs from the first outreach, not from the merge. Until this
+draft has been put in front of people who were invited to argue with it:
+
+- constitutional changes may be merged by the editor on the full pipeline
+  alone, and are **provisional**;
+- each one is listed below as it is made;
+- at first outreach every provisional change re-opens together, for the full
+  14 days, and anything unable to survive that is reverted.
+
+Provisional constitutional changes, pending the window:
+
+- 21 August 2026: "Versions: the freeze at registration", added below.
+
+This clause is itself provisional under its own terms.
+
 ## Process
 
 1. Open an issue describing the change and which objections (1-18) it
