@@ -3,7 +3,8 @@
 Status: DRAFT, not sent. Sending is a Gate 1 action and needs David's
 explicit go. Recipient: the European Citizens' Initiative Forum's "Ask an
 expert" legal advice service (confidential, free), via the Forum website.
-Sender: David Vanheeswijck. Attachments referenced: the draft Regulation
+Sender: David Vanheeswijck. Attachments referenced: the draft
+registration text (campaign/REGISTRATION-TEXT.md), the draft Regulation
 (current main) and the counter-arguments memorandum.
 
 ---
@@ -45,18 +46,21 @@ Three questions:
    the characterisation is contestable and that Article 352 TFEU is the
    candidate residual basis. Registration of the initiative on wealth
    taxation in 2023 suggests characterisation disputes of this kind
-   belong to the legislative stage rather than the registration stage. Do
-   you agree that an ask framed as "propose an instrument for citizen
-   participation in automated productivity gains" is not manifestly
-   outside the framework, whichever of those bases the Commission would
-   ultimately choose?
+   belong to the legislative stage rather than the registration stage.
+   The text we would enter in the registration form is annexed, drafted
+   to the Annex II fields and limits. Do you agree that an ask framed as
+   it is there is not manifestly outside the framework, whichever of
+   those bases the Commission would ultimately choose?
 
 2. Partial registration. If the Commission takes the view that parts of
    the annexed draft exceed what it could propose, we would prefer
-   partial registration of the core ask over refusal. Is it advisable to
-   frame the registration request with the objective as the primary ask
-   and the draft regulation as an annexed illustration, so that any
-   trimming applies to the annex rather than the ask?
+   partial registration of the core ask over refusal. We have drafted
+   the objectives so that they ask only for an assessment and a
+   proposal, and put the mechanism in the accompanying draft, on the
+   reading that Article 6(4) permits trimming only where the main
+   objectives themselves survive. Is that the right way round, in your
+   experience, and is the separation as visible on the form as we
+   intend it to be?
 
 3. Form of the ask. Does attaching a complete draft regulation help or
    hinder at the registration stage, in your experience? We attach it for
