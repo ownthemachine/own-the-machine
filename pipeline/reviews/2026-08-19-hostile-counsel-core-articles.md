@@ -1,7 +1,7 @@
 ---
 gate: hostile-counsel
 target: regulation/articles (chapters I-VI core, first draft)
-commit: 4f8c266
+commit: cb0479d
 verdict: REVISE
 disposition: merged-with-fixes
 date: 2026-08-19

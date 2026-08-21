@@ -1,7 +1,7 @@
 ---
 gate: hostile-counsel
 target: regulation/articles (complete enacting terms, round 2)
-commit: 3250a63
+commit: 4d6ee9f
 verdict: REVISE
 disposition: merged-with-fixes
 date: 2026-08-19

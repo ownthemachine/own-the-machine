@@ -1,7 +1,7 @@
 ---
 gate: layer-fidelity
 target: campaign/REGISTRATION-TEXT.md against regulation/memorandum/severability.md
-commit: a262fc5
+commit: d7934d5
 verdict: PUBLISH at round 3
 disposition: merged-with-fixes
 date: 2026-08-21

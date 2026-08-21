@@ -1,7 +1,7 @@
 ---
 gate: legal-basis
 target: complete instrument (recitals, articles, annexes)
-commit: a3ef091
+commit: 3de355c
 verdict: REVISE
 disposition: merged-with-fixes
 date: 2026-08-19

@@ -1,7 +1,7 @@
 ---
 gate: dc-compliance
 target: memorandum (objection 1: James, Article 345 addressee, BRRD distinction; objection 6: valuation litigation, DC-34) + recital 1 + evidence section 8
-commit: 1ce3071
+commit: f2a5d22
 verdict: PUBLISH
 disposition: published
 date: 2026-08-21

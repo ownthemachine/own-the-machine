@@ -1,7 +1,7 @@
 ---
 gate: layer-fidelity
 target: memorandum/severability.md + recitals + articles
-commit: 7c2ac04
+commit: 8b71d08
 verdict: PUBLISH
 disposition: published
 date: 2026-08-19

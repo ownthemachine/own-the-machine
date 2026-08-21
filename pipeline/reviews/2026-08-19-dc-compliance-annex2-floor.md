@@ -1,7 +1,7 @@
 ---
 gate: dc-compliance
 target: regulation/annexes/annex-2-retention.md (point 3 capital-fraction floor)
-commit: 25325ac
+commit: 2d1aac3
 verdict: PUBLISH
 disposition: published
 date: 2026-08-19

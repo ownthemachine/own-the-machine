@@ -1,7 +1,7 @@
 ---
 gate: dc-compliance
 target: regulation/memorandum/counter-arguments.md (objections 16, 17; DC-32, DC-33; DC-22 and DC-29 realignment)
-commit: 1ce3071
+commit: f2a5d22
 verdict: PUBLISH
 disposition: published
 date: 2026-08-20

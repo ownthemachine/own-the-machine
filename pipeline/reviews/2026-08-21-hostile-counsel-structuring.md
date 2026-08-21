@@ -1,7 +1,7 @@
 ---
 gate: hostile-counsel
 target: Articles 2, 5, 6, 7, 8, 9, 10 and Annex II as amended against corporate structuring
-commit: 7fd3cdc
+commit: 8b0d54f
 verdict: REVISE (converged; closed by editor disposition)
 disposition: merged-with-fixes
 date: 2026-08-21

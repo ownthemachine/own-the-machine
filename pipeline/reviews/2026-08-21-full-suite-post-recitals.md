@@ -1,7 +1,7 @@
 ---
 gate: legal-form, dc-compliance, legal-basis, hostile-counsel, acquis-coherence, layer-fidelity
 target: the full instrument after the recitals were rewritten
-commit: 12b8e37
+commit: 6d3c51a
 verdict: PUBLISH on legal-form, dc-compliance and layer-fidelity; REVISE on acquis-coherence; standing findings on legal-basis and hostile-counsel
 disposition: merged-with-fixes, residue recorded
 date: 2026-08-21
@@ -11,7 +11,7 @@ date: 2026-08-21
 
 All six gates were run on the whole instrument, which had not happened
 since the articles were amended on 21 August. The ledger had been showing
-verdicts taken at 7fd3cdc against a text that had moved twice since, which
+verdicts taken at 8b0d54f against a text that had moved twice since, which
 is worth as much as a green check on a stale premise, that is to say
 nothing. This record closes that.
 

@@ -1,7 +1,7 @@
 ---
 gate: hostile-counsel
 target: complete consolidated instrument (round 3)
-commit: 09df225
+commit: f4a52c9
 verdict: REVISE
 disposition: no-change-with-reasons
 date: 2026-08-19

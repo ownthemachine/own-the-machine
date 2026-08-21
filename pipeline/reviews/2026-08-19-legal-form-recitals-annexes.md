@@ -1,7 +1,7 @@
 ---
 gate: legal-form
 target: regulation/recitals.md + annexes (with enacting terms as context)
-commit: e9b770a
+commit: 004dd66
 verdict: REVISE
 disposition: merged-with-fixes
 date: 2026-08-19

@@ -1,7 +1,7 @@
 ---
 gate: dc-compliance
 target: regulation/recitals.md + annexes (with enacting terms as context)
-commit: e9b770a
+commit: 004dd66
 verdict: PUBLISH
 disposition: published
 date: 2026-08-19

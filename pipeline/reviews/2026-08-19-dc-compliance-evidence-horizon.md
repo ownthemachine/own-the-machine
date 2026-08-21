@@ -1,7 +1,7 @@
 ---
 gate: dc-compliance
 target: evidence/EVIDENCE.md (section 7, the long horizon)
-commit: 6e071aa
+commit: d65cb0b
 verdict: PUBLISH
 disposition: published
 date: 2026-08-19

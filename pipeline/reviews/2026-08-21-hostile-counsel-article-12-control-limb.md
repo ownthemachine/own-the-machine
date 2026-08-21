@@ -1,7 +1,7 @@
 ---
 gate: hostile-counsel
 target: a proposed new limb in Article 12(3) on control rights
-commit: df7c991
+commit: b97099d
 verdict: REVISE
 disposition: proposal-abandoned
 date: 2026-08-21

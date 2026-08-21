@@ -1,7 +1,7 @@
 ---
 gate: legal-basis
 target: recitals + severability + evidence section 8 (the Article 114 fragmentation record)
-commit: 1ce3071
+commit: f2a5d22
 verdict: REVISE (standing findings; disposition below)
 disposition: merged-with-fixes
 date: 2026-08-21
