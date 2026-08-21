@@ -1,7 +1,7 @@
 ---
 gate: dc-compliance
 target: regulation/memorandum/counter-arguments.md (objection 15, DC-31)
-commit: 8cb7aec
+commit: c9ed377
 verdict: PUBLISH
 disposition: published
 date: 2026-08-19

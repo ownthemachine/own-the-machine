@@ -1,11 +1,18 @@
 ---
 gate: layer-fidelity
 target: memorandum/severability.md + recitals + articles
-commit: 89880a1
+commit: 7c2ac04
 verdict: PUBLISH
 disposition: published
 date: 2026-08-19
 ---
+
+> Citation corrected on 21 August 2026. This record originally cited
+> commit 89880a1, which does not exist in this repository: it was a commit
+> on the branch this work merged from, and the merge squashed it. The id
+> above is the commit on main that carries the text the gate was given.
+> The error predates the history rewrite of the same date and was found
+> by it.
 
 # Review
 

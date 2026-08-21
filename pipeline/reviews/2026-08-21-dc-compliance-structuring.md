@@ -1,7 +1,7 @@
 ---
 gate: dc-compliance
 target: memorandum (objection 18; DC-35 to DC-40)
-commit: cb3da17
+commit: 7fd3cdc
 verdict: PUBLISH
 disposition: published
 date: 2026-08-21

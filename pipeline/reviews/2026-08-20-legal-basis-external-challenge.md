@@ -1,7 +1,7 @@
 ---
 gate: legal-basis
 target: recitals.md + memorandum (objections 16, 17 and the recital coverage they exposed)
-commit: 11757cc
+commit: 1ce3071
 verdict: REVISE (closed by editor after seven rounds; final opinion below)
 disposition: merged-with-fixes
 date: 2026-08-20
