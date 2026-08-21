@@ -54,6 +54,41 @@ least as well as before.
 4. Editor merges with a message stating what the change does to the
    instrument, not what it does to the text.
 
+## Versions: the freeze at registration
+
+Everything above describes a living draft. Registration under Regulation
+(EU) 2019/788 changes that, and this repository has to change with it.
+From the moment an initiative is registered, the annex as registered is
+what citizens are asked to sign, and it cannot be amended. A draft that
+keeps moving while signatures are collected against a fixed text is not
+transparency; it is a gap between what was signed and what is published,
+and it would rightly be read that way.
+
+The rule is adopted here before there is anything to freeze, so that it
+cannot later be written to suit a convenience.
+
+1. **On the day of registration the filed text is frozen.** It is copied
+   verbatim into versions/, with the commit it was taken from, the date of
+   filing and the Commission's decision. Nothing in that directory is ever
+   edited afterwards. A correction to a frozen version is a new frozen
+   version, never an edit of the old one.
+2. **versions/REGISTERED.json is the machine-readable state.** It names the
+   registered version or records that there is none. The site reads that
+   file and reports what it finds; no page states the answer from memory.
+3. **The living draft continues, and says so on every page.** Work does not
+   stop at registration, because the Commission's response is argued
+   against the best version of the case, not the filed one. Every page
+   rendering the living draft carries the distinction plainly, and the
+   registered text is reachable in one click from any of them.
+4. **Divergence is published, not characterised.** Where the living draft
+   and the registered text differ, the difference is a diff a reader can
+   read for themselves, never a claim about how minor it is.
+5. **The frozen text is authoritative for what was signed. The living draft
+   is authoritative for nothing until it is itself filed.**
+
+Before registration, which is where this project stands, the state is
+simply that no version is registered and the whole repository is a draft.
+
 ## Transparency rules
 
 - No force-pushes to main, ever, once public. History is the product.
@@ -63,4 +98,7 @@ least as well as before.
 - The site's public ledger is rendered from the review files and release
   notes: outcomes and dispositions are the public story; prompts and tooling
   remain inspectable in the tools repository.
-- Funding, if any ever exists, is disclosed in campaign/ to the cent.
+- Funding and support are declared in campaign/FUNDING.md, and the
+  declaration is kept current from now rather than from the moment
+  Regulation (EU) 2019/788 makes it compulsory. "None" is not an
+  acceptable answer while anyone is paying for anything.
