@@ -99,8 +99,9 @@ would be designated on the model of Regulation (EU) 2022/1925. Each
 designated undertaking would issue, once, a non-voting citizens' capital
 warrant entitling a common reserve to subscribe at nominal value for 3 %
 of its fully diluted capital, crystallising on the undertaking's first
-liquidity event or on a defined pattern of extraction to its own
-shareholders. The reserve would hold the resulting shares passively and
+liquidity event, or earlier where it distributes value to its own
+shareholders above a stated share of its turnover, or in any event seven
+years after issuance. The reserve would hold the resulting shares passively and
 without votes, insulated in both directions from Union and national
 budgets. Citizens of the Union would hold equal, personal and
 non-transferable entitlements to distributions as and when they are
@@ -138,7 +139,7 @@ instrument is to be corrected or repealed. The complete text, the
 objections to it, the evidence base and the record of every adversarial
 review it has been through are public at ownthemachine.eu.
 
-3114 characters without spaces (3675 with), limit 5 000.
+3182 characters without spaces (3757 with), limit 5 000.
 
 ---
 

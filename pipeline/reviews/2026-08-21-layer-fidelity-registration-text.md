@@ -55,7 +55,7 @@ that for an income stream. It now says what it is.
 
 Verified against Annex II to Regulation (EU) 2019/788, which counts the
 objectives and the annex *without spaces*: title 79 of 100, objectives
-944 of 1 100, annex 3 114 of 5 000. The margin is deliberate, since the
+944 of 1 100, annex 3 182 of 5 000. The margin is deliberate, since the
 figures are re-verified before filing and the text is translated into
 every language it is registered in.
 

@@ -28,7 +28,9 @@ The mechanism, in brief: undertakings above objective thresholds would be
 designated on the model of Regulation (EU) 2022/1925; each designated
 undertaking would issue, once, a non-voting warrant entitling a common
 reserve to subscribe at nominal value for 3 % of its fully diluted
-capital upon the undertaking's first liquidity event; the reserve would
+capital upon the undertaking's first liquidity event, or earlier where it
+distributes value to its own shareholders above a stated share of its
+turnover, or in any event seven years after issuance; the reserve would
 hold the resulting shares passively for the benefit of all Union
 citizens, who would hold equal, personal, non-transferable entitlements
 to its distributions. The instrument is deliberately not a levy: nothing
@@ -48,13 +50,13 @@ Three questions:
    taxation in 2023 suggests characterisation disputes of this kind
    belong to the legislative stage rather than the registration stage.
    The text we would enter in the registration form is annexed, drafted
-   to the Annex II fields and limits. Do you agree that an ask framed as
-   it is there is not manifestly outside the framework, whichever of
+   to the Annex II fields and limits. Do you agree that the ask, framed as
+   it is there, is not manifestly outside the framework, whichever of
    those bases the Commission would ultimately choose?
 
 2. Partial registration. If the Commission takes the view that parts of
-   the annexed draft exceed what it could propose, we would prefer
-   partial registration of the core ask over refusal. We have drafted
+   the annexed draft Regulation exceed what it could propose, we would
+   prefer partial registration of the core ask over refusal. We have drafted
    the objectives so that they ask only for an assessment and a
    proposal, and put the mechanism in the accompanying draft, on the
    reading that Article 6(4) permits trimming only where the main
