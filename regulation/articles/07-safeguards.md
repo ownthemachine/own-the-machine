@@ -10,7 +10,10 @@ of Justice of the European Union.
 2. The dilution borne by the shareholders of a covered undertaking in
 consequence of this Regulation shall not exceed the percentage laid down in
 Article 5(2), determined on the basis of the valuation under Article 6 as
-corrected, where applicable, pursuant to Article 6(4).
+corrected, where applicable, pursuant to Article 6(4). Where warrants have
+been issued by transferees pursuant to Article 5(11), that percentage
+applies to the dilution borne, taken together, by the shareholders of the
+covered undertaking and of every such transferee.
 
 3. This Regulation shall not affect any right of shareholders to
 compensation under the law of a Member State against parties other than

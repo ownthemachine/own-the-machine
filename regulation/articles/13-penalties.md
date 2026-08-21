@@ -10,7 +10,8 @@ Article 5(5);
 (c) fails to notify a liquidity event in accordance with Article 5(6);
 (d) supplies incorrect, incomplete or misleading information under
 Article 3(3) or Article 4;
-(e) circumvents or attempts to circumvent Article 3(8).
+(e) circumvents Article 3(8), or fails to comply with a decision adopted
+pursuant to that paragraph.
 
 2. The Commission may by decision impose periodic penalty payments not
 exceeding 5 % of the average daily worldwide turnover of the covered

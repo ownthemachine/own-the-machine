@@ -64,7 +64,8 @@ impending liquidity event no later than the earlier of its public
 announcement and 30 working days before its completion.
 
 7. Article 49, Article 68(1), (2) and (3), the first subparagraph of
-Article 70(2) and Article 72 of Directive (EU) 2017/1132, and any
+Article 70(2), Article 72 and Article 73 of Directive (EU) 2017/1132, and
+any
 corresponding provisions of the law of a Member State conferring
 pre-emption rights, requiring a decision of the general meeting or
 requiring an expert report on consideration, shall not apply to the
@@ -74,8 +75,9 @@ proportion, issuance conditions or characteristics of non-voting shares
 shall not apply to the extent that they would prevent the issuance or
 holding of shares pursuant to this Article.
 
-8. The issuance, offer and subscription of shares pursuant to this Article
-shall not constitute an offer of securities to the public for the purposes
+8. The issuance of the citizens' capital warrant and the issuance, offer
+and subscription of shares pursuant to this Article shall not constitute an
+offer of securities to the public for the purposes
 of Regulation (EU) 2017/1129, and the admission to trading of those shares
 shall be exempt from the obligation to publish a prospectus under that
 Regulation where shares of the same class are already admitted to trading
@@ -106,7 +108,13 @@ is a member of the same group or is controlled, directly or indirectly, by
 persons who control the covered undertaking, the transferee shall
 issue to the Reserve a citizens' capital warrant in accordance with
 paragraph 1 as if it were a covered undertaking, and the obligations of the
-covered undertaking under this Article shall continue unaffected.
+covered undertaking under this Article shall continue in respect of the
+automated assets it retains. The aggregate of the subscriptions to which
+the Reserve is entitled in respect of the same designation, under this
+paragraph and under paragraph 2, shall not exceed the percentage laid down
+in paragraph 2 of the combined fully diluted capital of the covered
+undertaking and of every transferee, and the valuation under Article 6
+shall determine the subscription in each of them accordingly.
 
 12. Where the automated assets of a covered undertaking are acquired by
 another undertaking in or in consequence of insolvency proceedings, a

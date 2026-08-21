@@ -51,7 +51,9 @@ Articles 5 to 7, 13 in full, 15, 17, with the company-law derogations and
 the valuation machinery; recitals 9 to 20, 29.
 
 The obligation to issue the citizens' capital warrant, crystallising on
-the first liquidity event, with the BRRD-pattern safeguards. The Article
+the first liquidity event, on shareholder extraction above the stated
+share of covered turnover or on the seven-year long-stop, whichever comes
+first, with the BRRD-pattern safeguards. The Article
 114 case: it removes the incentive for divergent national levies and
 participation schemes (recital 1), harmonises the company-law derogations
 the subscription needs, and secures the level playing field between Union

@@ -26,7 +26,7 @@ effected for the purpose of the distribution.
 5. The Reserve shall state in its accounts, for each financial year, the
 amount of tax withheld at source which it was unable to recover, and the
 Commission shall address that amount in the report referred to in Article
-14(1).
+14(2).
 
 6. The Reserve shall publish annually audited accounts, the valuation of
 its holdings and the calculation referred to in paragraph 4.

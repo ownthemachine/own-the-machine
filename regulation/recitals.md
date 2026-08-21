@@ -185,11 +185,10 @@ of the European Parliament and of the Council concerning pre-emption
 rights and the consideration for issued shares. Comparable derogations,
 adopted in the general interest, form part of the established acquis in
 the field of bank recovery and resolution. Because the shares subscribed
-by the Reserve are non-voting for as long as it holds them, this
-Regulation also disapplies provisions of the law of a Member State that
-restrict the proportion, issuance conditions or characteristics of
-non-voting shares, to the extent that they would prevent the issuance or
-holding of those shares. The derogations provided for in this Regulation
+by the Reserve are non-voting for as long as it holds them, provisions of
+the law of a Member State that restrict the proportion, issuance
+conditions or characteristics of non-voting shares should not apply to the
+extent that they would prevent the issuance or holding of those shares. The derogations provided for in this Regulation
 are strictly limited to what the execution of the subscription requires,
 and they are necessary: an issuance that existing shareholders could
 pre-empt, that could be made conditional on a resolution of the general
@@ -227,7 +226,12 @@ person who controls it or is controlled by it, the obligations laid down
 in this Regulation should attach to the transferee as if it were the
 covered undertaking, so that the assets which carry the value cannot be
 moved beyond the warrant's reach while the covered undertaking that
-issued it remains bound in any event. Where those assets are instead
+issued it remains bound in respect of what it retains. Anti-avoidance
+should not become a multiplier: a group that divides its automated assets
+among several entities should owe the same share of its capital as one
+that does not, and the stated percentage should therefore apply to the
+dilution borne by the shareholders of the covered undertaking and of every
+transferee taken together, and not separately to each of them. Where those assets are instead
 acquired in an insolvency or restructuring procedure and control of the
 transferee ends up, directly or indirectly, with the persons who
 controlled the covered undertaking, or with persons acting in concert or
@@ -377,7 +381,7 @@ capital by any other person. An
 ordinary regulation cannot bind future legislatures, and this Regulation
 does not pretend otherwise; what it can do is ensure that no derogation
 from these protections arises by interpretation, and that any future
-weakening must be enacted expressly, in public, informed by the
+weakening would need to be enacted expressly, in public, informed by the
 independent assessment its reporting provisions require.
 
 (29) Penalties for non-compliance should be effective, proportionate and
@@ -456,7 +460,7 @@ does not go beyond what is necessary in order to achieve that objective.
 
 (35) This Regulation respects the fundamental rights and observes the
 principles recognised by the Charter of Fundamental Rights of the European
-Union, in particular Articles 16, 17, 20 and 47 thereof, concerning
+Union, in particular Articles 16, 17, 20, 34 and 47 thereof, concerning
 respectively the freedom to conduct a business, the right to property,
 equality before the law and the right to an effective remedy and to a
 fair trial.

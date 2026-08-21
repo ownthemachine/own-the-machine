@@ -32,6 +32,10 @@ compensation shall not be charged to holders or to the Reserve.
 designated vehicle does not comply with paragraph 2, a holder residing in
 that Member State may register with a national vehicle of another Member
 State, which shall not refuse the registration on grounds of residence.
+Where a national vehicle registers a holder pursuant to this paragraph, the
+Member State of residence of that holder shall reimburse that national
+vehicle for verifiable net costs exceeding the ceiling laid down in
+paragraph 3.
 
 5. National vehicles shall process personal data in accordance with
 Regulation (EU) 2016/679 and only for the purposes of this Regulation.

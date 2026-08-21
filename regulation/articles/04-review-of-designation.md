@@ -12,8 +12,8 @@ substantial change in the facts on which the designation was based.
 has not satisfied the requirements of Article 3(1) for two consecutive
 financial years. Repeal shall not be granted where the failure to satisfy
 those requirements results from an arrangement referred to in Article 3(8). Repeal shall not affect a citizens' capital warrant
-already issued, save that a warrant not yet crystallised shall lapse five
-years after repeal if no liquidity event has occurred by that date.
+already issued, save that a warrant shall lapse five years after repeal if
+it has not crystallised by that date.
 
 4. Before adopting a decision under this Article or under Article 3, the
 Commission shall communicate its preliminary findings to the undertaking
