@@ -149,7 +149,6 @@ individual claims is better.
   anywhere to the mechanism in Article 5, and it is the strongest case
   against it, which is why objection 19 states it rather than the evidence
   base burying it.
-
 - **Estonia proves a claim is necessary but not sufficient.** When the
   second pillar went voluntary in January 2021, 149 083 people took out
   EUR 1,32 bn in a single month; leavers averaged age 41 with

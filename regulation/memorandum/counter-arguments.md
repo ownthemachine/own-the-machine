@@ -96,7 +96,7 @@ it stands or falls on proportionality rather than on a crisis that is not
 happening.
 
 One further authority is worth stating precisely, because stated loosely it
-would be worth nothing. In Sky Osterreich (C-283/11, 22 January 2013) the
+would be worth nothing. In Sky Österreich (C-283/11, 22 January 2013) the
 Grand Chamber upheld a Union measure requiring holders of exclusive
 broadcasting rights to grant competitors access for short news reports,
 with compensation capped at the additional costs directly incurred, which
@@ -111,7 +111,7 @@ What it does carry is narrower and still useful. This instrument interferes
 with Article 16 as well as Article 17, because compelling an undertaking to
 issue shares it did not choose to issue is an interference with the conduct
 of its business, and the Commission's Legal Service will see both. On that
-limb Sky Osterreich is directly in point, and it says three things: the
+limb Sky Österreich is directly in point, and it says three things: the
 Article 16 freedom is not absolute but must be viewed in relation to its
 social function; the Union legislature may set consideration below market
 value where the public interest requires it; and the test is the ordinary
