@@ -776,7 +776,10 @@ parties to it.
 Perimeter third: Article 5(11) requires the transferee to issue a warrant
 of its own where automated assets go to an affiliate or a commonly
 controlled entity or leave at less than arm's length, and leaves the
-transferor's own obligation untouched. Article 2(14) names what may not be
+transferor bound in respect of what it retains. The aggregate across the
+covered undertaking and every transferee is capped at the stated
+percentage of their combined capital, so that closing this route cannot
+turn into a multiplier on a group that divides itself. Article 2(14) names what may not be
 walked out of the door: model parameters, training and inference
 infrastructure, data sets, the intellectual property the service depends
 on. This is the succession logic of merger control rather than an
@@ -821,9 +824,13 @@ is a transfer the Regulation stops.
 
 **Design consequence.** DC-35: crystallisation triggers on extraction and
 on time, not only on a sale. DC-36: the Reserve's shares rank with the
-most favoured class, and subordinating arrangements are disregarded.
+most favoured class created after the designation, leaving earlier
+preferences untouched, and subordinating arrangements are ineffective as
+against the Reserve.
 DC-37: the transferee issues its own warrant over its own capital; the
-transferor's own obligation continues unaffected. DC-38: unrecoverable
+transferor stays bound for the automated assets it retains, and the
+aggregate across them never exceeds the stated percentage of their combined
+capital. DC-38: unrecoverable
 source taxation is published annually; the instrument does not direct the
 Reserve to arrange its holdings to reduce it. DC-39: the obligation
 reattaches where the same owners reacquire the assets out of a
@@ -871,8 +878,8 @@ review regardless of its prose.
 | DC-33 | For third-country-law undertakings the warrant is an obligation of result as a market-access condition, never an override of foreign company law | 17 |
 | DC-34 | No tier between valuation and the courts; correction is ex post and the transaction never waits | 6 |
 | DC-35 | Crystallisation triggers on shareholder extraction and on time, not only on a sale | 18 |
-| DC-36 | The Reserve's shares rank with the most favoured class; subordinating arrangements are disregarded | 18 |
-| DC-37 | The transferee issues its own warrant over its own capital; the transferor's own obligation continues unaffected | 18 |
+| DC-36 | The Reserve's shares rank with the most favoured class created after the designation, leaving earlier preferences untouched; subordinating arrangements are ineffective against the Reserve | 18 |
+| DC-37 | The transferee issues its own warrant over its own capital; the transferor stays bound for what it retains, and the aggregate across them never exceeds the stated percentage of their combined capital | 18 |
 | DC-38 | Unrecoverable source taxation published annually; the Reserve is not directed to arrange its holdings to reduce it | 18 |
 | DC-39 | The obligation reattaches where the same owners reacquire the assets out of a restructuring | 18 |
 | DC-40 | Below a de minimis the distribution interval lengthens; it never becomes a reason not to pay | 15 |
