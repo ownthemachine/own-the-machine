@@ -7,10 +7,15 @@ Condensed from FEASIBILITY.md; that file carries the full reasoning.
   none. The repository was private while this gate ran and is public,
   unannounced, since 19 August 2026, per the amendment at the end of this
   file.
-- **Gate 1 (Sept-Oct 2026, ~zero cost):** admissibility opinion via the ECI
-  Forum's free legal advice; three soundings (ETUC/ETUI, one Belgian MEP
-  office, one ECI veteran). KILL: if the core ask is unregistrable even
+- **Gate 1 (STARTED 21 August 2026, ~zero cost):** admissibility opinion via
+  the ECI Forum's free legal advice; three soundings (ETUC/ETUI, one Belgian
+  MEP office, one ECI veteran). KILL: if the core ask is unregistrable even
   partially, publish as the book's model law and stop.
+  - Forum request **SENT 21 August 2026**, pending, reply due by 2 September
+    2026 at the latest. What was submitted is recorded in GATE1-LETTER.md.
+  - The three soundings are not yet made. They wait for the first week of
+    September: the institutional calendar is empty until then, and the Forum's
+    answer sharpens what is worth asking.
 - **Gate 2 (Q4 2026):** seven credible organisers in seven states plus at
   least two institutional partners, on paper. KILL: fewer than two partners by
   year end means do not file; a solo ECI lands at ~300k and the failure is

@@ -1,8 +1,15 @@
 # Gate 1: request for advice from the ECI Forum
 
-Status: READY TO SEND, not sent. Sending is the first Gate 1 action in
-campaign/GATES.md and needs David's own account, because the service is
-behind a login.
+Status: **SENT 21 August 2026**, state Pending, reply due within a maximum of
+eight working days, so by 2 September 2026. Submitted through the Forum's
+Seek advice form as a legal enquiry, from David's own account. This was the
+first of the three Gate 1 soundings in campaign/GATES.md.
+
+The form turned out to be a five-field questionnaire, four of the fields
+capped at 1 000 characters, not the single free-text box this letter was
+written for. What was actually submitted is recorded below the letter, under
+"What was sent". The letter is kept because it is the fuller statement and
+the source the fields were cut from.
 
 ## How it is sent
 
@@ -179,3 +186,114 @@ disputes belong to the legislative stage, which is our inference and not
 something the decision says. Asserting our own reading of a file to the
 people who know it is the wrong way round, and the correct number is
 2023/1487.
+
+---
+
+## What was sent
+
+Submitted 21 August 2026 through the ECI Forum's Seek advice form, as a legal
+enquiry. Recorded here verbatim, because the form is what the advisers
+answered and the letter above is not.
+
+**Are you an EU citizen?** Yes.
+**Are you planning to submit an ECI for registration?** Yes.
+**Needs personalised advice on:** Legal issues.
+
+**Describe the subject matter of your initiative.** Citizens' participation in
+the productivity gains of hyper-automated production, meaning production whose
+output is substantially decoupled from employment.
+
+**Describe the actions you want the European Union to undertake.**
+
+> I ask the Commission:
+>
+> 1. to assess, and to propose harmonised criteria and a procedure for, the
+> designation of undertakings whose output is substantially decoupled from
+> employment;
+>
+> 2. to propose mechanisms by which the gains and value of such production
+> become broadly owned by, or shared with, citizens of the Union;
+>
+> 3. to report periodically on automation, employment and ownership
+> concentration, so that any instrument adopted can be corrected or repealed
+> on the evidence.
+
+**What type of legal act.**
+
+> A Regulation. A complete draft is written, and my present intention is to
+> submit it as a draft legal act under Annex II to Regulation (EU) 2019/788,
+> together with the Annex II background text. Whether that is wise is one of
+> the questions I ask.
+>
+> In outline it would designate undertakings above objective thresholds on the
+> model of Regulation (EU) 2022/1925, and require each to issue, once, a
+> non-voting warrant over 3 % of its capital to a common reserve holding for
+> all Union citizens. The warrant would crystallise on a liquidity event, on
+> distributions to shareholders above a stated share of turnover, or seven
+> years after issuance.
+>
+> Nothing is payable in cash and nothing enters any public budget.
+
+**Treaty provisions.**
+
+> Article 114 TFEU as the primary contemplated basis, on the ground that
+> divergent national levies and participation schemes for automated production
+> are emerging and fragment the internal market.
+>
+> Article 352 TFEU as the residual basis for any element falling outside
+> Article 114.
+>
+> Article 3(3) TEU and Article 9 TFEU as to the objectives of a highly
+> competitive social market economy.
+>
+> I am aware that Article 114(2) excludes fiscal provisions, and that Article
+> 114 requires genuine obstacles or appreciable distortions of competition
+> rather than a desirable policy.
+
+**Describe your request.**
+
+> 1. What are the principal risks to registration of the objectives above
+> under Article 6(3)(c), taking Article 114 and Article 352 TFEU in turn? I
+> would rather have your reading of where this is weakest than confirmation
+> that it is arguable.
+>
+> 2. How does the Commission apply partial registration under Article 6(4)
+> where the objectives fall within Union competence but the mechanism set out
+> in an accompanying draft act is contested?
+>
+> 3. Taking it that the Commission examines an initiative as a whole, annexes
+> and any draft act included, is there a point at which submitting a complete
+> draft act makes registration harder rather than easier?
+>
+> 4. Does the reasoning in Commission Implementing Decision (EU) 2023/1487 of
+> 11 July 2023, registering the initiative on taxing great wealth, read across
+> to a case like this one?
+>
+> I am asking for advice on the text in this form. The draft, the objections
+> against it and the review record are published at ownthemachine.eu if they
+> are of use.
+
+## What the split cost, and one thing deliberately withheld
+
+The letter's salutation, sign-off and its statement of why the answer matters
+did not survive the character caps. Nor did any assertion about what the 2023
+wealth-tax registration decision held. A review proposed stating that it was
+registered on Articles 115 and 352 TFEU; the same review had earlier given
+those articles as 115 and 122 and the decision number as 2023/1498, which is
+wrong, and EUR-Lex could not be read to settle it. Question 4 therefore cites
+the decision and asks whether it reads across, rather than telling the people
+who know that file what it says.
+
+Two sentences of the initiator's own drafting commentary were also cut, both
+caught on a read-through rather than by any gate: a note about character
+counts, and a line saying which text would go in the registration form. The
+questions carry that link already.
+
+## What to do with the answer
+
+The reply bears directly on decomposition rule 5 of
+regulation/memorandum/severability.md, which is currently marked as an
+assumption rather than a finding. If the answer is that the annex is assessed
+on the same footing as the ask, that rule changes and so does what goes in the
+registration form. Record the reply and its consequences in
+pipeline/EXTERNAL-REVIEWS.md before acting on it.
