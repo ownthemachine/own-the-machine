@@ -2,8 +2,11 @@
 
 Condensed from FEASIBILITY.md; that file carries the full reasoning.
 
-- **Gate 0 (now, ~zero cost):** draft the Regulation and memorandum in this
-  private repo; build the simulator; no announcement. Kill criterion: none.
+- **Gate 0 (complete, ~zero cost):** draft the Regulation and memorandum in
+  this repository; build the simulator; no announcement. Kill criterion:
+  none. The repository was private while this gate ran and is public,
+  unannounced, since 19 August 2026, per the amendment at the end of this
+  file.
 - **Gate 1 (Sept-Oct 2026, ~zero cost):** admissibility opinion via the ECI
   Forum's free legal advice; three soundings (ETUC/ETUI, one Belgian MEP
   office, one ECI veteran). KILL: if the core ask is unregistrable even

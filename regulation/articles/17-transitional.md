@@ -23,8 +23,11 @@ date, which also contradicted the instrument's own in-time doctrine. The
 rule is now uniform and purely prospective: a pre-existing admission is not
 an event; the warrant of an already-listed undertaking waits, dormant, for
 the next genuine liquidity event (change of control or a qualifying 20 %
-transfer), exactly as every other warrant does. Escape by never having
-another event is accepted: the instrument claims stakes in gains that
-crystallise after it exists, and where none crystallise it takes nothing,
-which is what claiming the stake in time means. Paragraph 3 is the express
-non-retroactivity rule (JPG 10.14).
+transfer), exactly as every other warrant does. This Article does not
+disapply Article 5(3), so the extraction trigger and the seven-year
+long-stop in that paragraph continue to run from issuance, exactly as for
+every other warrant. There is accordingly no escape by never having
+another liquidity event: absent one, the warrant of an already-listed
+undertaking crystallises in any event no later than seven years after
+issuance, and sooner if extraction is used to strip it in the meantime.
+Paragraph 3 is the express non-retroactivity rule (JPG 10.14).

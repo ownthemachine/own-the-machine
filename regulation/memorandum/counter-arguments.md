@@ -108,8 +108,9 @@ construction, which is what those cases require the legislature to show.
 
 **Design consequence.** DC-1: prospective warrant on future value creation at
 defined events, never retroactive transfer of existing shares. DC-2: high
-group-consolidated thresholds. DC-3: passivity and crystallisation-at-events
-written into the instrument itself.
+group-consolidated thresholds. DC-3: passivity, and crystallisation only at
+defined statutory events, never at a discretionary or political one, written
+into the instrument itself.
 
 ### 2. This is a tax, and the EU may not levy it this way
 
@@ -261,9 +262,12 @@ citizens' reach entirely.
 **What it gets right.** All of it. This is the hardest design problem in the
 instrument, harder than the legal base.
 
-**The answer the instrument must give.** The warrant is dormant until a
-liquidity event: listing, change of control, or qualifying secondary sale.
-Until then it requires no valuation, pays nothing and votes nothing; at the
+**The answer the instrument must give.** The warrant is dormant until
+crystallisation, whether at a liquidity event (listing, change of control,
+or qualifying secondary sale) or, under Article 5(3), where shareholder
+extraction exceeds the stated share of covered turnover or seven years
+have elapsed since issuance, whichever occurs first. Until then it
+requires no valuation, pays nothing and votes nothing; at the
 event it converts at the event price, with no discretion. This matches the
 book's own window (claim the stake while the asset forms, crystallise when
 the market prices it) and removes the valuation and governance problems in
@@ -654,10 +658,18 @@ price; objection 4 prices it, and proportionality, not denial, is the
 defence.
 
 **Design consequence.** DC-13's permanent non-voting rule and Article 9's
-conduct prohibitions are this objection's answer in law. It adds one rule
-of its own: no amendment may ever attach a control right, veto or
-governance privilege to the Reserve's holdings; economic participation is
-the constitutional maximum (DC-32).
+conduct prohibitions are this objection's answer in law. What they cannot
+do is bind a future legislature, and this memorandum does not pretend
+otherwise: the drafting of Article 12(3) records that binding future
+legislatures failed the gates in an earlier round, and an attempt on 21
+August 2026 to give the rule operative force in that paragraph was
+abandoned because hostile counsel preferred it present, reading it as a
+Union-law command that the Reserve be stripped of the protective class
+rights Article 5(4)(b) gives it. What stands is a design rule binding this
+instrument and anyone amending it: economic participation is the maximum,
+and no control right, veto or governance privilege attaches to the
+Reserve's holdings (DC-32). It is a commitment the text keeps, not a lock
+the text can impose.
 
 ### 17. You are seizing equity in companies Europe does not govern
 
@@ -810,11 +822,12 @@ is a transfer the Regulation stops.
 **Design consequence.** DC-35: crystallisation triggers on extraction and
 on time, not only on a sale. DC-36: the Reserve's shares rank with the
 most favoured class, and subordinating arrangements are disregarded.
-DC-37: the obligation follows the automated assets to any affiliate or
-successor, pro rata to value. DC-38: unrecoverable source taxation is
-minimised where it can be and published where it cannot. DC-39: the
-obligation reattaches where the same owners or their creditors reacquire
-the assets out of a restructuring.
+DC-37: the transferee issues its own warrant over its own capital; the
+transferor's own obligation continues unaffected. DC-38: unrecoverable
+source taxation is published annually; the instrument does not direct the
+Reserve to arrange its holdings to reduce it. DC-39: the obligation
+reattaches where the same owners reacquire the assets out of a
+restructuring.
 
 ## The constraints table
 
@@ -825,7 +838,7 @@ review regardless of its prose.
 |---|---|---|
 | DC-1 | Prospective warrants on future value; never retroactive transfer | 1 |
 | DC-2 | High, objective, group-consolidated thresholds | 1, 5, 17 |
-| DC-3 | Statutory passivity; crystallisation at events only | 1, 6 |
+| DC-3 | Statutory passivity; crystallisation only at defined statutory events, never at a discretionary or political one | 1, 6 |
 | DC-4 | No monetary flow from undertakings; instruments only | 2, 4 |
 | DC-5 | Distributions are property income of the reserve | 2 |
 | DC-6 | Severable layering for partial ECI registration | 2 |
@@ -854,25 +867,29 @@ review regardless of its prose.
 | DC-29 | Interference capped at the stated percentage in execution; independent, separately challengeable valuation; judicial review | 1 |
 | DC-30 | Essential elements (trigger, reserve ownership, entitlement, interference) in the articles, never delegated | 1 |
 | DC-31 | Wherever a per-citizen payout figure is shown, the per-citizen stake in the Reserve is shown beside it | 15 |
-| DC-32 | No control right, veto or governance privilege may ever attach to the Reserve's holdings | 16 |
+| DC-32 | Economic participation is the maximum: no control right, veto or governance privilege attaches to the Reserve's holdings, binding this instrument and anyone amending it, without pretending to bind a future legislature | 16 |
 | DC-33 | For third-country-law undertakings the warrant is an obligation of result as a market-access condition, never an override of foreign company law | 17 |
 | DC-34 | No tier between valuation and the courts; correction is ex post and the transaction never waits | 6 |
 | DC-35 | Crystallisation triggers on shareholder extraction and on time, not only on a sale | 18 |
 | DC-36 | The Reserve's shares rank with the most favoured class; subordinating arrangements are disregarded | 18 |
-| DC-37 | The obligation follows the automated assets to any affiliate or successor, pro rata to value | 18 |
-| DC-38 | Unrecoverable source taxation minimised where possible, published where not | 18 |
-| DC-39 | The obligation reattaches where the same owners or their creditors reacquire the assets out of a restructuring | 18 |
+| DC-37 | The transferee issues its own warrant over its own capital; the transferor's own obligation continues unaffected | 18 |
+| DC-38 | Unrecoverable source taxation published annually; the Reserve is not directed to arrange its holdings to reduce it | 18 |
+| DC-39 | The obligation reattaches where the same owners reacquire the assets out of a restructuring | 18 |
 | DC-40 | Below a de minimis the distribution interval lengthens; it never becomes a reason not to pay | 15 |
 
 ## Status
 
-All objections OPEN until the articles answer them; 12 is CONCEDED by scope.
-Objection 18 was added on 21 August 2026 from an external review of
-corporate-structuring routes around the instrument. Unlike objections 16
-and 17, it did not find the answers already in the articles: five of its
-six routes were open, and Articles 2, 5, 8 and 10 and Annex II were
-amended to close them. It is the first objection in this file whose
-answer had to be written rather than cited.
+Objections are OPEN until the articles answer them, save where noted below;
+12 is CONCEDED by scope. Objection 18 was added on 21 August 2026 from an
+external review of corporate-structuring routes around the instrument.
+Unlike objections 16 and 17, it did not find the answers already in the
+articles: it describes five routes. Four of them are now closed by
+amendments to Articles 2 and 5. The fifth, source taxation, prompted an
+amendment to Article 8 but is not closed, and the answer to that objection
+says so: publication is a smaller answer than the problem. A sixth item,
+borrowing at arm's length, was considered and deliberately left open,
+because it is not the extraction the objection is about. It is the first objection in
+this file whose answer had to be written rather than cited.
 
 Objections 16 and 17 were added on 20 August 2026 from an external
 challenge (the Article 63 golden-share line; qualified-effects overreach);

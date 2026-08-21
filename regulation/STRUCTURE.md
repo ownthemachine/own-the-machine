@@ -4,8 +4,8 @@ Working title: Regulation of the European Parliament and of the Council on
 harmonised rules for citizen participation in automated productivity gains
 (Citizens' Capital Regulation).
 
-Legal bases: Article 114 TFEU, and in particular; Article 173 TFEU cited for
-the industrial-policy dimension. Severable layers per DC-6.
+Legal bases: Article 114 TFEU, with Article 352 TFEU as the fallback where
+Article 114 does not comfortably reach. Severable layers per DC-6.
 
 | Ch | Articles | Content | Status |
 |---|---|---|---|
@@ -18,8 +18,8 @@ the industrial-policy dimension. Severable layers per DC-6.
 | VII | 13-16 | Penalties; monitoring and evaluation; delegation; committee procedure | drafted |
 | VIII | 17-18 | Transitional and final provisions | drafted |
 
-Recitals: drafted, regulation/recitals.md (30 recitals; DC-26 carried in
-recital 24).
+Recitals: drafted, see regulation/recitals.md. DC-26, the explicit
+scope-and-limits recital, is outstanding and not yet drafted.
 
 Annex I: methodology for counting turnover, fair market value and full-time
 equivalents (referenced by Article 3; technical only per JPG G22). Drafted,

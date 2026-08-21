@@ -31,7 +31,7 @@ and the kill criterion in campaign/GATES.md applies.
 ### Layer 1: designation and transparency (Article 114 TFEU, comfortable)
 
 Articles 1 to 4, 14, 16, 18, with Annex I; penalties limited to the
-notification and information duties; recitals 1 to 7, 24 to 26, 28 to 30.
+notification and information duties; recitals 1 to 8, 30 to 32, 34 to 36.
 
 A regulation that designates hyper-automated undertakings on harmonised
 criteria, makes the designation public, and reports on adoption,
@@ -48,7 +48,7 @@ Union or national, would build on.
 ### Layer 2: the warrant (Article 114 TFEU, contested; fallback 352)
 
 Articles 5 to 7, 13 in full, 15, 17, with the company-law derogations and
-the valuation machinery; recitals 8 to 15, 23.
+the valuation machinery; recitals 9 to 20, 29.
 
 The obligation to issue the citizens' capital warrant, crystallising on
 the first liquidity event, with the BRRD-pattern safeguards. The Article
@@ -70,7 +70,7 @@ this document says so rather than pretending otherwise.
 
 ### Layer 3: the Reserve and the entitlement (Article 352 TFEU, honestly)
 
-Articles 8 to 12, with Annex II; recitals 16 to 22, 27.
+Articles 8 to 12, with Annex II; recitals 21 to 28, 33.
 
 The Reserve as a new Union-level body holding assets for citizens, the
 universal entitlement arising by operation of law, national vehicles, the

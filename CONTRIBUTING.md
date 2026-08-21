@@ -8,7 +8,7 @@ governs every article. If your objection is there, sharpen it. If it is not,
 that may be the most valuable PR you can make: objections are contributions.
 
 **Propose amendments** by issue first (motivation, affected articles, which
-of objections 1-14 it engages), then PR. See GOVERNANCE.md for merge
+of objections 1-18 it engages), then PR. See GOVERNANCE.md for merge
 criteria and change classes.
 
 **Translations** follow translations/README.md: machine-first draft, then
@@ -18,7 +18,7 @@ are for understanding.
 
 **Style:** British English in prose; EU legislative drafting conventions in
 regulation/ (see pipeline/DRAFTING-RULES.md); no em-dashes anywhere; run the linter from the
-[tools repo](https://github.com/thetwit4u/own-the-machine-tools) before
+[tools repo](https://github.com/ownthemachine/own-the-machine-tools) before
 pushing.
 
 **What we will not merge:** anonymous-source claims in the evidence base,

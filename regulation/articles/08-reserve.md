@@ -57,8 +57,8 @@ rule generalised (retain enough to preserve real capital, distribute the
 rest), which also enforces DC-14: distributions grow with the portfolio and
 start small. Governance, passivity at Reserve level and prohibited conduct
 are Article 9, still reserved; the non-voting rule already binds via
-Article 5(3)(a). The retention methodology is Annex II, amendable
-under the paragraph 7 empowerment via Article 15. Satisfies DC-4, DC-5, DC-14, DC-19 in part, DC-24.
+Article 5(4). The retention methodology is Annex II, amendable
+under the paragraph 8 empowerment via Article 15. Satisfies DC-4, DC-5, DC-14, DC-19 in part, DC-24.
 
 
 Drafting note on paragraph 5 (non-normative). A first draft permitted the

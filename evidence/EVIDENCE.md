@@ -122,12 +122,20 @@ individual claims is better.
 - **Spain's pension reserve fund fell 97 %,** from EUR 66,8 bn (2011)
   to EUR 2,1 bn, cumulative withdrawals EUR 80,3 bn. The law protecting
   it was passed in 2023, after it was empty.
-- **Ireland's National Pensions Reserve Fund stands, in real terms, at
-  about 99 % of its 2007 position eighteen years on,** because it was
-  liquidated into the bank rescue. Hungary's -75,9 % is the other
-  benchmark. These are the strongest cases against this Regulation's
-  own mechanism, and they are why the Reserve's protections are
-  operative articles rather than promises.
+- **Ireland's National Pensions Reserve Fund held over EUR 21 bn at the
+  end of 2007. Its discretionary portfolio was EUR 7,1 bn when the fund
+  was wound up seven years later,** the difference having been directed
+  into the recapitalisation of Allied Irish Banks and Bank of Ireland,
+  EUR 10 bn of it converted to cash and placed on deposit with those
+  same banks in April 2011 before being invested in them that July. The
+  assets passed to the Ireland Strategic Investment Fund on 22 December
+  2014 and the fund's own mandate ended with it. *NTMA, National
+  Pensions Reserve Fund Commission Annual Report 2014; NTMA valuation of
+  the Discretionary Portfolio at 21 December 2014; National Treasury
+  Management Agency (Amendment) Act 2014.* Hungary's -75,9 % is the
+  other benchmark. These are the strongest cases against this
+  Regulation's own mechanism, and they are why the Reserve's protections
+  are operative articles rather than promises.
 - **Estonia proves a claim is necessary but not sufficient.** When the
   second pillar went voluntary in January 2021, 149 083 people took out
   EUR 1,32 bn in a single month; leavers averaged age 41 with

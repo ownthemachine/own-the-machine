@@ -18,9 +18,10 @@ was never the money. It was the rule.
 
 ## Status
 
-**Private drafting phase.** Nothing here is filed, announced or final. The text
-earns its public moment by being good. See `campaign/GATES.md` for the staged
-plan and its kill criteria.
+**Public, unannounced.** Nothing here is filed, announced or final. The
+repository and the site went public ahead of Gate 1 so that outreach could
+lead with the living text rather than an attachment; the gates and their kill
+criteria are unchanged. See `campaign/GATES.md` for the staged plan.
 
 ## Layout
 

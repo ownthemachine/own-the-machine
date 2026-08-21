@@ -97,6 +97,10 @@ answer was to reverse the direction, lending the undertaking's own cash
 upstream to the parent and never calling it back, so point (b) covers
 lending out as well as paying back: cash that leaves for a related pocket
 and stays there for a year is cash that left, whichever way the promissory
-note points. This mirrors the other side of Article 5(3)(a): money put in by outsiders
-raises the threshold, money taken out by insiders counts against it. 'Fair market value' is needed for
+note points. This is the numerator for Article 5(3)(a): shareholder
+extraction, as defined here, is measured against covered turnover alone.
+A paid-in-capital limb was deleted from Article 5(3)(a) after outside
+money proved able to inflate it (see the drafting notes to Article 5),
+so what money is put in by outsiders no longer matters to the threshold;
+only what insiders take out does. 'Fair market value' is needed for
 Article 3 designation, not for warrant pricing, which is event-priced.

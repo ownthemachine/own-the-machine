@@ -148,7 +148,7 @@ payment on execution, satisfying Article 69 expressly. Article 85 equal
 treatment is complied with, not derogated from: the dilution falls on
 all shareholders pro rata. The capital chapter binds only the public
 company forms in Annex I of the Directive (Article 44(1)); for private
-forms the Member-State-law limb of paragraph 6 does the same work. The chapter is the assets-not-flows test as
+forms the Member-State-law limb of paragraph 7 does the same work. The chapter is the assets-not-flows test as
 law. Paragraph 4(c) is DC-4 and DC-9 verbatim: the obligation can never
 collapse into a fee, which also carries the incidence answer (objection 4).
 Dormancy until the event is DC-12; permanent non-voting is DC-13; operation
@@ -161,7 +161,7 @@ the interference is the stated 3 %, justified in the recitals under Article
 percentage cannot be exceeded in execution and that valuation is independent
 and separately justiciable (Aeris Invest pattern). 3 % is deliberately far
 below employee-option pools and bail-in scales; proportionality lives partly
-in that number. Paragraph 5's second sentence answers hostile counsel's
+in that number. Paragraph 5's third sentence answers hostile counsel's
 extraterritoriality attack: for undertakings governed by third-country law
 the mechanism is an obligation of result enforced through Article 13
 penalties as a condition of market access, the DMA pattern, rather than a

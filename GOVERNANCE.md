@@ -1,8 +1,8 @@
 # Governance: how an open-source law changes
 
-This repository will be fully public. Every rule here is written for that
-moment: strangers proposing amendments to a draft statute, in public, with
-the history permanent.
+This repository is public. Every rule here is written for that fact:
+strangers proposing amendments to a draft statute, in public, with the
+history permanent.
 
 ## Roles
 
@@ -44,7 +44,7 @@ least as well as before.
 
 ## Process
 
-1. Open an issue describing the change and which objections (1-14) it
+1. Open an issue describing the change and which objections (1-18) it
    relates to. Drafting starts in the issue, not the PR.
 2. PR from a branch; template requires: DCs touched, change class, gates run,
    review files added under pipeline/reviews/.

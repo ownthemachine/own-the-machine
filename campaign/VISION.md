@@ -1,4 +1,4 @@
-# Own the Stable: the vision, in David's framing
+# Own the Machine: the vision
 
 18 August 2026, stated by David after reading the feasibility analysis:
 

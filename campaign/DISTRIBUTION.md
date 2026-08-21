@@ -1,14 +1,17 @@
 # Distribution: how the open-source law gains traction
 
-18 August 2026. Constraint from the vision doc stands: nothing goes public
-before the text is defensible (Gate 0) and the admissibility opinion is in
-(Gate 1). Traction work before that point is preparation, not publication.
+18 August 2026, amended 19 August 2026 (see campaign/GATES.md): the site and
+the repositories are public, quietly, ahead of the admissibility opinion
+(Gate 1). That moves the public moment, not the gates: no announcement, no
+active traction push, until Gate 1 clears; constitution still waits for that
+opinion and filing waits for Gate 2. Traction work before that point is
+seeding, not publicity.
 
 ## The authorship question, settled
 
 The instinct to omit the book "to avoid conflict of interest" is the wrong fix
 for a real concern. Omission does not remove a conflict; it hides one, and
-hidden is worse. The campaign is called Own the Stable; the book's cover line
+hidden is worse. The campaign is called Own the Machine; the book's cover line
 is "who owns the machine"; the four tests structure the regulation's articles.
 The connection will be discovered within a day of any traction, and at that
 point the story becomes the concealment instead of the idea. The project's own

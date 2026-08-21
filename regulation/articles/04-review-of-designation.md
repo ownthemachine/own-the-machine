@@ -32,5 +32,5 @@ Article (designate, dilute the ratio by acquisition, obtain repeal, wait out
 the lapse, spin off and list). Three links are now cut: the acquisition is
 an Article 3(8) arrangement and is disregarded across the Regulation, repeal
 is unavailable where the change results from such an arrangement, and
-Article 5(5) limits the one-warrant rule to the same designation, so
+Article 5(1) limits the one-warrant rule to the same designation, so
 re-designation after a genuine repeal carries a fresh warrant.
