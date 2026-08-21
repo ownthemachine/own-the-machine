@@ -136,6 +136,20 @@ individual claims is better.
   other benchmark. These are the strongest cases against this
   Regulation's own mechanism, and they are why the Reserve's protections
   are operative articles rather than promises.
+- **Sweden abolished its wage-earner funds in 1991, eight years after
+  creating them, on a change of government.** The funds were legislated in
+  1983 as five regional bodies financed by a levy on profits and on the wage
+  sum, holding no more than 8 % of any one undertaking. They were the
+  diluted survivor of the 1976 Meidner plan, which would have required
+  profitable undertakings to issue new shares worth 20 % of annual profits
+  to collectively held funds until those funds held a majority; the
+  compulsory issuance was abandoned before the Riksdag ever voted on it. A
+  centre-right government wound the funds up in 1991 with little resistance
+  from the movement that had proposed them. This is the closest precedent
+  anywhere to the mechanism in Article 5, and it is the strongest case
+  against it, which is why objection 19 states it rather than the evidence
+  base burying it.
+
 - **Estonia proves a claim is necessary but not sufficient.** When the
   second pillar went voluntary in January 2021, 149 083 people took out
   EUR 1,32 bn in a single month; leavers averaged age 41 with

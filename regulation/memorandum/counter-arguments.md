@@ -93,7 +93,40 @@ concerns whose shares are worth a great deal. BRRD is therefore borrowed
 for its machinery, not for its justification, and this file does not
 pretend otherwise; the justification is the one in James and in Hauer, and
 it stands or falls on proportionality rather than on a crisis that is not
-happening. So
+happening.
+
+One further authority is worth stating precisely, because stated loosely it
+would be worth nothing. In Sky Osterreich (C-283/11, 22 January 2013) the
+Grand Chamber upheld a Union measure requiring holders of exclusive
+broadcasting rights to grant competitors access for short news reports,
+with compensation capped at the additional costs directly incurred, which
+is below what the market would pay. The rights-holders were solvent, there
+was no crisis and no counterfactual insolvency. **That case was decided
+under Article 16 of the Charter, the freedom to conduct a business, and not
+under Article 17.** It is not authority for a taking of equity, and this
+file does not offer it as one; hostile counsel would be entitled to
+dismantle any such use of it, and would enjoy doing so.
+
+What it does carry is narrower and still useful. This instrument interferes
+with Article 16 as well as Article 17, because compelling an undertaking to
+issue shares it did not choose to issue is an interference with the conduct
+of its business, and the Commission's Legal Service will see both. On that
+limb Sky Osterreich is directly in point, and it says three things: the
+Article 16 freedom is not absolute but must be viewed in relation to its
+social function; the Union legislature may set consideration below market
+value where the public interest requires it; and the test is the ordinary
+Article 52(1) one. The older line supports the same reading of business
+interests, which enjoy no protection as mere commercial expectations of
+future profit (Nold 4/73). Booker Aquaculture (C-20/00 and C-64/00) is
+sometimes cited alongside, and this file does not lean on it: it concerned
+the destruction of diseased stock under an animal-health regime, which is a
+public-emergency justification this instrument cannot claim.
+
+The Article 17 limb therefore still rests where it rested, on James and on
+Hauer, and the honest statement is that no decided case puts a permanent,
+non-crisis, uncompensated equity dilution of a healthy undertaking on the
+right side of Article 17. That is the largest legal risk in the project and
+it is stated as such in the answer above. So
 our floor is executional rather than counterfactual: the interference can
 never exceed the stated 3 % in execution, its price is set by the
 liquidity event itself under an independent and separately challengeable
@@ -836,6 +869,110 @@ Reserve to arrange its holdings to reduce it. DC-39: the obligation
 reattaches where the same owners reacquire the assets out of a
 restructuring.
 
+### 19. Sweden tried this and could not even legislate it
+
+**The objection, at full strength.** This mechanism is not new and it has
+already failed, in the one country most likely to have carried it. The
+Meidner plan, endorsed by the Swedish trade union confederation's congress
+in 1976, required profitable undertakings to issue new shares worth 20 % of
+their annual profits to collectively held funds, year after year, until
+those funds held a majority of the shares. That is this instrument's
+mechanism: a compulsory issuance of new equity to a collective holder,
+settled in shares rather than cash, calibrated to the undertaking's own
+prosperity.
+
+It did not survive its own drafting. By the time the Riksdag legislated in
+1983, the compulsory share issuance had been abandoned and replaced with a
+levy on profits and on the wage sum, capped in aggregate and limited to
+holdings of no more than 8 % of any one undertaking. The design converted,
+under political pressure and before enactment, into precisely the thing this
+memorandum spends Article 8 and objection 2 insisting this instrument is
+not: a tax. Then Swedish business mobilised against even the diluted version
+on a scale without modern parallel, with a demonstration on 4 October 1983
+that drew between 75 000 and 100 000 people where the organisers had
+expected 5 000, and repeated it annually until a change of government
+abolished the funds in 1991, against minimal resistance from the movement
+that had proposed them.
+
+The reading is unkind and it is available to anyone who knows the file. In
+the most union-friendly advanced economy in the world, at the peak of
+organised labour's power, with a sympathetic government, the compulsory
+issuance of equity to a collective fund proved unlegislatable, converted
+into a fiscal measure at the drafting stage, and was repealed within eight
+years by the first government that wanted to. A drafter who does not know
+this has not done the reading. A drafter who knows it and omits it is
+hiding it.
+
+**What it gets right.** Almost all of it, as history. The mechanism is the
+same family. The conversion to a levy is real and is the sharpest available
+evidence for objection 2's characterisation attack, because it shows
+experienced legislators reaching for the fiscal instrument when the
+equity instrument became politically impossible. The 1991 abolition is a
+genuine instance of the raid this instrument drafts Chapter VI against, and
+it belongs beside Poland, Spain and Ireland in the evidence base rather
+than being left out because it is inconvenient. The mobilisation is a real
+prediction about what happens when capital reads a proposal of this kind
+as a transfer of control.
+
+**The answer the instrument must give.** Three differences, each of which
+maps onto a specific reason the Swedish design failed, and none of which is
+cosmetic.
+
+First, terminus. Meidner's funds were designed to accumulate without limit
+until ownership changed hands, and its author said so; that was the point,
+not a side effect. This instrument takes 3 % of fully diluted capital once,
+per designation, with the aggregate across an undertaking and every
+transferee capped at that same percentage under Article 5(11) and Article
+7(2). There is no path from this instrument to control, because the
+arithmetic does not permit one. An opponent who says otherwise is arguing
+against a different proposal.
+
+Second, control. The Swedish funds voted, and they were run by the unions.
+The scholarship on the defeat is consistent that the mobilisation was about
+who would govern the companies rather than about the money, and the 8 %
+ceiling was itself an attempt to answer that fear. The Reserve holds
+non-voting shares under Article 5(4)(a), is forbidden by Article 9 from
+seeking or exercising influence, and DC-32 makes economic participation the
+maximum. The constituency that made 1983 possible was employers who
+believed they were being nationalised in instalments. That belief cannot be
+formed about an instrument that cannot vote.
+
+Third, beneficiary. The Swedish funds accrued to a labour movement, which
+made them a party question in a two-party fight. This instrument's
+distributions accrue equally to every citizen of the Union under Article 10,
+including the shareholders and the employees of the designated undertakings
+themselves. That does not make opposition impossible. It makes "them
+against us" harder to draw.
+
+What this file will not claim is that the differences make the political
+economy safe. They do not. The honest position is that Sweden shows the
+mechanism can be legislated only if it is visibly bounded, visibly
+powerless as to control, and visibly universal in who it pays, and that a
+proposal failing any of those three has a documented way of dying. This
+instrument is drafted to satisfy all three, and objection 4 already prices
+the residual political risk rather than denying it.
+
+**Design consequence.** DC-41: the instrument must be bounded, without
+votes or control rights, and universal in who it pays, all three at once,
+because the Swedish precedent shows that failing any one of them is
+sufficient to lose. The word to avoid is passive. The Reserve does assert
+claims: Article 5(4)(b) fixes its rank and Article 5(10) makes subordinating
+arrangements ineffective against it, and an opponent will call that
+anything but passive. The defensible claim is narrower: the Reserve holds
+no votes, appoints no one, and has no say in the management of the
+undertaking. Even that is not the end of it. Hostile counsel makes the
+further point that a rank the undertaking cannot subordinate constrains how
+it raises distressed or preference capital, since new money normally
+demands seniority, and calls that a veto over capital structure in
+substance. It is not a governance right and Article 5(10) leaves the
+arrangement effective between the parties to it. It is, all the same, a
+constraint on financing that the word passive would conceal, and objection
+18 and the drafting record now carry it as an open question rather than a
+settled one. DC-42: the wage-earner
+funds belong in the evidence base as a raid precedent and in this file as an
+objection, stated before an opponent states it.
+
+
 ## The constraints table
 
 The articles are drafted against this table. A draft that violates a DC fails
@@ -883,6 +1020,8 @@ review regardless of its prose.
 | DC-38 | Unrecoverable source taxation published annually; the Reserve is not directed to arrange its holdings to reduce it | 18 |
 | DC-39 | The obligation reattaches where the same owners reacquire the assets out of a restructuring | 18 |
 | DC-40 | Below a de minimis the distribution interval lengthens; it never becomes a reason not to pay | 15 |
+| DC-41 | Bounded, without votes or control rights, and universal in who it pays: the Swedish wage-earner funds show that failing any one of the three is enough to lose. The Reserve does assert claims as to rank and against subordination; what it never acquires is votes, board seats or any say in management | 19 |
+| DC-42 | The wage-earner funds are stated as an objection here and as a raid precedent in the evidence base, before an opponent states them | 19 |
 
 ## Status
 
