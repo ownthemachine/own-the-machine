@@ -973,6 +973,199 @@ funds belong in the evidence base as a raid precedent and in this file as an
 objection, stated before an opponent states it.
 
 
+### 20. Taking the voteless shares hands control to the people you named as the problem
+
+**The objection, at full strength.** The instrument takes three per cent of
+the economic value and none of the votes. The arithmetic of that is not
+neutral. Before the warrant, the existing holders own all of the capital and
+cast all of the votes; after it they own ninety-seven per cent of the capital
+and still cast all of the votes. Their control per euro of their own money has
+gone up, by about three per cent, and the Union has handed it to them. A file
+whose diagnosis is that the ownership of productive capital is too narrow
+responds by creating the largest permanently voteless shareholder in Europe
+and widening, at every covered undertaking, precisely the wedge between
+cash-flow rights and control rights that corporate-governance scholarship
+identifies as the most reliable predictor of minority expropriation and
+unaccountable management. The founders of the frontier firms already hold
+control through dual-class structures on minority economic stakes. This gives
+them more of it, for free, by statute.
+
+The legitimation point is worse than the arithmetic. Once the Union itself
+accepts voteless equity as the form its own citizens' participation takes, no
+Union institution can coherently object to dual-class listings, loyalty shares
+or any other separation of ownership from control. The instrument does not
+merely tolerate the wedge; it endorses it, in a Regulation, on behalf of
+450 million people.
+
+**What it gets right.** The mechanical claim is exactly true and this file
+should not pretend otherwise: non-voting shares raise the relative voting
+weight of every voting share, and the raise here is real. If the diagnosis
+were about who controls firms rather than about who receives the returns to
+capital, the instrument would be answering a question it did not ask, and
+answering it in the wrong direction.
+
+**The answer the instrument must give.** Not that this is the wrong lens. An
+earlier draft of this passage called the governance reading a category error,
+on the ground that the instrument's claim is distributional. Four review
+gates rejected that in the same terms, and they were right: an instrument
+that alters the ratio of cash-flow rights to control rights at every
+undertaking it touches is a governance instrument in effect, whatever it is
+in intention, and it is properly judged on its effects. The answer below
+concedes the effect and defends the choice.
+
+The choice was between three positions and the file has taken the least bad
+one. A Reserve with votes proportionate to its stake is a politically
+directed shareholding in every frontier firm in the internal market: it is
+objection 9's honeypot with a lever attached, and objection 16's golden
+share, which the Court has struck down in every form it has taken since
+Commission v Germany (C-112/05). A Reserve with no stake at all abandons the
+distributional claim entirely. A Reserve with economic participation and no
+control accepts a real governance cost in exchange for the only position that
+survives Article 63 and the golden-share line. Article 5(4)(a) and Article
+9(1)(a) to (c) put that beyond the drafter's later convenience, and DC-43
+keeps any successor honest about it.
+
+On magnitude, one comparison and its limits. Three per cent of enlarged
+capital raises the remaining holders' voting weight by roughly one
+thirty-second of itself, and buy-back programmes of that order run routinely
+at the undertakings this instrument covers without anyone calling them a
+transfer of control. That comparison is offered for size and for nothing
+else, and it does not survive being pushed further: a buy-back is elective,
+is executed for consideration and returns cash to the holders whose weight
+rises, whereas this is compulsory, is subscribed at nominal value and returns
+nothing to them. Reviewers were right to say the two are not alike in kind.
+They are alike in the one respect the paragraph uses them for, which is how
+much the voting weight of a remaining share actually moves.
+
+On legitimation, the objection lands and is only partly answered. Voteless
+shares are not this instrument's invention: Union company law has permitted
+them for decades and every Member State provides for them, so the Reserve
+takes a class the market already trades. But the Union has lately been
+legislating in the other direction, adding safeguards around multiple-vote
+structures precisely because the separation of ownership from control is
+understood to be a hazard, and a Regulation that plants a permanent voteless
+block in every covered undertaking sits uneasily beside that. The honest
+statement is that the instrument spends some of the Union's authority on the
+proposition that economic participation without control is a legitimate form
+of ownership, and that the price is real. It is paid deliberately, because
+the alternative is a Union holding votes in the undertakings it regulates,
+and this file would rather defend a wedge than defend that.
+
+The precise interaction with the Union's multiple-vote share legislation is
+recorded as an open acquis interface point rather than argued here from a
+citation this file has not yet verified, and it joins the acquis
+interface points already recorded on the list before filing.
+
+**Design consequence.** The instrument's claim is distributional and no
+amendment gives the Reserve votes without arguing itself as a different
+instrument, but the governance effect is conceded and defended rather than
+disclaimed (DC-43). The relative voting effect on existing holders is stated
+with its size, and the buy-back comparison is confined to magnitude with its
+disanalogy stated in the same breath (DC-44).
+
+
+### 21. Why three per cent, and not one, or ten
+
+**The objection, at full strength.** The number is asserted. Nowhere in this
+file is it derived. Article 52(1) of the Charter permits a limitation on the
+right to property only where it is necessary and genuinely meets an objective
+of general interest, and necessity is the question a bare figure cannot
+answer: if three per cent achieves the objective, one per cent is the less
+intrusive means and the measure fails; if one per cent does not achieve it,
+the file has not shown why three does. The reviewing court will ask the
+legislature to show its work, as it asked in every proportionality case worth
+citing, and this file will hand it a round number that sits comfortably below
+the level at which the objection "you are nationalising them" becomes easy to
+make. That is a political calibration wearing the clothes of a legal one, and
+the Commission's Legal Service will see it on the first reading. Every other
+number in the instrument is tied to something: the thresholds in Article 3 to
+measurable quantities, the seven-year long stop to the observed interval
+between designation and realisation. The one number that determines how much
+is taken is tied to nothing.
+
+**What it gets right.** All of it. This is the weakest load-bearing point in
+the file, and no quality of drafting anywhere else repairs it. It would be
+worse than useless to answer it here with a derivation invented to fit a
+figure already chosen: that is precisely the vice the objection names, and a
+reviewer who caught it would be entitled to discount everything else in this
+memorandum.
+
+**The answer the instrument must give.** The objection is correct, and the
+attempt to answer it produced something worse than a missing derivation: a
+demonstration that no derivation of the kind a court would want can be
+produced at all while Article 1 stands as drafted.
+
+The published model is linear in the percentage. Annex II's arithmetic, as
+implemented in the simulator on the campaign site, accumulates the Reserve's
+capital by adding the warrant percentage of each crystallising flow, and
+every distribution downstream is a fraction of that capital. Doubling the
+percentage doubles the dividend at every horizon and halving it halves it,
+exactly, in every scenario the simulator offers. The computation is set out
+in evidence/warrant-percentage.md and anyone can rerun it. There is no
+threshold, no kink and no discontinuity anywhere on the curve, which means
+there is no percentage at which the instrument starts working and below which
+it does not.
+
+That is fatal to the obvious defence. Necessity under Article 52(1) asks
+whether a less intrusive measure would achieve the objective. If the
+objective is Article 1's, the participation of citizens in the capital value
+created by hyper-automated undertakings, then one per cent achieves it, and
+so does one tenth of one per cent, because each produces participation and
+the Article states no quantity that participation must reach. An opponent
+does not even need to argue that three per cent is too much. They need only
+observe that a smaller figure achieves the stated objective, and the
+necessity limb fails on the instrument's own words.
+
+So the defect is not in this memorandum, and it cannot be repaired here. It
+is in Article 1. An instrument that interferes with Article 17 of the Charter
+and states its objective qualitatively has left the necessity limb with
+nothing to be tested against, and no amount of argument about three per cent
+substitutes for that. Either the objective acquires a quantity against which
+a percentage can be measured, or the Article 52(1) defence rests on the
+proportionality limb alone, which asks only whether the burden is excessive
+and to which the answer is the ceiling rather than the floor.
+
+The ceiling is where the file's defence honestly sits today. A percentage
+large enough to strip existing holders of the substance of their property
+crosses from a regulation of use into a deprivation. Hauer (44/79) is the
+authority for the distinction itself and for the proposition that the right
+to property may be regulated in the general interest; it concerned a
+temporary restriction on planting vines and is not authority for a
+compulsory transfer of equity, and this file does not offer it as one. James
+and Others v United Kingdom (1986) is cited for the same distinction and for
+nothing further: the taking there was accompanied by compensation, so it is
+authority about where the line runs and not about what may be taken without
+paying for it. Objection 1 carries that argument and its honest residue,
+which is that no decided case places a permanent, non-crisis, uncompensated
+dilution of a healthy undertaking on the right side of the line. Three per
+cent is comfortably below any plausible deprivation ceiling. Being below a
+ceiling is a proportionality argument, not a necessity argument, and this
+file will not dress one as the other.
+
+What follows for the drafting is concrete rather than aspirational.
+Article 1 needs a quantified objective, expressed in a form a percentage can
+be tested against: a target for the Reserve's holdings relative to the
+aggregate capital of designated undertakings, or a distribution of a stated
+order within a stated horizon, either of which turns "why not one per cent"
+into a question with an answer. That work is not done. It is the highest
+priority on this file's list before any filing, it is ahead of the acquis
+interface points, and Gate 1's answer on registrability should inform how it
+is framed rather than delay it.
+
+Until it is done, the honest statement of this file's position is that the
+three per cent figure is defensible as proportionate and is not defensible as
+necessary, and that anyone relying on this memorandum should know which of
+the two limbs is carrying the weight.
+
+**Design consequence.** The percentage cannot be derived from the dividend
+side, because the published model is linear in it and no threshold exists to
+single out any figure; the file states this rather than implying a derivation
+it cannot produce (DC-45). Article 1's objective is qualitative, so the
+necessity limb of Article 52(1) has nothing to be tested against, and
+quantifying that objective is recorded as required drafting work before
+filing rather than as a matter for review afterwards (DC-46).
+
+
 ## The constraints table
 
 The articles are drafted against this table. A draft that violates a DC fails
@@ -1022,6 +1215,10 @@ review regardless of its prose.
 | DC-40 | Below a de minimis the distribution interval lengthens; it never becomes a reason not to pay | 15 |
 | DC-41 | Bounded, without votes or control rights, and universal in who it pays: the Swedish wage-earner funds show that failing any one of the three is enough to lose. The Reserve does assert claims as to rank and against subordination; what it never acquires is votes, board seats or any say in management | 19 |
 | DC-42 | The wage-earner funds are stated as an objection here and as a raid precedent in the evidence base, before an opponent states them | 19 |
+| DC-43 | The claim is distributional and no amendment gives the Reserve votes without arguing itself as a different instrument; the governance effect on remaining holders is conceded and defended, never disclaimed as the wrong lens | 20 |
+| DC-44 | The relative voting effect on existing holders is stated with its size, not left for an opponent to compute, and any comparison drawn to buy-backs is confined to magnitude with its disanalogy stated alongside | 20 |
+| DC-45 | The percentage cannot be derived from the dividend side: the published model is linear in it and no threshold singles out any figure. The file states this rather than implying a derivation it cannot produce | 21 |
+| DC-46 | Article 1's objective is qualitative, so the necessity limb of Article 52(1) has nothing to test against. Quantifying it is required drafting work before filing, not a matter for post-adoption review | 21 |
 
 ## Status
 

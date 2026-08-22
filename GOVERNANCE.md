@@ -63,6 +63,11 @@ draft has been put in front of people who were invited to argue with it:
 Provisional constitutional changes, pending the window:
 
 - 21 August 2026: "Versions: the freeze at registration", added below.
+- 22 August 2026: objections 20 and 21 and constraints DC-43 to DC-46 in
+  regulation/memorandum/counter-arguments.md. DC-46 records that Article 1's
+  objective needs quantifying before filing, which is the largest open
+  drafting item this file has; the reasoning is in
+  pipeline/reviews/2026-08-22-objections-20-21.md.
 
 This clause is itself provisional under its own terms.
 
