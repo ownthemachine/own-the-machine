@@ -1,15 +1,17 @@
 # Article 14: Monitoring and evaluation
 
 1. The Commission shall monitor, on the basis of data published by the
-European Central Bank, Eurostat and the national statistical institutes:
-(a) the diffusion of automated cognitive systems among undertakings in the
-Union;
-(b) the distribution of household holdings of equity instruments in the
-Union;
-(c) the share of value added accruing to labour and to capital in the
-sectors in which covered undertakings operate;
-(d) the number of designations, crystallisations and distributions under
-this Regulation and their amounts.
+   European Central Bank, Eurostat and the national statistical institutes:
+   (a) the diffusion of automated cognitive systems among undertakings in
+   the Union; (b) the distribution of household holdings of equity
+   instruments in the Union; (c) the share of value added accruing to labour
+   and to capital in the sectors in which covered undertakings operate; (d)
+   the number of designations, crystallisations and distributions under this
+   Regulation and their amounts; (e) the evolution of the share of Union
+   gross value added accruing to compensation of employees, as published by
+   the Commission (Eurostat), relative to the year 2025, together with the
+   Commission's assessment of the contribution of automated cognitive
+   systems to any change in either direction.
 
 2. By 31 December 2032, and every three years thereafter, the Commission
 shall evaluate this Regulation and submit a report to the European

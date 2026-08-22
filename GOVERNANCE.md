@@ -64,7 +64,14 @@ Provisional constitutional changes, pending the window:
 
 - 21 August 2026: "Versions: the freeze at registration", added below.
 - 22 August 2026: objections 20 and 21 and constraints DC-43 to DC-46 in
-  regulation/memorandum/counter-arguments.md. DC-46 records that Article 1's
+  regulation/memorandum/counter-arguments.md.
+- 22 August 2026, second entry: the designation-ratio package. Article
+  3(2)(b) redesignated on fair market value against audited compensation
+  of labour; Annex I point 3 rewritten accordingly; Article 1(2)
+  quantified objective; Article 14(1)(e) labour-share indicator; recitals
+  5, 6, 7 and 30 amended; DC-45 and DC-46 restated. Two prior designs
+  were killed in gate review before this one; the record is in
+  pipeline/reviews/2026-08-22-designation-ratio.md. DC-46 records that Article 1's
   objective needs quantifying before filing, which is the largest open
   drafting item this file has; the reasoning is in
   pipeline/reviews/2026-08-22-objections-20-21.md.

@@ -35,10 +35,9 @@ transferred for consideration;
 decisive influence over the covered undertaking within the meaning of
 Article 3(2) of Regulation (EC) No 139/2004;
 
-(8) 'full-time equivalent' means the annual working time of one person
-employed full time, calculated in accordance with Annex I and including
-labour contracted from third parties in accordance with point 3 of that
-Annex;
+(8) 'compensation of labour' means the annual worldwide compensation of
+employees of an undertaking, calculated in accordance with point 3 of
+Annex I;
 
 (9) 'fair market value' means the value determined in accordance with
 Annex I on the basis of the most recent funding transaction, independent

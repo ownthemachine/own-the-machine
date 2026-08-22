@@ -14,30 +14,28 @@ consolidated basis.
 
 ## 2. Turnover of the automated segment
 
-The turnover referred to in point (b) of Article 3(2) comprises the
-worldwide turnover derived from the provision of the goods and services
-referred to in point (a) of Article 3(1). Where such goods or services
-are sold together with other goods or services for a single
-consideration, the consideration is attributed between them on a
-consistent and documented basis reflecting their relative stand-alone
-value.
+The turnover attributable to the provision of the goods and services
+referred to in point (a) of Article 3(1), used for the assessment of that
+point and in any market investigation pursuant to Article 4, comprises the
+worldwide turnover derived from that provision. Where such goods or services
+are sold together with other goods or services for a single consideration,
+the consideration is attributed between them on a consistent and documented
+basis reflecting their relative stand-alone value.
 
-## 3. Full-time equivalents
+## 3. Compensation of labour
 
-The number of full-time equivalents engaged in the provision referred to
-in point 2 comprises:
-(a) persons employed by the undertaking, in proportion to their annual
-working time relative to full-time employment;
-(b) persons placed at the disposal of the undertaking, or performing
-services which form part of that provision, under contracts with third
-parties, including temporary agency work, service contracts and
-subcontracting, in the same proportion;
-(c) persons engaged through any other arrangement the substance of which
-is the supply of labour to that provision.
-A person is counted under only one of points (a) to (c). The number is
-the annual average for the financial year. Labour engaged in the
-development, maintenance, supervision and support of the automated
-cognitive systems concerned forms part of the provision.
+The annual worldwide compensation of labour of an undertaking comprises
+all compensation of employees within the meaning of the European system
+of accounts, including social contributions payable by the employer and
+share-based compensation measured at grant value, as recorded in accounts
+audited in accordance with the law applicable to the undertaking,
+calculated on a consolidated basis for the group of linked enterprises,
+and averaged over the last two financial years.
+
+Compensation paid under arrangements whose main purpose or effect is to
+raise the undertaking's compensation of labour without a corresponding
+supply of labour to the undertaking shall be disregarded. Article 3(8)
+applies.
 
 ## 4. Fair market value
 
@@ -68,13 +66,19 @@ effect to Article 5.
 
 ---
 
-Drafting notes (non-normative). Point 3's substance-over-form headcount is
-the operative answer to DC-11 and to hostile counsel round 1's
-denominator-gaming attack: contracted labour cannot inflate the
-denominator, and the anti-avoidance rule for consideration attribution
-lives in Article 3(8) after the form gate found an autonomous command in
-an annex (JPG 22). Annex language is descriptive throughout for the same
-reason; the obligations flow from the articles that reference it. Point 3
-is drafted so that Article 2(8) can cite it for contracted labour. Point 4 mirrors the practice of growth-equity
-valuation without legislating a model. The 2 % floor in point 4(a)
-excludes token transfers priced for other reasons.
+Drafting notes (non-normative). Point 3 measures labour by audited
+compensation of employees rather than by headcount, after the 22 August 2026
+reviews: a headcount is unpublished and cheaply padded, where payroll is a
+single audited line, and under a compensation denominator the contracting-
+out of labour raises the ratio towards designation, so the only route down
+is direct employment. The anti-avoidance rule for payroll and valuation
+gaming lives in Article 3(8) after the form gate found an autonomous command
+in an annex (JPG 22). Annex language is descriptive throughout for the same
+reason; the obligations flow from the articles that reference it. Point 3 is
+drafted so that Article 2(8) can cite it for compensation of labour. Point 2
+no longer feeds a quantitative threshold; it serves the qualitative
+assessment under Article 3(1)(a) and market investigations, and the
+information duty in point 5(b) keeps the segment figures available to the
+Commission for that purpose. Point 4 mirrors the practice of growth-equity
+valuation without legislating a model. The 2 % floor in point 4(a) excludes
+token transfers priced for other reasons.

@@ -8,17 +8,15 @@ in the internal market;
 its employment of labour; and
 (c) the position referred to in points (a) and (b) is durable.
 
-2. An undertaking shall be presumed to satisfy:
-(a) point (a) of paragraph 1, where it achieves an annual Union turnover
-equal to or above EUR 7,5 billion, or where its fair market value amounts
-to at least EUR 75 billion, and it provides the goods or services referred
-to in that point in at least three Member States;
-(b) point (b) of paragraph 1, where its annual worldwide turnover from the
-provision of the goods and services referred to in point (a) of paragraph 1,
-divided by the number of full-time equivalents engaged in that provision,
-each calculated in accordance with Annex I, equals or exceeds EUR 5 million;
-(c) point (c) of paragraph 1, where the thresholds in points (a) and (b) of
-this paragraph were met in each of the last two financial years.
+2. An undertaking shall be presumed to satisfy: (a) point (a) of paragraph
+   1, where it achieves an annual Union turnover equal to or above EUR 7,5
+   billion, or where its fair market value amounts to at least EUR 75
+   billion, and it provides the goods or services referred to in that point
+   in at least three Member States; (b) point (b) of paragraph 1, where its
+   fair market value equals or exceeds eighty times its annual worldwide
+   compensation of labour, each calculated in accordance with Annex I; (c)
+   point (c) of paragraph 1, where the thresholds in points (a) and (b) of
+   this paragraph were met in each of the last two financial years.
 
 3. Where an undertaking meets all the thresholds laid down in paragraph 2,
 it shall notify the Commission thereof within two months after those
@@ -51,12 +49,13 @@ designation shall precede any liquidity event wherever the thresholds of
 paragraph 2 are met before that event.
 
 8. An undertaking shall not segment, divide, combine or restructure its
-activities, or acquire or dispose of undertakings, where the main purpose or
-one of the main effects thereof is to avoid meeting the thresholds laid down
-in paragraph 2. The Commission shall disregard any such arrangement when
-applying this Regulation, and shall likewise disregard any attribution of
-consideration the main purpose or one of the main effects of which is to
-reduce the turnover referred to in point (b) of paragraph 2.
+   activities, or acquire or dispose of undertakings, where the main purpose
+   or one of the main effects thereof is to avoid meeting the thresholds
+   laid down in paragraph 2. The Commission shall disregard any such
+   arrangement when applying this Regulation, and shall likewise disregard
+   any transaction, arrangement or attribution the main purpose or one of
+   the main effects of which is to increase the compensation of labour, or
+   to reduce the fair market value, referred to in point (b) of paragraph 2.
 
 9. The Commission is empowered to adopt delegated acts in accordance with
 Article 15 to amend the methodology laid down in Annex I where necessary to
@@ -73,14 +72,29 @@ economics (5), below-threshold route (6). Paragraph 7 is the in-time test as
 an operative rule. Paragraph 8 keeps thresholds in the article per DC-30 and
 C-355/10: only the counting methodology is delegable. EUR 7,5 and 75 billion
 mirror magnitudes the Union legislature has already accepted as marking
-gateway scale; EUR 5 million per full-time equivalent is the micro-giant
-limb, roughly twenty times general-economy revenue per head, so it captures
-hyper-automated undertakings only. Numbers use the EU decimal comma.
-Satisfies DC-2, DC-10, DC-11, DC-30. Paragraph 2(b) computes the ratio on the
-automated segment, not the group, after hostile counsel demonstrated a 100 %
-escape by acquiring labour-intensive subsidiaries to inflate the denominator;
-paragraph 8 is the DMA Article 13 anti-circumvention companion, so the two
-moves (segment ratio plus disregard power) close the acquisition route
-together. Open points for the editor: the two-year durability window (DMA
-uses three), and whether fair market value alone suffices for point (a) given
-pre-revenue frontier undertakings.
+gateway scale. Numbers use the EU decimal comma. Satisfies DC-2, DC-10,
+DC-11, DC-30.
+
+Paragraph 2(b) history, which matters. The first design used turnover per
+full-time equivalent on the automated segment; research of 22 August 2026
+(evidence/designation-count.md) showed it designated two undertakings,
+missed every integrated incumbent by factors of two to fourteen, turned on
+an unpublished self-computed headcount, and inverted the anti-avoidance
+incentive. The replacement, fair market value against audited compensation
+of labour at a fixed ratio of eighty, computes from two audited figures and
+makes direct employment the only route down. It is group-consolidated,
+which reopens on paper the acquisition-dilution escape (buy payroll to
+dilute the ratio) that the original segment basis was chosen to close.
+The route is closed differently now, by three provisions in conjunction:
+paragraph 8's disregard power is effects-based ("one of the main
+effects"), so it reaches an acquisition whose commercial logic is genuine
+but whose main effect is staying under the ratio, which purpose-based
+abuse doctrine (Halifax, Cadbury Schweppes) would not; Article 4(3)
+repeals a designation only for failure of the QUALITATIVE criteria of
+paragraph 1 over two years, never for the presumption ratio alone, and
+refuses repeal where the failure results from a paragraph 8 arrangement;
+and paragraph 6 designates on the facts below the presumption. Open
+points for the editor: the two-year durability window (DMA uses three);
+whether fair market value alone suffices for point (a) given pre-revenue
+frontier undertakings; and whether a segment limb should return as a
+second presumption if pre-designation dilution is observed in practice.

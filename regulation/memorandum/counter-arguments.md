@@ -746,6 +746,15 @@ undertakings bear it identically, so a treaty claim or trade panel has no
 discrimination to hold on to, and reciprocity runs in the instrument's
 favour, because a Union that asserts the principle accepts it from others.
 
+On the practical incidence the objection now has a concrete answer rather
+than an abstract one. Under the designation test of Article 3(2)(b) as
+amended, the undertakings presumptively designated on August 2026 figures
+span the United States, Taiwan and, near the threshold, the Union itself
+(evidence/designation-count.md), so the measure's first-years incidence is
+no longer a set consisting exclusively of undertakings of one third
+country, and the universality of the condition is visible in the
+designated set itself rather than asserted about a hypothetical one.
+
 **Design consequence.** DC-10's market-access nexus and DC-2's group
 consolidation are this objection's answers in law. It adds one rule of its
 own: for undertakings governed by third-country law, the warrant is an
@@ -1142,28 +1151,40 @@ cent is comfortably below any plausible deprivation ceiling. Being below a
 ceiling is a proportionality argument, not a necessity argument, and this
 file will not dress one as the other.
 
-What follows for the drafting is concrete rather than aspirational.
-Article 1 needs a quantified objective, expressed in a form a percentage can
-be tested against: a target for the Reserve's holdings relative to the
-aggregate capital of designated undertakings, or a distribution of a stated
-order within a stated horizon, either of which turns "why not one per cent"
-into a question with an answer. That work is not done. It is the highest
-priority on this file's list before any filing, it is ahead of the acquis
-interface points, and Gate 1's answer on registrability should inform how it
-is framed rather than delay it.
+That repair has now been made, and this passage records both the repair
+and its honest limit. Article 1(2) states the objective as an ownership
+position: holdings per citizen of the order of six months of the median
+equivalised disposable income in the Union, in constant prices, within a
+generation of the first designations. On the published model and the
+amended designation test of Article 3(2)(b), the aggregate designated
+value is of the order of EUR 20 trillion on August 2026 figures
+(evidence/designation-count.md), and the stake per adult within a
+generation is about EUR 8 400 at three per cent, EUR 5 600 at two and
+EUR 2 800 at one (evidence/sizing-the-ask.md). Six months of median
+equivalised disposable income is of the order of EUR 9 000. Three per
+cent is therefore the smallest integer percentage capable of approaching
+the stated objective, one per cent manifestly cannot, and the necessity
+limb of Article 52(1) has, for the first time, a quantity to test
+against, published, reproducible, and revisited at every Article 14
+report, where the same clause that could raise the percentage on the
+evidence is the clause that lowers it.
 
-Until it is done, the honest statement of this file's position is that the
-three per cent figure is defensible as proportionate and is not defensible as
-necessary, and that anyone relying on this memorandum should know which of
-the two limbs is carrying the weight.
+The honest limit is the circularity a reviewer will point out and this
+file states first: with a linear model, any target-percentage pair is
+arguable, so the target itself is not derived, it is chosen, openly, in
+the enacting terms. That is not a defect the drafting can remove; it is
+what a legislative objective is. The case law requires a stated objective
+and a reasoned relationship between the measure and it, not an objective
+that derives itself, and no instrument's does. What this file no longer
+does is assert a percentage against no objective at all.
 
-**Design consequence.** The percentage cannot be derived from the dividend
-side, because the published model is linear in it and no threshold exists to
-single out any figure; the file states this rather than implying a derivation
-it cannot produce (DC-45). Article 1's objective is qualitative, so the
-necessity limb of Article 52(1) has nothing to be tested against, and
-quantifying that objective is recorded as required drafting work before
-filing rather than as a matter for review afterwards (DC-46).
+**Design consequence.** The percentage is derived as the minimum integer
+consistent with the objective stated in Article 1(2), on a published and
+reproducible model, and the circularity inherent in choosing the target is
+stated rather than concealed (DC-45). Article 1(2) carries the quantified
+objective, assessed in each Article 14 report in both directions, and the
+derivation is revisited whenever the designated set or the model moves
+(DC-46).
 
 
 ## The constraints table
@@ -1217,8 +1238,8 @@ review regardless of its prose.
 | DC-42 | The wage-earner funds are stated as an objection here and as a raid precedent in the evidence base, before an opponent states them | 19 |
 | DC-43 | The claim is distributional and no amendment gives the Reserve votes without arguing itself as a different instrument; the governance effect on remaining holders is conceded and defended, never disclaimed as the wrong lens | 20 |
 | DC-44 | The relative voting effect on existing holders is stated with its size, not left for an opponent to compute, and any comparison drawn to buy-backs is confined to magnitude with its disanalogy stated alongside | 20 |
-| DC-45 | The percentage cannot be derived from the dividend side: the published model is linear in it and no threshold singles out any figure. The file states this rather than implying a derivation it cannot produce | 21 |
-| DC-46 | Article 1's objective is qualitative, so the necessity limb of Article 52(1) has nothing to test against. Quantifying it is required drafting work before filing, not a matter for post-adoption review | 21 |
+| DC-45 | The percentage is the minimum integer consistent with the objective stated in Article 1(2), derived on a published, reproducible model; the circularity of choosing the target is stated, never concealed | 21 |
+| DC-46 | Article 1(2) carries the quantified objective, assessed in each Article 14 report in both directions; the derivation is revisited whenever the designated set or the model moves | 21 |
 
 ## Status
 

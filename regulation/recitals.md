@@ -57,34 +57,51 @@ not promise status, purpose, meaning or the other goods that employment
 supplies as a by-product, and nothing in this Regulation, and no material
 presenting it, should be read as making such a promise. Its object is
 narrower and more precise than that: a broadly held equity stake in the
-value that automation creates, and nothing beyond it.
+value that automation creates, and nothing beyond it. That object is
+stated in Article 1 with its scale: an ownership position for each
+citizen measured against a published statistic of Union living
+standards, reached within a generation, so that the necessity of the
+percentage laid down in Article 5 can be assessed against a stated
+objective and revisited on the evidence. The stake is the objective;
+distributions remain the property income that follows from ownership
+and are not the purpose of the obligation.
 
 (6) So that the obligations laid down in this Regulation apply only to
 undertakings in which the decoupling of output from labour is extreme,
-durable and of Union significance, undertakings should be designated on
-the basis of objective qualitative criteria, accompanied by quantitative
-thresholds giving rise to a rebuttable presumption. That architecture,
-which follows the model of Regulation (EU) 2022/1925, provides legal
-certainty for undertakings while preserving the ability of the Commission
-to designate on the facts and to disregard arrangements whose main purpose
-or effect is the avoidance of designation. Small and medium-sized
-enterprises fall far outside the thresholds and are unaffected by this
-Regulation.
+durable and of Union significance, undertakings should be designated on the
+basis of objective qualitative criteria, accompanied by quantitative
+thresholds giving rise to a rebuttable presumption. That architecture, which
+follows the model of Regulation (EU) 2022/1925, provides legal certainty for
+undertakings while preserving the ability of the Commission to designate on
+the facts and to disregard arrangements whose main purpose or effect is the
+avoidance of designation. Designation should be capable of preceding any
+liquidity event and of applying irrespective of admission to trading,
+because the warrant attaches to value at its formation and a contrary rule
+would let an undertaking place itself beyond the Regulation by remaining
+private; and arrangements whose main purpose or effect is the avoidance of
+designation are disregarded, which is the settled anti-circumvention formula
+of Union market regulation and restricts no restructuring undertaken for
+genuine commercial reasons. Small and medium-sized enterprises fall far
+outside the thresholds and are unaffected by this Regulation.
 
 (7) The quantitative thresholds should capture only undertakings of very
-substantial scale whose turnover per full-time equivalent, measured on the
-automated segment of their activity and counting labour in substance
-rather than in form, has no precedent in labour-intensive business.
-Counting labour in substance imposes a compliance burden that is confined
-to undertakings of that scale and is necessary to prevent avoidance of
-designation by fragmentation or subcontracting, which a form-based count
-would invite. For the same reason the thresholds should be assessed at
-the level of the group of linked enterprises, the single economic unit to
-which the value of the automated services accrues, so that no structuring
-of the group places the undertaking's Union activity beyond designation. The
-counting methodology is laid down in Annex I so that it can follow
-technological and market developments without amendment of the essential
-elements of this Regulation.
+substantial scale whose market valuation stands in a proportion to their
+expenditure on human labour that has no precedent among labour-intensive
+undertakings. Compensation of labour is the appropriate measure of the
+labour actually engaged, because it is recorded in audited accounts and
+cannot be increased without genuine payment for genuine work, so that an
+undertaking reduces its decoupling ratio only by remunerating labour,
+which is consistent with the objectives of this Regulation. The ratio
+laid down in this Regulation is fixed in its own terms, so that an
+undertaking can establish its position from its own audited accounts
+alone: it exceeds by a margin of more than double the highest ratios
+observed among capital-intensive undertakings whose value remains
+explained by their expenditure on labour, and by an order of magnitude
+the prevailing ratio among large undertakings admitted to trading in the
+Union. It is reviewed under Article 14 and may be amended only by the
+ordinary legislative procedure. For the same reasons the thresholds are
+assessed at the level of the group of linked enterprises, the single
+economic unit to which the value of the automated services accrues.
 
 (8) Designation should follow a notification by the undertaking itself
 within a fixed period, with a decision of the Commission within a fixed
@@ -410,7 +427,14 @@ an empirical claim, and empirical claims can prove wrong. The Commission
 should monitor adoption, employment effects and ownership concentration,
 and where the evidence does not support the premise, should state so
 expressly and propose amendment or repeal. A regulation founded on a
-falsifiable claim should carry its own test.
+falsifiable claim should carry its own test. The same monitoring should
+extend to the share of value added accruing to labour in the Union as a
+whole, in both directions: where that share declines, the evidence
+informs the assessment under Article 1 of whether the participation
+secured remains adequate to its objective, and where it does not
+decline, the same assessment asks whether the obligations imposed remain
+justified at their level, so that the indicator moves no obligation of
+any undertaking but disciplines the instrument itself.
 
 (31) In order to keep the methodologies for counting turnover, employment
 and value, and for calculating the retention necessary to preserve the
