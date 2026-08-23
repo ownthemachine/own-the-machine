@@ -33,3 +33,12 @@ The four tests map: in time = Chapter II; assets not flows = Chapter III;
 universal = Chapter V; raid-proof = Chapter VI. Each drafted article carries
 non-normative drafting notes after a separator; the notes never enter the
 legal text.
+
+## Accompanying documents
+
+| Document | Content | Status |
+|---|---|---|
+| memorandum/explanatory-memorandum.md | The five-section explanatory memorandum in the Commission's own structure: context; legal basis, subsidiarity and proportionality; evaluations, consultations and impact assessment including the policy-options appraisal; budgetary implications; other elements | drafted |
+| memorandum/counter-arguments.md | The objections, at full strength, with answers and the constraints table | drafted |
+| memorandum/severability.md | How the instrument decomposes if a layer fails | drafted |
+| evidence/ | The sourced, reproducible basis for every quantitative claim | drafted |
