@@ -10,7 +10,7 @@ repositories were submitted on 25 August 2026 and crawled the same day:
 
 | repository | snapshot SWHID |
 |---|---|
-| own-the-machine | `swh:1:snp:676f77f906103a43786a1c4cc6063be4693a1f23` |
+| own-the-machine | `swh:1:snp:e956e375464118a72361c95400ef422fce5183e6` |
 | own-the-machine-site | `swh:1:snp:54545284f7481c84e0fbdca537eb112c0b9a022b` |
 | own-the-machine-tools | `swh:1:snp:1d301315f98c97de909c17f3a1052314df8c0dc3` |
 

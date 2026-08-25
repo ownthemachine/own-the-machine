@@ -28,5 +28,5 @@ abstract: >-
   failed rounds included, is committed alongside the text.
 identifiers:
   - type: swh
-    value: "swh:1:snp:676f77f906103a43786a1c4cc6063be4693a1f23"
+    value: "swh:1:snp:e956e375464118a72361c95400ef422fce5183e6"
     description: Software Heritage snapshot of 25 August 2026
