@@ -1,12 +1,12 @@
 {
   "title": "Own the Machine: a draft EU Regulation on citizens' participation in automated productivity gains",
-  "description": "<p>A complete draft EU Regulation, with explanatory memorandum, objections file and evidence base, requiring undertakings whose output is substantially decoupled from employment to issue, once, a non-voting warrant over 3&nbsp;% of their fully diluted capital to a European Citizens' Capital Reserve held for all Union citizens. Drafted in the open as the basis for a possible European Citizens' Initiative; every review verdict, failed rounds included, is committed alongside the text. The living draft and its five-language site are at <a href=\"https://ownthemachine.eu\">ownthemachine.eu</a>; this deposit is a fixed, citable version.</p>",
+  "description": "<p>A complete draft EU Regulation, with explanatory memorandum, objections file and evidence base, requiring undertakings whose output is substantially decoupled from employment to issue, once, a non-voting warrant over 3&nbsp;% of their fully diluted capital to a European Citizens' Capital Reserve held for all Union citizens. Drafted in the open as the basis for a possible European Citizens' Initiative; every review verdict, failed rounds included, is committed alongside the text. The living draft and its five-language site are at ownthemachine.eu; this deposit is a fixed, citable version. The Software Heritage snapshot identifiers for the same content are recorded in ARCHIVAL.md.</p>",
   "creators": [
     {
       "name": "Vanheeswijck, David"
     }
   ],
-  "license": "CC-BY-SA-4.0",
+  "license": "cc-by-sa-4.0",
   "upload_type": "publication",
   "publication_type": "workingpaper",
   "keywords": [
@@ -16,17 +16,5 @@
     "capital ownership",
     "universal dividend",
     "draft regulation"
-  ],
-  "related_identifiers": [
-    {
-      "identifier": "https://ownthemachine.eu",
-      "relation": "isSupplementTo",
-      "scheme": "url"
-    },
-    {
-      "identifier": "swh:1:snp:676f77f906103a43786a1c4cc6063be4693a1f23",
-      "relation": "isIdenticalTo",
-      "scheme": "other"
-    }
   ]
 }
