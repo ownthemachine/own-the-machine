@@ -101,20 +101,44 @@ to the extent that its main purpose or one of its main effects is to place
 the Reserve in a position less favourable than that provided for in
 paragraph 4(b).
 
+The first subparagraph shall not apply to an issuance of shares or other
+instruments for new consideration in money or money's worth, at arm's
+length, to persons who are not members of the same group as the covered
+undertaking, do not control it, are not connected with it and are not acting
+in concert with any person who controls it, where at the time of the
+issuance the covered undertaking is in a likelihood of insolvency within the
+meaning of Directive (EU) 2019/1023 or the issuance is necessary to comply
+with a prudential requirement under Union law, and only to the extent of the
+new consideration provided. To the extent that the preference, ranking or
+other advantage conferred by the issuance exceeds the new consideration
+provided, the first subparagraph applies to the excess. The covered
+undertaking shall bear the burden of establishing that the conditions of
+this subparagraph are met.
+
 11. Where a covered undertaking transfers automated assets to another
 undertaking, whether by sale, contribution, licence, demerger, division or
-otherwise, and the transfer is not made at arm's length or the transferee
-is a member of the same group or is controlled, directly or indirectly, by
-persons who control the covered undertaking, the transferee shall
-issue to the Reserve a citizens' capital warrant in accordance with
-paragraph 1 as if it were a covered undertaking, and the obligations of the
-covered undertaking under this Article shall continue in respect of the
-automated assets it retains. The aggregate of the subscriptions to which
-the Reserve is entitled in respect of the same designation, under this
-paragraph and under paragraph 2, shall not exceed the percentage laid down
-in paragraph 2 of the combined fully diluted capital of the covered
-undertaking and of every transferee, and the valuation under Article 6
-shall determine the subscription in each of them accordingly.
+otherwise, where the transfer, alone or together with related arrangements,
+confers in substance the economic benefit of the automated assets on the
+transferee, and the transfer is not made at arm's length or the transferee is
+a member of the same group or is controlled, directly or indirectly, by
+persons who control the covered undertaking, the transferee shall issue to
+the Reserve a citizens' capital warrant in accordance with paragraph 1 as if
+it were a covered undertaking, and the obligations of the covered undertaking
+under this Article shall continue in respect of the automated assets it
+retains. The aggregate of the subscriptions to which the Reserve is entitled
+in respect of the same designation, under this paragraph and under paragraph
+2, shall not exceed the percentage laid down in paragraph 2 of the combined
+fully diluted capital of the covered undertaking and of every transferee, and
+the valuation under Article 6 shall determine the subscription in each of
+them accordingly.
+
+The obligations of a transferee under this paragraph arise irrespective of
+whether the transferee meets the conditions laid down in Article 3, and this
+paragraph applies to any onward transfer of the automated assets by a
+transferee as it applies to a transfer by a covered undertaking. For the
+purposes of the valuation under Article 6, the value of the fully diluted
+capital of the transferee shall reflect the automated assets at the value
+they would have had on a transfer at arm's length.
 
 12. Where the automated assets of a covered undertaking are acquired by
 another undertaking in or in consequence of insolvency proceedings, a
@@ -219,7 +243,34 @@ draft reattached the obligation to entities controlled by any pre-procedure
 creditor and so expropriated the rescuers of a genuinely failing
 undertaking. The rule now catches the survival of the same controllers,
 which is the abuse, and leaves ordinary insolvency alone, which is not.
-Open points for the editor:
+
+Three amendments of 25 August 2026, each closing a point the memorandum had
+listed as open, each through three adversarial rounds. Paragraph 10's second
+subparagraph answers the distressed-capital constraint objection 18 carried:
+new money at arm's length from unconnected persons in likelihood of
+insolvency ranks ahead, only to the extent of the new consideration, and the
+excess of any preference over that consideration falls back under the first
+subparagraph, so a ten-times preference on rescue money shields one times
+the money and no more. Counsel's claim that a ranking is binary and cannot
+have an excess is wrong on the instrument's own terms: preferences are
+stated in multiples of an amount, and the carve-out never voids the excess
+between the parties, it only keeps it off the Reserve's three per cent.
+Paragraph 11 gained a substance gate after counsel showed an ordinary
+internal software licence conscripting a subsidiary: the trigger now
+requires that the transfer confer in substance the economic benefit of the
+automated assets. The sub-threshold question is answered in the second
+subparagraph: thresholds do not matter for a transferee, because the
+trigger is the tainted transfer and not scale; the paragraph follows onward
+transfers; and the valuation of the transferee's capital reflects the
+assets at arm's-length value, so a shell cannot be cheap. Two blueprints
+counsel priced highly fail on their own facts and are recorded here so the
+next reader need not re-litigate them: the arm's-length split to an
+unconnected vehicle leaves the full consideration inside the covered
+undertaking, where the existing warrant sits on it, and the transferee's
+future growth is new value formed outside, reachable by its own designation;
+and the apportionment under the aggregate cap follows the Article 6
+valuations of each entity, which is arithmetic on values, not an accounting
+consolidation. Open points for the editor:
 whether 3 % is the right rate (the simulator parameter), treatment of
 undertakings already listed at designation (transitional provision in
 Chapter VIII), anti-avoidance for pre-event asset-stripping (Article 6), and

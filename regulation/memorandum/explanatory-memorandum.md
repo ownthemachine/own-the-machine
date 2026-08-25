@@ -301,9 +301,9 @@ inside a dispute about designation. Articles 20 and 21 (equality and non-
 discrimination) are engaged by the threshold criteria in Article 3(2), which
 apply identically to Union and third-country undertakings. Article 8
 (protection of personal data) is engaged by the administration of
-entitlements and addressed in recital 33 and Article 11(5). Article 34
-(social security and social assistance) is referenced in the Charter recital
-as context, not as a basis.
+entitlements and addressed in recital 33 and Article 11(5). Article 34 of
+the Charter (social security and social assistance) is referenced in the
+Charter recital as context, not as a basis.
 
 **Budgetary implications**: see section 4.
 
@@ -336,21 +336,31 @@ is discharged in shares, to the Reserve, which is owned by citizens.
 
 Two costs are real and should not be hidden by that architecture. The
 Commission bears administrative costs for designation decisions, market
-investigations, the independent valuation regime and the periodic
-evaluation under Article 14. The Reserve bears the costs of custody,
-administration and distribution, which Annex II point 2 deducts from
-realised income before anything is distributed, and Article 10(6) caps the
-fees national vehicles may levy so that administration cannot erode the
-entitlement.
+investigations, the independent valuation regime and the periodic evaluation
+under Article 14; a derived estimate, calibrated against the Digital Markets
+Act's enforcement staffing for a comparable population of undertakings and
+stated as a range rather than a promise, puts this at 30 to 60 full-time
+equivalents, in the order of EUR 5 to 12 million a year within existing
+budget headings (evidence/administrative-cost.md). The valuations themselves
+are borne per event by the covered undertaking under Article 6(3), at a cost
+ratio near one part in a million of the covered value, and the Reserve's own
+running costs are benchmarked against the Norwegian fund's published 4 to 5
+basis points, which its more passive design should undercut. The Reserve
+bears the costs of custody, administration and distribution, which Annex II
+point 2 deducts from realised income before anything is distributed, and
+Article 10(6) caps the fees national vehicles may levy so that
+administration cannot erode the entitlement.
 
-Neither figure has been estimated. A Commission proposal would require a
-legislative financial statement quantifying the first; this file cannot
-produce one credibly and does not attempt it. What can be said is the
-structural point: the running costs fall on the fund's own income and on
-the Commission's existing administrative envelope, not on a new
-appropriation, and the instrument is designed so that a year in which the
-Reserve earns nothing is a year in which it distributes nothing rather than
-a year in which someone is billed.
+These ranges are calibrated comparisons, not a legislative financial
+statement; a Commission proposal would require one, prepared with access to
+establishment-plan data this file does not have, and the Article 14
+evaluation is the mechanism that will replace the ranges with measured cost,
+in both directions. The structural point stands independently of the ranges:
+the running costs fall on the fund's own income and on the Commission's
+existing administrative envelope, not on a new appropriation, and the
+instrument is designed so that a year in which the Reserve earns nothing is
+a year in which it distributes nothing rather than a year in which someone
+is billed.
 
 ---
 
@@ -405,9 +415,6 @@ annulment trims rather than destroys.
 
 ### 5.4 Open points, stated rather than concealed
 
-- Whether Article 5(10)'s protection of the Reserve's rank requires a
-  carve-out for genuine rescue financing.
-- The position of a sub-threshold transferee under Article 5(11).
 - Five acquis interface points, including the interaction with Directive
   (EU) 2024/2810 on multiple-vote share structures.
 - Whether a segment-level limb should return as a second presumption in
@@ -415,8 +422,6 @@ annulment trims rather than destroys.
 - Whether the instrument should reach semiconductor fabrication at all,
   which the qualitative limb and the Article 3(5) rebuttal currently leave
   to be decided case by case.
-- No estimate of the administrative cost of the designation and valuation
-  regime.
 
 Each of these is on the record in the review ledger or the drafting notes
 with the reasoning that left it open.

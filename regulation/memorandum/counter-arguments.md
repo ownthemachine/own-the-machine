@@ -864,19 +864,17 @@ that with the routes above, where value leaves for pockets that are the
 same pockets. Leverage is a risk the Reserve takes as an owner; extraction
 is a transfer the Regulation stops.
 
-**Design consequence.** DC-35: crystallisation triggers on extraction and
-on time, not only on a sale. DC-36: the Reserve's shares rank with the
-most favoured class created after the designation, leaving earlier
-preferences untouched, and subordinating arrangements are ineffective as
-against the Reserve.
-DC-37: the transferee issues its own warrant over its own capital; the
-transferor stays bound for the automated assets it retains, and the
-aggregate across them never exceeds the stated percentage of their combined
-capital. DC-38: unrecoverable
-source taxation is published annually; the instrument does not direct the
-Reserve to arrange its holdings to reduce it. DC-39: the obligation
-reattaches where the same owners reacquire the assets out of a
-restructuring.
+**Design consequence.** DC-35: crystallisation triggers on extraction and on
+time, not only on a sale. DC-36: subject to the rescue carve-out, the
+Reserve's shares rank with the most favoured class created after the
+designation, leaving earlier preferences untouched, and subordinating
+arrangements are ineffective as against the Reserve. DC-37: the transferee
+issues its own warrant over its own capital; the transferor stays bound for
+the automated assets it retains, and the aggregate across them never exceeds
+the stated percentage of their combined capital. DC-38: unrecoverable source
+taxation is published annually; the instrument does not direct the Reserve
+to arrange its holdings to reduce it. DC-39: the obligation reattaches where
+the same owners reacquire the assets out of a restructuring.
 
 ### 19. Sweden tried this and could not even legislate it
 
@@ -961,25 +959,30 @@ proposal failing any of those three has a documented way of dying. This
 instrument is drafted to satisfy all three, and objection 4 already prices
 the residual political risk rather than denying it.
 
-**Design consequence.** DC-41: the instrument must be bounded, without
-votes or control rights, and universal in who it pays, all three at once,
-because the Swedish precedent shows that failing any one of them is
-sufficient to lose. The word to avoid is passive. The Reserve does assert
-claims: Article 5(4)(b) fixes its rank and Article 5(10) makes subordinating
-arrangements ineffective against it, and an opponent will call that
-anything but passive. The defensible claim is narrower: the Reserve holds
-no votes, appoints no one, and has no say in the management of the
-undertaking. Even that is not the end of it. Hostile counsel makes the
-further point that a rank the undertaking cannot subordinate constrains how
-it raises distressed or preference capital, since new money normally
-demands seniority, and calls that a veto over capital structure in
-substance. It is not a governance right and Article 5(10) leaves the
-arrangement effective between the parties to it. It is, all the same, a
-constraint on financing that the word passive would conceal, and objection
-18 and the drafting record now carry it as an open question rather than a
-settled one. DC-42: the wage-earner
-funds belong in the evidence base as a raid precedent and in this file as an
-objection, stated before an opponent states it.
+**Design consequence.** DC-41: the instrument must be bounded, without votes
+or control rights, and universal in who it pays, all three at once, because
+the Swedish precedent shows that failing any one of them is sufficient to
+lose. The word to avoid is passive. The Reserve does assert claims: Article
+5(4)(b) fixes its rank and Article 5(10) makes subordinating arrangements
+ineffective against it, and an opponent will call that anything but passive.
+The defensible claim is narrower: the Reserve holds no votes, appoints no
+one, and has no say in the management of the undertaking. Even that is not
+the end of it. Hostile counsel makes the further point that a rank the
+undertaking cannot subordinate constrains how it raises distressed or
+preference capital, since new money normally demands seniority, and calls
+that a veto over capital structure in substance. It is not a governance
+right and Article 5(10) leaves the arrangement effective between the parties
+to it. It was, all the same, a constraint on financing that the word passive
+would conceal, and it is now answered in the text rather than carried: the
+second subparagraph of Article 5(10) lets genuinely new money rank ahead of
+the Reserve, at arm's length, from persons unconnected with the undertaking
+and its controllers, while the undertaking is in a likelihood of insolvency
+or must meet a prudential requirement, and only to the extent of the new
+consideration provided. Rescuers are paid before the Reserve; engineered
+seniority beyond the new money is still caught, because that is where the
+abuse lives, and the undertaking bears the burden of proof. DC-42: the wage-
+earner funds belong in the evidence base as a raid precedent and in this
+file as an objection, stated before an opponent states it.
 
 
 ### 20. Taking the voteless shares hands control to the people you named as the problem
@@ -1229,7 +1232,7 @@ review regardless of its prose.
 | DC-33 | For third-country-law undertakings the warrant is an obligation of result as a market-access condition, never an override of foreign company law | 17 |
 | DC-34 | No tier between valuation and the courts; correction is ex post and the transaction never waits | 6 |
 | DC-35 | Crystallisation triggers on shareholder extraction and on time, not only on a sale | 18 |
-| DC-36 | The Reserve's shares rank with the most favoured class created after the designation, leaving earlier preferences untouched; subordinating arrangements are ineffective against the Reserve | 18 |
+| DC-36 | The Reserve's shares rank with the most favoured class created after the designation, leaving earlier preferences untouched; subordinating arrangements are ineffective against the Reserve, save for new money at arm's length from unconnected persons in rescue, to the extent of the new consideration | 18 |
 | DC-37 | The transferee issues its own warrant over its own capital; the transferor stays bound for what it retains, and the aggregate across them never exceeds the stated percentage of their combined capital | 18 |
 | DC-38 | Unrecoverable source taxation published annually; the Reserve is not directed to arrange its holdings to reduce it | 18 |
 | DC-39 | The obligation reattaches where the same owners reacquire the assets out of a restructuring | 18 |
