@@ -1,5 +1,7 @@
 # Own the Machine
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22094951.svg)](https://doi.org/10.5281/zenodo.22094951)
+
 **An open-source draft EU Regulation: a citizens' stake in automated
 productivity.** Capital for all, so the dividend follows.
 

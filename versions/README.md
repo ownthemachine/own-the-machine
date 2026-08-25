@@ -27,3 +27,5 @@ there is no registered version, because there is not.
 
 The rule these steps implement is in GOVERNANCE.md and takes precedence
 over this file if the two ever disagree.
+
+Citable versions: the concept DOI [10.5281/zenodo.22094951](https://doi.org/10.5281/zenodo.22094951) always resolves to the latest archived release; each release carries its own version DOI. Archival details and Software Heritage snapshot identifiers: ARCHIVAL.md at the repository root.

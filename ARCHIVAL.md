@@ -22,25 +22,24 @@ any time, no account needed, through Save Code Now
 and record the new snapshot id here. The archive also re-visits known
 origins on its own schedule.
 
-## Zenodo: citability, prepared, one login from live
+## Zenodo: citability, live since 25 August 2026
 
 Zenodo (CERN) issues DOIs, which is what officials, journalists and
-academics actually cite. The metadata is already in the repository:
-`.zenodo.json` drives the deposit, `CITATION.cff` drives GitHub's cite
-button. What remains needs the initiator's own login, once:
+academics actually cite. Release v0.1.0 is archived and both DOIs are
+minted:
 
-1. Log in at zenodo.org with the GitHub account.
-2. GitHub settings page on Zenodo: flip the switch for
-   `ownthemachine/own-the-machine`.
-3. Create a GitHub release (tag `v0.1.0` or similar) of the commit to be
-   citable. Zenodo archives it automatically and mints two DOIs: a version
-   DOI for that release and a concept DOI that always resolves to the
-   latest.
-4. Record both DOIs here and in versions/README.md; put the concept DOI on
-   the site's versions page.
+- **Concept DOI, cite this for "the draft, latest version":**
+  [10.5281/zenodo.22094951](https://doi.org/10.5281/zenodo.22094951)
+- Version DOI for v0.1.0:
+  [10.5281/zenodo.22094952](https://doi.org/10.5281/zenodo.22094952)
 
-Tag a new release at each substantive milestone (the freeze at
-registration, above all), so the version DOI trail matches the ledger.
+`.zenodo.json` drives the deposit metadata, `CITATION.cff` drives GitHub's
+cite button. Every future GitHub release is archived automatically and
+mints a new version DOI under the same concept DOI. Tag a release at each
+substantive milestone (the freeze at registration, above all), so the
+version DOI trail matches the ledger. One recorded lesson: the first
+processing run failed on metadata the loader would not accept; keep
+`.zenodo.json` to the minimal well-known fields, lowercase licence id.
 
 ## Which is best
 
