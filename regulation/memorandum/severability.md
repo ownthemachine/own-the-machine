@@ -77,18 +77,23 @@ Articles 8 to 12, with Annex II; recitals 21 to 28, 33.
 The Reserve as a new Union-level body holding assets for citizens, the
 universal entitlement arising by operation of law, national vehicles, the
 raid-proofing. Creating a new body with legal personality and a direct
-Union-to-citizen property relationship is where Article 114 is weakest
-and where the subsidiarity objection concentrates. The body-creation
-precedents cut both ways: Article 114 has sustained Union bodies that
-serve harmonisation (ENISA, C-217/04; ESMA's intervention powers,
-C-270/12), but a new legal form standing apart from national laws
-required what is now Article 352 (the European Cooperative Society,
-C-436/03), and a Reserve owing citizens a direct property relationship
-resembles the second more than the first. The honest position:
-Layer 3 is drafted to be defensible under Article 352, and its unanimity
-requirement is priced in. The campaign's answer to "you will never get
-unanimity" is the wealth-tax precedent: the fight is meant for the
-Council, in public, on the record.
+Union-to-citizen property relationship is where Article 114 is weakest and
+where the subsidiarity objection concentrates. The body-creation precedents
+cut both ways: Article 114 has sustained Union bodies that serve
+harmonisation (ENISA, C-217/04; ESMA's intervention powers, C-270/12), but a
+new legal form standing apart from national laws required what is now
+Article 352 (the European Cooperative Society, C-436/03), and a Reserve
+owing citizens a direct property relationship resembles the second more than
+the first. The honest position: Layer 3 is drafted to be defensible under
+Article 352, and its unanimity requirement is priced in. The campaign's
+answer to "you will never get unanimity" is the wealth-tax precedent: the
+fight is meant for the Council, in public, on the record. The basis itself
+has carried participation before: Council Recommendation 92/443/EEC, on the
+promotion of participation by employed persons in profits and enterprise
+results, was adopted on Article 352's predecessor, a reference supplied by
+the ECI Forum's advice of 27 August 2026 (pipeline/EXTERNAL-REVIEWS.md,
+review 4). A recommendation confers no power; it shows the terrain is not
+untrodden.
 
 ## Decomposition rules
 

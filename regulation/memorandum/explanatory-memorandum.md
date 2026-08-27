@@ -88,20 +88,37 @@ rule 3 requires this treatment. Article 114 TFEU carries the designation
 regime, the transparency obligations and the warrant: rules addressed to
 undertakings operating across the whole internal market, removing the
 divergence that separate national participation and automation levies are
-already creating. Article 352 TFEU carries the elements Article 114 does not
-reach, namely the establishment of the Reserve as a Union-level body and the
-individual entitlement of citizens. Those elements are drafted to be
-severable precisely so that the unanimity they require cannot hold the
-Article 114 layers hostage, and so that partial registration or partial
-annulment trims the instrument rather than destroying it.
+already creating. The Commission has registered an initiative resting on
+that same divergence logic over comparably contested ground: the 2023
+wealth-tax initiative, by Decision (EU) 2023/1487. The independent advice
+obtained through the ECI Forum on 27 August 2026, recorded in
+pipeline/EXTERNAL-REVIEWS.md and binding on nobody, reads that decision the
+same way and recommends citing it here. Article 352 TFEU carries the
+elements Article 114 does not reach, namely the establishment of the Reserve
+as a Union-level body and the individual entitlement of citizens. That basis
+is not untrodden ground for participation: the Council acted on the
+participation of employed persons in profits and enterprise results by
+Recommendation 92/443/EEC, adopted on Article 352's predecessor. A
+recommendation creates no power and this memorandum claims none from it;
+what it establishes is narrower and useful, that the Union has treated
+participation in enterprise results as a Union-level concern under this
+basis before. Those elements are drafted to be severable precisely so that
+the unanimity they require cannot hold the Article 114 layers hostage, and
+so that partial registration or partial annulment trims the instrument
+rather than destroying it.
 
-Article 114(2) excludes fiscal provisions, and the characterisation
-question that follows is the most serious legal risk this instrument
-carries. It is stated at full strength and answered at objection 2, and
-that objection, not this memorandum, is where the argument lives. The
-short form: the obligation takes an asset and not a flow, is payable in
-shares and never in cash, funds no budget, passes through no treasury and
-confers no revenue on the Union.
+Article 114(2) excludes fiscal provisions, and the characterisation question
+that follows is the most serious legal risk this instrument carries. It is
+stated at full strength and answered at objection 2, and that objection, not
+this memorandum, is where the argument lives. The short form: the obligation
+takes an asset and not a flow, is payable in shares and never in cash, funds
+no budget, passes through no treasury and confers no revenue on the Union.
+The ECI Forum's advice of 27 August 2026 notes Article 115 TFEU as a
+conceivable basis if that characterisation were to fail; it is recorded
+here, not adopted. Article 115 does not exclude fiscal provisions, but on
+the advisers' own analysis it demands the same harmonisation reading as
+Article 114 while surrendering qualified majority voting, and the layered
+drafting already prices unanimity in where it is unavoidable.
 
 ### 2.2 Choice of the instrument
 

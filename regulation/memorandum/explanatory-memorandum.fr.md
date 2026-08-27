@@ -38,9 +38,51 @@ Aucune disposition du présent règlement ne crée de ressource propre de l'Unio
 
 ### 2.1 Base juridique
 
-La base juridique est exposée par strate, et non selon un centre de gravité unique pour l'ensemble de l'acte, car des procédures législatives incompatibles ne peuvent être fusionnées en une seule base (Dioxyde de titane, C-300/89) et parce qu'une argumentation unitaire concéderait la qualification de la strate la plus faible aux opposants à la strate la plus forte. La note sur la divisibilité expose ces strates; la règle de décomposition no 3 impose ce traitement. L'article 114 du TFUE sous-tend le régime de désignation, les obligations de transparence et le warrant: des règles adressées à des entreprises opérant sur l'ensemble du marché intérieur, éliminant les divergences que des prélèvements nationaux distincts sur la participation et l'automatisation créent déjà. L'article 352 du TFUE sous-tend les éléments que l'article 114 ne couvre pas, à savoir l'établissement de la Réserve en tant qu'organisme au niveau de l'Union et le droit individuel des citoyens. Ces éléments sont rédigés de manière à être séparables, précisément pour que l'unanimité qu'ils requièrent ne puisse prendre en otage les strates fondées sur l'article 114, et pour qu'un enregistrement partiel ou une annulation partielle élague l'instrument plutôt que de le détruire.
+La base juridique est exposée par couche, et non selon un centre de gravité
+unique pour l'ensemble de l'acte, car des procédures législatives
+incompatibles ne peuvent être fusionnées en une seule base (Dioxyde de
+titane, C-300/89) et parce qu'une argumentation unitaire concéderait la
+qualification de la couche la plus faible aux opposants à la couche la plus
+forte. La note sur la divisibilité expose ces couches; la règle de
+décomposition no 3 impose ce traitement. L'article 114 du TFUE sous-tend le
+régime de désignation, les obligations de transparence et le warrant: des
+règles adressées à des entreprises opérant sur l'ensemble du marché
+intérieur, éliminant les divergences que des prélèvements nationaux
+distincts sur la participation et l'automatisation créent déjà. La
+Commission a enregistré une initiative reposant sur cette même logique de
+divergence en terrain au moins aussi contesté : l'initiative de 2023 sur
+l'imposition des grandes fortunes, par la décision (UE) 2023/1487. L'avis
+indépendant obtenu par l'intermédiaire du Forum de l'ICE le 27 août 2026,
+consigné dans pipeline/EXTERNAL-REVIEWS.md et qui ne lie personne, interprète cette décision de la même manière et recommande de la citer ici. L'article 352 du
+TFUE sous-tend les éléments que l'article 114 ne couvre pas, à savoir
+l'établissement de la Réserve en tant qu'organisme au niveau de l'Union et
+le droit individuel des citoyens. Cette base n'est pas un terrain vierge
+pour la participation : le Conseil a agi sur la participation des
+travailleurs salariés aux bénéfices et aux résultats de l'entreprise par la
+recommandation 92/443/CEE, adoptée sur le prédécesseur de l'article 352. Une
+recommandation ne crée aucune compétence et le présent exposé des motifs n'en revendique aucune ; ce qu'elle établit est plus étroit et utile : l'Union a
+déjà traité la participation aux résultats de l'entreprise comme une
+question de niveau européen sur cette base. Ces éléments sont rédigés de
+manière à être séparables, précisément pour que l'unanimité qu'ils
+requièrent ne puisse prendre en otage les couches fondées sur l'article 114,
+et pour qu'un enregistrement partiel ou une annulation partielle élague
+l'instrument plutôt que de le détruire.
 
-L'article 114, paragraphe 2, du TFUE exclut les dispositions fiscales, et la question de qualification qui en découle constitue le risque juridique le plus sérieux que comporte le présent instrument. Elle est exposée dans toute sa force et traitée à l'objection 2, et c'est dans cette objection, et non dans le présent exposé des motifs, que se trouve l'argumentation. En résumé: l'obligation porte sur un actif et non sur un flux, est payable en actions et jamais en numéraire, ne finance aucun budget, ne transite par aucun trésor public et ne confère aucune recette à l'Union.
+L'article 114, paragraphe 2, du TFUE exclut les dispositions fiscales, et la
+question de qualification qui en découle constitue le risque juridique le
+plus sérieux que comporte le présent instrument. Elle est exposée dans toute
+sa force et traitée à l'objection 2, et c'est dans cette objection, et non
+dans le présent exposé des motifs, que se trouve l'argumentation. En résumé:
+l'obligation porte sur un actif et non sur un flux, est payable en actions
+et jamais en numéraire, ne finance aucun budget, ne transite par aucun
+trésor public et ne confère aucune recette à l'Union. L'avis du Forum de
+l'ICE du 27 août 2026 mentionne l'article 115 du TFUE comme base
+envisageable si cette qualification venait à échouer ; il est consigné ici,
+non retenu. L'article 115 n'exclut pas les dispositions fiscales, mais,
+selon l'analyse des conseillers eux-mêmes, il exige la même lecture
+d'harmonisation que l'article 114 tout en abandonnant le vote à la majorité
+qualifiée, et la rédaction par couches intègre déjà l'unanimité là où elle
+est inévitable.
 
 ### 2.2 Choix de l'instrument
 
