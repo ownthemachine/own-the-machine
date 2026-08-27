@@ -1,11 +1,18 @@
 # Playbook for the ECI Forum reply
 
-Status: prepared 25 August 2026, before the reply. The advice request of 21
-August (campaign/GATE1-LETTER.md) is due an answer by 2 September. This file
-exists so that the response takes a day instead of a fortnight: the likely
-shapes of the answer are worked out now, with the response and the decision
-each one triggers, while nothing is at stake. The one part of that exchange
-under our control is our latency.
+Status: RESOLVED 27 August 2026. The reply arrived six days early and landed
+as scenario B with scenario C's weakest-point answer folded in: rule 5
+confirmed (goals are the unit of assessment, the mechanism's contestability
+irrelevant to registration), the draft act carries no penalty, Article 114
+named weakest exactly where objection 2 argues it, and two citable gains
+(Decision (EU) 2023/1487 recommended as support; Council Recommendation
+92/443/EEC as a 352-family participation precedent). Verbatim and
+disposition: pipeline/EXTERNAL-REVIEWS.md, review 4. Kept for the record and
+as the template for the remaining soundings. Prepared 25 August 2026, before
+the reply. This file exists so that the response takes a day instead of a
+fortnight: the likely shapes of the answer are worked out now, with the
+response and the decision each one triggers, while nothing is at stake. The
+one part of that exchange under our control is our latency.
 
 Two standing rules, before any scenario.
 

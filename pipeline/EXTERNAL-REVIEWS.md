@@ -155,3 +155,94 @@ because each is a drafting decision that should be taken deliberately:
 the position of a sub-threshold transferee under Article 5(11), and five
 further acquis interface points. Both are in
 `pipeline/reviews/2026-08-21-full-suite-post-recitals.md`.
+
+
+---
+
+## Review 4, 27 August 2026: the ECI Forum's answer to the Gate 1 advice request
+
+Received 27 August 2026, six days inside the eight-working-day maximum, in
+answer to the four questions of campaign/GATE1-LETTER.md (submitted 21
+August, request 2332). The advice is independent (European Citizen Action
+Service via the Forum), expressly non-binding on the Commission, and is
+recorded here verbatim before anything was decided on it, as the letter and
+campaign/FORUM-REPLY-PLAYBOOK.md require.
+
+### Verbatim
+
+> Sent on: 27/08/2026
+
+> Dear Citizen,
+>
+> Thank you for submitting your inquiry through the ECI Forum.
+>
+> We understand that by your proposal for an ECI you would like the European Commission (EC) to propose a measure that would ensure EU citizens' participation in the productivity gains of undertakings active in hyper-automated production by requiring such undertakings to issue a 3% non-voting warrant of their capital to a holding in the interest of EU citizens.
+>
+> To be successfully registered, a proposed European Citizens' Initiative (ECI) must be in accordance with Article 6 (3) Regulation (EU) 2019/788 (ECI Regulation), i.e. the proposed initiative must not manifestly fall outside the framework of the Commission's powers to submit a proposal for a legal act of the Union for the purpose of implementing the Treaties; furthermore it must not be manifestly abusive, frivolous or vexatious nor manifestly contrary to the values of the EU in Article 2 TEU and rights enshrined in the Charter of Fundamental Rights of the EU.
+>
+> Article 114 TFEU, proposed in your enquiry, could constitute a legal basis for your proposed measure only under a very wide interpretation of this provision. A measure based on Article 114 TFEU must aim to promote the proper functioning of the internal market, must harmonise the national laws of the EU member states, and must not concern fiscal measures.
+>
+> While the definition of undertakings active in hyper-automated production would require a harmonised EU-wide rule, the creation of a fund to which these undertakings must contribute would arguably not harmonise the laws of the EU member states. As the EC usually takes a more restrictive approach when it comes to harmonisation measures, we suggest that you consider an alternative legal basis for your proposal (particularly Article 352 TFEU, also proposed in your enquiry).
+>
+> Moreover, in your current proposal the measure is designed as a social measure rather than as internal market measure. If you want to suggest Article 114 TFEU as a legal basis, we recommend that you further elaborate why your proposal is an internal market measure aiming at harmonising the law of the EU member states. You could for example argue that divergent national rules on citizen participation could distort competition in the internal market and therefore should be harmonised. The EC has already accepted a similar logic related to the wealth tax initiative in Implementing Decision (EU) 2023/1487, and we consider that reference to this Decision would support your proposal.
+>
+> Although your measure does not directly concern taxation, the EC might take the view that it is also covered by the exclusion of fiscal provisions under Article 114(2) TFEU, because it has similar effects by imposing financial contributions on undertakings. If this is the case, you could suggest Article 115 TFEU as proposed legal basis for your measure, as Article 115 TFEU does not exclude fiscal measures. However, rules under Article 115 TFEU must equally harmonise the laws of the member states as provided for by Article 114 TFEU. It is therefore not sufficient to propose a separate legal act in addition to the national laws of the EU member states, but national rules must be replaced by the suggested act on EU level. This means that Article 115 TFEU would equally only offer a legal basis under a very wide interpretation.
+>
+> Given the narrow approach by the European Commission to the interpretation of Articles 114 and 115 TFEU, you might want to consider Article 352 as alternative legal basis for your proposed measure. Article 352 provides a more general legal basis for legal acts pursuing one of the goals of the EU set out in the Treaty on the EU (TEU). Your proposed measure could serve as a contribution to the goals set out in Article 3 TEU, namely balanced economic growth and price stability as well as a highly competitive social market economy, aiming at full employment and social progress. The Council has, for example, adopted a recommendation on employee participation in profits and enterprise results based on the predecessor of Article 352 TFEU (see EUR-Lex - 31992H0443 - EN - EUR-Lex).
+>
+> Please also note that measures based on Article 114 can be adopted by a qualified majority, whereas measures based on Articles 115 and 352 require unanimity. You might therefore wish to take into consideration a proposal for a recommendation instead of a binding legal act. As your idea affects fundamental rights such as equality, the freedom to choose an occupation and property (because only a defined type of companies is concerned), the EC might examine whether the measure is proportionate to the aims that you want to achieve. If the EC considers the measure to be disproportionate, it would not hinder registration of your ECI, but we consider that addressing these possible concerns upfront might increase the chances that your ECI is registered.
+>
+> Partial registration of your initiative is possible, if some of the suggested goals fall outside the competence of the EU to propose a legal act as anchored in Article 6(3) of the ECI Regulation. If the goals of your proposal comply with the requirements set out in the ECI Regulation, it must be registered by the EC, regardless of the mechanism described in your proposed legal act. The contestability of the proposed legal mechanism is therefore not a relevant consideration for the registration of the ECI itself, if the goals pursued do not manifestly fall outside the scope of the EC's competence.
+>
+> Likewise, the ECI Regulation itself does not state how the proposal should be formulated or that a full draft is required. As outlined above, the crucial element for the EC's assessment is whether the proposal is covered by their competences. Thus, you may provide a full draft for a legal act if it follows from the draft that the proposal falls within the Commission's competence.
+>
+> We trust that the above information is of assistance to you. Should you require further assistance, please do not hesitate to contact us.
+>
+> Kind regards,
+>
+> The European Citizens' Initiative Forum Team
+
+### Disposition
+
+Playbook scenario B, with the weakest-point answer of scenario C folded in.
+Point by point:
+
+1. **Decomposition rule 5 is CONFIRMED and moves from assumption to
+   finding.** "If the goals of your proposal comply with the requirements
+   set out in the ECI Regulation, it must be registered by the EC,
+   regardless of the mechanism described in your proposed legal act." The
+   objectives are the unit of assessment; the annexed mechanism's
+   contestability "is not a relevant consideration for the registration".
+   regulation/memorandum/severability.md rule 5 is rewritten accordingly,
+   citing this reply and its non-binding character.
+2. **The draft act carries no registration penalty.** It may be provided
+   "if it follows from the draft that the proposal falls within the
+   Commission's competence", which is precisely what the severable-layer
+   drafting is for. The registration path stays as designed: objectives as
+   Layer 0, full Regulation annexed.
+3. **The weakest point is named where objection 2 already argues it**:
+   Article 114 holds "only under a very wide interpretation"; the fund limb
+   does not harmonise; the measure reads social rather than internal-market;
+   and the 114(2) fiscal exclusion might be stretched over it by effect.
+   Nothing in this changes the file's position, because the file already
+   holds it; the advice to "further elaborate" the divergence-distorts-
+   competition argument points at work the memorandum and evidence base
+   have done since 21 August.
+4. **Two citable gains.** The advisers recommend citing Implementing
+   Decision (EU) 2023/1487 for the divergence logic ("we consider that
+   reference to this Decision would support your proposal"), converting
+   GATE1's open question 4 into a yes. And they supply a precedent the file
+   did not have: Council Recommendation 92/443/EEC on employee
+   participation in profits and enterprise results, adopted on Article
+   352's predecessor, which strengthens the Layer 3 basis argument.
+5. **Recorded, not adopted:** the suggestion of a non-binding
+   recommendation instead of a legal act (it would surrender the
+   instrument's entire point and is not required for registration); Article
+   115 as a fiscal-safe fallback basis (noted in the legal-basis record as
+   a third string, with the advisers' own caveat that it demands the same
+   wide reading as 114); and the reminder that 115/352 require unanimity,
+   which the severability architecture already prices in.
+6. **Gate 1, sounding one: PASSED.** No kill criterion is touched: the core
+   ask is registrable on the advisers' reading, partially at worst. The
+   response, per playbook scenario B: thanks, no follow-up question.
+   Soundings two and three proceed with this reasoning quoted.

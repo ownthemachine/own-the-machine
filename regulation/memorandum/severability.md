@@ -115,19 +115,20 @@ Council, in public, on the record.
    registration, if the Commission insists on it, trims the annex and
    not the ask.
 
-   **This rule is an assumption, not a finding, and it is the first thing
-   Gate 1 has to test.** Preparing the request to the ECI Forum on 21
-   August 2026 surfaced the contrary reading: that the Commission examines
-   the whole of an initiative, annex and any draft legal act included,
-   rather than the title and objectives alone, and that framing an
-   objective as a request to assess and propose does not insulate it if
-   the mechanism it points at needs a power the Union lacks. On that
-   reading, annexing the Regulation does not protect the ask and may
-   enlarge what is assessed. The point is put to the Forum as questions 2
-   and 3 of campaign/GATE1-LETTER.md. If the answer is that the annex is
-   assessed on the same footing as the ask, this rule changes and so does
-   what goes in the registration form, so nothing downstream should be
-   built on it until the answer is in.
+**This rule was an assumption until 27 August 2026; it is now a finding,
+within the limits of its source.** The ECI Forum's legal advice service,
+answering questions 2 and 3 of campaign/GATE1-LETTER.md (reply of 27 August
+2026, recorded verbatim in pipeline/EXTERNAL-REVIEWS.md, review 4), states
+that if the goals comply with the ECI Regulation the initiative must be
+registered "regardless of the mechanism described in your proposed legal
+act", that the mechanism's contestability "is not a relevant consideration
+for the registration", and that a full draft act may be provided where it
+shows the proposal falls within the Commission's competence. The contrary
+reading surfaced on 21 August, that the annex enlarges what is assessed, did
+not survive the question. The limits: the advice is independent, expressly
+non-binding on the Commission, and a finding about the registration stage
+only; it says nothing about how the annex fares in legislative procedure,
+which is what rules 1 to 4 are for.
 
 ## What this costs and why it is worth it
 

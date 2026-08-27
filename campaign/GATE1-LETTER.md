@@ -1,7 +1,10 @@
 # Gate 1: request for advice from the ECI Forum
 
-Status: **SENT 21 August 2026**, state Pending, reply due within a maximum of
-eight working days, so by 2 September 2026. Submitted through the Forum's
+Status: **ANSWERED 27 August 2026**, six days early. The reply is recorded
+verbatim in pipeline/EXTERNAL-REVIEWS.md (review 4) with its disposition;
+decomposition rule 5 moved from assumption to finding on it, and the
+response followed campaign/FORUM-REPLY-PLAYBOOK.md scenario B: thanks, no
+follow-up. Originally sent 21 August 2026, Submitted through the Forum's
 Seek advice form as a legal enquiry, from David's own account. This was the
 first of the three Gate 1 soundings in campaign/GATES.md.
 
