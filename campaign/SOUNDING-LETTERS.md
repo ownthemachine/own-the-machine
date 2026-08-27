@@ -128,6 +128,10 @@ opening or nowhere.
 
 - First week of September, per OUTREACH.md's calendar logic; the order is
   A then C then B, cheapest misfire first.
+- Letter B is sent in French. The French rendering went through the
+  project's translation-fidelity and native-ear gates on 28 August 2026
+  (both returned findings; all applied). The gated text travels with the
+  personal openings, which stay off-repository by design.
 - Each mail's subject line: plain, no campaign language. "Advice sought
   on an ECI in preparation" carries all three.
 - If a reply asks a legal question the file already answers, the answer
