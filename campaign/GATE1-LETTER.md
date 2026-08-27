@@ -300,3 +300,43 @@ assumption rather than a finding. If the answer is that the annex is assessed
 on the same footing as the ask, that rule changes and so does what goes in the
 registration form. Record the reply and its consequences in
 pipeline/EXTERNAL-REVIEWS.md before acting on it.
+
+
+---
+
+## Response sent, 27 August 2026
+
+Submitted the same day through the request's feedback form (ratings: Very
+satisfied / answered: Yes / clear: Yes), after the usual adversarial round:
+the first draft was revised because hostile counsel showed four phrases a
+hostile reader could quote from the public record as admissions ("not
+assumed" reading as a concession that the Article 114 case was ungrounded,
+"a genuine gift ... our file had missed" as self-discrediting, the
+proportionality sentence as an admission of flaws, and "strengthens the
+layer" overclaiming a 1992 soft-law recommendation). The revision passed
+the gate on the second round and says no act-type for the 2023 decision at
+all, since two reviews have now contradicted each other about it. Verbatim
+as sent:
+
+> Dear ECI Forum legal team, thank you for a reply that answered all four
+> questions directly, ahead of your own deadline, and without softening the
+> difficult parts. Three things in it will shape the file. Your reading
+> that registration turns on the goals rather than on the contestability of
+> the annexed mechanism answers, for the registration stage, the one
+> assumption our drafting had flagged as untested; it is now recorded in
+> the project's public repository with your advice's independent and
+> non-binding character stated alongside it. The 2023 wealth-tax
+> registration decision you cite will be referenced in the memorandum's
+> internal-market argument, as you recommend. And Council Recommendation
+> 92/443/EEC, which we had not yet cited, now belongs in the file's account
+> of Union action on participation under Article 352's predecessor. Your
+> harder counsel is taken as seriously: the internal-market case for
+> Article 114 will be presented with the evidence the file has assembled
+> for it, and the proportionality analysis you advise making upfront is
+> already stated on the face of the draft's objections file, where the
+> Commission can weigh it before anyone asks. No further question - you
+> gave us what we asked for: your reading of where it is weakest. With
+> thanks, David Vanheeswijck
+
+Gate 1's first sounding is closed in both directions: their answer in
+pipeline/EXTERNAL-REVIEWS.md review 4, our response here.
