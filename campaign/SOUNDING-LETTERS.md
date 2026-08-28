@@ -51,7 +51,8 @@ opening or nowhere.
 >
 > The hour I am asking for is about the registration stage and the
 > participation framing: where a proposal like this reads as serious to
-> people who work on financial participation, and where it does not. I am
+> people who work on financial participation, and where it does not. I
+> will send my questions in advance so the hour is well spent. I am
 > not asking for money, endorsement or association of any kind, and the
 > project's own published criteria stop it if it cannot assemble
 > organisers and partners on the merits.
@@ -85,7 +86,8 @@ opening or nowhere.
 > wrong anyway, and what a Belgian office watching this space would want
 > to see before taking it seriously.
 >
-> That is the hour I am asking for. No money and no endorsement are
+> That is the hour I am asking for, and I will send my questions in
+> advance so it is well spent. No money and no endorsement are
 > sought; the project's published gates stop it on their own criteria if
 > the people and partners do not materialise.
 >
@@ -115,7 +117,8 @@ opening or nowhere.
 > repeat, and what a single initiator most underestimates about the step
 > from a text to seven organisers in seven states.
 >
-> That hour is the whole ask. No money, no endorsement, no use of your
+> That hour is the whole ask, and I will send my questions in advance
+> so it is well spent. No money, no endorsement, no use of your
 > name; the project's published criteria stop it if it cannot assemble
 > the people on the merits.
 >
