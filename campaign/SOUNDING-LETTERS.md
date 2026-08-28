@@ -8,9 +8,12 @@ templated version of that line is worse than none. Everything after the
 opening is ready to send.
 
 What each letter does, per OUTREACH.md: says a complete draft exists and
-has been through adversarial review; asks for one hour on
-registration-stage experience; says plainly that no money and no
-endorsement are sought; points at ownthemachine.eu with the ten-minute
+has been through adversarial review; asks for reactions to a short
+question list on registration-stage experience, written answers as the
+floor and an hour's conversation at the recipient's option (revised 28
+August: the written floor lowers the cost of saying yes, and any call
+that happens is one the recipient chose); says plainly that no money and
+no endorsement are sought; points at ownthemachine.eu with the ten-minute
 test. What is new since that plan was written: the Forum's independent
 advice of 27 August, quoted in one sentence, conditionally as it was
 given, and never oversold, because the advice is non-binding and the
@@ -39,8 +42,8 @@ opening or nowhere.
 > held for all Union citizens. The draft, its explanatory memorandum, an
 > objections file that states the strongest cases against it, and the
 > record of every adversarial review it has been through are public at
-> ownthemachine.eu. Ten minutes there should settle whether the hour I am
-> asking for is worth your time.
+> ownthemachine.eu. Ten minutes there should settle whether this request
+> is worth your time.
 >
 > The ECI Forum's independent legal advice service reviewed the
 > registration question on 27 August and answered that, on its reading,
@@ -49,10 +52,12 @@ opening or nowhere.
 > Council Recommendation 92/443/EEC, the Union's earlier instrument on
 > participation in enterprise results.
 >
-> The hour I am asking for is about the registration stage and the
-> participation framing: where a proposal like this reads as serious to
-> people who work on financial participation, and where it does not. I
-> will send my questions in advance so the hour is well spent. I am
+> What I am asking for is your reaction on the registration stage and
+> the participation framing: where a proposal like this reads as serious
+> to people who work on financial participation, and where it does not.
+> I would send a short list of questions; even brief written answers to
+> two or three of them would help, and if a conversation is easier for
+> you, I will gladly make myself available for an hour at your convenience. I am
 > not asking for money, endorsement or association of any kind, and the
 > project's own published criteria stop it if it cannot assemble
 > organisers and partners on the merits.
@@ -73,7 +78,7 @@ opening or nowhere.
 > 3 % of the capital of the few undertakings above objective thresholds,
 > held in a common reserve for all Union citizens. The draft, the
 > objections against it and its full review record are public at
-> ownthemachine.eu; ten minutes there will tell you whether an hour is
+> ownthemachine.eu; ten minutes there will tell you whether a reply is
 > warranted.
 >
 > The ECI Forum's independent advice service has answered the
@@ -86,8 +91,9 @@ opening or nowhere.
 > wrong anyway, and what a Belgian office watching this space would want
 > to see before taking it seriously.
 >
-> That is the hour I am asking for, and I will send my questions in
-> advance so it is well spent. No money and no endorsement are
+> That is my request: I would send a short list of questions, and even
+> brief written answers would help; if a conversation is easier, I will
+> gladly make myself available for an hour at your convenience. No money and no endorsement are
 > sought; the project's published gates stop it on their own criteria if
 > the people and partners do not materialise.
 >
@@ -106,7 +112,7 @@ opening or nowhere.
 > the instrument is a complete draft Regulation, published with its
 > explanatory memorandum, twenty-one objections stated at full strength,
 > and the record of every review round, at ownthemachine.eu. Ten minutes
-> there should tell you whether the hour I am asking for is worth it.
+> there should tell you whether this request is worth your time.
 >
 > The registration-stage law I can read, and the ECI Forum's independent
 > advice service has answered the questions I could put in writing: on
@@ -117,8 +123,10 @@ opening or nowhere.
 > repeat, and what a single initiator most underestimates about the step
 > from a text to seven organisers in seven states.
 >
-> That hour is the whole ask, and I will send my questions in advance
-> so it is well spent. No money, no endorsement, no use of your
+> That is the whole ask. I would send a short list of questions;
+> written answers to a few of them would already help, and if talking
+> is easier, as it may well be for this kind of experience, I will
+> gladly make myself available for an hour at your convenience. No money, no endorsement, no use of your
 > name; the project's published criteria stop it if it cannot assemble
 > the people on the merits.
 >
@@ -141,3 +149,5 @@ opening or nowhere.
   is a link to the objection, not a restatement; the file speaking for
   itself is the point.
 - Replies land in hello@ownthemachine.eu, which now reaches two people.
+- No phone number in a first letter; the reply address is the channel,
+  and a number is shared only once something is being scheduled.
