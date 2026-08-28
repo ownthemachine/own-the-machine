@@ -138,7 +138,13 @@ opening or nowhere.
 ## Sending notes
 
 - First week of September, per OUTREACH.md's calendar logic; the order is
-  A then C then B, cheapest misfire first.
+  A then C then B, cheapest misfire first. Not before September: a
+  letter sent in the last days of August lands in a vacation-return
+  pile. Not on Monday 1 September either, the heaviest inbox day of the
+  year; a Tuesday-to-Thursday morning, with a few days between letters.
+- Sent from the initiator's personal address, not a project mailbox: the
+  letters are from a citizen, and replies belong in a personal inbox.
+  hello@ownthemachine.eu remains the project contact on the site.
 - Letter B is sent in French. The French rendering went through the
   project's translation-fidelity and native-ear gates on 28 August 2026
   (both returned findings; all applied). The gated text travels with the
@@ -148,6 +154,5 @@ opening or nowhere.
 - If a reply asks a legal question the file already answers, the answer
   is a link to the objection, not a restatement; the file speaking for
   itself is the point.
-- Replies land in hello@ownthemachine.eu, which now reaches two people.
 - No phone number in a first letter; the reply address is the channel,
   and a number is shared only once something is being scheduled.
