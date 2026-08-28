@@ -57,8 +57,8 @@ opening or nowhere.
 > to people who work on financial participation, and where it does not.
 > I would send a short list of questions; even brief written answers to
 > two or three of them would help, and if a conversation is easier for
-> you, I will gladly make myself available for an hour at your convenience. I am
-> not asking for money, endorsement or association of any kind, and the
+> you, I will gladly make myself available for an hour at your
+> convenience. I am not asking for money, endorsement or association of any kind, and the
 > project's own published criteria stop it if it cannot assemble
 > organisers and partners on the merits.
 >
@@ -93,8 +93,8 @@ opening or nowhere.
 >
 > That is my request: I would send a short list of questions, and even
 > brief written answers would help; if a conversation is easier, I will
-> gladly make myself available for an hour at your convenience. No money and no endorsement are
-> sought; the project's published gates stop it on their own criteria if
+> gladly make myself available for an hour at your convenience. No
+> money and no endorsement are sought; the project's published gates stop it on their own criteria if
 > the people and partners do not materialise.
 >
 > David Vanheeswijck
@@ -126,8 +126,8 @@ opening or nowhere.
 > That is the whole ask. I would send a short list of questions;
 > written answers to a few of them would already help, and if talking
 > is easier, as it may well be for this kind of experience, I will
-> gladly make myself available for an hour at your convenience. No money, no endorsement, no use of your
-> name; the project's published criteria stop it if it cannot assemble
+> gladly make myself available for an hour at your convenience. No
+> money, no endorsement, no use of your name; the project's published criteria stop it if it cannot assemble
 > the people on the merits.
 >
 > David Vanheeswijck
