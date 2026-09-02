@@ -1,6 +1,7 @@
 # The Gate 1 sounding letters
 
 Status: drafted 27 August 2026, after the Forum's answer and quoting it.
+Letter A sent 2 September 2026; C and B follow on the published order.
 Three letters for the three channels GATES.md names. Each is complete
 except its first line: OUTREACH.md requires the opening to say why this
 person specifically, drafted per person once the shortlist is set, and a
