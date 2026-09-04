@@ -11,11 +11,15 @@ Condensed from FEASIBILITY.md; that file carries the full reasoning.
   the ECI Forum's free legal advice; three soundings (ETUC/ETUI, one Belgian
   MEP office, one ECI veteran). KILL: if the core ask is unregistrable even
   partially, publish as the book's model law and stop.
-  - Forum request **SENT 21 August 2026**, pending, reply due by 2 September
-    2026 at the latest. What was submitted is recorded in GATE1-LETTER.md.
-  - The three soundings are not yet made. They wait for the first week of
-    September: the institutional calendar is empty until then, and the Forum's
-    answer sharpens what is worth asking.
+  - Forum request **SENT 21 August 2026, ANSWERED 27 August 2026** (six days
+    early). Sounding 1 passed: the advice read registration as turning on
+    the goals, not on the annexed mechanism. What was submitted is recorded
+    in GATE1-LETTER.md; the answer and its disposition in
+    pipeline/EXTERNAL-REVIEWS.md.
+  - The three soundings: letter A (researcher) sent 2 September 2026,
+    letter C (ECI veteran) sent 4 September 2026, letter B (Belgian MEP
+    office) follows. Texts in SOUNDING-LETTERS.md. No reply after ten days
+    means one short follow-up, then stop.
 - **Gate 2 (Q4 2026):** seven credible organisers in seven states plus at
   least two institutional partners, on paper. KILL: fewer than two partners by
   year end means do not file; a solo ECI lands at ~300k and the failure is
