@@ -102,13 +102,14 @@ users happen to be. The European Parliament rejected a robot tax in
 February 2017, the question has returned with the large-scale adoption of
 artificial intelligence, and no Union instrument occupies the field.
 
-The mechanism we illustrate. Undertakings above objective thresholds
-would be designated on the model of Regulation (EU) 2022/1925. Each
+The mechanism we illustrate. Undertakings would be designated on the model of Regulation (EU) 2022/1925:
+a rebuttable presumption above objective thresholds, and designation on the
+facts below them after a market investigation. Each
 designated undertaking would issue, once, a non-voting citizens' capital
 warrant entitling a common reserve to subscribe at nominal value for 3 %
 of its fully diluted capital, crystallising on the undertaking's first
 liquidity event, or earlier where it distributes value to its own
-shareholders above a stated share of its turnover, or in any event seven
+shareholders above a stated share of its turnover from the covered activity, or in any event seven
 years after issuance. The reserve would hold the resulting shares without votes, board seats or any say in management, insulated in both directions from Union and national
 budgets. Citizens of the Union aged 18 or older would hold equal, personal and
 non-transferable entitlements to distributions as and when they are
@@ -118,8 +119,8 @@ administered through national vehicles.
 The participation mechanism is settled in shares; Reserve capital and
 citizen distributions remain outside public budgets. The Reserve pays
 the shares' nominal value in cash, the undertaking bears valuation costs,
-and enforcement fines accrue to public budgets. No undertaking is required
-to sell assets to settle the warrant. The warrant also crystallises at the seven-year backstop even without
+and enforcement fines accrue to the Union budget. No undertaking is required
+to sell assets to settle the warrant. The warrant also crystallises at the seven-year long-stop even without
 a liquidity event or shareholder extraction. We propose this as a measure
 of company law and market regulation; its possible classification as a
 fiscal measure remains contested despite its settlement in shares.
@@ -149,7 +150,7 @@ correction or repeal is not automatic. The complete text, the
 objections to it, the evidence base and the record of every adversarial
 review it has been through are public at ownthemachine.eu.
 
-3497 characters without spaces (4117 with), limit 5 000.
+3603 characters without spaces (4242 with), limit 5 000.
 
 ---
 
