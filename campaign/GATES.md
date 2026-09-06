@@ -22,12 +22,17 @@ Condensed from FEASIBILITY.md; that file carries the full reasoning.
     means one short follow-up, then stop.
 - **Gate 2 (Q4 2026):** seven credible organisers in seven states plus at
   least two institutional partners, on paper. KILL: fewer than two partners by
-  year end means do not file; a solo ECI lands at ~300k and the failure is
-  public.
-- **Gate 3 (2027, real money):** ASBL, filing, launch, six-figure budget.
+  year end means do not file. The partner requirement tests practical
+  support; a past initiative's signature count is not a forecast for this one.
+- **Gate 3 (2027, resourced launch):** organisational setup, filing and
+  launch backed by a costed operating plan. As clarified by the initiator
+  on 6 September 2026, engineering and production should use automation
+  and volunteered capacity first; no six-figure cash minimum or salaried
+  staffing requirement is assumed. Record named responsibilities, available
+  hours, actual cash needs and backup arrangements before collection.
 
-Hard constraints: all signatures live on the Commission's COCS (settled law
-since 2023); draft the ask in severable layers so partial registration trims
+Hard constraints: all online signatures use the Commission's COCS (required
+for initiatives registered since 2023); official paper forms remain permitted; draft the ask in severable layers so partial registration trims
 without gutting; the realistic deliverable is the hearing and the Commission's
 formal response, not the statute.
 

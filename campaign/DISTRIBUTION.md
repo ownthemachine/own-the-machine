@@ -1,10 +1,10 @@
 # Distribution: how the open-source law gains traction
 
 18 August 2026, amended 19 August 2026 (see campaign/GATES.md): the site and
-the repositories are public, quietly, ahead of the admissibility opinion
+the repositories are public, quietly, ahead of independent registrability advice
 (Gate 1). That moves the public moment, not the gates: no announcement, no
 active traction push, until Gate 1 clears; constitution still waits for that
-opinion and filing waits for Gate 2. Traction work before that point is
+advice and filing waits for Gate 2. Traction work before that point is
 seeding, not publicity.
 
 ## The authorship question, settled
@@ -28,17 +28,20 @@ have clean mechanisms:
   of research for my book. Every campaign-relevant argument is free online in
   five languages; nobody needs to buy anything to evaluate this proposal."
   The essays and reading guide make that literally true today.
-- **If it ever scales: a royalty pledge.** Royalties from campaign-driven sales
-  to the ASBL, stated in advance. That converts the conflict into a commitment.
+- **Keep the declared interest visible.** No royalty pledge is adopted, no
+  organisation is constituted and the campaign receives no book proceeds.
+  Any future proposal to change that must pass the published funding rules
+  and be disclosed before it takes effect.
 - **Two voices, one honesty.** The campaign speaks institutionally; David
   speaks as the author who drafted it. Same facts, different registers, no
   pretence they are unrelated.
 
 ## What actually creates ECI traction (base rates, again)
 
-Virality does not collect a million signatures; coalitions do. The UBI ECI had
-genuine online enthusiasm and stopped at 300k. Right2Water had the unions'
-mailing lists. So the sharing plan's job is not reach for its own sake: it is
+Broad public sharing and partner networks can both bring support. Neither
+viral reach nor a list of endorsements guarantees completed statements.
+Previous campaigns illustrate different routes, not a ceiling on what this
+project can achieve. The sharing plan's job is
 to (a) make the arguments familiar before the law appears, (b) give partner
 organisations ready-made material, and (c) surface the seven organisers and
 two institutional partners that Gate 2 requires. Reach that does not serve one
@@ -55,25 +58,25 @@ Already in motion, and it is the right machine:
   launch, a regular reader has met every load-bearing fact.
 - **Quietly reserve the handles now** (Bluesky, LinkedIn page, Mastodon,
   GitHub org, YouTube) exactly as the domain was parked. Reserving is free;
-  losing @ownthestable to a squatter after launch is not.
-- Comment strategy continues as the growth engine (the Zwart comment reached
-  more people than every own-post combined).
+  losing consistent Own the Machine handles after launch can be costly.
+- Substantive public replies are one channel to test. Record observable
+  reach and questions; an anecdotal successful reply is not a conversion forecast.
 
 ## Phase 2, at launch: the mechanics
 
 Ranked by expected yield for THIS audience:
 
-1. **The simulator is the shareable object.** A personal number beats every
-   argument: "my dividend would be EUR X/yr." Output card in campaign livery,
-   one tap to share, locale-aware. This is the one component where genuine
+1. **The simulator is one possible explanatory asset.** Any shared result must carry its assumptions, date and limits beside both
+   the capital and payout figures. Present scenarios, never a personal payment
+   promise. Output cards should remain understandable without the source page. This is the one component where genuine
    virality is plausible; design it for that from day one.
 2. **The "open-source law" angle for the tech press and HN.** "We are drafting
    an EU regulation like an open-source project; PRs welcome; here is
-   GOVERNANCE.md" is a novel story independent of the content. Developers are
-   already the most responsive audience (see the Zwart thread) and they are an
-   ECI-eligible public.
-3. **Per-country threshold cards.** "Belgium needs 15,510 of us; live count."
-   Progress mechanics are proven ECI psychology, and COCS publishes the
+   GOVERNANCE.md" is a novel story independent of the content. The invitation is open to
+   anyone who wants to inspect or contribute to the work; eligibility to sign
+   depends on ECI rules, not occupation.
+3. **Per-country threshold cards.** "Belgium needs 15,840 of us; live count."
+   Keep progress factual; the Commission publishes the
    counts. 27 localised variants from one template.
 4. **The hostile-question FAQ as a content series.** One hard question, one
    honest answer, one card each: "Isn't this just a tax?" "Who stops

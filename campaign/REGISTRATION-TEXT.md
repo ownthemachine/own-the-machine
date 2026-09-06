@@ -32,10 +32,10 @@ the participation of citizens of the Union in the productivity gains of
 hyper-automated production, meaning production whose output is
 substantially decoupled from employment.
 
-Automation is concentrating the returns of production in a few very
-large undertakings as the labour share falls. Member States have begun to
-respond separately, with divergent levies and participation schemes,
-which fragments the internal market.
+Returns from highly automated production risk concentrating in a few large
+undertakings. Divergent national responses to the digital economy can
+fragment the internal market; harmonised participation mechanisms merit
+assessment.
 
 We therefore ask the Commission:
 
@@ -53,7 +53,7 @@ repealed on the evidence.
 A complete draft Regulation accompanies this initiative as an
 illustration. The objectives, not the draft, are what we ask for.
 
-944 characters without spaces (1108 with), limit 1 100.
+932 characters without spaces (1089 with), limit 1 100.
 
 ---
 
@@ -72,11 +72,13 @@ Article 3(3) TEU and Article 9 TFEU, as to the objectives of a highly
 competitive social market economy and of taking social requirements into
 account in the Union's policies.
 
-No amendment of the Treaties is sought. Every element of the initiative
-rests on an existing basis, primarily Article 114 TFEU and residually
-Article 352 TFEU, and the accompanying draft is severable by layer so that
-any element found to fall outside those bases can be trimmed without
-touching the objectives.
+No amendment of the Treaties is sought. The initiative asks the Commission to assess the use of existing bases,
+primarily Article 114 TFEU and residually Article 352 TFEU. Reliance on
+Article 352 would require a separate act, with Council unanimity and
+Parliament's consent. The illustrative draft currently cites Article 114
+only; it is not a completed two-act architecture. The accompanying draft
+is severable by layer; the Commission decides what, if anything, can be
+registered and proposed within its powers.
 
 ---
 
@@ -86,7 +88,7 @@ Subject matter. The initiative concerns the distribution of the capital
 value produced by highly automated undertakings. Its premise is
 empirical, not ideological: where output is substantially decoupled from
 employment, the historic channel through which citizens shared in
-productivity, namely wages, no longer carries the gains. The initiative
+productivity, namely wages, may not carry all the gains. The initiative
 asks the Commission to open a second channel, ownership, and to do so on
 harmonised Union rules rather than leaving it to twenty-seven divergent
 national answers.
@@ -107,18 +109,20 @@ warrant entitling a common reserve to subscribe at nominal value for 3 %
 of its fully diluted capital, crystallising on the undertaking's first
 liquidity event, or earlier where it distributes value to its own
 shareholders above a stated share of its turnover, or in any event seven
-years after issuance. The reserve would hold the resulting shares passively and
-without votes, insulated in both directions from Union and national
-budgets. Citizens of the Union would hold equal, personal and
+years after issuance. The reserve would hold the resulting shares without votes, board seats or any say in management, insulated in both directions from Union and national
+budgets. Citizens of the Union aged 18 or older would hold equal, personal and
 non-transferable entitlements to distributions as and when they are
 realised, carrying no right of individual cash redemption or sale,
 administered through national vehicles.
 
-Deliberately, nothing is payable in cash, nothing enters any public
-budget, and no undertaking is required to sell anything. The instrument
-attaches to a moment of realised value that the undertaking itself
-chooses. That structure is what makes it a measure of company law and
-market regulation rather than a fiscal measure.
+The participation mechanism is settled in shares; Reserve capital and
+citizen distributions remain outside public budgets. The Reserve pays
+the shares' nominal value in cash, the undertaking bears valuation costs,
+and enforcement fines accrue to public budgets. No undertaking is required
+to sell assets to settle the warrant. The warrant also crystallises at the seven-year backstop even without
+a liquidity event or shareholder extraction. We propose this as a measure
+of company law and market regulation; its possible classification as a
+fiscal measure remains contested despite its settlement in shares.
 
 Honesty about the difficulty. We do not claim the legal basis is
 uncontested. The characterisation of the participation mechanism under
@@ -131,21 +135,21 @@ registration stage, where the test is whether the ask manifestly falls
 outside the Commission's powers.
 
 Severability. The ask above is drafted so that it survives trimming. Its
-main objectives are an assessment and a proposal, which is what an
-initiative may ask for and which requires no particular legal basis. If
+main objectives are an assessment and a proposal, within the Commission's Treaty powers. Whether it can propose particular
+elements remains subject to the applicable legal basis. If
 the Commission concludes that parts of the accompanying draft exceed
 what it could propose, we would prefer partial registration under
 Article 6(4) of Regulation (EU) 2019/788 to refusal, with any trimming
 applying to the accompanying draft rather than to the objectives.
 
-Evidence and correction. The draft carries a reporting obligation and a
-falsification condition: if designated undertakings do not in fact show
-the decoupling the criteria assume, the evidence is published and the
-instrument is to be corrected or repealed. The complete text, the
+Evidence and correction. Article 14 requires a published assessment,
+including evidence contrary to the draft's assumptions about decoupling.
+The Commission would propose amendment or repeal where appropriate;
+correction or repeal is not automatic. The complete text, the
 objections to it, the evidence base and the record of every adversarial
 review it has been through are public at ownthemachine.eu.
 
-3182 characters without spaces (3757 with), limit 5 000.
+3497 characters without spaces (4117 with), limit 5 000.
 
 ---
 
