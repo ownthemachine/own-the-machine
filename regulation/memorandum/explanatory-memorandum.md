@@ -107,6 +107,19 @@ the unanimity they require cannot hold the Article 114 layers hostage, and
 so that partial registration or partial annulment trims the instrument
 rather than destroying it.
 
+The preamble of the draft cites Article 114 alone. A single act cannot
+carry two legislative procedures: Article 352 requires unanimity in the
+Council and the consent of the Parliament where Article 114 requires the
+ordinary legislative procedure, and the legal-form and legal-basis gates of
+6 September 2026 (pipeline/reviews) confirmed that a citation scoped by
+chapter is not an available form. The Reserve, the entitlement and their
+protection, Chapters IV to VI, are therefore drafted so that, if Article
+114 is held not to reach them, they can be enacted as a separate Council
+Regulation on Article 352 with the warrant regime unchanged. That is the
+form Layer 3 of the severability memorandum provides for, and it is what
+the registration
+text's reference to Article 352 contemplates.
+
 Article 114(2) excludes fiscal provisions, and the characterisation question
 that follows is the most serious legal risk this instrument carries. It is
 stated at full strength and answered at objection 2, and that objection, not

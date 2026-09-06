@@ -87,16 +87,16 @@ VERDICT: REVISE
 ## Editor disposition
 
 1. **Bifurcation into two acts (sections 1.A and 6, and the "Citations
-   Block" row of the table). DECLINED, recorded.** The opinion's central
-   conclusion is that Article 114 and Article 352 cannot govern chapters of
-   one act and that the instrument must be split into two legislative acts.
-   That is exactly the substantive legal-basis choice the severability
-   memorandum makes deliberately, for the reasons given in explanatory
-   memorandum section 2.1 (Titanium Dioxide, C-300/89, and the choice not to
-   concede the weakest layer's characterisation). It is the memorandum's
-   choice, not this task's, and the act is not restructured here. Recorded
-   as the standing legal-basis risk the memorandum and severability
-   documents already carry.
+   Block" row of the table), answering the reviewer's specific question.
+   APPLIED.** Both gates answered the specific question the same way: a
+   citation scoped by chapter is not an available form, and the correct
+   form is two acts. The citation now names Article 114 alone
+   (regulation/recitals.md). This is not a restructuring of the instrument
+   into two acts today: explanatory memorandum section 2.1 now records that
+   Chapters IV to VI are drafted to be enacted as a separate Council
+   Regulation on Article 352, with the warrant regime unchanged, if Article
+   114 is held not to reach them, which is the two-act form severability
+   Layer 3 already provides for.
 2. **Genuineness of the Article 114 objective and Recital (3)'s "distribution
    of ownership" language. DECLINED as substantive, out of scope.** This
    restates the characterisation risk that explanatory memorandum section
@@ -118,5 +118,8 @@ VERDICT: REVISE
    DECLINED as out of scope.** This task inserts a citations block ahead of
    the existing recitals; it does not rewrite recital (1).
 
-Residual: verdict stands at REVISE. No change was applied, so no second
-round was run under the two-round cap.
+Residual: finding 1 applied; findings 2 to 7 remain declined as substantive
+or out of scope. A second round on the amended citations block was run
+under the legal-form prompt only, recorded in
+pipeline/reviews/2026-09-06-legal-form-citations-r2.md; this legal-basis
+gate is not re-run under the two-round cap.

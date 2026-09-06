@@ -1272,7 +1272,7 @@ the register.
 
 Objection 2's fiscal reading has now been reached independently by three
 readers: hostile counsel on 27 August 2026, the ECI Forum's advisers on 27
-August 2026, and an ECI veteran on 5 September 2026 (pipeline/EXTERNAL-REVIEWS.md,
+August 2026 and an ECI veteran on 5 September 2026 (pipeline/EXTERNAL-REVIEWS.md,
 review 5). The objection is unchanged; what changes is its status, from an
 adversary's argument to the ordinary reader's first impression, which the
 presentation, not the drafting, must now answer.
