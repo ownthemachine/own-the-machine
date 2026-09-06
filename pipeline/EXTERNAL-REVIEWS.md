@@ -246,3 +246,63 @@ Point by point:
    ask is registrable on the advisers' reading, partially at worst. The
    response, per playbook scenario B: thanks, no follow-up question.
    Soundings two and three proceed with this reasoning quoted.
+
+## Review 5, 5 September 2026: an ECI veteran's reply to sounding letter C
+
+Received 5 September 2026, within a day of the letter, in answer to
+campaign/SOUNDING-LETTERS.md letter C. A short written reply from a
+practitioner who has taken initiatives through registration; no call, no
+question list taken up. Recorded verbatim on its substance, nameless as
+the letter promised, before anything was decided on it.
+
+### Verbatim (substance)
+
+> One thing I did not see with your text was proposed legal basis in the
+> Treaty on the functioning of the EU. Since you are demanding a new tax on
+> companies I guess that without that the Commission might decide that
+> your proposal implies a Treaty change and therefore not to register your
+> ECI.
+
+> I think it's also acceptable to put all ECI's in the same straight
+> jacket: title, short proposal, legal basis, longer explanatory annex plus
+> any requested law added. Without this discipline it would be difficult
+> for people going on to the Commission portal to compare different ECIs
+> and decide which to sign.
+
+> My advice would be to draft your proposal as per instructions with the
+> correct character count and see if it can resonate with the public.
+> Several drafts are necessary.
+
+### Disposition
+
+1. **The legal basis was not visible where a reader lands. ACCEPTED as a
+   presentation defect, verified before acceptance:** the site's landing
+   page, law index and about page carried no Treaty article; the
+   explanatory memorandum states the basis in section 2.1, a third of the
+   way down; the registration-format text with its Treaty-provisions
+   section existed only in this repository. Two fixes: the preamble now
+   carries the citations every Union act opens with (regulation/recitals.md,
+   closing the legal-form finding of 19 August), and the registration-format
+   text is published on the site with the legal basis on the first screen.
+2. **The fiscal reading is the default reading. RECORDED against objection
+   2.** This is the third independent reader to reach for "tax" before
+   anything else, after hostile counsel (pipeline/reviews, 27 August,
+   attack 1) and the ECI Forum's advisers (Article 114(2) "by effect").
+   Objection 2 already states the case at full strength; what changes is
+   the status of the risk, from an adversary's argument to the ordinary
+   reader's first impression, which the presentation must answer before
+   the argument gets a hearing.
+3. **The Treaty-change instinct. ANSWERED BY PRESENTATION, not by new
+   drafting.** The file seeks no Treaty amendment (memorandum 2.1;
+   severability layers); the registration text now says so in one
+   sentence. The instinct arose because no basis was visible, and it is
+   the instinct the Commission's registration unit will share.
+4. **The format advice. ALREADY MET, NOW VISIBLE.** campaign/REGISTRATION-TEXT.md
+   has held title, objectives, Treaty provisions and annex within the Annex
+   II limits of Regulation (EU) 2019/788 since August; it is now rendered on
+   the site. "Several drafts" and "see if it can resonate with the public"
+   are taken as the sequencing rule for Gate 2: the short text is tested on
+   people before the long one is perfected further.
+5. **Gate 1, sounding three: ANSWERED.** No kill criterion is touched. What
+   was asked for (the registration dialogue as lived) was not what came
+   back; what came back was worth more.

@@ -72,6 +72,12 @@ Article 3(3) TEU and Article 9 TFEU, as to the objectives of a highly
 competitive social market economy and of taking social requirements into
 account in the Union's policies.
 
+No amendment of the Treaties is sought. Every element of the initiative
+rests on an existing basis, primarily Article 114 TFEU and residually
+Article 352 TFEU, and the accompanying draft is severable by layer so that
+any element found to fall outside those bases can be trimmed without
+touching the objectives.
+
 ---
 
 ## 4. Annex on the subject, objectives and background
