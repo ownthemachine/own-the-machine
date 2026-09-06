@@ -1,0 +1,30 @@
+[
+  {
+    "file": "otm-claims-layer-r1.md.gz",
+    "sha256_uncompressed": "9f52db9be44b15ee862f8cde7af0a4384118b9ef82b07555e1753a11653faf1b"
+  },
+  {
+    "file": "otm-claims-legal-r4-original.md.gz",
+    "sha256_uncompressed": "f93d00082b61e798519005e6dd56c81bbbb7e401e04466b22510d1c315bfee08"
+  },
+  {
+    "file": "otm-claims-final-r5.md.gz",
+    "sha256_uncompressed": "6ab8200f577cdd0f5c8f686c5b967e44cc171fe01099d15a96e53d40cbdeea4e"
+  },
+  {
+    "file": "otm-claims-final-r6.md.gz",
+    "sha256_uncompressed": "ba1db5263d053af3924b13acbd2c128c2ed7419ca213e465bcb983743e4e48d3"
+  },
+  {
+    "file": "otm-claims-final-r7.md.gz",
+    "sha256_uncompressed": "0e9bf98c7abe1e9101794d0f2a8e18b5ef7d8e097813e3a7d02f33653294d272"
+  },
+  {
+    "file": "otm-claims-final-r8.md.gz",
+    "sha256_uncompressed": "32f9b8ae499c954f6238c26cceb328374eeff0e6746f3bd78fe03878f1b3357a"
+  },
+  {
+    "file": "otm-claims-final-r9.md.gz",
+    "sha256_uncompressed": "0f78272c7eb31b61b2dbeeca1033f59525167394b6590e37544777fde8d04e65"
+  }
+]
