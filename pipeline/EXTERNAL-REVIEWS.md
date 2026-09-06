@@ -281,9 +281,11 @@ the letter promised, before anything was decided on it.
    explanatory memorandum states the basis in section 2.1, a third of the
    way down; the registration-format text with its Treaty-provisions
    section existed only in this repository. Two fixes: the preamble now
-   carries the citations every Union act opens with (regulation/recitals.md,
-   closing the legal-form finding of 19 August), and the registration-format
-   text is published on the site with the legal basis on the first screen.
+   carries the citations every Union act opens with, naming Article 114
+   (regulation/recitals.md, closing the legal-form finding of 19 August;
+   the two-act form for the Article 352 layer is recorded in memorandum
+   2.1), and the registration-format text is published on the site with the
+   legal basis on the first screen.
 2. **The fiscal reading is the default reading. RECORDED against objection
    2.** This is the third independent reader to reach for "tax" before
    anything else, after hostile counsel (pipeline/reviews, 27 August,

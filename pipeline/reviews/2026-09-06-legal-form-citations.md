@@ -51,18 +51,22 @@ VERDICT: REVISE
 
 ## Editor disposition
 
-1. **Finding 1, incompatible dual legal basis scoped by chapter. DECLINED.**
-   The reviewer's own compliant redraft is to drop Article 352 or split the
-   act in two. That is the substantive legal-basis choice the severability
-   memorandum and explanatory memorandum section 2.1 already make and argue
-   for at length; it is the memorandum's decision, not this citations-block
-   task's, and this task does not restructure the act. Recorded as the
-   standing legal-basis risk, not a wording defect in the citations block.
-2. **Finding 2, split procedural line in the enacting formula. DECLINED.**
-   The procedural bifurcation objected to here is the direct consequence of
-   Finding 1: it exists because Article 352 governs Chapters IV and V under
-   a different procedure. Declined for the same reason as Finding 1 and
-   recorded alongside it.
+1. **Finding 1, incompatible dual legal basis scoped by chapter. APPLIED.**
+   Both gates answered the specific question the same way: a citation
+   scoped by chapter is not an available form. The citation now names
+   Article 114 alone (regulation/recitals.md). The Article 352 layer is not
+   dropped from the instrument: explanatory memorandum section 2.1 now
+   records that Chapters IV to VI are drafted so that, if Article 114 is
+   held not to reach them, they are enacted as a separate Council
+   Regulation on Article 352, which is the two-act form severability
+   Layer 3 already provides for.
+2. **Finding 2, split procedural line in the enacting formula. APPLIED.**
+   The procedure line now reads the plain standard form, "Acting in
+   accordance with the ordinary legislative procedure," with no chapter
+   carve-out. The Article 352 procedure for Chapters IV to VI is recorded
+   in memorandum 2.1 as belonging to the separate Article 352 Regulation
+   contemplated by Layer 3, not bifurcated within this act's enacting
+   formula.
 3. **Finding 3, missing mandatory recitals (Charter, subsidiarity, EDPS).
    DECLINED as out of scope.** This task adds a citations block ahead of
    the existing recitals; it does not add, remove or renumber substantive
@@ -71,5 +75,6 @@ VERDICT: REVISE
    EDPS-consultation recital is a drafting decision for the recitals and
    memorandum, outside this gate's scope.
 
-Residual: verdict stands at REVISE. No change was applied, so no second
-round was run under the two-round cap.
+Residual: changes applied for findings 1 and 2; a second round was run on
+the amended block, recorded in
+pipeline/reviews/2026-09-06-legal-form-citations-r2.md.
