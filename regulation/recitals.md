@@ -1,5 +1,17 @@
 # Recitals
 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof and, as regards Chapters IV and V, Article 352 thereof,
+
+Having regard to the proposal from the European Commission,
+
+After transmission of the draft legislative act to the national parliaments,
+
+Having regard to the opinion of the European Economic and Social Committee,
+
+Acting in accordance with the ordinary legislative procedure and, as regards the provisions based on Article 352 of the Treaty on the Functioning of the European Union, in accordance with the procedure laid down in that Article,
+
 Whereas:
 
 (1) The internal market comprises an area without internal frontiers in

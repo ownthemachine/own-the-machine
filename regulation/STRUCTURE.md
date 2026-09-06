@@ -18,8 +18,9 @@ Article 114 does not comfortably reach. Severable layers per DC-6.
 | VII | 13-16 | Penalties; monitoring and evaluation; delegation; committee procedure | drafted |
 | VIII | 17-18 | Transitional and final provisions | drafted |
 
-Recitals: drafted, see regulation/recitals.md. DC-26, the explicit
-scope-and-limits recital, is outstanding and not yet drafted.
+Citations and recitals: drafted, see regulation/recitals.md (citations
+added 6 September 2026, closing the legal-form finding of 19 August). DC-26,
+the explicit scope-and-limits recital, is outstanding and not yet drafted.
 
 Annex I: methodology for counting turnover, fair market value and full-time
 equivalents (referenced by Article 3; technical only per JPG G22). Drafted,
