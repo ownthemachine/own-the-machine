@@ -1,0 +1,12 @@
+{
+  "law_baseline": "0aeaada",
+  "site_baseline": "35e057c",
+  "file": "2026-09-06-operational-findings-r1.md.gz",
+  "sha256_uncompressed": "aacf9659d27221077769aac61bfb9987758d542551e6b7fb4d2e642715233652",
+  "base_bundle": "2026-09-06-findings-verification-r1.md.gz",
+  "additional_files": [
+    "own-the-machine/pipeline/findings/2026-09-06-assistant-operational-review.md",
+    "own-the-machine-site/simulator/SPEC.md",
+    "own-the-machine-site/src/scripts/simulator.ts"
+  ]
+}
