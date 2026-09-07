@@ -5,6 +5,21 @@ Local issue continuation: campaign prose only; no operative law, DC or
 constitutional amendment. No public issue, contact, filing or deployment.
 The draft is LETTER-B-2026-09-07.md. Historical letters A and C stay intact.
 
+## Later website and recipient update — 7 September 2026
+
+The reviewed website corrections have now been published and checked. The
+site release record is in the site repository, releases/2026-09-07/README.md;
+its verification manifest pins the published law and site commits. Fourteen
+sampled live responses, including both downloads, match the build exactly.
+The earlier live-site problems described below are historical observations
+and no longer describe the published release.
+
+The initiator has now confirmed the intended recipient privately and requested
+the French version. Official parliamentary email and postal details were
+verified. Recipient details remain outside this public record. The personal
+opening and final editor read still need completion; the letter remains unsent.
+The earlier drafting/review history below is preserved as recorded at that time.
+
 ## Before sending
 
 - Confirm the intended MEP privately and verify the personal opening
