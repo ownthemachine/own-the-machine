@@ -92,9 +92,10 @@ because the warrant attaches to value at its formation and a contrary rule
 would let an undertaking place itself beyond the Regulation by remaining
 private; and arrangements whose main purpose or effect is the avoidance of
 designation are disregarded, which is the settled anti-circumvention formula
-of Union market regulation and restricts no restructuring undertaken for
-genuine commercial reasons. Small and medium-sized enterprises fall far
-outside the thresholds and are unaffected by this Regulation.
+of Union market regulation while genuine increases in remuneration for work remain recognised.
+Acquisitions remain subject to the separate effects-based rule. Small and
+medium-sized enterprises generally fall below the presumptive thresholds;
+below-threshold designation and transferee rules remain applicable.
 
 (7) The quantitative thresholds should capture only undertakings of very
 substantial scale whose market valuation stands in a proportion to their
@@ -105,8 +106,8 @@ cannot be increased without genuine payment for genuine work, so that an
 undertaking reduces its decoupling ratio only by remunerating labour,
 which is consistent with the objectives of this Regulation. The ratio
 laid down in this Regulation is fixed in its own terms, so that an
-undertaking can establish its position from its own audited accounts
-alone: it exceeds by a margin of more than double the highest ratios
+undertaking can establish its position from audited remuneration and turnover records together with
+the valuation evidence specified in Annex I: it exceeds by a margin of more than double the highest ratios
 observed among capital-intensive undertakings whose value remains
 explained by their expenditure on labour, and by an order of magnitude
 the prevailing ratio among large undertakings admitted to trading in the
@@ -148,7 +149,9 @@ and interferes with no going concern before it is. For the same reason,
 an admission to trading which occurred before the entry into force of
 this Regulation should not constitute a liquidity event, and this
 Regulation should not apply to a liquidity event or other crystallising
-event completed before its entry into force.
+event completed before its date of general application.
+The contingent claim should arise at effective designation so that documentary delay cannot move the first qualifying event outside it. Transfers retaining the original economic participation should not restart the statutory period. Extraction and elapsed-time crystallisation should be reported using available records without waiting for annual audit.
+
 
 (11) Shareholder extraction above the threshold this Regulation sets for
 that purpose should crystallise the warrant on the same footing as a
@@ -207,6 +210,8 @@ without prejudice to the company law of its incorporation, and compliance
 should be secured through the enforcement powers laid down in this Regulation,
 including, as a last resort, the power to prohibit the making available of
 the relevant goods and services on the internal market.
+Equivalent-effect arrangements should exist by crystallisation while execution follows the independent valuation, including where the governing company law does not give effect to Union statutory vesting.
+
 
 (15) The issuance of shares pursuant to a citizens' capital warrant
 requires derogations from certain provisions of Directive (EU) 2017/1132
@@ -278,7 +283,7 @@ shareholders of covered undertakings, whose holdings are diluted upon
 crystallisation. That interference is provided for by law, genuinely meets
 an objective of general interest recognised by the Union and respects the
 essence of the right to property: it is a one-time dilution, capped at a
-stated percentage, borne at a moment of realised gain by the shareholders
+stated percentage, borne at a statutory crystallisation event
 of undertakings whose value derives from an unprecedented decoupling of
 output from labour. The Court of Justice has consistently held that the
 right to property is not absolute and that its exercise may be regulated
@@ -342,7 +347,7 @@ Regulation can do, and does, is oblige the Reserve to report each year the
 amount it was unable to recover, so that the cost is known rather than
 assumed away.
 
-(23) The Reserve should be a passive owner. It should exercise no votes,
+(23) The Reserve should exercise no votes,
 seek no influence over the management of any undertaking and pursue no
 industrial policy. Its function is to hold and to distribute, not to
 direct. The mandatory presence of the Reserve in the capital of covered
@@ -432,6 +437,8 @@ So conditioned, the prohibition respects the essence of that freedom: it
 is temporary, reversible on compliance and confined to the goods and
 services concerned, and it leaves the undertaking's activity outside the
 internal market untouched.
+Execution and notification duties, including those of bound transferees, should be expressly enforceable; sanctions should remain proportionate to the gravity and circumstances of each breach.
+
 
 (30) The premise of this Regulation, that automation at the designated
 scale durably decouples output from labour and concentrates ownership, is
@@ -504,7 +511,10 @@ fair trial.
 (36) Application of the substantive obligations of this Regulation should
 be deferred so that undertakings, Member States and the Commission can
 prepare, while the notification obligation applies from entry into force
-so that the first designations follow without delay,
+so that the first designations can take effect at general application.
+Preparatory notifications, hearings and appointment arrangements should precede general application. Early designation decisions should become effective only at general application, with no capture of liquidity events already completed,
+
+HAVE ADOPTED THIS REGULATION:
 
 ---
 

@@ -53,48 +53,25 @@ paragraph 2 are met before that event.
    or one of the main effects thereof is to avoid meeting the thresholds
    laid down in paragraph 2. The Commission shall disregard any such
    arrangement when applying this Regulation, and shall likewise disregard
-   any transaction, arrangement or attribution the main purpose or one of
-   the main effects of which is to increase the compensation of labour, or
-   to reduce the fair market value, referred to in point (b) of paragraph 2.
+   any transaction, arrangement or attribution which artificially increases
+   the compensation of labour or artificially reduces the fair market value
+   referred to in point (b) of paragraph 2. An increase in remuneration for
+   genuine work, including an increase without additional hours or employees,
+   or a reduction in value supported by an independent transaction or
+   valuation satisfying Annex I, shall not be disregarded solely because it
+   changes the ratio referred to in that point. This sentence shall not
+   prevent the application of the first sentence to acquisitions, disposals
+   or restructuring arrangements.
 
 9. The Commission is empowered to adopt delegated acts in accordance with
 Article 15 to amend the methodology laid down in Annex I where necessary to
 reflect technological and market developments. Those delegated acts shall
 not amend the thresholds laid down in paragraph 2.
 
+
 ---
 
-Drafting notes (non-normative). Architecture is DMA Article 3, deliberately:
-cumulative qualitative limbs (paragraph 1), mapped quantitative presumption
-(paragraph 2), self-notification with facts-available fallback (3),
-deadline-bound designation (4), cabined rebuttal excluding market-definition
-economics (5), below-threshold route (6). Paragraph 7 is the in-time test as
-an operative rule. Paragraph 8 keeps thresholds in the article per DC-30 and
-C-355/10: only the counting methodology is delegable. EUR 7,5 and 75 billion
-mirror magnitudes the Union legislature has already accepted as marking
-gateway scale. Numbers use the EU decimal comma. Satisfies DC-2, DC-10,
-DC-11, DC-30.
-
-Paragraph 2(b) history, which matters. The first design used turnover per
-full-time equivalent on the automated segment; research of 22 August 2026
-(evidence/designation-count.md) showed it designated two undertakings,
-missed every integrated incumbent by factors of two to fourteen, turned on
-an unpublished self-computed headcount, and inverted the anti-avoidance
-incentive. The replacement, fair market value against audited compensation
-of labour at a fixed ratio of eighty, computes from two audited figures and
-makes direct employment the only route down. It is group-consolidated,
-which reopens on paper the acquisition-dilution escape (buy payroll to
-dilute the ratio) that the original segment basis was chosen to close.
-The route is closed differently now, by three provisions in conjunction:
-paragraph 8's disregard power is effects-based ("one of the main
-effects"), so it reaches an acquisition whose commercial logic is genuine
-but whose main effect is staying under the ratio, which purpose-based
-abuse doctrine (Halifax, Cadbury Schweppes) would not; Article 4(3)
-repeals a designation only for failure of the QUALITATIVE criteria of
-paragraph 1 over two years, never for the presumption ratio alone, and
-refuses repeal where the failure results from a paragraph 8 arrangement;
-and paragraph 6 designates on the facts below the presumption. Open
-points for the editor: the two-year durability window (DMA uses three);
-whether fair market value alone suffices for point (a) given pre-revenue
-frontier undertakings; and whether a segment limb should return as a
-second presumption if pre-designation dilution is observed in practice.
+Drafting notes (non-normative). Repair candidate of 7 September 2026.
+See proposals/2026-09-07-generational-repairs/README.md for the issue,
+constraints, policy choices and review status. Earlier drafting history
+is preserved in Git and the immutable review bundles.

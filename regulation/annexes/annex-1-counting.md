@@ -32,10 +32,9 @@ audited in accordance with the law applicable to the undertaking,
 calculated on a consolidated basis for the group of linked enterprises,
 and averaged over the last two financial years.
 
-Compensation paid under arrangements whose main purpose or effect is to
-raise the undertaking's compensation of labour without a corresponding
-supply of labour to the undertaking shall be disregarded. Article 3(8)
-applies.
+The compensation figure excludes artificial increases established by the
+Commission under Article 3(8). Genuine remuneration includes increased pay
+for existing work; it does not require additional hours or employees.
 
 ## 4. Fair market value
 

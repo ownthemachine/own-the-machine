@@ -110,7 +110,7 @@ warrant entitling a common reserve to subscribe at nominal value for 3 %
 of its fully diluted capital, crystallising on the undertaking's first
 liquidity event, or earlier where it distributes value to its own
 shareholders above a stated share of its turnover from the covered activity, or in any event seven
-years after issuance. The reserve would hold the resulting shares without votes, board seats or any say in management, insulated in both directions from Union and national
+years after the warrant arises at effective designation. The reserve would hold the resulting shares without votes, board seats or any say in management, insulated in both directions from Union and national
 budgets. Citizens of the Union aged 18 or older would hold equal, personal and
 non-transferable entitlements to distributions as and when they are
 realised, carrying no right of individual cash redemption or sale,

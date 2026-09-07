@@ -55,7 +55,7 @@ formula of the resolution acquis. The prospectus interface is an express
 exemption under Regulation (EU) 2017/1129. Article 1(5) preserves Directive
 (EU) 2016/2341 and Regulation (EU) 2019/1238 save as Article 11 provides.
 
-Five acquis interface points remain open and are listed in section 5.4.
+Open acquis questions are identified in section 5.4; the earlier claim of an enumerated five-item list is withdrawn.
 They are recorded rather than resolved, which is the honest state.
 
 ### 1.3 Consistency with other Union policies
@@ -161,10 +161,11 @@ capital. Recital 34 carries the formal statement.
 The interference with the right to property under Article 17 of the Charter
 is real and is not minimised in this file. Proportionality is carried by
 five features of the drafting: the percentage is fixed and small; the
-obligation is prospective and attaches only to value formed after
-designation; it crystallises only when the undertaking's own owners realise
-value; the valuation is independent and separately justiciable under
-Articles 6 and 7; and the holding is passive, with no vote, no board seat
+claim attaches prospectively at designation to a subscription measured
+against the whole capital at crystallisation, including earlier value; it
+crystallises on a liquidity event, qualifying extraction or the statutory
+seven-year long-stop; the valuation is independent and separately justiciable under
+Articles 6 and 7; and the holding confers no vote, no board seat
 and no direction of management.
 
 On the necessity limb, this memorandum records a limit rather than claiming
@@ -255,7 +256,7 @@ objection 9's honeypot with a lever attached and objection 16's golden
 share, which the Court has struck down in every form it has taken.
 
 *Option 4, the citizens' capital warrant, preferred.* Non-voting, fixed
-percentage, prospective, crystallising only at the owners' own realisation,
+percentage, prospective, crystallising at the three statutory triggers,
 payable only in shares. It is chosen because it is the only option
 identified that transfers ownership rather than income and converts repeal
 into expropriation: a future legislature can still take it, but it must do
@@ -272,24 +273,21 @@ stop reaches it. Investors will price mandatory future dilution from
 designation onward, which is a real cost and is examined at objection 4.
 Nine undertakings are presumptively designated on August 2026 figures, with
 roughly EUR 20,5 trillion of combined value; the calculation is at
-evidence/designation-count.md. The instrument has no effect on any
-undertaking outside that set, and small and medium-sized enterprises fall
-far outside it: the most capital-intensive labour-reliant undertakings
+evidence/designation-count.md. This dated estimate is not a closed list: future notifications,
+below-threshold designation and transferee obligations also apply as
+provided in Articles 3 and 5. The scale comparison remains informative: the most capital-intensive labour-reliant undertakings
 observed reach a value-to-payroll ratio in the thirties, against a threshold
 of eighty.
 
-**Social impacts.** The intended social impact is the distribution of an
-ownership stake equally to citizens of the Union, without means test,
-application or condition, the entitlement attaching by virtue of Union
-citizenship and distributions being made from the age of majority under
-Article 10, and its expected magnitude is stated honestly in Article 1(2)
-and in the simulator: near zero for years, growing to something of the order
-of a few hundred euros a year across decades, and materially more only if
-automation transforms the economy far beyond its present state. This
-Regulation does not promise status, purpose or meaning, and recital 5 says
-so in terms. It is not an income-replacement measure and cannot become one
-at any percentage this instrument could carry: the arithmetic is at
-evidence/sizing-the-ask.md.
+**Social impacts.** The objective is lasting, equal participation in capital
+built over one generation, as expressed in the published book and Article
+1(2). The entitlement arises for Union citizens aged 18 or over, with
+registration for payment purposes under Article 10. Available distributions
+are equal under that Article; neither a positive payment nor an increase
+from one year to the next is guaranteed. Capital appreciation alone is not
+spendable income. The simulator shows conditional scenarios with the stake
+beside the payout; it is not a complete cash, cost or eligibility model.
+The proposal does not establish a current income-replacement guarantee.
 
 **Environmental impacts.** Assessed as not significant, against the do no
 significant harm principle and the consistency duty in Article 6(4) of
@@ -339,11 +337,15 @@ Charter recital as context, not as a basis.
 
 ### 3.4 Regulatory fitness and simplification
 
-The instrument imposes a notification duty on undertakings meeting the
-thresholds and nothing on anyone else. Both figures in the designation test
-are already in audited accounts, so compliance requires no new
-measurement. Designation itself is a Commission decision with a fixed
-deadline, and the rebuttal route is cabined.
+Threshold notifications, designation and rebuttal follow Article 3.
+Designated undertakings and bound transferees also issue instruments,
+provide information and valuations, and execute subscriptions under
+Articles 5 and 6. Member States and national vehicles have Article 11 duties.
+Turnover and remuneration use audited records; fair market value follows
+Annex I's transaction, valuation or market-price methodology and may require
+additional measurement. Genuine pay rises for existing work are protected
+under the repaired Article 3(8), while acquisitions remain subject to its
+separate effects-based rule.
 
 ### 3.5 What this section cannot claim
 
@@ -359,38 +361,33 @@ and not as an impact assessment.
 
 ## 4. Budgetary implications
 
-The Regulation creates no Union own resource, no revenue for the Union
-budget and no expenditure obligation on the Member States. No cash flows
-from any undertaking to any public authority at any point: the obligation
-is discharged in shares, to the Reserve, which is owned by citizens.
+The warrant is a mandatory ownership instrument settled in shares, not a
+periodic charge on production or income. Its legal characterisation remains
+contested as set out in section 2.1. The Reserve pays nominal subscription
+amounts in cash and may borrow for that purpose under Article 9(1)(e).
+Undertakings bear valuation costs; Article 13 fines accrue to the Union
+budget. Member States administer national vehicles, may compensate costs
+under Article 11(3), and must reimburse qualifying cross-border costs under
+Article 11(4). The proposal therefore cannot be described as having no
+public revenue or expenditure consequences.
 
-Two costs are real and should not be hidden by that architecture. The
-Commission bears administrative costs for designation decisions, market
-investigations, the independent valuation regime and the periodic evaluation
-under Article 14; a derived estimate, calibrated against the Digital Markets
-Act's enforcement staffing for a comparable population of undertakings and
-stated as a range rather than a promise, puts this at 30 to 60 full-time
-equivalents, in the order of EUR 5 to 12 million a year within existing
-budget headings (evidence/administrative-cost.md). The valuations themselves
-are borne per event by the covered undertaking under Article 6(3), at a cost
-ratio near one part in a million of the covered value, and the Reserve's own
-running costs are benchmarked against the Norwegian fund's published 4 to 5
-basis points, which its more passive design should undercut. The Reserve
-bears the costs of custody, administration and distribution, which Annex II
-point 2 deducts from realised income before anything is distributed, and
-Article 10(6) caps the fees national vehicles may levy so that
-administration cannot erode the entitlement.
+Commission administration, Reserve custody and audit, independent
+valuations and national account administration require resources. The
+comparisons in evidence/administrative-cost.md are unquoted estimates, not
+staffing commitments or a Commission financial statement. They do not
+establish the cost of the proposed governance design. Article 11(3) limits
+vehicle charges to actual costs and in any event 0,3 % annually of amounts
+administered. That cap does not make administration free. The proposed
+reference ledger distinguishes costs, subscription debt, capital
+preservation and money allocated to holders; it is not yet Annex II.
 
-These ranges are calibrated comparisons, not a legislative financial
-statement; a Commission proposal would require one, prepared with access to
-establishment-plan data this file does not have, and the Article 14
-evaluation is the mechanism that will replace the ranges with measured cost,
-in both directions. The structural point stands independently of the ranges:
-the running costs fall on the fund's own income and on the Commission's
-existing administrative envelope, not on a new appropriation, and the
-instrument is designed so that a year in which the Reserve earns nothing is
-a year in which it distributes nothing rather than a year in which someone
-is billed.
+A Commission proposal would need a legislative financial statement and a
+verified start-up funding plan. The Reserve's restrictions on budget
+contributions remain; permitted subscription borrowing is not a promise of
+a lender. Automation can reduce routine work but does not remove custody,
+security, audit or legal responsibility. The repair package includes an
+explicit administration proposal and accounting alternatives for review,
+without changing the published generational ownership objective.
 
 ---
 
@@ -429,8 +426,9 @@ quantitative presumption, and provides for market investigation and review.
 Chapter III (Articles 5 to 7) creates the citizens' capital warrant, its
 crystallisation events including the extraction trigger and the seven-year
 long stop, the independent valuation and the safeguards. Chapter IV
-(Articles 8 to 9) establishes the Reserve and prohibits it from voting,
-directing, acquiring beyond the warrant, or leveraging. Chapter V (Articles
+(Articles 8 to 9) establishes the Reserve and restricts voting, direction, acquisitions
+and borrowing. Article 9 permits specified reinvestment, diversification
+and borrowing; the separate governance candidate has not yet been adopted. Chapter V (Articles
 10 to 11) creates the individual entitlement and its administration through
 national vehicles. Chapter VI (Article 12) protects the Reserve and the
 entitlements. Chapter VII (Articles 13 to 16) provides penalties,
@@ -445,8 +443,11 @@ annulment trims rather than destroys.
 
 ### 5.4 Open points, stated rather than concealed
 
-- Five acquis interface points, including the interaction with Directive
-  (EU) 2024/2810 on multiple-vote share structures.
+- The interaction with Directive (EU) 2024/2810 on multiple-vote share
+  structures; remaining acquis questions require their own verified ledger.
+- Reserve appointment, start-up finance, legal issuer and payment-period
+  rules, and the proposed accounting specification in
+  proposals/2026-09-07-generational-repairs/.
 - Whether a segment-level limb should return as a second presumption in
   Article 3(2) if pre-designation dilution by acquisition is observed.
 - Whether the instrument should reach semiconductor fabrication at all,

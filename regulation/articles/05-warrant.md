@@ -1,11 +1,16 @@
 # Article 5: The citizens' capital warrant
 
-1. Within three months of its designation, a covered undertaking shall issue
-to the Reserve a citizens' capital warrant. It shall not be required to
-issue more than one such warrant in respect of the same designation.
+1. A citizens' capital warrant shall arise in favour of the Reserve by
+operation of law on the date on which designation of a covered undertaking
+takes effect. References in this Article to designation mean that effective
+date. The covered undertaking shall issue the instrument recording that warrant
+within three months of designation. Failure or delay in issuing the
+instrument shall not postpone the attachment or crystallisation of the
+warrant. No more than one warrant shall arise in respect of the same
+designation, without prejudice to paragraphs 11 and 12.
 
 2. The citizens' capital warrant shall entitle the Reserve, upon the first
-liquidity event following issuance or upon crystallisation under paragraph
+liquidity event following designation or upon crystallisation under paragraph
 3, whichever occurs first, and upon no other occasion, to subscribe at
 nominal value for newly issued shares representing 3 % of the fully diluted
 capital of the covered undertaking determined immediately before that event
@@ -18,7 +23,12 @@ a liquidity event:
 (a) shareholder extraction by the covered undertaking in any period of
 three consecutive financial years exceeds 25 % of its turnover from the
 goods and services referred to in Article 3(1)(a) over the same period;
-(b) seven years have elapsed since the issuance of the warrant.
+(b) seven years have elapsed since the date on which the warrant arose.
+
+For a warrant arising under paragraph 11 or 12, the period referred to in
+point (b) shall run from the date on which the warrant of the original
+covered undertaking arose. A transfer or a fresh recording instrument
+shall not restart that period.
 
 Crystallisation under this paragraph shall take effect on the last day of
 the financial year in which the condition is met, and the valuation under
@@ -38,8 +48,11 @@ affecting the ranking of claims of creditors;
 referred to in paragraph 2;
 (d) be non-transferable, save to a successor of the Reserve established by
 Union legislative act;
-(e) impose no obligation on the covered undertaking prior to a liquidity
-event other than the notification obligation in paragraph 6.
+(e) confer no right to require subscription before the first liquidity
+ event following designation or crystallisation under paragraph 3,
+ whichever occurs first. This point shall not limit any issuance,
+ notification, information, valuation or anti-avoidance obligation laid
+ down in this Regulation.
 
 Shares subscribed pursuant to the citizens' capital warrant shall be
 non-voting for as long as they are held by the Reserve.
@@ -50,10 +63,12 @@ crystallisation under paragraph 3. The number of shares to be subscribed
 shall be determined by the valuation under Article 6, and the subscription
 shall be executed accordingly. Where the law
 governing the covered undertaking does not give effect to the first
-sentence, the covered undertaking shall take all measures necessary to
-procure a subscription of equivalent effect no later than the completion of
-the liquidity event or, in the case of crystallisation under paragraph 3,
-no later than three months after the date of crystallisation. The dilution resulting from the subscription shall not
+sentence, the covered undertaking shall procure a subscription of
+ equivalent effect within the execution period laid down in this paragraph.
+ It shall put in place the arrangements necessary to secure that result
+ no later than the liquidity event or the date of crystallisation under
+ paragraph 3; those arrangements shall provide for the share count to be
+ fixed by the valuation under Article 6. The dilution resulting from the subscription shall not
 exceed the percentage laid down in paragraph 2. The covered undertaking shall execute the
 subscription within 20 working days of the delivery of the valuation
 referred to in Article 6, and the Reserve shall pay up the shares in full
@@ -61,7 +76,23 @@ in cash at their nominal value upon execution.
 
 6. A covered undertaking shall notify the Reserve and the Commission of any
 impending liquidity event no later than the earlier of its public
-announcement and 30 working days before its completion.
+announcement and 30 working days before its completion. Where an event
+cannot reasonably be known by that deadline, the undertaking shall notify
+it without undue delay after becoming aware of it, stating the reasons why
+earlier notification was not possible. The burden of establishing those
+reasons shall rest on the undertaking. A notification shall not be a
+condition for crystallisation.
+
+The undertaking shall notify the Reserve and the Commission of
+crystallisation under paragraph 3 within five working days of the end of
+the relevant financial year. It shall provide its extraction calculation
+and supporting management records, without awaiting annual audit, and
+correct them without undue delay when audited information is available.
+The Commission shall appoint the valuer in time for the deadline in
+Article 6(3), using provisional information where necessary. The undertaking
+shall provide that valuer with the capital and transaction records needed
+for the valuation. Correction of the information shall not postpone the
+original crystallisation date or exclude a correction under Article 6(4).
 
 7. Article 49, Article 68(1), (2) and (3), the first subparagraph of
 Article 70(2), Article 72 and Article 73 of Directive (EU) 2017/1132, and
@@ -111,7 +142,7 @@ meaning of Directive (EU) 2019/1023 or the issuance is necessary to comply
 with a prudential requirement under Union law, and only to the extent of the
 new consideration provided. To the extent that the preference, ranking or
 other advantage conferred by the issuance exceeds the new consideration
-provided, the first subparagraph applies to the excess. The covered
+provided, the first subparagraph shall apply to the excess. The covered
 undertaking shall bear the burden of establishing that the conditions of
 this subparagraph are met.
 
@@ -122,8 +153,9 @@ confers in substance the economic benefit of the automated assets on the
 transferee, and the transfer is not made at arm's length or the transferee is
 a member of the same group or is controlled, directly or indirectly, by
 persons who control the covered undertaking, the transferee shall issue to
-the Reserve a citizens' capital warrant in accordance with paragraph 1 as if
-it were a covered undertaking, and the obligations of the covered undertaking
+the Reserve a citizens' capital warrant within three months of the transfer as if
+it were a covered undertaking. The warrant shall arise on the date of the
+transfer. The obligations of the covered undertaking
 under this Article shall continue in respect of the automated assets it
 retains. The aggregate of the subscriptions to which the Reserve is entitled
 in respect of the same designation, under this paragraph and under paragraph
@@ -132,9 +164,18 @@ fully diluted capital of the covered undertaking and of every transferee, and
 the valuation under Article 6 shall determine the subscription in each of
 them accordingly.
 
-The obligations of a transferee under this paragraph arise irrespective of
+Paragraphs 2 to 10 and Articles 6, 7 and 13 shall apply to the transferee
+as they apply to a covered undertaking. For paragraph 2, references to
+designation shall mean the date of transfer; the original date shall
+continue to apply to ranking under paragraph 4(b). Where the original warrant has
+already crystallised, or its paragraph 3 date has been reached, the
+transferee's warrant shall crystallise on the transfer date. The aggregate
+cap in the first subparagraph shall take account of shares already
+subscribed in respect of that designation.
+
+The obligations of a transferee under this paragraph shall arise irrespective of
 whether the transferee meets the conditions laid down in Article 3, and this
-paragraph applies to any onward transfer of the automated assets by a
+paragraph shall apply to any onward transfer of the automated assets by a
 transferee as it applies to a transfer by a covered undertaking. For the
 purposes of the valuation under Article 6, the value of the fully diluted
 capital of the transferee shall reflect the automated assets at the value
@@ -150,7 +191,11 @@ majority of the economic rights in the transferee, the obligations under
 this Article shall attach to
 the transferee as if it were the covered undertaking, and the transferee
 shall issue a citizens' capital warrant afresh within three months of the
-completion of the acquisition.
+completion of the acquisition. The warrant shall arise on completion of
+the acquisition, or on the later acquisition of control referred to in the
+second subparagraph. Paragraphs 2 to 10 and Articles 6, 7 and 13 shall
+apply to the transferee. The clock, crystallisation on transfer and
+aggregate-cap rules in paragraph 11 shall apply correspondingly.
 
 For the purposes of this paragraph, persons acting in concert with those
 who controlled the covered undertaking, and persons connected with them,
@@ -164,115 +209,10 @@ is acquired by persons who did not control the covered undertaking, and in
 that case the extinguishment of a warrant in such a procedure shall give
 rise to no obligation under this Article.
 
+
 ---
 
-Drafting notes (non-normative). The paragraph 7 enumeration was verified
-against the consolidated Directive (CELEX 02017L1132-20220812, capital
-chapter unamended since) on 19 August 2026 and mirrors Article 84(3) of
-the Directive itself, the BRRD-inserted list of exactly the provisions
-that block a by-operation-of-law issuance: Article 72(4) makes a general
-meeting the only lawful route to disapply pre-emption, which is why the
-whole of Article 72 is disapplied; the expert-report rule for increases
-is the first subparagraph of Article 70(2), not Article 49 alone.
-Articles 45, 46, 47, 69 and 71 need no derogation: subscription at
-nominal is not below nominal, and paragraph 5 now provides full cash
-payment on execution, satisfying Article 69 expressly. Article 85 equal
-treatment is complied with, not derogated from: the dilution falls on
-all shareholders pro rata. The capital chapter binds only the public
-company forms in Annex I of the Directive (Article 44(1)); for private
-forms the Member-State-law limb of paragraph 7 does the same work. The chapter is the assets-not-flows test as
-law. Paragraph 4(c) is DC-4 and DC-9 verbatim: the obligation can never
-collapse into a fee, which also carries the incidence answer (objection 4).
-Dormancy until the event is DC-12; permanent non-voting is DC-13; operation
-of law is DC-24. Paragraph 7 uses the BRRD recitals 120-124 formula of
-express, narrow company-law derogation; silence there would be read as
-amateurism (research checklist 18). Paragraph 8 writes the prospectus
-exemption (checklist 19). Paragraph 9 carries DC-29's execution safeguard:
-the interference is the stated 3 %, justified in the recitals under Article
-52(1) of the Charter on the BRRD model; the safeguard guarantees the
-percentage cannot be exceeded in execution and that valuation is independent
-and separately justiciable (Aeris Invest pattern). 3 % is deliberately far
-below employee-option pools and bail-in scales; proportionality lives partly
-in that number. Paragraph 5's third sentence answers hostile counsel's
-extraterritoriality attack: for undertakings governed by third-country law
-the mechanism is an obligation of result enforced through Article 13
-penalties as a condition of market access, the DMA pattern, rather than a
-purported override of foreign company law; paragraph 7 accordingly reaches
-Member State law only. The necessity limit formerly stated in paragraph 7
-moves to the recital motivating it, per JPG G12. Paragraphs 3, 4(b) and 10 to 12 were added on 21 August 2026 against an
-external structuring review, and rewritten the same day against hostile
-counsel's answer to them. The extraction trigger no longer measures against
-fair market value, because counsel undertook to place a fraction of a share
-with a friendly fund at an invented valuation a week before the period
-opened and so set the denominator out of reach; it now measures against
-covered turnover and against capital actually paid in, neither of which can
-be inflated without paying for it. Paragraph 4(b) equalises the Reserve
-with the most favourable class of shares rather than raising it above every
-class, and says expressly that it does not touch creditors, because a rule
-that leapfrogged the creditor hierarchy would have been struck down and
-would have deserved to be. Paragraph 10 renders a subordinating arrangement
-ineffective against the Reserve alone rather than void against the world,
-which is how anti-avoidance is done without unwinding third parties who had
-nothing to do with it. Two further answers followed the same exchange.
-Point 4(b) equalises the Reserve only with classes created after
-designation, because a rule that placed it alongside a two-times
-participating preference bought and paid for years earlier would take from
-those investors the thing they paid for, which is the expropriation this
-instrument spends objection 1 denying; against classes engineered after
-designation it still bites, and that is where the abuse lives. The paid-in capital limb was deleted altogether at the next pass. It had
-been narrowed to exclude money contributed by the group itself, and counsel
-answered by having a friendly outside syndicate subscribe ten billion of
-low-yield preferred, raising the threshold to ten billion and licensing the
-founders to take out nine. A threshold with two limbs joined by "or" is
-governed by whichever limb is easier to inflate, so what remains is the one
-that cannot be: turnover from the covered activity, which no undertaking
-raises without earning it. The seven-year long-stop stands behind it in any
-event. For the same reason the reattachment in paragraph 12 lost its
-three-year window, which counsel correctly read as a date to wait for. Counsel then took 49 % of
-the votes and 90 % of the economics, which is not control, so both this
-paragraph and the definition of extraction now follow the majority of the
-economic rights as well as control: a person who takes the money is a person the rule is about, whoever holds
-the votes. Paragraph 11 stopped attaching the obligation "in proportion to
-the value transferred", which counsel rightly called inoperable against an
-indivisible equity: the transferee now issues its own warrant over its own
-capital and the transferor keeps its own, which needs no arithmetic and is
-proportionate because three per cent of a small company is a small
-thing; paragraph 11's second subparagraph was added
-immediately afterwards, because hostile counsel demonstrated that the first
-draft reattached the obligation to entities controlled by any pre-procedure
-creditor and so expropriated the rescuers of a genuinely failing
-undertaking. The rule now catches the survival of the same controllers,
-which is the abuse, and leaves ordinary insolvency alone, which is not.
-
-Three amendments of 25 August 2026, each closing a point the memorandum had
-listed as open, each through three adversarial rounds. Paragraph 10's second
-subparagraph answers the distressed-capital constraint objection 18 carried:
-new money at arm's length from unconnected persons in likelihood of
-insolvency ranks ahead, only to the extent of the new consideration, and the
-excess of any preference over that consideration falls back under the first
-subparagraph, so a ten-times preference on rescue money shields one times
-the money and no more. Counsel's claim that a ranking is binary and cannot
-have an excess is wrong on the instrument's own terms: preferences are
-stated in multiples of an amount, and the carve-out never voids the excess
-between the parties, it only keeps it off the Reserve's three per cent.
-Paragraph 11 gained a substance gate after counsel showed an ordinary
-internal software licence conscripting a subsidiary: the trigger now
-requires that the transfer confer in substance the economic benefit of the
-automated assets. The sub-threshold question is answered in the second
-subparagraph: thresholds do not matter for a transferee, because the
-trigger is the tainted transfer and not scale; the paragraph follows onward
-transfers; and the valuation of the transferee's capital reflects the
-assets at arm's-length value, so a shell cannot be cheap. Two blueprints
-counsel priced highly fail on their own facts and are recorded here so the
-next reader need not re-litigate them: the arm's-length split to an
-unconnected vehicle leaves the full consideration inside the covered
-undertaking, where the existing warrant sits on it, and the transferee's
-future growth is new value formed outside, reachable by its own designation;
-and the apportionment under the aggregate cap follows the Article 6
-valuations of each entity, which is arithmetic on values, not an accounting
-consolidation. Open points for the editor:
-whether 3 % is the right rate (the simulator parameter), treatment of
-undertakings already listed at designation (transitional provision in
-Chapter VIII), anti-avoidance for pre-event asset-stripping (Article 6), and
-the Article 13 penalty scale that makes the obligation of result credible
-for third-country groups.
+Drafting notes (non-normative). Repair candidate of 7 September 2026.
+See proposals/2026-09-07-generational-repairs/README.md for the issue,
+constraints, policy choices and review status. Earlier drafting history
+is preserved in Git and the immutable review bundles.

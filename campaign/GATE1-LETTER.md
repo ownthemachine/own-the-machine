@@ -233,7 +233,7 @@ output is substantially decoupled from employment.
 > non-voting warrant over 3 % of its capital to a common reserve holding for
 > all Union citizens. The warrant would crystallise on a liquidity event, on
 > distributions to shareholders above a stated share of turnover, or seven
-> years after issuance.
+> years after the warrant arises at effective designation.
 >
 > Nothing is payable in cash and nothing enters any public budget.
 

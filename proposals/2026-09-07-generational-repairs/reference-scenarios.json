@@ -1,0 +1,165 @@
+{
+  "status": "Candidate accounting policy; illustrative units, not a forecast",
+  "scenarios": [
+    {
+      "scenario": "Appreciation without cash income",
+      "assumptions": {
+        "fair_change": "100"
+      },
+      "result": {
+        "income": "0",
+        "fair_change": "100",
+        "borrowed": "0",
+        "debt_paid": "0",
+        "costs_paid": "0",
+        "protected_target": "1000",
+        "preservation_shortfall": "0",
+        "new_allocation": "0",
+        "payout": "0",
+        "payout_per_holder": "0",
+        "net_stake_per_holder": "11",
+        "closing": {
+          "assets": "1100",
+          "cash": "20",
+          "debt": "0",
+          "costs_due": "0",
+          "protected": "1100",
+          "deferred": "0",
+          "positive_years": 0,
+          "history": [
+            "0"
+          ]
+        }
+      }
+    },
+    {
+      "scenario": "Income, costs and capital preservation",
+      "assumptions": {
+        "income": "50",
+        "costs": "2",
+        "inflation": ".02"
+      },
+      "result": {
+        "income": "50",
+        "fair_change": "0",
+        "borrowed": "0",
+        "debt_paid": "0",
+        "costs_paid": "2",
+        "protected_target": "1020.00",
+        "preservation_shortfall": "0",
+        "new_allocation": "20.96",
+        "payout": "0",
+        "payout_per_holder": "0",
+        "net_stake_per_holder": "10.48",
+        "closing": {
+          "assets": "1048",
+          "cash": "68",
+          "debt": "0",
+          "costs_due": "0",
+          "protected": "1027.04",
+          "deferred": "20.96",
+          "positive_years": 1,
+          "history": [
+            "20.96"
+          ]
+        }
+      }
+    },
+    {
+      "scenario": "Costs exceed income",
+      "assumptions": {
+        "income": "1",
+        "costs": "2"
+      },
+      "result": {
+        "income": "1",
+        "fair_change": "0",
+        "borrowed": "0",
+        "debt_paid": "0",
+        "costs_paid": "1",
+        "protected_target": "1000",
+        "preservation_shortfall": "1",
+        "new_allocation": "0",
+        "payout": "0",
+        "payout_per_holder": "0",
+        "net_stake_per_holder": "9.99",
+        "closing": {
+          "assets": "1000",
+          "cash": "20",
+          "debt": "0",
+          "costs_due": "1",
+          "protected": "1000",
+          "deferred": "0",
+          "positive_years": 0,
+          "history": [
+            "0"
+          ]
+        }
+      }
+    },
+    {
+      "scenario": "First subscription financed by borrowing",
+      "assumptions": {
+        "new_shares": "1000",
+        "nominal": "10"
+      },
+      "result": {
+        "income": "0",
+        "fair_change": "0",
+        "borrowed": "10",
+        "debt_paid": "0",
+        "costs_paid": "0",
+        "protected_target": "990",
+        "preservation_shortfall": "0",
+        "new_allocation": "0",
+        "payout": "0",
+        "payout_per_holder": "0",
+        "net_stake_per_holder": "9.9",
+        "closing": {
+          "assets": "1000",
+          "cash": "0",
+          "debt": "10",
+          "costs_due": "0",
+          "protected": "990",
+          "deferred": "0",
+          "positive_years": 0,
+          "history": [
+            "0"
+          ]
+        }
+      }
+    },
+    {
+      "scenario": "Fresh capital does not erase an old loss",
+      "assumptions": {
+        "new_shares": "100",
+        "income": "5"
+      },
+      "result": {
+        "income": "5",
+        "fair_change": "0",
+        "borrowed": "0",
+        "debt_paid": "0",
+        "costs_paid": "0",
+        "protected_target": "200",
+        "preservation_shortfall": "15",
+        "new_allocation": "0",
+        "payout": "0",
+        "payout_per_holder": "0",
+        "net_stake_per_holder": "1.85",
+        "closing": {
+          "assets": "185",
+          "cash": "15",
+          "debt": "0",
+          "costs_due": "0",
+          "protected": "200",
+          "deferred": "0",
+          "positive_years": 0,
+          "history": [
+            "0"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -15,7 +15,7 @@ a significant extent on software systems, including artificial intelligence
 systems within the meaning of Article 3(1) of Regulation (EU) 2024/1689,
 performing tasks that would otherwise require human cognitive labour;
 
-(4) 'citizens' capital warrant' means a financial instrument issued
+(4) 'citizens' capital warrant' means a financial instrument arising
 pursuant to Article 5 which confers the right to subscribe for shares in a
 covered undertaking;
 
