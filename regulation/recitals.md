@@ -91,9 +91,9 @@ liquidity event and of applying irrespective of admission to trading,
 because the warrant attaches to value at its formation and a contrary rule
 would let an undertaking place itself beyond the Regulation by remaining
 private; and arrangements whose main purpose or effect is the avoidance of
-designation are disregarded, which is the settled anti-circumvention formula
-of Union market regulation while genuine increases in remuneration for work remain recognised.
-Acquisitions remain subject to the separate effects-based rule. Small and
+designation should be disregarded, while genuine increases in remuneration
+for work should remain recognised. Acquisitions should remain subject to
+the separate effects-based rule. Small and
 medium-sized enterprises generally fall below the presumptive thresholds;
 below-threshold designation and transferee rules remain applicable.
 
@@ -111,9 +111,8 @@ the valuation evidence specified in Annex I: it exceeds by a margin of more than
 observed among capital-intensive undertakings whose value remains
 explained by their expenditure on labour, and by an order of magnitude
 the prevailing ratio among large undertakings admitted to trading in the
-Union. It is reviewed under Article 14 and may be amended only by the
-ordinary legislative procedure. For the same reasons the thresholds are
-assessed at the level of the group of linked enterprises, the single
+Union. That ratio should be reviewed under Article 14. For the same
+reasons the thresholds should be assessed at the level of the group of linked enterprises, the single
 economic unit to which the value of the automated services accrues.
 
 (8) Designation should follow a notification by the undertaking itself
@@ -386,9 +385,6 @@ the essence of the right, since it attaches to the underlying entitlement
 only, while amounts distributed are the holder's property, freely usable
 and inheritable, and it is necessary so that the objective of durable,
 broadly held capital ownership is not defeated by immediate liquidation.
-Amounts
-distributed, once received, are ordinary property of the holder,
-inheritable and freely usable.
 
 (27) Member States should administer entitlements through national
 vehicles, since Member States hold the civil registries and payment
@@ -485,9 +481,10 @@ personal data, limited to what the identification of holders and the
 execution of distributions require. That processing is necessary for the
 performance of a task carried out in the public interest, and no data
 beyond those fields should be collected or retained. Regulation (EU)
-2016/679 applies to such processing. The European Data Protection Supervisor was consulted in
-accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European
-Parliament and of the Council and delivered an opinion on [date].
+2016/679 applies to such processing. Consultation of the European Data Protection Supervisor under
+Article 42(1) of Regulation (EU) 2018/1725 belongs to the preparation of
+a Commission proposal. [The proposing institution is to insert the
+consultation date and opinion reference; no consultation is claimed here.]
 
 (34) Since the objective of this Regulation, namely to ensure on the basis
 of harmonised rules that the gains of hyper-automated production in the
@@ -505,8 +502,8 @@ does not go beyond what is necessary in order to achieve that objective.
 principles recognised by the Charter of Fundamental Rights of the European
 Union, in particular Articles 16, 17, 20, 34 and 47 thereof, concerning
 respectively the freedom to conduct a business, the right to property,
-equality before the law and the right to an effective remedy and to a
-fair trial.
+equality before the law, social security and social assistance, and the
+right to an effective remedy and to a fair trial.
 
 (36) Application of the substantive obligations of this Regulation should
 be deferred so that undertakings, Member States and the Commission can

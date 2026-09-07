@@ -2,7 +2,7 @@
 
 1. A citizens' capital warrant shall arise in favour of the Reserve by
 operation of law on the date on which designation of a covered undertaking
-takes effect. References in this Article to designation mean that effective
+takes effect. References in this Article to designation shall mean that effective
 date. The covered undertaking shall issue the instrument recording that warrant
 within three months of designation. Failure or delay in issuing the
 instrument shall not postpone the attachment or crystallisation of the

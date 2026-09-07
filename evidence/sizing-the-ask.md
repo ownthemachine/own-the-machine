@@ -1,5 +1,11 @@
 # Is three per cent enough to matter, and what would be
 
+Historical sizing comparison: parts of this note analyse an earlier
+threshold design, not the current presumptive set. Current designation
+figures are in evidence/designation-count.md. The new accounting reference
+is a proposal and does not recalibrate the percentage in this historical
+exercise.
+
 Companion to evidence/designation-count.md and to objection 21. That note
 established that the warrant percentage cannot be derived while Article 1
 states its objective qualitatively. This one asks what a quantified objective
@@ -45,7 +51,7 @@ Annual distribution per adult, in constant euros, at year forty:
 
 | designated set | at 3 % | at 10 % | at 25 % |
 |---|---|---|---|
-| today's two undertakings | EUR 3 | EUR 11 | EUR 28 |
+| earlier two-undertaking threshold scenario | EUR 3 | EUR 11 | EUR 28 |
 | 10 % of world equity | EUR 111 | EUR 370 | EUR 926 |
 | 25 % of world equity | EUR 278 | EUR 926 | EUR 2 315 |
 | 40 % of world equity | EUR 444 | EUR 1 481 | EUR 3 704 |
@@ -68,7 +74,7 @@ starts small; the number above is how small it stays.
 from today's designated set to a quarter of world equity multiplies the
 result by roughly three hundred. Moving from three per cent to ten multiplies
 it by three and a third. The threshold in Article 3(2)(b), which
-evidence/designation-count.md shows currently designates two undertakings and
+the earlier counting exercise designated two undertakings and
 misses every incumbent, is therefore the single most consequential number in
 the instrument, and it is not the one anybody argues about.
 

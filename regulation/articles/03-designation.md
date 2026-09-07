@@ -59,7 +59,7 @@ paragraph 2 are met before that event.
    genuine work, including an increase without additional hours or employees,
    or a reduction in value supported by an independent transaction or
    valuation satisfying Annex I, shall not be disregarded solely because it
-   changes the ratio referred to in that point. This sentence shall not
+   changes the ratio referred to in that point. The third sentence of this paragraph shall not
    prevent the application of the first sentence to acquisitions, disposals
    or restructuring arrangements.
 

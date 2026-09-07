@@ -42,8 +42,8 @@ proportionate (capital requirements, universal service obligations, DMA
 gatekeeper duties), not as a seizure of existing holdings. Second, it must
 apply only above high, objective thresholds, so proportionality review has
 something to hold on to. Third, it must carry consideration: the reserve is a
-passive, non-controlling holder, the warrant crystallises only at liquidity
-events, and the covered undertaking receives the legal certainty of a single
+passive, non-controlling holder, the warrant crystallises at the statutory liquidity, extraction or
+elapsed-time triggers, and the covered undertaking receives the legal certainty of a single
 harmonised regime in place of twenty-seven national experiments. Whether that
 consideration is sufficient is the single largest legal risk in the project,
 and Gate 1 exists to test it.
@@ -58,7 +58,7 @@ economic reform or measures designed to achieve greater social justice,
 may warrant reimbursement at less than full market value. That is the
 authority under which this instrument has to be argued, and it is
 available on its terms rather than in spite of them: a 3 % dilution
-crystallising at a moment of realised gain, calibrated to a decoupling of
+crystallising at a statutory event, calibrated to a decoupling of
 output from labour, is a measure of economic reform if anything is.
 
 The second is Article 345 TFEU. It provides that the Treaties shall in no
@@ -608,14 +608,12 @@ with. Basic income at least promises the rent.
 campaign is structurally barred from inflating it. The collection risk
 is real: deferred rewards lose to immediate ones on every doorstep.
 
-**The answer the instrument must give.** Three parts. First, the smallness
-is calibration, not failure: the instrument's size tracks the
-phenomenon's size by construction. Three per cent of little is little,
-taken from almost no one, and in that world Article 14(3) obliges the
-Commission to report that the premise failed and to propose amendment
-or repeal; a permanently small dividend is the falsification condition
-firing, not the policy limping. The dividend is only ever small in the
-world where the problem is also small. Second, the claim can only be
+**The answer the instrument must give.** Three parts. First, small cash distributions do not by themselves show
+that the automation economy is small or that the premise has failed. A
+large ownership stake can produce little realised income. Article 14's
+specified indicators and review process test the premise; dividend size
+alone does not. The generational capital objective and the availability of
+cash income need to be assessed separately. Second, the claim can only be
 bought early. The Danish worker's frozen 1978 instalment of DKK 4 368,
 pointless money at the time, is DKK 119 506 today; two thirds of
 Norway's fund is compound return, not oil. The alternative timing,

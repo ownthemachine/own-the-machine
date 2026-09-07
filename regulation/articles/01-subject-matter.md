@@ -11,7 +11,7 @@ citizen's entitlement is capable of reaching, within one generation of the
 first designations and in constant prices, an amount of the order of six
 months of the median equivalised disposable income in the Union as
 published by the Commission (Eurostat). Distributions under Article 10
-remain the property income of the holders and are governed solely by
+shall remain the property income of the holders and shall be governed solely by
 Article 8 and Annex II. The Commission shall assess progress against this
 objective in each report under Article 14(2), and where the assessment
 shows the objective to be manifestly unattainable or manifestly exceeded,
