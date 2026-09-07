@@ -1,0 +1,98 @@
+[
+  {
+    "review": "2026-09-07-acquis-coherence-generational-r1.md",
+    "prompt": "4f65799-acquis-coherence.md",
+    "prompt_sha256": "9f93cb03aae8bc83283e9a1c8b9f828bce213de51ef6e2b261dc326fb92889ee",
+    "bundle": "2026-09-07-generational-repairs-r3.md.gz",
+    "bundle_sha256": "57269e398b7ce596e1b5384856e2c635f73dde4d7aa24d718f8a9698264b93b4",
+    "raw_review_sha256": "5836055565ed720c0b0a0ac53017abf9cc2ab070be762bb842affe5bc4bfc53e"
+  },
+  {
+    "review": "2026-09-07-dc-compliance-generational-r1.md",
+    "prompt": "0dad61b-dc-compliance.md",
+    "prompt_sha256": "c6559c08cf65ce579633223947929dddf5ade319c7b5671847a3b453ddbd9d34",
+    "bundle": "2026-09-07-generational-repairs-r3.md.gz",
+    "bundle_sha256": "57269e398b7ce596e1b5384856e2c635f73dde4d7aa24d718f8a9698264b93b4",
+    "raw_review_sha256": "dd461a99ac51f3cef76617a2a50b2497fc71a4eaf1d3cadba9cf0189833b19fd"
+  },
+  {
+    "review": "2026-09-07-dc-compliance-generational-r2.md",
+    "prompt": "4f65799-dc-compliance.md",
+    "prompt_sha256": "02c9680476811760646ac11bb6f8ac93061db7fad43562b8ba032c860e180cef",
+    "bundle": "2026-09-07-generational-repairs-r3.md.gz",
+    "bundle_sha256": "57269e398b7ce596e1b5384856e2c635f73dde4d7aa24d718f8a9698264b93b4",
+    "raw_review_sha256": "43d0f7df08f4f01539bdf032e9f9565ea9dad11079a884844f3cfc312f571bbd"
+  },
+  {
+    "review": "2026-09-07-hostile-counsel-generational-r1.md",
+    "prompt": "4f65799-hostile-counsel.md",
+    "prompt_sha256": "2fee4548098ebcbb3eefc5e3a9d68fa3f5d9a977549fe743f6bcf344a6ec12bf",
+    "bundle": "2026-09-07-generational-repairs-r3.md.gz",
+    "bundle_sha256": "57269e398b7ce596e1b5384856e2c635f73dde4d7aa24d718f8a9698264b93b4",
+    "raw_review_sha256": "0fe8b3fefa18d918569f45077873398db4e9b8553cae7a5216d1bfc38c7a6f01"
+  },
+  {
+    "review": "2026-09-07-layer-fidelity-generational-r1.md",
+    "prompt": "4f65799-layer-fidelity.md",
+    "prompt_sha256": "b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40",
+    "bundle": "2026-09-07-generational-repairs-languages-r2.md.gz",
+    "bundle_sha256": "72b15a0859641dbe5923c033a22fbb8651045c05d42fe90d7cd96a0b915efff4",
+    "raw_review_sha256": "4a5b5950d665f41a2af3a6723b6fa26e9f4ca1c078e5aa4b37c6addf9ad641e5"
+  },
+  {
+    "review": "2026-09-07-layer-fidelity-generational-r2.md",
+    "prompt": "4f65799-layer-fidelity.md",
+    "prompt_sha256": "b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40",
+    "bundle": "2026-09-07-generational-repairs-languages-r3.md.gz",
+    "bundle_sha256": "74300e532e405b0c6d37e434ae5145fa476e4fea7310dac550437442c63be301",
+    "raw_review_sha256": "c52a50231de8d927ab15623b66168c92fdc33dfaaf1c7dc8d24863a3a264884f"
+  },
+  {
+    "review": "2026-09-07-legal-basis-generational-r1.md",
+    "prompt": "4f65799-legal-basis.md",
+    "prompt_sha256": "fd99091f915efca0486e370e5ae2ba9051b65d13dd48d3cb1a4d5610bc1efdac",
+    "bundle": "2026-09-07-generational-repairs-r3.md.gz",
+    "bundle_sha256": "57269e398b7ce596e1b5384856e2c635f73dde4d7aa24d718f8a9698264b93b4",
+    "raw_review_sha256": "4dfc95ab76af1f1986499099dd10c7f2eeeabffde1632cff3bcfee085622a40a"
+  },
+  {
+    "review": "2026-09-07-legal-form-generational-r1.md",
+    "prompt": "4f65799-legal-form.md",
+    "prompt_sha256": "9b8a265e21d0d5cfd192ec3dfb46da8b75ff7aea6f30d03236ec18749a0a2f7a",
+    "bundle": "2026-09-07-generational-repairs-r1.md.gz",
+    "bundle_sha256": "86d6ab5e053a45b648aff790394ad584d0c62dd199d9828181b81bd465f3e373",
+    "raw_review_sha256": "39984d6e2d7dc0ede9f7c9e77121dc0b94a44cf9a5689933ef29376509c13090"
+  },
+  {
+    "review": "2026-09-07-legal-form-generational-r2.md",
+    "prompt": "4f65799-legal-form.md",
+    "prompt_sha256": "9b8a265e21d0d5cfd192ec3dfb46da8b75ff7aea6f30d03236ec18749a0a2f7a",
+    "bundle": "2026-09-07-generational-repairs-r2.md.gz",
+    "bundle_sha256": "519a7601866ad0f2ad1b9b8508a19bbf53fc073107f9de861495e1fa69869b83",
+    "raw_review_sha256": "ff024ddb1368cbdc98e24df58cb39503c914a38da3f696987f09f5ee3915a422"
+  },
+  {
+    "review": "2026-09-07-legal-form-generational-r3.md",
+    "prompt": "4f65799-legal-form.md",
+    "prompt_sha256": "9b8a265e21d0d5cfd192ec3dfb46da8b75ff7aea6f30d03236ec18749a0a2f7a",
+    "bundle": "2026-09-07-generational-repairs-r3.md.gz",
+    "bundle_sha256": "57269e398b7ce596e1b5384856e2c635f73dde4d7aa24d718f8a9698264b93b4",
+    "raw_review_sha256": "96cdc120cd5f445005ee4b810aad7f2880b5a8c1e47072922693fc5d0f07f1f1"
+  },
+  {
+    "review": "2026-09-07-legal-form-generational-r4.md",
+    "prompt": "4f65799-legal-form.md",
+    "prompt_sha256": "9b8a265e21d0d5cfd192ec3dfb46da8b75ff7aea6f30d03236ec18749a0a2f7a",
+    "bundle": "2026-09-07-generational-repairs-r4.md.gz",
+    "bundle_sha256": "bcc31314984f22cd24c066719c4ae2391f05c1542bdbf339f2409ca6b3089523",
+    "raw_review_sha256": "63f6e5e2c792088d951cc0ece8727485291ca16376ac83b642a15f852665446b"
+  },
+  {
+    "review": "2026-09-07-legal-form-generational-r5.md",
+    "prompt": "4f65799-legal-form.md",
+    "prompt_sha256": "9b8a265e21d0d5cfd192ec3dfb46da8b75ff7aea6f30d03236ec18749a0a2f7a",
+    "bundle": "2026-09-07-generational-repairs-r5.md.gz",
+    "bundle_sha256": "8b0367b52542de2cf3182b302a1322940ec2fd53a30e58905681e6f10be2f3b4",
+    "raw_review_sha256": "b5ea78dbafac16ec7566eaca7813f2ca536f67c571694f7a5b38fc79a4e8b920"
+  }
+]
