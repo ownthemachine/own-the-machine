@@ -1,0 +1,74 @@
+[
+  {
+    "review": "2026-09-07-site-release-hostile-counsel-r1.md",
+    "raw_sha256": "c1f7409b529a0b6ac998fce28eb9cc6a1b55c9d2685dc12140ad5e8529ed5f5d",
+    "prompt": "4126534-hostile-counsel.md",
+    "prompt_sha256": "9efeec84aedb2769619048c9f926aaed8b3ae6217a296ff417321e84a7145bc8",
+    "bundle": "2026-09-07-site-release-r1.md.gz",
+    "bundle_sha256": "c48ebe0c5894bcc809ce241a0a6bf2d59ee30ddcbaf47d2e4830248b11a26e0e",
+    "verdict": "REVISE"
+  },
+  {
+    "review": "2026-09-07-site-release-hostile-counsel-r2.md",
+    "raw_sha256": "ed47e61e8134d742e5dafa1fad48468ac3f788f7355608111ae8ab9847f1112b",
+    "prompt": "8b8b49a-hostile-counsel.md",
+    "prompt_sha256": "8fc4569f47058a50d8446362ca595c1b888259593a2a431f6074ae625814d195",
+    "bundle": "2026-09-07-site-release-r2.md.gz",
+    "bundle_sha256": "6cd2fe1e54d470d22b5b71ea116583bea65a110e5aaeadbbdf4a525b6345ea6c",
+    "verdict": "PUBLISH"
+  },
+  {
+    "review": "2026-09-07-site-release-layer-fidelity-r1.md",
+    "raw_sha256": "bc090978738c737ae8f0337fed6c455fecaacaf114cc02d716c6e1f070d05e9d",
+    "prompt": "4126534-layer-fidelity.md",
+    "prompt_sha256": "41fc4a2d5b1b50c9bf7dee8ccb0641d5af376d952144cd4ab9514370b0a9e36b",
+    "bundle": "2026-09-07-site-release-r1.md.gz",
+    "bundle_sha256": "c48ebe0c5894bcc809ce241a0a6bf2d59ee30ddcbaf47d2e4830248b11a26e0e",
+    "verdict": "PUBLISH"
+  },
+  {
+    "review": "2026-09-07-site-release-layer-fidelity-r2.md",
+    "raw_sha256": "d7da3d30e5f52c5c52dcb9a3c8f8760fb38b34d7786d60da034ac2044cb0b3f0",
+    "prompt": "8b8b49a-layer-fidelity.md",
+    "prompt_sha256": "3d21a9d607dd5030d825934abb594ef990c3202d96663e0ccaf0a65d6982e3b4",
+    "bundle": "2026-09-07-site-release-r2.md.gz",
+    "bundle_sha256": "6cd2fe1e54d470d22b5b71ea116583bea65a110e5aaeadbbdf4a525b6345ea6c",
+    "verdict": "PUBLISH"
+  },
+  {
+    "review": "2026-09-07-site-release-legal-form-r1.md",
+    "raw_sha256": "ef59bcbf51a8c05647b814a98f7281a38a61353bc202a082610275837609fba8",
+    "prompt": "4126534-legal-form.md",
+    "prompt_sha256": "8d44732504484d73499db0d074bf2ed19cef31f4f72f50bd7bd49ec7372c51df",
+    "bundle": "2026-09-07-site-release-r1.md.gz",
+    "bundle_sha256": "c48ebe0c5894bcc809ce241a0a6bf2d59ee30ddcbaf47d2e4830248b11a26e0e",
+    "verdict": "PUBLISH"
+  },
+  {
+    "review": "2026-09-07-site-release-legal-form-r2.md",
+    "raw_sha256": "f662b36ee89e7d67b1fb64f0e9e5dd212484c8886c80320c427bf2247c53e7d9",
+    "prompt": "8b8b49a-legal-form.md",
+    "prompt_sha256": "f4a8123ea9016719df9541f2b82622856738213ab5fd9f6e585688b410d71043",
+    "bundle": "2026-09-07-site-release-r2.md.gz",
+    "bundle_sha256": "6cd2fe1e54d470d22b5b71ea116583bea65a110e5aaeadbbdf4a525b6345ea6c",
+    "verdict": "PUBLISH"
+  },
+  {
+    "review": "2026-09-07-site-release-translation-r1.md",
+    "raw_sha256": "6eb1ced37387a6972fb497810a95097482dec7586d8c2759ac8e11681c2a8bf0",
+    "prompt": "4126534-translation.md",
+    "prompt_sha256": "f8ed4a4b9e674ec90c5b3b1baf50dea6db12ba452c0449a475505305f89fa6c1",
+    "bundle": "2026-09-07-site-release-r1.md.gz",
+    "bundle_sha256": "c48ebe0c5894bcc809ce241a0a6bf2d59ee30ddcbaf47d2e4830248b11a26e0e",
+    "verdict": "PUBLISH"
+  },
+  {
+    "review": "2026-09-07-site-release-translation-r2.md",
+    "raw_sha256": "0bd3ca67174eeea4e19a93006d8d619484ddb585c8c331729de608a24247585d",
+    "prompt": "8b8b49a-translation.md",
+    "prompt_sha256": "d9c1de6d8ad433d367df1627bb735eb007cb9f885e5235afb2ca1e5887a77f71",
+    "bundle": "2026-09-07-site-release-r2.md.gz",
+    "bundle_sha256": "6cd2fe1e54d470d22b5b71ea116583bea65a110e5aaeadbbdf4a525b6345ea6c",
+    "verdict": "PUBLISH"
+  }
+]

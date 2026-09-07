@@ -1,0 +1,321 @@
+{
+  "sha256_uncompressed": "6cd2fe1e54d470d22b5b71ea116583bea65a110e5aaeadbbdf4a525b6345ea6c",
+  "files": [
+    {
+      "path": "own-the-machine/GOVERNANCE.md",
+      "sha256": "35d6d8f31fec32d44e880419212c5459c88f925238cefcbb3c9eccc6461e51bc"
+    },
+    {
+      "path": "own-the-machine/pipeline/README.md",
+      "sha256": "f20ffa5218a89b4aefe5b46ef821510556efcb771402ad5e0840423b91e82a23"
+    },
+    {
+      "path": "own-the-machine/pipeline/DRAFTING-RULES.md",
+      "sha256": "2a0e9737e313b06fa77b270ea2a4357ab2ce7f79e70f2be13a39d2c9c7877d7d"
+    },
+    {
+      "path": "own-the-machine/pipeline/EXTERNAL-REVIEWS.md",
+      "sha256": "bb32e3ab9801daf926d9b3c32393db3c7b86faed704d70e2bcabb12b7f291b79"
+    },
+    {
+      "path": "own-the-machine/campaign/GATES.md",
+      "sha256": "238a4138c2c8e7aa8fa11e1feffdb5c0419994ca03ad5220de5b02796e219de4"
+    },
+    {
+      "path": "own-the-machine/campaign/REGISTRATION-TEXT.md",
+      "sha256": "1f17559822cb67349a0c791421bdac7f1539a5d33273df7d59f50d4097b61982"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-generational-repairs/REVIEW-STATUS.md",
+      "sha256": "c4f94cee1a72d4fcf3a43620a221e6405f4a424f5f62d87227ff955684e8ba0e"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/REVIEW-STATUS.md",
+      "sha256": "ef0a0fc957e951ae0533fb6c6163784a41b3eaae60f057c8c81ad9cceb5b0107"
+    },
+    {
+      "path": "own-the-machine/regulation/STRUCTURE.md",
+      "sha256": "b8f4010b75496c94b9cdb0f213f9bc98aeb94de100de6cd1b7d85e30750cda4c"
+    },
+    {
+      "path": "own-the-machine/regulation/annexes/annex-1-counting.md",
+      "sha256": "f37e42424942dc1a92d41669f82808df86614d33104f108c4473df61625c351e"
+    },
+    {
+      "path": "own-the-machine/regulation/annexes/annex-2-retention.md",
+      "sha256": "1fc8539ace76afe1b06be5d3634e3c8d1f2c1d452d0fbbc9b31b5e1fbdc3ab93"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/01-subject-matter.md",
+      "sha256": "5328bb157f1931c724fa6f18c6414f1acef6a13f600fb343a5b3c41ccb5be95c"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/02-definitions.md",
+      "sha256": "c70ced416e16ffa0175d1b707f17b6e47a00bad7004e188e37477e7251a23df4"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/03-designation.md",
+      "sha256": "bb8af029662432b784c1efe3142d7ccd48401e2bd5903e43fae73820691ba4ae"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/04-review-of-designation.md",
+      "sha256": "a9631c6f121769d898cd8c76908fbe6271180c3f727d9f5075b5859d4c9b0890"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/05-warrant.md",
+      "sha256": "e6b68e0dc9c7c722d8bf7987a04699bd775eebb73222d7d48092c8627ba4fc43"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/06-valuation.md",
+      "sha256": "80c7b4781b439a367657662282e1d0de4873fc3043cf243a263cd050007b3fbe"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/07-safeguards.md",
+      "sha256": "6cfe3ef867e4359fc87f6368e8d0e0c9c08e96cdb988246d589b92b8f3ba9396"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/08-reserve.md",
+      "sha256": "5a9dbd481a7e312fe14972f452cf33a2fb6df57fb1b795d3f51caf8a0da2ffff"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/09-prohibited-conduct.md",
+      "sha256": "663203889d5e577cc30a1f4fb7de0f5a765d12390addd71ff1fb9ef73bda6f3c"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/10-entitlement.md",
+      "sha256": "9e0c0d320e6c4395096d48e94270d76f81ad13387e176b56b3c5a219f3d0e159"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/11-national-vehicles.md",
+      "sha256": "cc93b289cb5d4e320bca77be487680f43386cab85f6a1f50bf599df0367342cc"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/12-protection.md",
+      "sha256": "0fc148d7e06fdf5227ce08b9e736e1ffc5f1291d4484bed527d20e424f15cf66"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/13-penalties.md",
+      "sha256": "c966d060d7741589187163f7477c0978f5a67408d5c5993da3d13d17f300ac5d"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/14-monitoring-review.md",
+      "sha256": "0b75fcbac451d5e1bf95506d937706521b78d5f8edad9ff1545d6c14567295f6"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/15-delegation.md",
+      "sha256": "add218711d50d00d8bd8d8d8de60e64e7254b3e6aa5768e83f9425198775b32d"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/16-committee.md",
+      "sha256": "1b713a477c9f840b480e281f77679fffef2d660c3bc24e40b2e847789b9773c0"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/17-transitional.md",
+      "sha256": "a80f7349e53e6c6c172d9d952f926fc1ca2b74c53dcbd5c0b6eb43d36c675163"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/18-final.md",
+      "sha256": "68b59a3c3bf586409e6fa2f423bb088da10c2b8ad6af44cbd51530b3297e5353"
+    },
+    {
+      "path": "own-the-machine/regulation/memorandum/counter-arguments.md",
+      "sha256": "09ccfdbfb8e16751d4ef7dc0bfb1c71bb1336c33cdb08496b32f975b20da534f"
+    },
+    {
+      "path": "own-the-machine/regulation/memorandum/explanatory-memorandum.fr.md",
+      "sha256": "b316806b4202775ae37f0b0e0fe8cf4df2fe35d43cc768cbff90edd19e953f6d"
+    },
+    {
+      "path": "own-the-machine/regulation/memorandum/explanatory-memorandum.md",
+      "sha256": "7c90629ff3d32cc1c55f5ac0d8b2919555b4822f6ab6ea4d2640325d861c9154"
+    },
+    {
+      "path": "own-the-machine/regulation/memorandum/severability.md",
+      "sha256": "d905a13150b52b714d1efa83b3a29f9b7d503ca08d0e92979695c170f17b2793"
+    },
+    {
+      "path": "own-the-machine/regulation/recitals.md",
+      "sha256": "e0519c02f8404b88621f702f502833e0b5976689e312d827850e98fb6506e231"
+    },
+    {
+      "path": "own-the-machine-site/content/en/about.md",
+      "sha256": "89b38332e7f35f58bc45b5eeedb80ed2a1c941e6fa270d4e293c47f30d556d62"
+    },
+    {
+      "path": "own-the-machine-site/content/en/brief.md",
+      "sha256": "f9a8981fa5359dad5bb4cb854f17c2013724792744ae0bb84eecba0135208a91"
+    },
+    {
+      "path": "own-the-machine-site/content/en/contribute.md",
+      "sha256": "52b60e89265bdf0e60190a6bd2945bff7e13c156f19afa75c5d99bc0beb510a3"
+    },
+    {
+      "path": "own-the-machine-site/content/en/faq.md",
+      "sha256": "16ea3734c6411704cd83fa43dae669ee7433c288f682533edec55edfce5ee8f9"
+    },
+    {
+      "path": "own-the-machine-site/content/en/join.md",
+      "sha256": "163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-1.md",
+      "sha256": "37a9b2cd1c2471f15e332e3c91a26eb1c16a76ec7815750e1dc51c25492077f2"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-10.md",
+      "sha256": "834b1f206d22a270b72df6e8110634e4cf3e3e4eb7b28302b37c4d06e2dcadfe"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-11.md",
+      "sha256": "0a73547b74cddadbe0012c070887d5cba92c6b1dad1d4b0c5e759dd150319d8b"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-12.md",
+      "sha256": "d4380104af8fdf655a319e85458388418213305bc4c0e0cacbb300ff877bf5b0"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-13.md",
+      "sha256": "43864fe84fae44bad59abd7d0bbb974e2bcf786f071ca9ca589f16a5b0d5cdc9"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-14.md",
+      "sha256": "43e6f0b61f371405f219072f83f1b4f198f3bfa5fcd3e1317d0a14e16a440d31"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-15.md",
+      "sha256": "7b197a0dccfcf6f11d3975ff63ed8512ddd8d94d7c5177195f072f16981df9cf"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-16.md",
+      "sha256": "f233ca06e0bbcd29665662de40bc51ef3657833aeac0e44aa8837479c286f22b"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-17.md",
+      "sha256": "2de88f471b4b6749a3e33831f47706eb775ee4c7c3964002726dc9a92886c69c"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-18.md",
+      "sha256": "64acdbe74eaf2dd3b3189c296c32bed0930e05051996614e8ddee7dc0db1b5de"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-2.md",
+      "sha256": "7644a6cc9cc88b4c5394ef8bb8c4a157ac748b8db63ef48b78369df4414fd8b1"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-3.md",
+      "sha256": "d6e2946a3f7fd61ba9982a8bb7c7f272ea711b023ac7ef9bd4dc72f28e50c1ce"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-4.md",
+      "sha256": "90d496e99b5f04d904e52ff6090248318afc7c1abb2a42c7c85c557a415b8e72"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-5.md",
+      "sha256": "2239331068bc32b3c39865f067f227b4f1a6dc22cc3cc0e3619743caa91fb12e"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-6.md",
+      "sha256": "de4aeef717bc7ab69831848d66dd0dd37b2372ad3a30ef7bec7cf09396aca7b5"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-7.md",
+      "sha256": "a45bb4ffa093d33a49f1ebba74ec6f17253e55701c3a187ef36f2273970b326f"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-8.md",
+      "sha256": "ffb966ae4769c4570767dfe7738a9f43f3bf6f688c33b6d8411e51b63e4473ba"
+    },
+    {
+      "path": "own-the-machine-site/content/en/plain/article-9.md",
+      "sha256": "06e5624462eb5f617a6fcc64021a8546386e96e307c7bbab3a8824f6371d6584"
+    },
+    {
+      "path": "own-the-machine-site/content/en/press.md",
+      "sha256": "b51b25d53d129840ca8c1e1e4c4dcbe5da3498673211303aff7afd162fe92a4c"
+    },
+    {
+      "path": "own-the-machine-site/content/en/sign.md",
+      "sha256": "f8155ec276eaeef8b5246a63a6ce45b44caaa8e84b8c7890754c403a43b5d472"
+    },
+    {
+      "path": "own-the-machine-site/content/en/versions.md",
+      "sha256": "a1dfa5e98957dca70094fd6b8e9f1cef3ce071199993b3290013f16d3c1c978a"
+    },
+    {
+      "path": "own-the-machine-site/src/i18n/de.mjs",
+      "sha256": "69e107f7f71b03533c249313a07221154642cfe2130c7ec8a11e4ec8fa026cc1"
+    },
+    {
+      "path": "own-the-machine-site/src/i18n/en.mjs",
+      "sha256": "6836831011ffc75965f5f25eba525a71f3455c1b9726474a4109891197737e8a"
+    },
+    {
+      "path": "own-the-machine-site/src/i18n/es.mjs",
+      "sha256": "ff58718ca9d33be0426b7f55d01a3e3b1dd98a57d38993a3c606d17b726c53df"
+    },
+    {
+      "path": "own-the-machine-site/src/i18n/fr.mjs",
+      "sha256": "3e50032094e89fe2328b67305a6a1031910ad234fa4089426c47f230926318be"
+    },
+    {
+      "path": "own-the-machine-site/src/i18n/nl.mjs",
+      "sha256": "8df2d5f38cfffdd5fda920fbe55a56d2a2bbebdecc158ee0470c6a9ee84e3356"
+    },
+    {
+      "path": "own-the-machine-site/content/fr/about.md",
+      "sha256": "19a67034a55589e5fb86d51e7055359d0212a808623fd7941718a47b982fb57c"
+    },
+    {
+      "path": "own-the-machine-site/content/nl/about.md",
+      "sha256": "0fc705c538555b6a53de5f4e92fc33c67b98a2d2f17e3c317a994d29cbbe4626"
+    },
+    {
+      "path": "own-the-machine-site/content/de/about.md",
+      "sha256": "d770016467689bb94272f72c27b623296913513013b74830a5f11236a88ab7fe"
+    },
+    {
+      "path": "own-the-machine-site/content/es/about.md",
+      "sha256": "4d082a35bb499d7159d4ba06e440a81d8ddf3695a21591962d78320e9b723f10"
+    },
+    {
+      "path": "own-the-machine-site/src/layouts/Base.astro",
+      "sha256": "26562b17b9fe570464785eee1fbc199b3ad1fc3ab34fefd5d79357ad61cf8e29"
+    },
+    {
+      "path": "own-the-machine-site/src/components/screens/Objections.astro",
+      "sha256": "ba9009297e074ab65767cca9b336ff74fde66528737e4a71bf5b3d91886e27fe"
+    },
+    {
+      "path": "own-the-machine-site/src/components/screens/Home.astro",
+      "sha256": "1f1084b57f361071a3fe04eda2de458da13c35779ad6accb8316c0342f922dcb"
+    },
+    {
+      "path": "own-the-machine-site/src/components/screens/Simulator.astro",
+      "sha256": "89b21890a95b670db1a01d5196849924510d8cb93613ba0758aa2329d435b36b"
+    },
+    {
+      "path": "own-the-machine-site/scripts/make-artefacts.mjs",
+      "sha256": "6aac558668c13cd3dc6c2abf7cabb1c109938381d5f026866a444d28b6abdb1b"
+    },
+    {
+      "path": "own-the-machine-site/scripts/sync-law.mjs",
+      "sha256": "1dc0ac3d98a4707248035cc19bf03cf66e9c9f68fb5b5e0787ffe9b97bfdda6c"
+    },
+    {
+      "path": "own-the-machine-site/simulator/SPEC.md",
+      "sha256": "83612ba071e8d4036845e719858f2147e35d2ceeaf6814d1b556a32726d29d27"
+    },
+    {
+      "path": "own-the-machine-site/src/scripts/simulator.ts",
+      "sha256": "c84648a61bee20389e8d1b4cd7658ce643c0e58f61ee3d6085c4fa1b07cd8c6c"
+    },
+    {
+      "path": "own-the-machine-site/src/components/screens/Explanatory.astro",
+      "sha256": "575177357e569a491318461a7033b5744ecf7e3a40a2aad290b622287b81c8da"
+    },
+    {
+      "path": "own-the-machine-site/src/styles/base.css",
+      "sha256": "90ac24e596eea257480cde0ba633fd3b665887680437ea4c7d44fad077a8fe99"
+    }
+  ]
+}
