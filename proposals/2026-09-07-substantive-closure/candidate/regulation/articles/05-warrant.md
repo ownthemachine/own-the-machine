@@ -83,9 +83,15 @@ earlier notification was not possible. The burden of establishing those
 reasons shall rest on the undertaking. A notification shall not be a
 condition for crystallisation. For an event under Article 2(6)(c), the
 event date shall be the first trading or business day on which the rolling
-12-month total reaches the threshold after designation, counting each
-completed transfer once. Transfers completed before designation shall not
-count. The valuation time shall be the close of that day. Ordinary exchange
+12-month total reaches the threshold after designation, counting each completed transfer for consideration once. A later resale of
+the same shares shall count as a separate completed transfer. Duplicate reports
+of one transaction, an uncompleted order, a cancelled transaction and a movement
+between accounts with the same beneficial owner shall not count as an additional
+transfer. For each completed transfer, its fraction shall be the number of
+shares transferred divided by the fully diluted capital immediately before
+completion, adjusted consistently for any subsequent split or consolidation.
+The rolling total shall be the sum of those fractions. Transfers completed
+before designation shall not count. The valuation time shall be the close of that day. Ordinary exchange
 transactions shall count towards that threshold.
 
 The undertaking shall notify the Reserve and the Commission of

@@ -127,3 +127,21 @@ penalties and monitoring. Technical powers cannot change essential ownership,
 loss or succession policy. Preparatory governance starts before general
 application. Separable ECI objectives are distinct from judicial severability:
 the warrant in this candidate requires a recipient Reserve.
+
+### Further procedural repairs under examination
+
+Article 3(8) now expressly provides a reasoned anti-avoidance decision using
+the existing hearing and information safeguards. Article 3(12) identifies
+transferee issuers, records the inherited clock and ownership perimeter, and
+requires a hearing without treating the decision as constitutive attachment.
+Article 5(6) counts separate resales but excludes duplicate reports, and states
+the per-transfer denominator. This resolves a counting ambiguity; it does not
+establish practical access to anonymous trading data. Those access costs and
+rights still require evidence before adoption.
+
+Article 12 now addresses implementing bodies expressly and disclaims a limit
+on future Treaty legislative powers. Article 1 includes the Article 10 timing
+rules in its distribution cross-reference. These repairs do not select a legal
+basis, supply compensation or provide initial financing. The five-year lapse
+rule, post-payment correction, default cross-border costs and the DC conflicts
+remain explicit decisions and research work, not implied closures.

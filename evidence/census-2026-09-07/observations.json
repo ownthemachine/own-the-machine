@@ -1,0 +1,63 @@
+{
+  "as_of": "2026-09-07",
+  "status": "source pilot; not a complete census or designation decision",
+  "universe_complete": false,
+  "assessment_years": [
+    2024,
+    2025
+  ],
+  "issuers": [
+    {
+      "name": "SAP SE",
+      "perimeter_id": "SAP-consolidated",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1000184/000110465926020058/sap-20251231x20f.htm",
+      "source_sha256": "95017d7d5ea133ec3eaa11522a6b4a6661d99308394081735ae9e2efbc875151",
+      "retrieved_on": "2026-09-07",
+      "report_currency": "EUR",
+      "reported_employee_cost_eur": {
+        "2023": "16992000000",
+        "2024": "20278000000",
+        "2025": "16478000000"
+      },
+      "annex_i_compensation_eur": {},
+      "grant_value_reconciliation": "not_verified",
+      "annex_i_fair_value_eur": {},
+      "union_turnover_eur": {},
+      "eu_service_countries": {},
+      "automation_test": "not_assessed",
+      "overlap_review": "not_verified",
+      "designation_status": "not_assessed",
+      "reported_year_end_market_cap_eur": {
+        "2024": "290300000000",
+        "2025": "256000000000"
+      },
+      "locator": "Note B.2 Employee Benefits Expenses; Intangible Resources"
+    },
+    {
+      "name": "ASML Holding NV",
+      "perimeter_id": "ASML-consolidated",
+      "source_url": "https://ourbrand.asml.com/m/6ea363f69344ebd4/original/asml-2025-annual-report-based-on-ifrs.pdf",
+      "source_sha256": "96f8d536307b38ca2da624810b2314cf74798be976ad82655e0e0b7cfe5b7f1a",
+      "retrieved_on": "2026-09-07",
+      "report_currency": "EUR",
+      "reported_employee_cost_eur": {
+        "2023": "5560600000",
+        "2024": "6037400000",
+        "2025": "6612800000"
+      },
+      "annex_i_compensation_eur": {},
+      "grant_value_reconciliation": "not_verified",
+      "annex_i_fair_value_eur": {},
+      "union_turnover_eur": {},
+      "eu_service_countries": {},
+      "automation_test": "not_assessed",
+      "overlap_review": "not_verified",
+      "designation_status": "not_assessed",
+      "reported_year_end_market_cap_eur": {},
+      "locator": "2025 IFRS annual report, Personnel expenses for all payroll employees"
+    }
+  ],
+  "eligibility_denominator": null,
+  "base_year_income_target_eur": null,
+  "cohort_assumptions": null
+}

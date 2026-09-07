@@ -1,10 +1,13 @@
 # Article 12: Protection of the Reserve and of entitlements
 
-1. The assets of the Reserve and the entitlements of holders shall not be
-cancelled, written down, compulsorily redeemed, seized, transferred,
-suspended, lent, encumbered or otherwise applied, in whole or in part, for
-the benefit of the general budget of the Union, of any Member State or of
-any public body, by any act of the Union or of a Member State.
+1. The Reserve, national vehicles and authorities implementing this
+Regulation shall not cancel, write down, compulsorily redeem, seize, transfer,
+suspend, lend, encumber or otherwise apply assets of the Reserve or holders'
+entitlements for the benefit of the general budget of the Union, of a Member
+State or of a public body. This prohibition shall bind their administrative,
+contractual and executive acts under this Regulation. It shall not constitute
+a restriction on the legislative powers conferred by the Treaties. Article
+8(17) shall govern taxes and charges for actual services.
 
 2. The Reserve shall not acquire or hold, directly or indirectly, debt
 instruments issued or guaranteed by the Union, by a Member State, by a

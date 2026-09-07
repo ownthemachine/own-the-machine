@@ -61,7 +61,11 @@ paragraph 2 are met before that event.
    valuation satisfying Annex I, shall not be disregarded solely because it
    changes the ratio referred to in that point. The third sentence of this paragraph shall not
    prevent the application of the first sentence to acquisitions, disposals
-   or restructuring arrangements.
+   or restructuring arrangements. The Commission shall establish an arrangement
+under this paragraph by a reasoned decision stating the facts, the adjustment
+made and the obligations resulting from it. Article 4(4) and (5) shall apply.
+The decision shall identify its addressees, the period for compliance and the
+available judicial remedy.
 
 9. The Commission is empowered to adopt delegated acts in accordance with
 Article 15 to amend the methodology laid down in Annex I where necessary to
@@ -87,3 +91,20 @@ The use of a holding entity shall not restart the statutory clock or
 convert the obligation into a payment charge. For an issuer governed by
 third-country law, this paragraph shall operate as an obligation to procure
 the result and shall not override that law.
+
+12. Where Article 5(11) or (12) applies, the Commission shall identify the
+transferee and each legal issuer responsible for recording and executing the
+transferred warrant by a reasoned decision. It shall state the transfer date,
+the assets and ownership perimeter concerned, the original designation and
+clock, and the allocation of responsibility among the issuers. It shall give
+the transferor and each proposed addressee the hearing and access to evidence
+provided for in Article 4(4) and (5). It shall adopt the decision within
+45 working days after receiving the complete information necessary for it.
+
+The decision shall not create a second subscription for an interest already
+represented in another issuer's capital. Article 3(10) and the aggregate cap
+in Article 5(11) shall apply. The decision shall state the available judicial
+remedy. Identification shall not postpone attachment by operation of law or
+restart a crystallisation period. The Commission shall assess any alleged
+failure to comply under the intention or negligence requirements of Article 13;
+the absence of a decision shall not itself establish either requirement.

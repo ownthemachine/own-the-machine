@@ -228,7 +228,7 @@ broadly held capital ownership is not defeated by immediate liquidation.
 
 (27) National vehicles should reuse existing infrastructure, segregate this scheme from pension and PEPP products and coordinate a single payment registration, including for citizens abroad. Verification should preserve disputed claims and provide reasons and remedies. Defined tasks, cost parameters and recovery of overcompensation should support compliance with applicable State aid rules.
 
-(28) The history of pooled public assets is a history of raids. The assets
+(28) The protection of pooled assets requires enforceable limits on their use. The assets
 of the Reserve should therefore be protected by enumerated prohibitions on
 lending, guarantee, transfer and encumbrance in favour of public
 authorities, and the Reserve should not acquire sovereign debt, so that it

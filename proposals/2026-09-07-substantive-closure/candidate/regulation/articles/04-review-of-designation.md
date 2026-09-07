@@ -20,8 +20,8 @@ Commission shall communicate its preliminary findings to the undertaking
 concerned and give it the opportunity to be heard within a period of not
 less than 20 working days.
 
-5. The Commission may by reasoned decision require a legal issuer or an
-undertaking under investigation to supply specified records necessary to
+5. The Commission may by reasoned decision require a legal issuer, a transferor or transferee under Article 5(11) or (12),
+or an undertaking under investigation to supply specified records necessary to
 establish designation, crystallisation, valuation or compliance. The decision
 shall state its purpose, legal basis, the records requested, a proportionate
 time limit and the available remedy. The Commission shall protect legal

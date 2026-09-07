@@ -1,0 +1,61 @@
+{
+  "status": "Evidence audit only; not a complete census, legal decision or forecast",
+  "universe_complete": false,
+  "issuers": [
+    {
+      "name": "SAP SE",
+      "observed_cost_audit": [
+        {
+          "year": 2024,
+          "reported_cost_two_year_mean_eur": "18635000000",
+          "reported_cost_80x_breakpoint_eur": "1490800000000",
+          "is_annex_i_result": false
+        },
+        {
+          "year": 2025,
+          "reported_cost_two_year_mean_eur": "18378000000",
+          "reported_cost_80x_breakpoint_eur": "1470240000000",
+          "is_annex_i_result": false
+        }
+      ],
+      "missing": [
+        "grant-value compensation reconciliation",
+        "complete Annex-I compensation history",
+        "Annex-I value at each assessment date",
+        "Union service footprint",
+        "qualitative automation test",
+        "ownership overlap review"
+      ],
+      "designation": "not determined by this tool"
+    },
+    {
+      "name": "ASML Holding NV",
+      "observed_cost_audit": [
+        {
+          "year": 2024,
+          "reported_cost_two_year_mean_eur": "5799000000",
+          "reported_cost_80x_breakpoint_eur": "463920000000",
+          "is_annex_i_result": false
+        },
+        {
+          "year": 2025,
+          "reported_cost_two_year_mean_eur": "6325100000",
+          "reported_cost_80x_breakpoint_eur": "506008000000",
+          "is_annex_i_result": false
+        }
+      ],
+      "missing": [
+        "grant-value compensation reconciliation",
+        "complete Annex-I compensation history",
+        "Annex-I value at each assessment date",
+        "Union service footprint",
+        "qualitative automation test",
+        "ownership overlap review"
+      ],
+      "designation": "not determined by this tool"
+    }
+  ],
+  "aggregate_eligible_value_eur": null,
+  "sufficiency_verdict": "not established",
+  "reason": "A sourced universe, verified inputs, designation assessment, eligible population and target are required."
+}

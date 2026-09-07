@@ -42,3 +42,15 @@ Parliament consent. It does not establish the necessary Treaty power or
 settle the property-rights question. The Forum's advice has already been
 received; it is not registration or legislative approval. Illustrative
 scenarios do not newly justify the unchanged 3% percentage.
+
+The proposed transfer procedure would identify who must record and execute a
+warrant after assets move, with a hearing and a reasoned decision. It would
+preserve the original clock and prevent counting the same ownership interest
+twice. Separate resales of the same shares would count toward the transfer
+trigger; duplicate reports of the same transaction would not. Access to enough
+transaction data remains unproven.
+
+Protection rules would bind the bodies administering this Regulation. They
+would not prevent a future legislature from changing the law. Taxes and genuine
+service charges remain payable. The candidate has no demonstrated source of
+pre-income service finance and no complete post-payment recovery protocol.
