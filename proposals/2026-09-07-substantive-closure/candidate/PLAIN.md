@@ -11,7 +11,12 @@ That base includes existing value, not just appreciation after designation.
 Triggers include qualifying liquidity events, sustained shareholder extraction
 and elapsed time. Ordinary exchange trading counts toward the 20% transfer
 threshold, so seven years is not a promised waiting period for listed companies.
-Reporting duties can apply before subscription.
+Reporting duties can apply before subscription. The text provides for an
+uncrystallised warrant to lapse five years after designation is repealed;
+its interaction with the seven-year backstop still needs resolving. A legal
+issuer without share capital would have to procure participation through an
+equivalent corporate holding entity. That restructuring obligation and its
+equivalence criteria remain under review.
 
 The Reserve would hold capital for citizens. Citizens could not sell or cash
 out their personal entitlement. Five independent board members and an
@@ -24,8 +29,8 @@ days, with no income, wealth or employment test. Moving country changes payment
 administration, not ownership. Receiving a payment requires registration
 with a designated national vehicle; unregistered holders retain their accrued
 claims. A vehicle may charge verified administration costs, capped at
-0.3% annually of the amounts it administers. Money accrued while eligible survives death
-and late registration. Money received is freely usable. National-record
+0.3% annually of the amounts it administers. Money accrued while eligible survives death, loss of EU citizenship
+and late registration. Death or loss of citizenship ends accrual for subsequent days. Money received is freely usable. National-record
 coordination is necessary; the prototype does not solve that identity system.
 
 Payments depend on realised income after subscription debt, costs and capital
