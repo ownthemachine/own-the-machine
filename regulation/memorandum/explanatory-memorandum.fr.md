@@ -114,7 +114,7 @@ Aucune consultation formelle n'a été menée, et aucune n'aurait pu l'être : i
 
 Ce qui existe en lieu et place est un examen contradictoire, mené sur le texte à chaque étape et publié dans son intégralité : six points de contrôle couvrant la forme juridique, le respect des contraintes, la base juridique, l'analyse contradictoire hostile, la cohérence avec l'acquis et la fidélité de structure, chaque verdict étant consigné, y compris les échecs, ainsi qu'un registre public consignant ce que chaque cycle a modifié et ce qui a été refusé, motifs à l'appui. Vingt et une objections sont formulées sous leur forme la plus rigoureuse et reçoivent une réponse, plusieurs d'entre elles étant fatales si elles étaient fondées, et au moins deux options de conception complètes ont été écartées au cours de ce processus avant d'atteindre le stade de la publication.
 
-Cela ne remplace pas la consultation des personnes qu'un instrument lierait, et le présent exposé des motifs ne le présente pas comme tel. C'est ce qu'un dossier peut accomplir avant d'avoir qualité pour consulter quiconque. Une demande relative à la recevabilité est en cours d'examen auprès du forum de l'initiative citoyenne européenne.
+Cela ne remplace pas la consultation des personnes qu'un instrument lierait, et le présent exposé des motifs ne le présente pas comme tel. C'est ce qu'un dossier peut accomplir avant d'avoir qualité pour consulter quiconque. Le Forum de l'ICE a fourni un avis indépendant et non contraignant sur l'enregistrement le 27 août 2026. Un accusé de réception a été envoyé le même jour et l'échange est clos ; cet avis ne constitue pas une approbation du texte proposé.
 
 ### 3.3 Analyse d'impact
 

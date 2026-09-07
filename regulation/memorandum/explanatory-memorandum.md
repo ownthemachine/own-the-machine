@@ -201,8 +201,9 @@ were killed in that process before reaching publication.
 
 That is not a substitute for consulting the people an instrument would
 bind, and this memorandum does not present it as one. It is what a file can
-do before it has standing to consult anybody. A registrability enquiry is
-pending with the European Citizens' Initiative Forum.
+do before it has standing to consult anybody. The ECI Forum provided independent, non-binding registration advice on
+27 August 2026. The reply was acknowledged that day and the exchange is
+closed; it does not constitute approval of the proposed law.
 
 ### 3.3 Impact assessment
 
