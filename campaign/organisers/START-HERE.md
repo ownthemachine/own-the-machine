@@ -27,9 +27,9 @@ promised and would depend on income actually realised by a proposed Reserve.
 | Accessibility | Try the brief and contact route with your usual tools | 30 minutes |
 | Administration | Test this onboarding guide and note missing information | 30 minutes |
 | Law or economics | Explain one precise uncertainty and the evidence needed | 60 minutes |
-| Coordination | Help prepare the next open working meeting | 45 minutes |
+| Coordination | Help prepare a first open working meeting, if scheduled | 45 minutes |
 
-These are examples, not unpaid professional engagements or a promise that
+These are examples of volunteer tasks, not professional engagements or a promise that
 anyone has been appointed. You can propose a smaller task or stop at any time.
 The editor agrees the scope and checks the result before publication.
 
@@ -38,7 +38,7 @@ The editor agrees the scope and checks the result before publication.
 We discuss whether you want to continue as a contributor, explore a formal
 organiser role, or finish here. A contributor does not become a statutory
 organiser automatically. Before any formal commitment, the prospective group
-must review the registered objectives it would seek, responsibilities,
+must review the objectives it would seek to register, responsibilities,
 representation, data handling, costs, unresolved risks and withdrawal arrangements.
 Any necessary verification should use a defined secure process, not a public
 issue or this initial email exchange. No identity-document collection system
@@ -54,8 +54,8 @@ replace them. Final formal commitments require informed individual agreement.
 ## How we work
 
 The aim is to automate repetitive production and administration while keeping
-named people responsible for decisions, relationships and review. Roles need
-not be paid jobs. Do not assume donated hours, services or financing until the
+named people responsible for decisions, relationships and review. These are unpaid volunteer roles; no payment or expense reimbursement is offered
+by this invitation. Do not assume donated hours, services or financing until the
 person providing them has agreed. Changes to public claims use the reviewer
 pipeline. Advice and a reply are not endorsements. No one speaks for another
 person or organisation without permission.
@@ -64,3 +64,10 @@ Email is used to answer your enquiry. It is not permission to add you to a
 mailing list or publish your details. GitHub issues are public. See the
 [privacy information](https://ownthemachine.eu/about). We ask before sharing an
 introduction with another contributor. You can ask us to close your enquiry.
+
+For contributor enquiries, the editor keeps a private follow-up note of contact
+details, any residence voluntarily provided, the agreed task and time, its owner,
+next action, status and permission to share an introduction. Inactive enquiries
+are reviewed after 90 days; details no longer needed are deleted unless continued
+contact is agreed or another retention need has been explained. At present the
+initiator handles intake; references to working together do not imply a staffed team.

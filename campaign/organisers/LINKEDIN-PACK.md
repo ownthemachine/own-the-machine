@@ -29,6 +29,10 @@ administrator access until that person and their role are agreed.
 
 Name: Own the Machine
 Website: https://ownthemachine.eu/
+Type and size: record the exact values chosen and the factual reason for each.
+If the mandatory fields cannot truthfully describe an unincorporated volunteer
+project, use the personal profile only and do not create the Page.
+
 Tagline: A working proposal for lasting citizen ownership of automation-related capital.
 
 About:
@@ -43,6 +47,7 @@ has been filed or registered and no official statements of support are being
 collected. The legal basis, compulsory equity mechanism and sizing remain under
 review. Neither payments nor annual increases are guaranteed.
 
+These are unpaid volunteer roles; no payment or expense reimbursement is offered.
 We welcome questions and voluntary contributions to evidence, language,
 accessibility and practical organisation. Joining a conversation is not a
 commitment to become a statutory organiser or endorse every part of the draft.
