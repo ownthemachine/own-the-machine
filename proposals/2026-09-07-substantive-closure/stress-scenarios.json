@@ -1,0 +1,270 @@
+{
+  "status": "Illustrative sensitivity only; no calibrated forecast or minimum-necessary percentage established",
+  "assumptions": {
+    "horizon_years": 30,
+    "initial_company_value_eur": "10000000000000",
+    "new_distinct_company_value_each_year_eur_year0": "500000000000",
+    "holders": 350000000,
+    "cash_yield": ".01",
+    "real_price_growth": ".03",
+    "inflation": ".02",
+    "annual_cost_fraction": ".001",
+    "nominal_subscription_amount": "0",
+    "timing": "year-end contributions; no repeated warrant on an existing company",
+    "median_income_target": "not supplied; no sufficiency verdict"
+  },
+  "rows": [
+    {
+      "scenario": "base_assumption",
+      "warrant_percent": "0.5",
+      "year": 30,
+      "real_stake_per_holder": "683.1603776127591901985235258",
+      "real_payout_per_holder": "5.791431099993742111478927063",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "base_assumption",
+      "warrant_percent": "1",
+      "year": 30,
+      "real_stake_per_holder": "1359.556791090738586434685437",
+      "real_payout_per_holder": "11.52552129800734816244816181",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "base_assumption",
+      "warrant_percent": "2",
+      "year": 30,
+      "real_stake_per_holder": "2692.455605885580337841239792",
+      "real_payout_per_holder": "22.82505198232827773347577148",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "base_assumption",
+      "warrant_percent": "2.5",
+      "year": 30,
+      "real_stake_per_holder": "3349.152095125965786095200703",
+      "real_payout_per_holder": "28.39213783167663815627474003",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "base_assumption",
+      "warrant_percent": "3",
+      "year": 30,
+      "real_stake_per_holder": "3999.472890296056229997181427",
+      "real_payout_per_holder": "33.90517430384685915749313618",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "base_assumption",
+      "warrant_percent": "4",
+      "year": 30,
+      "real_stake_per_holder": "5281.355226929407585765508807",
+      "real_payout_per_holder": "44.77221734995162170797170547",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "base_assumption",
+      "warrant_percent": "5",
+      "year": 30,
+      "real_stake_per_holder": "6538.820757150695106185868041",
+      "real_payout_per_holder": "55.43226909994010306701258765",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "no_cash_income",
+      "warrant_percent": "0.5",
+      "year": 30,
+      "real_stake_per_holder": "674.4188140179027991445312989",
+      "real_payout_per_holder": "0E+27",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 31
+    },
+    {
+      "scenario": "no_cash_income",
+      "warrant_percent": "1",
+      "year": 30,
+      "real_stake_per_holder": "1342.160214035628342851988031",
+      "real_payout_per_holder": "0E+27",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 31
+    },
+    {
+      "scenario": "no_cash_income",
+      "warrant_percent": "2",
+      "year": 30,
+      "real_stake_per_holder": "2658.003561129381620157858645",
+      "real_payout_per_holder": "0E+27",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 31
+    },
+    {
+      "scenario": "no_cash_income",
+      "warrant_percent": "2.5",
+      "year": 30,
+      "real_stake_per_holder": "3306.297112624352747025629041",
+      "real_payout_per_holder": "0E+27",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 31
+    },
+    {
+      "scenario": "no_cash_income",
+      "warrant_percent": "3",
+      "year": 30,
+      "real_stake_per_holder": "3948.296551968887261011188085",
+      "real_payout_per_holder": "0E+27",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 31
+    },
+    {
+      "scenario": "no_cash_income",
+      "warrant_percent": "4",
+      "year": 30,
+      "real_stake_per_holder": "5213.776216061479331848107355",
+      "real_payout_per_holder": "0E+27",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 31
+    },
+    {
+      "scenario": "no_cash_income",
+      "warrant_percent": "5",
+      "year": 30,
+      "real_stake_per_holder": "6455.151505599926791811942437",
+      "real_payout_per_holder": "0E+27",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 31
+    },
+    {
+      "scenario": "lower_growth",
+      "warrant_percent": "0.5",
+      "year": 30,
+      "real_stake_per_holder": "355.3660270078180525941719982",
+      "real_payout_per_holder": "3.072870939420544337137840160",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "lower_growth",
+      "warrant_percent": "1",
+      "year": 30,
+      "real_stake_per_holder": "707.2135785007072135785007100",
+      "real_payout_per_holder": "6.115317414094350611531741295",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "lower_growth",
+      "warrant_percent": "2",
+      "year": 30,
+      "real_stake_per_holder": "1400.560224089635854341736697",
+      "real_payout_per_holder": "12.11072664359861591695501732",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "lower_growth",
+      "warrant_percent": "2.5",
+      "year": 30,
+      "real_stake_per_holder": "1742.160278745644599303135893",
+      "real_payout_per_holder": "15.06456241032998565279770447",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "lower_growth",
+      "warrant_percent": "3",
+      "year": 30,
+      "real_stake_per_holder": "2080.443828016643550624133151",
+      "real_payout_per_holder": "17.98972015990862364363221018",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "lower_growth",
+      "warrant_percent": "4",
+      "year": 30,
+      "real_stake_per_holder": "2747.252747252747252747252752",
+      "real_payout_per_holder": "23.75565610859728506787330220",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "lower_growth",
+      "warrant_percent": "5",
+      "year": 30,
+      "real_stake_per_holder": "3401.360544217687074829931982",
+      "real_payout_per_holder": "29.41176470588235294117647068",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 1
+    },
+    {
+      "scenario": "loss_in_year_10",
+      "warrant_percent": "0.5",
+      "year": 30,
+      "real_stake_per_holder": "497.1668214035212031269674840",
+      "real_payout_per_holder": "4.206605938183405392077656631",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 13
+    },
+    {
+      "scenario": "loss_in_year_10",
+      "warrant_percent": "1",
+      "year": 30,
+      "real_stake_per_holder": "989.4111990307699190942620241",
+      "real_payout_per_holder": "8.371562312622420631758504792",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 13
+    },
+    {
+      "scenario": "loss_in_year_10",
+      "warrant_percent": "2",
+      "year": 30,
+      "real_stake_per_holder": "1959.422178472701212323930672",
+      "real_payout_per_holder": "16.57897634460518595701194084",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 13
+    },
+    {
+      "scenario": "loss_in_year_10",
+      "warrant_percent": "2.5",
+      "year": 30,
+      "real_stake_per_holder": "2437.330026880677117768791808",
+      "real_payout_per_holder": "20.62262911158206058067338981",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 13
+    },
+    {
+      "scenario": "loss_in_year_10",
+      "warrant_percent": "3",
+      "year": 30,
+      "real_stake_per_holder": "2910.597993265274616364673723",
+      "real_payout_per_holder": "24.62702311383100438274589274",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 13
+    },
+    {
+      "scenario": "loss_in_year_10",
+      "warrant_percent": "4",
+      "year": 30,
+      "real_stake_per_holder": "3843.481965465683147250787093",
+      "real_payout_per_holder": "32.52029975287940322336957629",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 13
+    },
+    {
+      "scenario": "loss_in_year_10",
+      "warrant_percent": "5",
+      "year": 30,
+      "real_stake_per_holder": "4758.596719147988658500974490",
+      "real_payout_per_holder": "40.26322826546973732417185631",
+      "preservation_shortfall": "0E+27",
+      "years_without_payment": 13
+    }
+  ]
+}

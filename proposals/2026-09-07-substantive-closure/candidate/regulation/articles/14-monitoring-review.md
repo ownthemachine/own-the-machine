@@ -1,0 +1,35 @@
+# Article 14: Monitoring and evaluation
+
+1. The Commission shall monitor, on the basis of data published by the
+   European Central Bank, Eurostat and the national statistical institutes:
+   (a) the diffusion of automated cognitive systems among undertakings in
+   the Union; (b) the distribution of household holdings of equity
+   instruments in the Union; (c) the share of value added accruing to labour
+   and to capital in the sectors in which covered undertakings operate; (d)
+   the number of designations, crystallisations and distributions under this
+   Regulation and their amounts; (e) the evolution of the share of Union
+   gross value added accruing to compensation of employees, as published by
+   the Commission (Eurostat), relative to the year 2025, together with the
+   Commission's assessment of the contribution of automated cognitive
+   systems to any change in either direction.
+
+2. By 31 December 2032, and every three years thereafter, the Commission
+shall evaluate this Regulation and submit a report to the European
+Parliament, the Council and the European Economic and Social Committee.
+
+3. The report shall state, on the basis of the indicators in paragraph 1,
+whether the premise of this Regulation that gains from automated cognitive
+systems accrue disproportionately to the holders of the systems remains
+supported by the evidence. Where the report finds that the share of
+undertakings referred to in point (a) of paragraph 1 exceeds one quarter
+and that neither the indicator in point (b) nor the indicator in point (c)
+of that paragraph shows the concentration the premise predicts, the report
+shall say so expressly and shall be accompanied, where appropriate, by a
+proposal for the amendment or repeal of this Regulation.
+
+4. Where a report under paragraph 2 accompanies or precedes a proposal for
+the amendment of Article 5, Article 8, Article 10 or Article 12, it shall
+include an independent assessment of the effect of the proposal on the
+entitlements of holders.
+
+5. The report shall be published.
