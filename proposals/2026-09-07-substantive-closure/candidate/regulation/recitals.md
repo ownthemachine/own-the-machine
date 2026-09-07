@@ -9,9 +9,9 @@ Having regard to the Treaty on the Functioning of the European Union, and in par
 
 Having regard to the proposal from the European Commission,
 
-After transmission of the draft legislative act to the national parliaments,
+[After transmission of the draft legislative act to the national parliaments,]
 
-Having regard to the consent of the European Parliament,
+[Having regard to the consent of the European Parliament,]
 
 Acting in accordance with a special legislative procedure,
 
@@ -163,7 +163,16 @@ operation of that law, not an avoidance of this Regulation, and should be
 left to run its course without the obligations of this Regulation
 attaching to it.
 
-(18) The warrant should serve broad citizen ownership through a limited economic participation. The interference with shareholders' property and business freedom should be accompanied by prospective attachment, retained voting control, a stated cap and independent judicially reviewable execution. Those safeguards should support the fair balance required by the Charter.
+(18) The mandatory warrant and resulting equity dilution interfere with
+the right to property under Article 17 of the Charter and the freedom to
+conduct a business under Article 16 thereof. The limited non-controlling
+participation should serve broad citizen ownership while leaving operating
+control with existing shareholders. In accordance with Article 52(1) of the
+Charter, that interference should be provided for by law, respect the essence
+of those rights and be necessary and proportionate to an objective of general
+interest. The statutory cap, prospective attachment and separately reviewable
+execution should support that fair balance. The requirements applicable to
+a deprivation of possessions under Article 17 should remain unaffected.
 
 (19) The independent valuation and correction procedure should ensure that execution does not exceed the stated percentage. Separate access to a court should enable the issuer and affected shareholders to challenge that calculation without holding up the underlying transaction. Effective judicial protection should operate within the jurisdiction established by the Treaties.
 

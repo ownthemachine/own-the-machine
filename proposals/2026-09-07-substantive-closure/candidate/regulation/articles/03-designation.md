@@ -71,8 +71,8 @@ not amend the thresholds laid down in paragraph 2.
 10. A designation decision shall identify the legal issuer and the
 consolidated ownership perimeter. Where a group has an ultimate parent
 whose equity represents that perimeter, that parent shall be the issuer.
-Outside minority interests shall be valued separately. Subsidiary equity
-already represented in a parent's equity shall not be counted again.
+The valuer shall value outside minority interests separately and shall not
+count subsidiary equity already represented in a parent's equity again.
 Where no single parent represents the perimeter, the decision shall
 identify the constituent issuers and their non-overlapping ownership
 interests. Articles 5 to 7 and 13 shall bind each identified issuer.

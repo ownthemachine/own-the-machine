@@ -50,9 +50,9 @@ referred to in paragraph 2;
 Union legislative act;
 (e) confer no right to require subscription before the first liquidity
  event following designation or crystallisation under paragraph 3,
- whichever occurs first. This point shall not limit any issuance,
- notification, information, valuation or anti-avoidance obligation laid
- down in this Regulation.
+ whichever occurs first, without prejudice to any issuance, notification,
+ information, valuation or anti-avoidance obligation laid down in this
+ Regulation.
 
 Shares subscribed pursuant to the citizens' capital warrant shall be
 non-voting for as long as they are held by the Reserve.

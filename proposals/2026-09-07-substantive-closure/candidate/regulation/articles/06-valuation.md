@@ -37,8 +37,8 @@ value of each non-overlapping ownership interest, nominal subscription
 amounts and the treatment of prior subscriptions under the same designation.
 For multiple issuers, the valuer shall publish a reconciliation of the
 combined economic base and resulting dilution using a common currency and
-valuation date. A sum of share numbers from different issuers shall not be
-a combined capital value. No interest shall enter the base twice. A prior
+valuation date. The valuer shall not treat a sum of share numbers from different issuers
+as a combined capital value and shall not include any interest twice. A prior
 subscription shall count at the value of the participation it represents
 at the relevant valuation date, not merely at its historic subscription
 price. The valuer shall give issuers and the Reserve the calculation and
