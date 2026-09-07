@@ -66,7 +66,7 @@ This is a project in preparation. The legal and economic questions are still
 open; it is not a registered European Citizens' Initiative, and there is
 nothing to sign yet.
 
-I would welcome people who want to examine the evidence, improve the explanation
+I would welcome unpaid volunteers who want to examine the evidence, improve the explanation
 or help organise the next stage. You do not have to agree with every article.
 A first conversation and one small task are enough to start.
 

@@ -65,8 +65,7 @@ mailing list or publish your details. GitHub issues are public. See the
 [privacy information](https://ownthemachine.eu/about). We ask before sharing an
 introduction with another contributor. You can ask us to close your enquiry.
 
-For contributor enquiries, the editor keeps a private follow-up note of contact
-details, any residence voluntarily provided, the agreed task and time, its owner,
+For contributor enquiries, the editor keeps a private follow-up note of contact details, the date of your enquiry, any residence voluntarily provided, the agreed task and time, its owner,
 next action, status and permission to share an introduction. Inactive enquiries
 are reviewed after 90 days; details no longer needed are deleted unless continued
 contact is agreed or another retention need has been explained. At present the
