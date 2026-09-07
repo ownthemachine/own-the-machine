@@ -5,6 +5,21 @@ Local issue continuation: campaign prose only; no operative law, DC or
 constitutional amendment. No public issue, contact, filing or deployment.
 The draft is LETTER-B-2026-09-07.md. Historical letters A and C stay intact.
 
+## Sending update, 7 September 2026
+
+The initiator approved the reviewed French letter after the final read and
+then explicitly authorised sending. The personalised first approach was
+sent from his personal address to the privately confirmed recipient. Gmail
+showed "Message sent". A recipient-specific sent-mail check before composing
+returned no matches. The three follow-up questions were not included; they
+remain for an interested reply. There were no attachments.
+
+The private send record preserves the sender, recipient, subject, confirmation
+time and approved source hash. Only paragraph line wrapping changed in the
+email; preparation metadata was excluded. No delivery or read receipt is
+claimed. Recipient details remain outside the public repository. The earlier
+unsent and pending-human-read statements below are historical review records.
+
 ## Current review after the website release, 7 September 2026
 
 The reviewed website corrections have now been published and checked. The
