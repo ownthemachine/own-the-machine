@@ -34,3 +34,48 @@ The mailbox has Cloudflare MX routing. A read-only search found no prior message
 addressed to hello@ownthemachine.eu in the checked Gmail account. End-to-end
 delivery remains to be confirmed before public LinkedIn posting; no test email
 was sent. No contact records have been added to the empty private intake file.
+
+## Round 4 and remaining release check
+
+Form, layer fidelity and translation returned PUBLISH; Fable returned REVISE.
+Fable accepted the existing-page/first-announcement distinction and the corrected
+intake, consent, eligibility and unpaid terms. Accept its two material findings:
+mail processing needs an accurate provider disclosure, and the About status
+must record Letter B's actual send. The latter is corrected in all five languages
+against LETTER-B-2026-09-07-STATUS.md. Historical release and preparation records
+remain historical; they are not overwritten to imply the letter was sent earlier.
+
+The reviewer inferred Gmail delivery from the checked account. That inference
+is not established by a search returning no matches. No provider sentence or
+email-deletion promise is invented. Confirm the actual destination and delivery,
+then add the verified disclosure and rerun the affected gates before release.
+The user has been asked for that missing operational information. The available
+Cloudflare session does not expose the project domain. The onboarding website
+update remains staged, and the existing site remains live.
+
+Astra is not claimed as a reviewer: the most recent same-day catalogue check
+recorded with Letter B found it unavailable through Requesty. Gemini and Fable
+ran through the existing EU Requesty runner; Fable used the explicit public-only
+30-day/no-training exception. Full inputs, prompts, all adverse rounds and raw
+output hashes are retained in pipeline/bundles and pipeline/reviews.
+
+## Final staged result
+
+Round 5's form, layer and translation reviews all returned PUBLISH after the
+MEP-status correction. Their prose approvals do not override Fable's outstanding
+mail-provider finding or establish that substantive legislative constraints are
+satisfied; the translation review's final blanket assertion is not accepted
+beyond translation fidelity. No repeated Fable call was made on an unchanged
+unresolved mail fact. The adversarial release condition remains open.
+
+The site readiness record is releases/2026-09-07-onboarding in the site repository.
+It records 20 successful page/theme browser samples with desktop/mobile checks,
+no axe violations, and successful translation/layout/reachability checks. The
+subsequent status correction was built and structurally checked. Twenty existing
+join/About storage objects were backed up and their referenced asset checked;
+no objects were uploaded and no CDN purge was requested.
+
+Next: verify the mail route and receipt; disclose the actual providers; rerun the
+affected privacy/translation/adversarial review; deploy and verify the ten page
+paths and their twins. Then the prepared LinkedIn Page/introduction can be
+considered alongside opening the required public consultation.

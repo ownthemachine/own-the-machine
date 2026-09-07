@@ -1,0 +1,59 @@
+{
+  "note": "Raw model output preserved verbatim after metadata header. Reviewer conclusions require the written disposition; PUBLISH is not legal clearance.",
+  "reviews": [
+    {
+      "path": "pipeline/reviews/2026-09-07-acquis-coherence-substantive-closure-r7.md",
+      "raw_sha256": "41afaffe9b12bce9a5c46fdd3f3bef57a44fd9ec55533f04179d9e6f2bf50592",
+      "file_sha256": "f4bdee7f78ec0a34e01f68ab33a4c9d4f621a36a38b935c0934383d90ef67c7d",
+      "bundle_sha256": "afd98714a0b0aab6fec36914169bf4e44acbb443cf974187f2fad4c27bdbf0ea",
+      "prompt_sha256": "5a3999c44c5c8cb03ce5344e63182bc97c04cedb366788c26a9285c3a4a409d3",
+      "verdict": "PUBLISH",
+      "gate": "acquis-coherence"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-dc-compliance-substantive-closure-r7.md",
+      "raw_sha256": "dad4b58e5f6232d6edabe67b8cf18c668c18eb22dc55ac146acc37f56e76db51",
+      "file_sha256": "4a02f56dcf6cc24020fb510eef2f521485cce5983561f5eca1480cdc86e2b89c",
+      "bundle_sha256": "afd98714a0b0aab6fec36914169bf4e44acbb443cf974187f2fad4c27bdbf0ea",
+      "prompt_sha256": "23dfe3dc90adb03040a26f55abd650d711ebff4bbbc28a8535be977f8bc1376c",
+      "verdict": "REVISE",
+      "gate": "dc-compliance"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-hostile-counsel-substantive-closure-r7.md",
+      "raw_sha256": "a4a0d2494996cd5439e2035802272e581d43a6c33cf37ab704072b86abb440fd",
+      "file_sha256": "1709168b852ae79a385fabd36f7f34a452bc17e6ce04a152ada1db83c32003e9",
+      "bundle_sha256": "afd98714a0b0aab6fec36914169bf4e44acbb443cf974187f2fad4c27bdbf0ea",
+      "prompt_sha256": "9d740d5c914a402efc1db050bb58d6552f3f9c8015181ee72324aef1732e236b",
+      "verdict": "REVISE",
+      "gate": "hostile-counsel"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-layer-fidelity-substantive-closure-r7.md",
+      "raw_sha256": "2047704024409c540dab854546c2c2dbbc3d6d3c09ff1d2bd548f3b455c6683f",
+      "file_sha256": "6e63ebb1cdc5a8b5077e491cddfdddc778cb60b3498d2aa9240fdd7f04db6cb7",
+      "bundle_sha256": "afd98714a0b0aab6fec36914169bf4e44acbb443cf974187f2fad4c27bdbf0ea",
+      "prompt_sha256": "b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40",
+      "verdict": "REVISE",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-legal-basis-substantive-closure-r7.md",
+      "raw_sha256": "9f191ca7e522907f0d495cb70220be68a34529e6edb46d754df2cd4fc2716edd",
+      "file_sha256": "e797cb8d796fca9e7b1df0cb6331c30b25db5115f29c24fa3aa383cef9eb8cd9",
+      "bundle_sha256": "afd98714a0b0aab6fec36914169bf4e44acbb443cf974187f2fad4c27bdbf0ea",
+      "prompt_sha256": "26f4d04020a5532545f5cdfd68f434cd044e0ca6c91e22d2782a4a2c7c9b33db",
+      "verdict": "REVISE",
+      "gate": "legal-basis"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-legal-form-substantive-closure-r7.md",
+      "raw_sha256": "86849bc071750424daf0da9ac02a19b3d531a1e47adb583ae81d90b2794eebb1",
+      "file_sha256": "d12cfe4b636da045826c3732ae547a5694f547ff07790883c14b9e84dd08e01e",
+      "bundle_sha256": "afd98714a0b0aab6fec36914169bf4e44acbb443cf974187f2fad4c27bdbf0ea",
+      "prompt_sha256": "1457cdeb315e358e4820d682806ec61ad3d3b4702ea43ffe8118fe2b1f8ddef1",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    }
+  ]
+}

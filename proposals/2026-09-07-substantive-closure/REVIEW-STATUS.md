@@ -5,6 +5,9 @@ This is a complete alternative for examination, not an adopted replacement
 for the Article 114 draft or website. **The substantive gates remain open.**
 An AI PUBLISH verdict is neither institutional approval nor legal clearance.
 
+Latest: rounds 7 and 8 below record the procedural repairs, two-issuer evidence
+pilot and further adverse findings. The substantive and layer gates remain open.
+
 ## What was completed
 
 The candidate assembles all 18 articles, both annexes, recitals, memorandum
@@ -143,3 +146,103 @@ pre-income financing commitments.
 The website and ordinary draft remain unchanged in this continuation.
 Nothing was filed, pushed, merged or deployed. See [VALIDATION.md](VALIDATION.md)
 for the completed engineering checks and their limits.
+
+## Round 7: procedural repair and evidence pilot, 7 September
+
+Candidate commit 97a0f2a; immutable bundle SHA-256
+`afd98714a0b0aab6fec36914169bf4e44acbb443cf974187f2fad4c27bdbf0ea`.
+This round fixes the reasons/hearing/addressee route for anti-avoidance and
+transferee decisions; distinguishes repeated resales from duplicate trade
+reports; adjusts transfer fractions for capital changes; and states whom the
+anti-diversion rules bind. It corrects the distribution cross-reference and
+recital 28. These are repairs to an unadopted alternative, not changes to root
+law. The SAP/ASML source pilot and new reference tests accompany the bundle.
+
+Legal form returned PUBLISH. DC compliance, legal basis and Fable hostile
+counsel returned REVISE. All 46 DC rows have explicit assessments; this does
+not mean they are satisfied. Later gates ran in order as diagnostics despite
+those adverse results. The substantive release gate has not passed.
+
+The DC reviewer again treats DC-1 and DC-12 more generously than the text
+supports. Retain the previously recorded constitutional conflicts. Its SILENT
+findings on DC-17, DC-42 and DC-44 identify missing candidate-memorandum
+material; DC-45/46 still lack calibration. Fable additionally identifies absent
+both-futures, consumer-surplus and governance-effect discussion. Restore the
+relevant evidence and objections in the candidate memorandum with sources,
+not a claim that baseline context cures an omission in the candidate itself.
+
+### New repair queue from the adverse review
+
+- **Day-one restrictions:** Article 18(2)'s early-application list omits
+  Articles 9 and 12 although it creates the Reserve and its governing bodies.
+  Make the intended investment and anti-diversion limits apply from creation
+  in the next operative repair, then rerun the substantive gates.
+- **Rescue ranking:** reconcile Article 5(4)(b)'s parity with post-designation
+  classes and Article 5(10)'s rescue exception. An exception to ineffectiveness
+  does not by itself confer seniority over the Reserve.
+- **Enforcement addressees:** check penalties for non-notification before
+  designation and non-compliance by an undertaking under investigation;
+  specify the intended default execution machinery. Do not assume fines
+  automatically issue or register shares.
+- **Definitions and perimeter:** settle fully diluted capital, no-par/nominal
+  subscription, intra-group transfers versus consolidated undertaking,
+  non-share entities with no residual claimant, and equivalence criteria.
+  Assess whether the anti-avoidance effects test catches ordinary genuine
+  acquisitions. These require precise policy choices, not blanket discretion.
+- **Administration and valuation:** check confidentiality of the published
+  multi-issuer reconciliation; timing of the valuer for designation; the
+  shareholder-remedies saving; the fixed 2032 review date; and which basic-act
+  provisions support Annex II's operative requirements.
+- **Measurement gaps:** test fragmented private transactions without an
+  observable value, nominal-value manipulation, remuneration timing and
+  pre-designation preferences. Genuine pay rises are not abuse merely because
+  they lower the ratio. Do not treat an untested scenario as proven evasion.
+
+These supplement NEXT-DECISIONS.md's unresolved service finance, correction
+funding, non-EU nationality cost allocation, trading data, lapse timeline,
+constitutional choices and complete census. No operative text was changed
+after the r7 bundle while its gates were running.
+
+### Limits on accepting the review's labels
+
+Fable distinguishes arguments from textual mechanics more carefully this
+round, but its headings are not findings of a court. There is no established
+registration refusal ground. Article 352 necessity, specific powers,
+proportionality, compensation, fiscal characterisation and global scope still
+need a sourced independent legal assessment. Merely adding a recital asserting
+necessity does not establish it. The conditional registration-text mismatch
+arises only if this candidate is selected without updating the filing package.
+
+Ordinary resales can accelerate crystallisation; the pilot supplies no trading
+series proving a particular company's trigger date. “Day one” and “within
+weeks” are not established forecasts. A pre-capital 3% issuance is not exactly
+3% dilution of post-issuance capital. The tax exception creates an exposure to
+investigate, not proof that all national taxes would be lawful or all other
+asset protections inoperative. The lapse route's actual reach needs the full
+financial-year timeline; do not elevate “may have little practical effect”
+to a proved impossibility in every case. The stress model's illustrative
+payments are not an estimate of this proposal's eventual benefit.
+
+The two-issuer pilot does not verify recital 7's claim about the maximum ratio
+among capital-intensive companies. That claim remains unsupported by this
+round's evidence. The acquisition of reported payroll observations is progress
+on inputs, not a completed census, legal designation or validation of 3%.
+
+The final r7 gates returned acquis PUBLISH and layer fidelity REVISE. The acquis
+review expressly labels many external legal references unverified; its strong
+“cleanly” language is not accepted as definitive compatibility or rights
+clearance. Its share-cancellation/creditor-protection point joins the valuation
+queue. The layer findings are accepted: PLAIN now explains post-repeal lapse
+with the unresolved timing qualification, termination of future accrual upon
+loss of citizenship, and restructuring for issuers without share capital.
+These prose-only repairs are separately reviewed in r8; r7's operative text
+and substantive adverse findings remain unchanged.
+
+Round 8 returned form PUBLISH and layer REVISE. Accept the first layer finding
+as the already queued day-one application defect; no operative repair is claimed.
+Its rescue-priority suggestion assumes Article 5(10) overrides 5(4)(b), whereas
+Fable identifies precisely that unresolved conflict. Do not add a plain promise
+of rescue seniority before reconciling the articles. The cash-subscription
+requirement deserves explicit explanation in the next integrated repair;
+borrowing is permitted, not mandatory or evidence that a lender exists.
+The layer gate therefore remains open alongside the substantive gates.

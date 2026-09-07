@@ -18,7 +18,9 @@ Condensed from FEASIBILITY.md; that file carries the full reasoning.
     pipeline/EXTERNAL-REVIEWS.md.
   - The three soundings: letter A (researcher) sent 2 September 2026,
     letter C (ECI veteran) sent 4 September 2026, letter B (Belgian MEP
-    office) follows. Texts in SOUNDING-LETTERS.md. No reply after ten days
+    office) sent 7 September 2026 in French. The final B text and send status
+    are in LETTER-B-2026-09-07.md and LETTER-B-2026-09-07-STATUS.md;
+    earlier texts remain in SOUNDING-LETTERS.md. No reply after ten days
     means one short follow-up, then stop.
 - **Gate 2 (Q4 2026):** seven credible organisers in seven states plus at
   least two institutional partners, on paper. KILL: fewer than two partners by

@@ -1,0 +1,167 @@
+{
+  "note": "Raw model output preserved verbatim after metadata header. Reviewer conclusions require the written disposition; PUBLISH is not legal clearance.",
+  "reviews": [
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-hostile-counsel-r1.md",
+      "raw_sha256": "0ddd906e84682938b732dda41db72aabbe0a8baa89d20ddf8623776bc7e8f3f4",
+      "file_sha256": "2b7400395dc6ef6211ceb9cc5ff48770c345ff264e1be31750a291ccb954b74d",
+      "bundle_sha256": "5ce32480c52162a3e2142f974320f3aeaf0637caabf9040e41dfba21622a7a8e",
+      "prompt_sha256": "0333306c6afe0d14a4dfdc91ffd979c1695e112e411eb972cb02cee48627492b",
+      "verdict": "REVISE",
+      "gate": "hostile-counsel"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-hostile-counsel-r2.md",
+      "raw_sha256": "fab9b5008259365e4f8a1867b3673945672c3c252695a70a6073e0e540eafa98",
+      "file_sha256": "c089da8d98e32bfe39630fba6f7b9003e8a57a3a4a56866580e2af0a3d2fcecc",
+      "bundle_sha256": "817ba3ca60e1671b65f3fa14f38504d6c83423833294191cdd8bf9ae3c4434f2",
+      "prompt_sha256": "0333306c6afe0d14a4dfdc91ffd979c1695e112e411eb972cb02cee48627492b",
+      "verdict": "REVISE",
+      "gate": "hostile-counsel"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-hostile-counsel-r3.md",
+      "raw_sha256": "94a71cff0ba4de62956005b98beac7265226caae0ebeaf4a49a54e0e6018f8a8",
+      "file_sha256": "db09b02f3d9dabf3013838060694108f19fe2d5b4c194e5e44da28435bb32f64",
+      "bundle_sha256": "3b967f81982b0b34c49e0b00dc423e250e7680a78e74f63295c1a93b83b3ce54",
+      "prompt_sha256": "0333306c6afe0d14a4dfdc91ffd979c1695e112e411eb972cb02cee48627492b",
+      "verdict": "REVISE",
+      "gate": "hostile-counsel"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-hostile-counsel-r4.md",
+      "raw_sha256": "84d3f450fb020a1a6aa13802a5a8ddd36987fe400c53abf37b15d5de9017d9ce",
+      "file_sha256": "1ca67a526e57df1a29bb1bf996ca74f6148962d49edf90c8d66864ae586d92f7",
+      "bundle_sha256": "d0f111ca073a7e80706d280cffa67e54550904f8cac271bb9bb60c14b440f217",
+      "prompt_sha256": "9171d2136ad54f80aa8a8932ee2610de3084a9a2a72e07940bc01a4bd17c9c26",
+      "verdict": "REVISE",
+      "gate": "hostile-counsel"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-layer-fidelity-r1.md",
+      "raw_sha256": "4b64275f71902fdfe6dfe736ceb077929a99d6a8c424769af2d1fbcb07ba9405",
+      "file_sha256": "d72b11bec20a1fee556be96b514153cfc1fc2710917da0e7796f38b6972aebf2",
+      "bundle_sha256": "5ce32480c52162a3e2142f974320f3aeaf0637caabf9040e41dfba21622a7a8e",
+      "prompt_sha256": "df8a7cc1d696c77e4b92526c4f6b9953cc89150d1b2644356e5d3eeebfeb51ce",
+      "verdict": "PUBLISH",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-layer-fidelity-r2.md",
+      "raw_sha256": "ba952b9b3ea213cca2b3c339faa9d19c55c3a614a175239e8af2b4dc60b1b238",
+      "file_sha256": "be41af0c748523320a6b45a28049f84522d6948bbdd818c24967323e4ad21b01",
+      "bundle_sha256": "817ba3ca60e1671b65f3fa14f38504d6c83423833294191cdd8bf9ae3c4434f2",
+      "prompt_sha256": "df8a7cc1d696c77e4b92526c4f6b9953cc89150d1b2644356e5d3eeebfeb51ce",
+      "verdict": "PUBLISH",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-layer-fidelity-r3.md",
+      "raw_sha256": "d3add7dc5a09e498dd0c3a52f715009ffc413eeacc5b3f587d0abf1ebd1ea532",
+      "file_sha256": "78122a410d28088c1aa6a51bc3db39ab06ba33faaf2fdd42a55596f55c2842ad",
+      "bundle_sha256": "3b967f81982b0b34c49e0b00dc423e250e7680a78e74f63295c1a93b83b3ce54",
+      "prompt_sha256": "df8a7cc1d696c77e4b92526c4f6b9953cc89150d1b2644356e5d3eeebfeb51ce",
+      "verdict": "PUBLISH",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-layer-fidelity-r4.md",
+      "raw_sha256": "566eb2edcc69231b3f1b64ec502716ca09c9a3b3e905ea82b57964d9bad89be5",
+      "file_sha256": "8a53c1802ea62f70953e3f2eca79c176b2f2e5cc5be45a786b91cc70e00ee515",
+      "bundle_sha256": "d0f111ca073a7e80706d280cffa67e54550904f8cac271bb9bb60c14b440f217",
+      "prompt_sha256": "e2ea3fb3d06a7519a6b142eda3324e958943b7a441d2a91dd5b6f53c09ecf48c",
+      "verdict": "PUBLISH",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-layer-fidelity-r5.md",
+      "raw_sha256": "e695d9e33269b1b40dd342bd2ec288a91f8c2921ec1104c918ae0807020f0e55",
+      "file_sha256": "bcffdcca01d2d30cc32748e15277325053694e09ebd062211a928d5cc07292ef",
+      "bundle_sha256": "679da71d66767a8293cf50c4126e11d5f61c9ad687598232eee23655b361eaa9",
+      "prompt_sha256": "e2ea3fb3d06a7519a6b142eda3324e958943b7a441d2a91dd5b6f53c09ecf48c",
+      "verdict": "PUBLISH",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-legal-form-r1.md",
+      "raw_sha256": "21ff3816f6874e7d60aa49a3b6fb1cbdd3aceb5a3b23dc76b7beb20b295915e7",
+      "file_sha256": "1d4a7159232d178c1ffc6a7464a5bb2e847d5c41e6b262dee7087b5bb000d3f7",
+      "bundle_sha256": "5ce32480c52162a3e2142f974320f3aeaf0637caabf9040e41dfba21622a7a8e",
+      "prompt_sha256": "3f487afa981a66388bc5bb7cc58bd2d5be39b0145c17e732ef3dfc399f8fc3c9",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-legal-form-r2.md",
+      "raw_sha256": "2713857463a5e179862127c19cd718a8d38d22a053a4ad39fd487a5a125cf864",
+      "file_sha256": "72cdbc6cc09db7d515245e3ca93e2b6c1e92749847de0493513cb0ae91c557a6",
+      "bundle_sha256": "817ba3ca60e1671b65f3fa14f38504d6c83423833294191cdd8bf9ae3c4434f2",
+      "prompt_sha256": "3f487afa981a66388bc5bb7cc58bd2d5be39b0145c17e732ef3dfc399f8fc3c9",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-legal-form-r3.md",
+      "raw_sha256": "4e8e9efd288f14a47eb0edb1545418d0d79c752ca8b48e4348d3ed7a15cc18e6",
+      "file_sha256": "d7b40642310a8b3febcf2901c34c4cf2940a3c8089fc1e716ea1b09ecc17fae0",
+      "bundle_sha256": "3b967f81982b0b34c49e0b00dc423e250e7680a78e74f63295c1a93b83b3ce54",
+      "prompt_sha256": "3f487afa981a66388bc5bb7cc58bd2d5be39b0145c17e732ef3dfc399f8fc3c9",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-legal-form-r4.md",
+      "raw_sha256": "0174a91042c3324c34121b3f6b3769263bbee88c146646fcbbf16799f761ec0a",
+      "file_sha256": "8780607cd4bb6a0d370885f14a881cafc53ff92fbf08ec26766cb061e2b43983",
+      "bundle_sha256": "d0f111ca073a7e80706d280cffa67e54550904f8cac271bb9bb60c14b440f217",
+      "prompt_sha256": "0e2da617e32fe2da2f1a5bfd717155287142b8d44a41348162e9625f2db00d58",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-legal-form-r5.md",
+      "raw_sha256": "05a7c77cf86f6f8d368db048e6a219556260a6ba795ee0063b40b40b48d69283",
+      "file_sha256": "511c9e7b7ad8229eca0278fd8fe623a365b9835a47350e8fe24f6eafdd5c0880",
+      "bundle_sha256": "679da71d66767a8293cf50c4126e11d5f61c9ad687598232eee23655b361eaa9",
+      "prompt_sha256": "0e2da617e32fe2da2f1a5bfd717155287142b8d44a41348162e9625f2db00d58",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-translation-r1.md",
+      "raw_sha256": "0a3b628f07ecf327fd763bca35bdb13ef81f81dbcf8ff04ef7fc773e2ad77d30",
+      "file_sha256": "12744b23888fdd6eb53398814429d7713a2729bb6ad8ff0da757793ace5881b5",
+      "bundle_sha256": "5ce32480c52162a3e2142f974320f3aeaf0637caabf9040e41dfba21622a7a8e",
+      "prompt_sha256": "53bd73d12d45a1b8577f10271d4f66b592d66055ee00a8c90fcacb9d560d8274",
+      "verdict": "PUBLISH",
+      "gate": "translation"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-translation-r2.md",
+      "raw_sha256": "66010af38ca3f2f545c05ef1b6f7e89c7d24a781d05b60470abb06fd2abba5f4",
+      "file_sha256": "63d80c665196b35f48995846f2dfdc821428feddd6105e732a2811326bfcc0c6",
+      "bundle_sha256": "817ba3ca60e1671b65f3fa14f38504d6c83423833294191cdd8bf9ae3c4434f2",
+      "prompt_sha256": "53bd73d12d45a1b8577f10271d4f66b592d66055ee00a8c90fcacb9d560d8274",
+      "verdict": "PUBLISH",
+      "gate": "translation"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-translation-r4.md",
+      "raw_sha256": "fda3250c175f95464398f5752846d9d06a22dbef548810c4ac469bbd0b428938",
+      "file_sha256": "281c8c8ce87bae770d87b3ebf5b359ab31954a4bf2e0388b93b6d83a38e9466c",
+      "bundle_sha256": "d0f111ca073a7e80706d280cffa67e54550904f8cac271bb9bb60c14b440f217",
+      "prompt_sha256": "cf90b3c229deafbbd3b93a95ec4900d6392d478dcb85d71ac3efe2beeb3fcf29",
+      "verdict": "PUBLISH",
+      "gate": "translation"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-onboarding-translation-r5.md",
+      "raw_sha256": "8584b62afd6ccfbe890441152fc03a02f520a9476fba446f34307a7bc22df169",
+      "file_sha256": "3d120ebee33dfe5c7eb85aa4cb3e22de5a0101c6e12b3c3edff93ebbcc7faba0",
+      "bundle_sha256": "679da71d66767a8293cf50c4126e11d5f61c9ad687598232eee23655b361eaa9",
+      "prompt_sha256": "cf90b3c229deafbbd3b93a95ec4900d6392d478dcb85d71ac3efe2beeb3fcf29",
+      "verdict": "PUBLISH",
+      "gate": "translation"
+    }
+  ]
+}

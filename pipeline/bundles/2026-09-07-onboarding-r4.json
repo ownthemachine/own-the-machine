@@ -1,0 +1,199 @@
+{
+  "sha256_uncompressed": "d0f111ca073a7e80706d280cffa67e54550904f8cac271bb9bb60c14b440f217",
+  "files": [
+    {
+      "path": "GOVERNANCE.md",
+      "sha256": "35d6d8f31fec32d44e880419212c5459c88f925238cefcbb3c9eccc6461e51bc"
+    },
+    {
+      "path": "pipeline/README.md",
+      "sha256": "f20ffa5218a89b4aefe5b46ef821510556efcb771402ad5e0840423b91e82a23"
+    },
+    {
+      "path": "pipeline/DRAFTING-RULES.md",
+      "sha256": "2a0e9737e313b06fa77b270ea2a4357ab2ce7f79e70f2be13a39d2c9c7877d7d"
+    },
+    {
+      "path": "campaign/GATES.md",
+      "sha256": "bc24226ca9b513d5f59a46a09846dccb0f2fb3d85bb2a4b777814abfff091bdf"
+    },
+    {
+      "path": "campaign/OUTREACH.md",
+      "sha256": "8940ac747c69a25d02570df55f4a75f34f14363b70b8ad676e49239b50729538"
+    },
+    {
+      "path": "campaign/SITE-RELEASE-2026-09-07.md",
+      "sha256": "69d3a49c8f0160a10b7d613c94b12286822d30958a883b0adc391ee74f0a7c4c"
+    },
+    {
+      "path": "pipeline/EXTERNAL-REVIEWS.md",
+      "sha256": "bb32e3ab9801daf926d9b3c32393db3c7b86faed704d70e2bcabb12b7f291b79"
+    },
+    {
+      "path": "campaign/organisers/START-HERE.md",
+      "sha256": "738b38073ea3e2c50a7a2edd0a86504807ddea76e7118906a0fb7a84f88a77c3"
+    },
+    {
+      "path": "campaign/organisers/HOST-CHECKLIST.md",
+      "sha256": "8b234b7ec9043214e89cf28d16caa6b89408c4a0634377081ff4ba6e78b06720"
+    },
+    {
+      "path": "campaign/organisers/LINKEDIN-PACK.md",
+      "sha256": "d8ed155f7ddc1737b1d04eb1bdb4e6c9da58139e49d989cfa4f2dfa282ec8841"
+    },
+    {
+      "path": "campaign/organisers/REVIEW-STATUS.md",
+      "sha256": "d975e6b6ffed6300969ed6bea7971a1e81a26938c12ae633ff111e1205eda994"
+    },
+    {
+      "path": "regulation/STRUCTURE.md",
+      "sha256": "b8f4010b75496c94b9cdb0f213f9bc98aeb94de100de6cd1b7d85e30750cda4c"
+    },
+    {
+      "path": "regulation/annexes/annex-1-counting.md",
+      "sha256": "f37e42424942dc1a92d41669f82808df86614d33104f108c4473df61625c351e"
+    },
+    {
+      "path": "regulation/annexes/annex-2-retention.md",
+      "sha256": "1fc8539ace76afe1b06be5d3634e3c8d1f2c1d452d0fbbc9b31b5e1fbdc3ab93"
+    },
+    {
+      "path": "regulation/articles/01-subject-matter.md",
+      "sha256": "5328bb157f1931c724fa6f18c6414f1acef6a13f600fb343a5b3c41ccb5be95c"
+    },
+    {
+      "path": "regulation/articles/02-definitions.md",
+      "sha256": "c70ced416e16ffa0175d1b707f17b6e47a00bad7004e188e37477e7251a23df4"
+    },
+    {
+      "path": "regulation/articles/03-designation.md",
+      "sha256": "bb8af029662432b784c1efe3142d7ccd48401e2bd5903e43fae73820691ba4ae"
+    },
+    {
+      "path": "regulation/articles/04-review-of-designation.md",
+      "sha256": "a9631c6f121769d898cd8c76908fbe6271180c3f727d9f5075b5859d4c9b0890"
+    },
+    {
+      "path": "regulation/articles/05-warrant.md",
+      "sha256": "e6b68e0dc9c7c722d8bf7987a04699bd775eebb73222d7d48092c8627ba4fc43"
+    },
+    {
+      "path": "regulation/articles/06-valuation.md",
+      "sha256": "80c7b4781b439a367657662282e1d0de4873fc3043cf243a263cd050007b3fbe"
+    },
+    {
+      "path": "regulation/articles/07-safeguards.md",
+      "sha256": "6cfe3ef867e4359fc87f6368e8d0e0c9c08e96cdb988246d589b92b8f3ba9396"
+    },
+    {
+      "path": "regulation/articles/08-reserve.md",
+      "sha256": "5a9dbd481a7e312fe14972f452cf33a2fb6df57fb1b795d3f51caf8a0da2ffff"
+    },
+    {
+      "path": "regulation/articles/09-prohibited-conduct.md",
+      "sha256": "663203889d5e577cc30a1f4fb7de0f5a765d12390addd71ff1fb9ef73bda6f3c"
+    },
+    {
+      "path": "regulation/articles/10-entitlement.md",
+      "sha256": "9e0c0d320e6c4395096d48e94270d76f81ad13387e176b56b3c5a219f3d0e159"
+    },
+    {
+      "path": "regulation/articles/11-national-vehicles.md",
+      "sha256": "cc93b289cb5d4e320bca77be487680f43386cab85f6a1f50bf599df0367342cc"
+    },
+    {
+      "path": "regulation/articles/12-protection.md",
+      "sha256": "0fc148d7e06fdf5227ce08b9e736e1ffc5f1291d4484bed527d20e424f15cf66"
+    },
+    {
+      "path": "regulation/articles/13-penalties.md",
+      "sha256": "c966d060d7741589187163f7477c0978f5a67408d5c5993da3d13d17f300ac5d"
+    },
+    {
+      "path": "regulation/articles/14-monitoring-review.md",
+      "sha256": "0b75fcbac451d5e1bf95506d937706521b78d5f8edad9ff1545d6c14567295f6"
+    },
+    {
+      "path": "regulation/articles/15-delegation.md",
+      "sha256": "add218711d50d00d8bd8d8d8de60e64e7254b3e6aa5768e83f9425198775b32d"
+    },
+    {
+      "path": "regulation/articles/16-committee.md",
+      "sha256": "1b713a477c9f840b480e281f77679fffef2d660c3bc24e40b2e847789b9773c0"
+    },
+    {
+      "path": "regulation/articles/17-transitional.md",
+      "sha256": "a80f7349e53e6c6c172d9d952f926fc1ca2b74c53dcbd5c0b6eb43d36c675163"
+    },
+    {
+      "path": "regulation/articles/18-final.md",
+      "sha256": "68b59a3c3bf586409e6fa2f423bb088da10c2b8ad6af44cbd51530b3297e5353"
+    },
+    {
+      "path": "regulation/memorandum/counter-arguments.md",
+      "sha256": "09ccfdbfb8e16751d4ef7dc0bfb1c71bb1336c33cdb08496b32f975b20da534f"
+    },
+    {
+      "path": "regulation/memorandum/explanatory-memorandum.fr.md",
+      "sha256": "b316806b4202775ae37f0b0e0fe8cf4df2fe35d43cc768cbff90edd19e953f6d"
+    },
+    {
+      "path": "regulation/memorandum/explanatory-memorandum.md",
+      "sha256": "7c90629ff3d32cc1c55f5ac0d8b2919555b4822f6ab6ea4d2640325d861c9154"
+    },
+    {
+      "path": "regulation/memorandum/severability.md",
+      "sha256": "d905a13150b52b714d1efa83b3a29f9b7d503ca08d0e92979695c170f17b2793"
+    },
+    {
+      "path": "regulation/recitals.md",
+      "sha256": "e0519c02f8404b88621f702f502833e0b5976689e312d827850e98fb6506e231"
+    },
+    {
+      "path": "site/content/en/join.md",
+      "sha256": "38055680aaa7a44e5766925bbf7fec3003c1b64774bb29ea93b17bf8cb8defd6"
+    },
+    {
+      "path": "site/content/fr/join.md",
+      "sha256": "8cd5c9b269c732dbb77aaa6b29cfb0cc573f55a55ba5592cfd3b59630dc3f76a"
+    },
+    {
+      "path": "site/content/nl/join.md",
+      "sha256": "caa15abb42ea55b91c5f647b662f02b1c9ef0ccc9795b35e1330af1908bdd7b8"
+    },
+    {
+      "path": "site/content/de/join.md",
+      "sha256": "ceaf2a6831fb10b3371da0fced6b99fe961eb10392bad520c5f48739a459b817"
+    },
+    {
+      "path": "site/content/es/join.md",
+      "sha256": "18c84f0bd081d7059a9ffd79dbf96996eb171a60f061c650810343247ce05e13"
+    },
+    {
+      "path": "site/content/en/about.md",
+      "sha256": "49509511716508bbef315e1fc13c4b2efa478443ddccf8a435863791ef2b90c8"
+    },
+    {
+      "path": "site/content/fr/about.md",
+      "sha256": "8c90b28b29c0b3fbcc851d62f710a03db032696a2cf4195229481ac72733194b"
+    },
+    {
+      "path": "site/content/nl/about.md",
+      "sha256": "75bfd7ea0eefce0cb32dfba7a4f468b1d962f0a6e5b6dc8f837cb59db0e6107d"
+    },
+    {
+      "path": "site/content/de/about.md",
+      "sha256": "43f7a4b5d2b0ede958d3a56d02b40e388e834faf4b986fda62bc277656a192a7"
+    },
+    {
+      "path": "site/content/es/about.md",
+      "sha256": "d659523108eae4e4e8a9e199fe7a8692e2454941baeb3f2300b97b3da4a47bb2"
+    },
+    {
+      "path": "site/releases/2026-09-07/README.md",
+      "sha256": "4172ef29c65cafa4f7bbcd1bfb7cbe691deab29880148d327213ee771b062d38"
+    }
+  ],
+  "law_target_commit": "79348037df0ee9d0b430669f90bb7548a2d4bb18",
+  "site_target_commit": "98fb43c735bc604fc791ee9bc9ebb9d34ca54013"
+}

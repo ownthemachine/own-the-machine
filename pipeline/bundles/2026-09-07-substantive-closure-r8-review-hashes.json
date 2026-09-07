@@ -1,0 +1,23 @@
+{
+  "note": "Raw model output preserved verbatim after metadata header. Reviewer conclusions require the written disposition; PUBLISH is not legal clearance.",
+  "reviews": [
+    {
+      "path": "pipeline/reviews/2026-09-07-layer-fidelity-substantive-closure-r8.md",
+      "raw_sha256": "4fe229848113553acf89f86328a4a185f8dd63b4391b4efcc8b3dd34519733c3",
+      "file_sha256": "ecc9d4b30c557f7d795614a613f8210bdc6519bde7cb1856c00c25df9cae5c9d",
+      "bundle_sha256": "a2c84f196ecea16bcc5ac53bd45a2118c21a7c3b7728e2ad51be166bd855790d",
+      "prompt_sha256": "b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40",
+      "verdict": "REVISE",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-legal-form-substantive-closure-r8.md",
+      "raw_sha256": "d1787907356cbc9967cb472c54176107bdf30015015b60af83b5bc0f1e3443da",
+      "file_sha256": "21ff493755d33faaa367b4c40e550a21df839d130a786e97689ea5573e3a228b",
+      "bundle_sha256": "a2c84f196ecea16bcc5ac53bd45a2118c21a7c3b7728e2ad51be166bd855790d",
+      "prompt_sha256": "1457cdeb315e358e4820d682806ec61ad3d3b4702ea43ffe8118fe2b1f8ddef1",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    }
+  ]
+}
