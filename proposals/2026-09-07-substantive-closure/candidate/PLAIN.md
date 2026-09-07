@@ -21,14 +21,19 @@ a campaign staffing requirement. Initial services still need actual financing.
 
 Every adult EU citizen would accrue the same amount for the same eligible
 days, with no income, wealth or employment test. Moving country changes payment
-administration, not ownership. Money accrued while eligible survives death
+administration, not ownership. Receiving a payment requires registration
+with a designated national vehicle; unregistered holders retain their accrued
+claims. A vehicle may charge verified administration costs, capped at
+0.3% annually of the amounts it administers. Money accrued while eligible survives death
 and late registration. Money received is freely usable. National-record
 coordination is necessary; the prototype does not solve that identity system.
 
 Payments depend on realised income after subscription debt, costs and capital
 preservation. Losses are recognised immediately. Capital can grow without a
 payment, and both can fall short of the policy's ambition. Allocated cash is
-reserved separately. The backstop counts three years with positive new
+reserved separately. Payment is due when the average accumulated amount
+per payee reaches at least ten times the average execution cost, or when
+the backstop is reached. The backstop counts three years with positive new
 allocations, not three calendar years regardless of income. Neither capital
 preservation nor larger annual payments is guaranteed.
 

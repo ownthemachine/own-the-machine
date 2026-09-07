@@ -30,7 +30,10 @@ Deliverables:
 - candidate/regulation/: complete operative alternative, not patch fragments.
 - candidate/MEMORANDUM.md and candidate/PLAIN.md: explanation of this version.
 - DECISIONS.md: choices made for review, unresolved feasibility conditions.
-- REVIEW-STATUS.md: actual gate results and assistant dispositions once run.
+- [REVIEW-STATUS.md](REVIEW-STATUS.md): completed gate results, qualified findings
+  and remaining repairs. Three gates return PUBLISH and three REVISE; the
+  alternative is not cleared for adoption.
+- [VALIDATION.md](VALIDATION.md): 38 passing tests, lint and archive provenance.
 
 The immediate objective is to reduce concrete defects and identify the
 remaining decision boundary. It is not to rerun unchanged material until

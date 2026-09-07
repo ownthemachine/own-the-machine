@@ -1,0 +1,10 @@
+{
+  "recorded_at_after_attempt": "2026-09-07T09:05:48.756279+00:00",
+  "profile": "astra",
+  "requested_family": "gpt-6-astra",
+  "router": "https://router.eu.requesty.ai/v1",
+  "outcome": "not offered; no model substituted by this invocation",
+  "exit_code": 1,
+  "message": "astra (gpt-6-astra) is not offered by https://router.eu.requesty.ai/v1; no substitute used",
+  "subsequent_action": "Separate explicitly named default EU Gemini legal-basis review"
+}

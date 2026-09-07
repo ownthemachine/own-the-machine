@@ -1,0 +1,119 @@
+[
+  {
+    "review": "2026-09-07-acquis-coherence-closure-r1.md",
+    "raw_sha256": "5c6465e63101efbd62df8b1a78ff40eb85533e9a0b7b5022ea13213049c13b29",
+    "verdict": "PUBLISH",
+    "prompt": "34774a4-acquis-coherence.md",
+    "prompt_sha256": "5a3999c44c5c8cb03ce5344e63182bc97c04cedb366788c26a9285c3a4a409d3",
+    "bundle": "2026-09-07-substantive-closure-r5.md.gz",
+    "bundle_sha256": "bfeb26dc2cacd4667b3a17719b41b08e40250236d97aedc83397b4ebc63c46dd"
+  },
+  {
+    "review": "2026-09-07-dc-compliance-closure-r1.md",
+    "raw_sha256": "d1b5485952758e90317c15b591094b0f736a3ba90677d9914744e3526581d495",
+    "verdict": "PUBLISH",
+    "prompt": "34774a4-dc-compliance.md",
+    "prompt_sha256": "02c9680476811760646ac11bb6f8ac93061db7fad43562b8ba032c860e180cef",
+    "bundle": "2026-09-07-substantive-closure-r5.md.gz",
+    "bundle_sha256": "bfeb26dc2cacd4667b3a17719b41b08e40250236d97aedc83397b4ebc63c46dd"
+  },
+  {
+    "review": "2026-09-07-dc-compliance-closure-r2.md",
+    "raw_sha256": "29ff17642bea6e2119bd7221eaaf84bb85cbe3eedfe04972769a68ed755e75b7",
+    "verdict": "REVISE",
+    "prompt": "93e0f11-dc-compliance.md",
+    "prompt_sha256": "23dfe3dc90adb03040a26f55abd650d711ebff4bbbc28a8535be977f8bc1376c",
+    "bundle": "2026-09-07-substantive-closure-r5.md.gz",
+    "bundle_sha256": "bfeb26dc2cacd4667b3a17719b41b08e40250236d97aedc83397b4ebc63c46dd"
+  },
+  {
+    "review": "2026-09-07-hostile-counsel-closure-r1.md",
+    "raw_sha256": "c6ef5f477e801c0f25edcb233d99965d416c21f09056c35ddf7dfdcb2d18c41e",
+    "verdict": "REVISE",
+    "prompt": "34774a4-hostile-counsel.md",
+    "prompt_sha256": "9d740d5c914a402efc1db050bb58d6552f3f9c8015181ee72324aef1732e236b",
+    "bundle": "2026-09-07-substantive-closure-r5.md.gz",
+    "bundle_sha256": "bfeb26dc2cacd4667b3a17719b41b08e40250236d97aedc83397b4ebc63c46dd"
+  },
+  {
+    "review": "2026-09-07-layer-fidelity-closure-r1.md",
+    "raw_sha256": "eb6a1001c7175741d06607bdebf4eafee4353e50bfe467fc3f5115b369ab06f4",
+    "verdict": "REVISE",
+    "prompt": "34774a4-layer-fidelity.md",
+    "prompt_sha256": "b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40",
+    "bundle": "2026-09-07-substantive-closure-r5.md.gz",
+    "bundle_sha256": "bfeb26dc2cacd4667b3a17719b41b08e40250236d97aedc83397b4ebc63c46dd"
+  },
+  {
+    "review": "2026-09-07-layer-fidelity-closure-r2.md",
+    "raw_sha256": "b77455b6ac946be24c4703f439c2ef71de06530e3ea1f021a71877f3228077f5",
+    "verdict": "PUBLISH",
+    "prompt": "34774a4-layer-fidelity.md",
+    "prompt_sha256": "b7977305d075dbb668b4b30e5dcbcad48837ddf5534df598194a22a33c660f40",
+    "bundle": "2026-09-07-substantive-closure-r6.md.gz",
+    "bundle_sha256": "db037b182cdd21ffde0241690b1a956a49513b5a5faecc6e3a872056b518792d"
+  },
+  {
+    "review": "2026-09-07-legal-basis-closure-r1.md",
+    "raw_sha256": "cd465bd8ba890d599702213925c70785f00d840f02f29e9d8799ea440b885f63",
+    "verdict": "REVISE",
+    "prompt": "34774a4-legal-basis.md",
+    "prompt_sha256": "26f4d04020a5532545f5cdfd68f434cd044e0ca6c91e22d2782a4a2c7c9b33db",
+    "bundle": "2026-09-07-substantive-closure-r5.md.gz",
+    "bundle_sha256": "bfeb26dc2cacd4667b3a17719b41b08e40250236d97aedc83397b4ebc63c46dd"
+  },
+  {
+    "review": "2026-09-07-legal-form-closure-r1.md",
+    "raw_sha256": "9e07f15bd64eac4eba5bfff9af52949eef9337cf91b71bf473adde12b397006b",
+    "verdict": "REVISE",
+    "prompt": "32709fb-legal-form.md",
+    "prompt_sha256": "9b8a265e21d0d5cfd192ec3dfb46da8b75ff7aea6f30d03236ec18749a0a2f7a",
+    "bundle": "2026-09-07-substantive-closure-r1.md.gz",
+    "bundle_sha256": "e0ad53efae3747e65c24dc5d4f5675bb183acd940edaa20f86d5a1153bdeb74b"
+  },
+  {
+    "review": "2026-09-07-legal-form-closure-r2.md",
+    "raw_sha256": "abfed7e82b5100e88e4f85b750aee502b8d64e9ceca4e0f6481e6109bef74f03",
+    "verdict": "REVISE",
+    "prompt": "32709fb-legal-form.md",
+    "prompt_sha256": "9b8a265e21d0d5cfd192ec3dfb46da8b75ff7aea6f30d03236ec18749a0a2f7a",
+    "bundle": "2026-09-07-substantive-closure-r2.md.gz",
+    "bundle_sha256": "8b36117626703366cb9ecd59625e6e55c0e4c5ccf90bacf721073a582ee91855"
+  },
+  {
+    "review": "2026-09-07-legal-form-closure-r3.md",
+    "raw_sha256": "31ec94f253cfd48fff7a0e7f440a841126b1b08d3cebe7280bb60a2937d377d9",
+    "verdict": "REVISE",
+    "prompt": "32709fb-legal-form.md",
+    "prompt_sha256": "9b8a265e21d0d5cfd192ec3dfb46da8b75ff7aea6f30d03236ec18749a0a2f7a",
+    "bundle": "2026-09-07-substantive-closure-r3.md.gz",
+    "bundle_sha256": "e20c95c05e8e036eb763cbd5275cbf5485c12efc53d166afc974114ea2d11666"
+  },
+  {
+    "review": "2026-09-07-legal-form-closure-r4.md",
+    "raw_sha256": "ee9e60682205d9677e6052a29bee1a79b38748d0dcb86aa1022b21468bfb84e8",
+    "verdict": "REVISE",
+    "prompt": "34774a4-legal-form.md",
+    "prompt_sha256": "1457cdeb315e358e4820d682806ec61ad3d3b4702ea43ffe8118fe2b1f8ddef1",
+    "bundle": "2026-09-07-substantive-closure-r4.md.gz",
+    "bundle_sha256": "477affbdae6fb6ebdacb50eefee20275f57628959bf8810991f4c923433859cb"
+  },
+  {
+    "review": "2026-09-07-legal-form-closure-r5.md",
+    "raw_sha256": "ab0b3894239e6448910f2a26163c8e32611d4ccbdb7fee6d154d21208dbb499b",
+    "verdict": "PUBLISH",
+    "prompt": "34774a4-legal-form.md",
+    "prompt_sha256": "1457cdeb315e358e4820d682806ec61ad3d3b4702ea43ffe8118fe2b1f8ddef1",
+    "bundle": "2026-09-07-substantive-closure-r5.md.gz",
+    "bundle_sha256": "bfeb26dc2cacd4667b3a17719b41b08e40250236d97aedc83397b4ebc63c46dd"
+  },
+  {
+    "review": "2026-09-07-legal-form-closure-r6.md",
+    "raw_sha256": "17dfe573f4728857cfae4be14f749ef1b81533f42624a7c12d94f45c3323a598",
+    "verdict": "PUBLISH",
+    "prompt": "34774a4-legal-form.md",
+    "prompt_sha256": "1457cdeb315e358e4820d682806ec61ad3d3b4702ea43ffe8118fe2b1f8ddef1",
+    "bundle": "2026-09-07-substantive-closure-r6.md.gz",
+    "bundle_sha256": "db037b182cdd21ffde0241690b1a956a49513b5a5faecc6e3a872056b518792d"
+  }
+]

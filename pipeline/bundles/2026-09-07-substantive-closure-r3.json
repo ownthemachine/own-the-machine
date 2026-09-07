@@ -1,0 +1,314 @@
+{
+  "bundle": "2026-09-07-substantive-closure-r3.md.gz",
+  "sha256_uncompressed": "e20c95c05e8e036eb763cbd5275cbf5485c12efc53d166afc974114ea2d11666",
+  "files": [
+    {
+      "path": "own-the-machine/GOVERNANCE.md",
+      "sha256": "35d6d8f31fec32d44e880419212c5459c88f925238cefcbb3c9eccc6461e51bc"
+    },
+    {
+      "path": "own-the-machine/pipeline/README.md",
+      "sha256": "f20ffa5218a89b4aefe5b46ef821510556efcb771402ad5e0840423b91e82a23"
+    },
+    {
+      "path": "own-the-machine/pipeline/DRAFTING-RULES.md",
+      "sha256": "2a0e9737e313b06fa77b270ea2a4357ab2ce7f79e70f2be13a39d2c9c7877d7d"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/README.md",
+      "sha256": "dbe5297fce45a1b09bc65b679989991c527b053b461a8e9e137d7089a0dc7e8e"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/RESEARCH.md",
+      "sha256": "ef4efb0a0a6be2164defe568dc6713922f00be848c519a83a22e93d3de707914"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/DECISIONS.md",
+      "sha256": "abf37292f9a25ae050d08785774286b220036472ee20bb0dbcd3e3bed67d5a80"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/MEMORANDUM.md",
+      "sha256": "f47cebeca28e294055c276e841eba06aea7e89665ded83f9c8ab46f265a12aa8"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/PLAIN.md",
+      "sha256": "c1ab3bb44d4ee51e0acc1e74c120ecf3b730d27e68dcc75a28fc9e67e3911968"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/annexes/annex-1-counting.md",
+      "sha256": "46447ee15c9b8b2c0f46692c679cdb0b6de271f268f88403ef09f76e28a4908d"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/annexes/annex-2-retention.md",
+      "sha256": "da8846de386c4d6e38cfca08dce1387962da4defefceed06d6e18c6bf6b4ef90"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/01-subject-matter.md",
+      "sha256": "c514ce5df6a51df7ec00203f0298437cf6ae49a2f8e1466736dbde49cd7e8e19"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/02-definitions.md",
+      "sha256": "35f321e4bd5c4293906ed86e70190cd3a5ef94a4488e07899469603a6bc1bb4c"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/03-designation.md",
+      "sha256": "39b7478fb27cd3fac6eaa9bcc5dd5f2edf340b35994701fb41777976930054a2"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/04-review-of-designation.md",
+      "sha256": "cd577bb91d320558dc151f200ba979c8666801fc0c999f3c7fb428dec75d5a0e"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/05-warrant.md",
+      "sha256": "3456956ff99d137b03d0bda2f6fde457c92577703c06bbf3fa624f9fab3ae78c"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/06-valuation.md",
+      "sha256": "12014ba47603b7d6955c5dd54eb6f93ffed03e41b018e83a3f01646694e63b38"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/07-safeguards.md",
+      "sha256": "83a466510287de107e5052689fbb73f64e8d85e1158684e2a0aa25926d79900a"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/08-reserve.md",
+      "sha256": "21d9be849f578fd82331f5b2feb9e154bb9e05e90baa94832649e1613bd7708a"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/09-prohibited-conduct.md",
+      "sha256": "04f2e747cea5dd2d1c74e9908ab440f2c685d2875004ef92564da50769f005f4"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/10-entitlement.md",
+      "sha256": "c49f1e3ba70cf509e93f6b47de9881c3871ec94580688c43470973a09f284890"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/11-national-vehicles.md",
+      "sha256": "82cfcc066443bbe62d4de9f25750498c87ae9a7080d93f614a224ebf6b3146dc"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/12-protection.md",
+      "sha256": "2acff7dcfeb3c6f43ea92122e62c8ced4766f96d52ef7b8299dcdd746659167a"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/13-penalties.md",
+      "sha256": "8dcc9f3dcade5893de38f429f398410667f975fdf58128670bf1b3f29f77a24e"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/14-monitoring-review.md",
+      "sha256": "7101ae3757a5ddbd55621204050d9cf70ae845c032e7f2da31c88043ffcf12fc"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/15-delegation.md",
+      "sha256": "215a5727abfd2e2b12f104792b6b731f1a6fca3796ee0eeeaf01d5bc411dd966"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/16-committee.md",
+      "sha256": "c27e6b6f0e7212fdd3e61cdae2aeae4fb864fde97cc2baff3e27167853792767"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/17-transitional.md",
+      "sha256": "73c3e58fe359721d9ac68e67540e712e49a05f98bcef0b1634abc1c3784ca00e"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/articles/18-final.md",
+      "sha256": "37106202f1540e87786851443cddd30f6ac5f3c4146933a5ba34d3c100acbfc9"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/candidate/regulation/recitals.md",
+      "sha256": "2de86e3fdc4bb13e2ffd74c5fe7fdd1e43495572b1feb3815b51c98cb1e907b5"
+    },
+    {
+      "path": "own-the-machine/proposals/2026-09-07-substantive-closure/stress-scenarios.json",
+      "sha256": "39e5ed824d3fa7ed50139df012c3424cc795f5ae54af223b7f909dfbcdf2970a"
+    },
+    {
+      "path": "own-the-machine-tools/reference/entitlements.py",
+      "sha256": "cf713f769b6b5d0fc24d16f60ceb1be4fe28fd0fc7a34510f284ad95ab405290"
+    },
+    {
+      "path": "own-the-machine-tools/reference/reserve.py",
+      "sha256": "2ccef9822dbded9bf365f56eb9e02246ca915cfd5b2b1a8fc8e230099ba15ad1"
+    },
+    {
+      "path": "own-the-machine-tools/reference/stress.py",
+      "sha256": "9d25fe13d4a2dde2fd2cae5cffbfdc629c79887ab3f4fc80f154253e001b028e"
+    },
+    {
+      "path": "own-the-machine-tools/reference/test_entitlements.py",
+      "sha256": "72f93e99b8be383c57a73d1fb960bfaa807211c072c11d699aa6ddb9389608a6"
+    },
+    {
+      "path": "own-the-machine-tools/reference/test_reserve.py",
+      "sha256": "6a16e20d75ba2c181d8495ec715c7ea3d4f475b532e2507eaf3ec0fcde26a1f3"
+    },
+    {
+      "path": "own-the-machine-tools/reference/test_stress.py",
+      "sha256": "6a9b51991222b923a820474d3534c8d9dc31b90c2fe9b107d4e1769965cda289"
+    },
+    {
+      "path": "own-the-machine/pipeline/EXTERNAL-REVIEWS.md",
+      "sha256": "bb32e3ab9801daf926d9b3c32393db3c7b86faed704d70e2bcabb12b7f291b79"
+    },
+    {
+      "path": "own-the-machine/campaign/GATE1-LETTER.md",
+      "sha256": "74e8683d9aa9a35635d521000f8cf7ff6ece8d6717cf030faa67dc2f58d95772"
+    },
+    {
+      "path": "own-the-machine/campaign/REGISTRATION-TEXT.md",
+      "sha256": "1f17559822cb67349a0c791421bdac7f1539a5d33273df7d59f50d4097b61982"
+    },
+    {
+      "path": "own-the-machine/regulation/STRUCTURE.md",
+      "sha256": "b8f4010b75496c94b9cdb0f213f9bc98aeb94de100de6cd1b7d85e30750cda4c"
+    },
+    {
+      "path": "own-the-machine/regulation/annexes/annex-1-counting.md",
+      "sha256": "f37e42424942dc1a92d41669f82808df86614d33104f108c4473df61625c351e"
+    },
+    {
+      "path": "own-the-machine/regulation/annexes/annex-2-retention.md",
+      "sha256": "1fc8539ace76afe1b06be5d3634e3c8d1f2c1d452d0fbbc9b31b5e1fbdc3ab93"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/01-subject-matter.md",
+      "sha256": "5328bb157f1931c724fa6f18c6414f1acef6a13f600fb343a5b3c41ccb5be95c"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/02-definitions.md",
+      "sha256": "c70ced416e16ffa0175d1b707f17b6e47a00bad7004e188e37477e7251a23df4"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/03-designation.md",
+      "sha256": "bb8af029662432b784c1efe3142d7ccd48401e2bd5903e43fae73820691ba4ae"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/04-review-of-designation.md",
+      "sha256": "a9631c6f121769d898cd8c76908fbe6271180c3f727d9f5075b5859d4c9b0890"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/05-warrant.md",
+      "sha256": "e6b68e0dc9c7c722d8bf7987a04699bd775eebb73222d7d48092c8627ba4fc43"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/06-valuation.md",
+      "sha256": "80c7b4781b439a367657662282e1d0de4873fc3043cf243a263cd050007b3fbe"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/07-safeguards.md",
+      "sha256": "6cfe3ef867e4359fc87f6368e8d0e0c9c08e96cdb988246d589b92b8f3ba9396"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/08-reserve.md",
+      "sha256": "5a9dbd481a7e312fe14972f452cf33a2fb6df57fb1b795d3f51caf8a0da2ffff"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/09-prohibited-conduct.md",
+      "sha256": "663203889d5e577cc30a1f4fb7de0f5a765d12390addd71ff1fb9ef73bda6f3c"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/10-entitlement.md",
+      "sha256": "9e0c0d320e6c4395096d48e94270d76f81ad13387e176b56b3c5a219f3d0e159"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/11-national-vehicles.md",
+      "sha256": "cc93b289cb5d4e320bca77be487680f43386cab85f6a1f50bf599df0367342cc"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/12-protection.md",
+      "sha256": "0fc148d7e06fdf5227ce08b9e736e1ffc5f1291d4484bed527d20e424f15cf66"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/13-penalties.md",
+      "sha256": "c966d060d7741589187163f7477c0978f5a67408d5c5993da3d13d17f300ac5d"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/14-monitoring-review.md",
+      "sha256": "0b75fcbac451d5e1bf95506d937706521b78d5f8edad9ff1545d6c14567295f6"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/15-delegation.md",
+      "sha256": "add218711d50d00d8bd8d8d8de60e64e7254b3e6aa5768e83f9425198775b32d"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/16-committee.md",
+      "sha256": "1b713a477c9f840b480e281f77679fffef2d660c3bc24e40b2e847789b9773c0"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/17-transitional.md",
+      "sha256": "a80f7349e53e6c6c172d9d952f926fc1ca2b74c53dcbd5c0b6eb43d36c675163"
+    },
+    {
+      "path": "own-the-machine/regulation/articles/18-final.md",
+      "sha256": "68b59a3c3bf586409e6fa2f423bb088da10c2b8ad6af44cbd51530b3297e5353"
+    },
+    {
+      "path": "own-the-machine/regulation/memorandum/counter-arguments.md",
+      "sha256": "09ccfdbfb8e16751d4ef7dc0bfb1c71bb1336c33cdb08496b32f975b20da534f"
+    },
+    {
+      "path": "own-the-machine/regulation/memorandum/explanatory-memorandum.fr.md",
+      "sha256": "0fe4f451aae42719cc7bec2ca5ce27c34f1256de5ddbf33034cb929533018061"
+    },
+    {
+      "path": "own-the-machine/regulation/memorandum/explanatory-memorandum.md",
+      "sha256": "6bb369d1954284527cf738f83b5a5b9276256aed7312563617dc54d5052d5d6c"
+    },
+    {
+      "path": "own-the-machine/regulation/memorandum/severability.md",
+      "sha256": "d905a13150b52b714d1efa83b3a29f9b7d503ca08d0e92979695c170f17b2793"
+    },
+    {
+      "path": "own-the-machine/regulation/recitals.md",
+      "sha256": "e0519c02f8404b88621f702f502833e0b5976689e312d827850e98fb6506e231"
+    },
+    {
+      "path": "own-the-machine/evidence/EVIDENCE.md",
+      "sha256": "d132bc8043880686fc3a08221e717bf5f3b9fbaa4998fdeaf15fba93df51711f"
+    },
+    {
+      "path": "own-the-machine/evidence/designation-count.md",
+      "sha256": "86c5ac183f13d31c84d328ce59a774aa2ba22e60c60eb95883011346df624661"
+    },
+    {
+      "path": "own-the-machine/evidence/warrant-percentage.md",
+      "sha256": "39cf9f2f89f2afe5b4bba7c0d6665fadac7a1fecefc488d1ec6845cc3c060cbc"
+    },
+    {
+      "path": "own-the-machine/evidence/sizing-the-ask.md",
+      "sha256": "2f7cc3d57fb6a0687ae77042f07572b0062f56c79511f3d819d414d30f9dde16"
+    },
+    {
+      "path": "own-the-machine-site/content/en/about.md",
+      "sha256": "d26a03958b3cd7a1c90d06a1e7b324e91c30fc3b3ab9718068d590aac3e680bb"
+    },
+    {
+      "path": "own-the-machine-site/content/en/brief.md",
+      "sha256": "f9a8981fa5359dad5bb4cb854f17c2013724792744ae0bb84eecba0135208a91"
+    },
+    {
+      "path": "own-the-machine-site/content/en/contribute.md",
+      "sha256": "52b60e89265bdf0e60190a6bd2945bff7e13c156f19afa75c5d99bc0beb510a3"
+    },
+    {
+      "path": "own-the-machine-site/content/en/faq.md",
+      "sha256": "16ea3734c6411704cd83fa43dae669ee7433c288f682533edec55edfce5ee8f9"
+    },
+    {
+      "path": "own-the-machine-site/content/en/join.md",
+      "sha256": "163bb03200d114b6f3f3db6cf80d8a59b74f6d5984a36cd09b2965d3e0a822a9"
+    },
+    {
+      "path": "own-the-machine-site/content/en/press.md",
+      "sha256": "b51b25d53d129840ca8c1e1e4c4dcbe5da3498673211303aff7afd162fe92a4c"
+    },
+    {
+      "path": "own-the-machine-site/content/en/sign.md",
+      "sha256": "f8155ec276eaeef8b5246a63a6ce45b44caaa8e84b8c7890754c403a43b5d472"
+    },
+    {
+      "path": "own-the-machine-site/content/en/versions.md",
+      "sha256": "a1dfa5e98957dca70094fd6b8e9f1cef3ce071199993b3290013f16d3c1c978a"
+    }
+  ]
+}

@@ -139,3 +139,32 @@ records and foreign enforcement require operational evidence as well as
 legal text. A further professional brief should attach this candidate and
 these precise questions, rather than repeat the original Forum enquiry.
 No external contact has been made.
+
+## Additional checks after the first substantive diagnostic
+
+The legal-basis review imports a baseline fragmentation claim into its account
+of the alternative memorandum. The alternative expressly says national taxes
+are not replaced. Its core warning on the need to establish Treaty powers
+still stands. The review's descriptions of all designated companies as highly
+profitable and of exactly 3% economic expropriation are not established by
+Article 3 or the pre-subscription percentage formula. Classification remains
+a legal argument, not a verified holding on this proposal. Likewise, the
+acquis review's positive Article 63 conclusion does not settle the separate
+question of statutory economic privileges simply because there are no votes.
+
+The old counter-arguments file's objection 21 asserts an approximately
+EUR 20 trillion designated base and a EUR 8,400 generational stake, citing
+designation-count.md and sizing-the-ask.md. Direct inspection shows those
+files still analyse the older revenue-per-employee threshold and a different
+payment-oriented exercise. They do not reproduce that claimed derivation.
+This is a documentary mismatch, not a new finding that the current designated
+set has only two members. The alternative does not adopt these numbers as
+validated inputs. A new payroll-ratio census and explicit horizon, income
+benchmark, base year, population, cash yield and cohort assumptions are needed.
+
+Eurostat's 2025 living-conditions publication reports a median for 2024 in
+purchasing power standards. PPS must not be copied into a euro target without
+selecting and documenting the appropriate monetary series and conversion.
+A population of residents is also not automatically the worldwide population
+of eligible adult Union citizens. Both units and eligibility matter to sizing.
+[Eurostat publication](https://ec.europa.eu/eurostat/documents/15216629/22200086/KS-01-25-032-EN-N.pdf/23e00520-169f-fd9d-6543-2a5371d1642d).
