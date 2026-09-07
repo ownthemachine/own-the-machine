@@ -1,0 +1,303 @@
+{
+  "sha256_uncompressed": "88a0c2c32820baca881a8e9f993957e8b546002fe34a6724886b1732ba78b7ab",
+  "source_commit": "9fda790b49b2573a59c0016b948b0031f39aea62",
+  "prompt_commit": "2e36c6f0c57556052ecc61591f8f1dea4cff709d",
+  "fetched_at": "2026-09-07T12:38:33.420723+00:00",
+  "files": [
+    {
+      "path": "campaign/LETTER-B-2026-09-07.md",
+      "sha256": "09588da96e010bf835c5803fe7333d477b6b61283777aff306e3664769dceba9"
+    },
+    {
+      "path": "campaign/LETTER-B-2026-09-07-STATUS.md",
+      "sha256": "5603ea26897fc880d17200fbac5ba01edcb184b2a30be205c2d109febbb12330"
+    },
+    {
+      "path": "campaign/SOUNDING-LETTERS.md",
+      "sha256": "117d7c5a4b2a9b9ca60425bd63c26066a3782ccb3517f1070038d239491b4a59"
+    },
+    {
+      "path": "campaign/OUTREACH.md",
+      "sha256": "8940ac747c69a25d02570df55f4a75f34f14363b70b8ad676e49239b50729538"
+    },
+    {
+      "path": "pipeline/EXTERNAL-REVIEWS.md",
+      "sha256": "bb32e3ab9801daf926d9b3c32393db3c7b86faed704d70e2bcabb12b7f291b79"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/REVIEW-STATUS.md",
+      "sha256": "ef0a0fc957e951ae0533fb6c6163784a41b3eaae60f057c8c81ad9cceb5b0107"
+    },
+    {
+      "path": "regulation/STRUCTURE.md",
+      "sha256": "b8f4010b75496c94b9cdb0f213f9bc98aeb94de100de6cd1b7d85e30750cda4c"
+    },
+    {
+      "path": "regulation/annexes/annex-1-counting.md",
+      "sha256": "f37e42424942dc1a92d41669f82808df86614d33104f108c4473df61625c351e"
+    },
+    {
+      "path": "regulation/annexes/annex-2-retention.md",
+      "sha256": "1fc8539ace76afe1b06be5d3634e3c8d1f2c1d452d0fbbc9b31b5e1fbdc3ab93"
+    },
+    {
+      "path": "regulation/articles/01-subject-matter.md",
+      "sha256": "5328bb157f1931c724fa6f18c6414f1acef6a13f600fb343a5b3c41ccb5be95c"
+    },
+    {
+      "path": "regulation/articles/02-definitions.md",
+      "sha256": "c70ced416e16ffa0175d1b707f17b6e47a00bad7004e188e37477e7251a23df4"
+    },
+    {
+      "path": "regulation/articles/03-designation.md",
+      "sha256": "bb8af029662432b784c1efe3142d7ccd48401e2bd5903e43fae73820691ba4ae"
+    },
+    {
+      "path": "regulation/articles/04-review-of-designation.md",
+      "sha256": "a9631c6f121769d898cd8c76908fbe6271180c3f727d9f5075b5859d4c9b0890"
+    },
+    {
+      "path": "regulation/articles/05-warrant.md",
+      "sha256": "e6b68e0dc9c7c722d8bf7987a04699bd775eebb73222d7d48092c8627ba4fc43"
+    },
+    {
+      "path": "regulation/articles/06-valuation.md",
+      "sha256": "80c7b4781b439a367657662282e1d0de4873fc3043cf243a263cd050007b3fbe"
+    },
+    {
+      "path": "regulation/articles/07-safeguards.md",
+      "sha256": "6cfe3ef867e4359fc87f6368e8d0e0c9c08e96cdb988246d589b92b8f3ba9396"
+    },
+    {
+      "path": "regulation/articles/08-reserve.md",
+      "sha256": "5a9dbd481a7e312fe14972f452cf33a2fb6df57fb1b795d3f51caf8a0da2ffff"
+    },
+    {
+      "path": "regulation/articles/09-prohibited-conduct.md",
+      "sha256": "663203889d5e577cc30a1f4fb7de0f5a765d12390addd71ff1fb9ef73bda6f3c"
+    },
+    {
+      "path": "regulation/articles/10-entitlement.md",
+      "sha256": "9e0c0d320e6c4395096d48e94270d76f81ad13387e176b56b3c5a219f3d0e159"
+    },
+    {
+      "path": "regulation/articles/11-national-vehicles.md",
+      "sha256": "cc93b289cb5d4e320bca77be487680f43386cab85f6a1f50bf599df0367342cc"
+    },
+    {
+      "path": "regulation/articles/12-protection.md",
+      "sha256": "0fc148d7e06fdf5227ce08b9e736e1ffc5f1291d4484bed527d20e424f15cf66"
+    },
+    {
+      "path": "regulation/articles/13-penalties.md",
+      "sha256": "c966d060d7741589187163f7477c0978f5a67408d5c5993da3d13d17f300ac5d"
+    },
+    {
+      "path": "regulation/articles/14-monitoring-review.md",
+      "sha256": "0b75fcbac451d5e1bf95506d937706521b78d5f8edad9ff1545d6c14567295f6"
+    },
+    {
+      "path": "regulation/articles/15-delegation.md",
+      "sha256": "add218711d50d00d8bd8d8d8de60e64e7254b3e6aa5768e83f9425198775b32d"
+    },
+    {
+      "path": "regulation/articles/16-committee.md",
+      "sha256": "1b713a477c9f840b480e281f77679fffef2d660c3bc24e40b2e847789b9773c0"
+    },
+    {
+      "path": "regulation/articles/17-transitional.md",
+      "sha256": "a80f7349e53e6c6c172d9d952f926fc1ca2b74c53dcbd5c0b6eb43d36c675163"
+    },
+    {
+      "path": "regulation/articles/18-final.md",
+      "sha256": "68b59a3c3bf586409e6fa2f423bb088da10c2b8ad6af44cbd51530b3297e5353"
+    },
+    {
+      "path": "regulation/memorandum/counter-arguments.md",
+      "sha256": "09ccfdbfb8e16751d4ef7dc0bfb1c71bb1336c33cdb08496b32f975b20da534f"
+    },
+    {
+      "path": "regulation/memorandum/explanatory-memorandum.fr.md",
+      "sha256": "b316806b4202775ae37f0b0e0fe8cf4df2fe35d43cc768cbff90edd19e953f6d"
+    },
+    {
+      "path": "regulation/memorandum/explanatory-memorandum.md",
+      "sha256": "7c90629ff3d32cc1c55f5ac0d8b2919555b4822f6ab6ea4d2640325d861c9154"
+    },
+    {
+      "path": "regulation/memorandum/severability.md",
+      "sha256": "d905a13150b52b714d1efa83b3a29f9b7d503ca08d0e92979695c170f17b2793"
+    },
+    {
+      "path": "regulation/recitals.md",
+      "sha256": "e0519c02f8404b88621f702f502833e0b5976689e312d827850e98fb6506e231"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/MEMORANDUM.md",
+      "sha256": "f47cebeca28e294055c276e841eba06aea7e89665ded83f9c8ab46f265a12aa8"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/PLAIN.md",
+      "sha256": "7fd1be70889228533784c9e334aa8e3103e23267c6064b94496d5871b9755d51"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/annexes/annex-1-counting.md",
+      "sha256": "46447ee15c9b8b2c0f46692c679cdb0b6de271f268f88403ef09f76e28a4908d"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/annexes/annex-2-retention.md",
+      "sha256": "da8846de386c4d6e38cfca08dce1387962da4defefceed06d6e18c6bf6b4ef90"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/01-subject-matter.md",
+      "sha256": "c514ce5df6a51df7ec00203f0298437cf6ae49a2f8e1466736dbde49cd7e8e19"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/02-definitions.md",
+      "sha256": "35f321e4bd5c4293906ed86e70190cd3a5ef94a4488e07899469603a6bc1bb4c"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/03-designation.md",
+      "sha256": "2f706ef24d2b6d983656d83b8c021235778599b42576fd43aa63c5418a4fa4dc"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/04-review-of-designation.md",
+      "sha256": "cd577bb91d320558dc151f200ba979c8666801fc0c999f3c7fb428dec75d5a0e"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/05-warrant.md",
+      "sha256": "8888dd90ced6d55dc000ec0ca967e285ec277f4e09aaff366709716927b6eda1"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/06-valuation.md",
+      "sha256": "427276b603bf715e03cf4d91513c917f4a7e5273febcc8d191b48b5ede16d683"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/07-safeguards.md",
+      "sha256": "83a466510287de107e5052689fbb73f64e8d85e1158684e2a0aa25926d79900a"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/08-reserve.md",
+      "sha256": "21d9be849f578fd82331f5b2feb9e154bb9e05e90baa94832649e1613bd7708a"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/09-prohibited-conduct.md",
+      "sha256": "04f2e747cea5dd2d1c74e9908ab440f2c685d2875004ef92564da50769f005f4"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/10-entitlement.md",
+      "sha256": "c49f1e3ba70cf509e93f6b47de9881c3871ec94580688c43470973a09f284890"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/11-national-vehicles.md",
+      "sha256": "f58b89569ae958d9026d4ba497af9daaf09441d2fd3cec14c57309921f6f2af7"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/12-protection.md",
+      "sha256": "2acff7dcfeb3c6f43ea92122e62c8ced4766f96d52ef7b8299dcdd746659167a"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/13-penalties.md",
+      "sha256": "8dcc9f3dcade5893de38f429f398410667f975fdf58128670bf1b3f29f77a24e"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/14-monitoring-review.md",
+      "sha256": "7101ae3757a5ddbd55621204050d9cf70ae845c032e7f2da31c88043ffcf12fc"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/15-delegation.md",
+      "sha256": "215a5727abfd2e2b12f104792b6b731f1a6fca3796ee0eeeaf01d5bc411dd966"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/16-committee.md",
+      "sha256": "c27e6b6f0e7212fdd3e61cdae2aeae4fb864fde97cc2baff3e27167853792767"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/17-transitional.md",
+      "sha256": "73c3e58fe359721d9ac68e67540e712e49a05f98bcef0b1634abc1c3784ca00e"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/articles/18-final.md",
+      "sha256": "37106202f1540e87786851443cddd30f6ac5f3c4146933a5ba34d3c100acbfc9"
+    },
+    {
+      "path": "proposals/2026-09-07-substantive-closure/candidate/regulation/recitals.md",
+      "sha256": "4c5d4e8b37dab6734d6fbe6aa326b85d8e7918d684921ea7e9bf3c3d9f932f75"
+    },
+    {
+      "path": "pipeline/DRAFTING-RULES.md",
+      "sha256": "2a0e9737e313b06fa77b270ea2a4357ab2ce7f79e70f2be13a39d2c9c7877d7d"
+    },
+    {
+      "path": "campaign/GATE1-LETTER.md",
+      "sha256": "74e8683d9aa9a35635d521000f8cf7ff6ece8d6717cf030faa67dc2f58d95772"
+    },
+    {
+      "path": "campaign/SITE-RELEASE-2026-09-07.md",
+      "sha256": "69d3a49c8f0160a10b7d613c94b12286822d30958a883b0adc391ee74f0a7c4c"
+    },
+    {
+      "path": "evidence/warrant-percentage.md",
+      "sha256": "39cf9f2f89f2afe5b4bba7c0d6665fadac7a1fecefc488d1ec6845cc3c060cbc"
+    },
+    {
+      "path": "evidence/sizing-the-ask.md",
+      "sha256": "2f7cc3d57fb6a0687ae77042f07572b0062f56c79511f3d819d414d30f9dde16"
+    },
+    {
+      "path": "site/releases/2026-09-07/README.md",
+      "sha256": "4172ef29c65cafa4f7bbcd1bfb7cbe691deab29880148d327213ee771b062d38"
+    },
+    {
+      "path": "site/releases/2026-09-07/verification.json",
+      "sha256": "51bfba3b11f0cc4ab584203194dd94c6f6f57b769f9b3b9670f4ec0e5bd0d276"
+    },
+    {
+      "path": "site/releases/2026-09-07/live-check.txt",
+      "sha256": "0c580f47b10866a04cd5ba8bb82bae00facf79978158e18f44b7dde8953a2f44"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-letter-b-hostile-counsel-r2.md",
+      "sha256": "7fb23b249df417b09a099db16259fa2a52cc586828d24c807596513b1b790013"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-letter-b-layer-fidelity-r2.md",
+      "sha256": "137a6699c3ff18e5955c27b5b621d76fb85d33aa0af3cd2645c89077e1c0f757"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-letter-b-legal-form-r2.md",
+      "sha256": "ff8d89146b86648d68317406f8adb1a952932564a6b91354a7eb8f7d12dd4fc1"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-07-letter-b-translation-r2.md",
+      "sha256": "6f5d90979cdfd2f1e51b792a3c150d2f8eb55d40e86e47659fccaf95b3f62c8e"
+    }
+  ],
+  "live_sources": [
+    {
+      "url": "https://ownthemachine.eu/",
+      "html_sha256": "bf4e4e8de9f7b8dbad3675c75d2c84165a895f77a4723d0792e1997f367d7c7e",
+      "text_sha256": "154dc892692720269b69b9a6dda36b306506bc6a8bee0aa541339eb6663fcd3e"
+    },
+    {
+      "url": "https://ownthemachine.eu/fr/",
+      "html_sha256": "2a5d96afbc68d9ebf137f3eb0fdc17c77fc0a9b9a566042222824b99d226d5e1",
+      "text_sha256": "20f94e758fc933f829bde5f8e675b7ed8f04a56413dda50ec0de9656f685fec1"
+    },
+    {
+      "url": "https://ownthemachine.eu/about",
+      "html_sha256": "501f8bcc5764facb2f034af4cf9a57c2c25d9a5d65082f6e5405729c3dcfa4e2",
+      "text_sha256": "70b6dcbadf5bb35b32a9ded3a93a7557e72632da843fa22b1884176d0889f95b"
+    },
+    {
+      "url": "https://ownthemachine.eu/fr/about",
+      "html_sha256": "13064327c1cf1105b29c34f43868319258b6665a7782746e3c3bd3ac80226141",
+      "text_sha256": "e22567ae480d9d6921b524e49a30e82976010892c376564d5b90ed57717abba2"
+    },
+    {
+      "url": "https://ownthemachine.eu/sign",
+      "html_sha256": "ebd4dbd4150fd579f774c7d0712861e967a240206eeaf8b74a3faccd8e091fe6",
+      "text_sha256": "73dee1d2f272e2a76cee730b8624a3f83488c5233db5a7b00a844f7ec145791f"
+    }
+  ]
+}

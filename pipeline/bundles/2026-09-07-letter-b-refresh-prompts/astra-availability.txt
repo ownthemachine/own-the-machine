@@ -1,0 +1,2 @@
+Checked 7 September 2026 using review.sh and the astra profile. Exit 1 before inference.
+astra (gpt-6-astra) is not offered by https://router.eu.requesty.ai/v1; no substitute used

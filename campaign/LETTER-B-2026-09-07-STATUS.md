@@ -14,13 +14,66 @@ sampled live responses, including both downloads, match the build exactly.
 The earlier live-site problems described below are historical observations
 and no longer describe the published release.
 
-The initiator has now confirmed the intended recipient privately and requested
-the French version. Official parliamentary email and postal details were
-verified. Recipient details remain outside this public record. The personalised sending copy is being prepared and reviewed separately on a
-verified EU zero-retention route. The public body is being rerun through form,
-layer fidelity, EN/FR fidelity and hostile-reader checks against the latest
-website and source evidence. The letter remains unsent; final human editor
-read remains outstanding.
+The initiator confirmed the intended recipient privately and requested the
+French version. Official parliamentary email and postal details were
+verified. Recipient details remain outside this public record. The complete
+personalised French sending copy has now been prepared and reviewed on a
+verified EU zero-retention route; the letter remains unsent.
+
+### Refreshed review results, round 3
+
+| Check | Model | Result |
+|---|---|---|
+| Form appropriate to correspondence | Gemini 3.7 Flash | PUBLISH |
+| Layer fidelity against law and live website | Gemini 3.7 Flash | PUBLISH |
+| EN/FR fidelity and French readability | Gemini 3.7 Flash | PUBLISH |
+| Hostile reader | Fable 5.1 | PUBLISH |
+| Complete personalised French copy, private | Gemini 3.7 Flash | PUBLISH |
+
+The public target is law commit 9fda790; refreshed prompts are tools commit
+2e36c6f. Round 3 includes 67 complete source files, both legislative versions,
+the original Forum advice, the website release verification and five freshly
+fetched live pages. Its uncompressed SHA-256 is
+88a0c2c32820baca881a8e9f993957e8b546002fe34a6724886b1732ba78b7ab.
+Exact prompts, raw outputs and manifests are archived under pipeline/bundles
+and pipeline/reviews. Earlier rounds remain unchanged. Form completed before
+layer fidelity; translation, hostile and private checks ran independently.
+
+The body now points to the revised working draft and unresolved objections,
+replacing the vague statement that further revisions are under review.
+The generational ownership purpose, dependence on income realised by the
+Reserve, absence of guaranteed amounts or annual increases, unresolved legal
+basis/mechanism/sizing, and preparatory ECI status are preserved. No Article
+352 alternative is represented as the selected public draft.
+
+Assistant disposition: no blocking finding remains in this correspondence.
+Optional French question conjunctions/pronouns, apostrophe consistency,
+closing formality and an express confidentiality sentence are left unchanged;
+the current passing body is coherent and no publication consent is inferred.
+Fable's mild concern about question 1 presuming frequent ECI casework is
+retained for the follow-up: committee membership alone does not establish
+that experience. The questions are not in the initial sending copy and can
+be tailored after an interested reply. The initiator's engineer background
+and published book title are his own supplied biographical facts; the review
+bundle is not independent verification of those facts. The form review's
+reference to data-protection requirements is not adopted as a legal finding:
+recipient exclusion follows the project's existing outreach privacy practice.
+
+The private opening cites only verified committee membership and asks for a
+view; it attributes no endorsement, specialist experience or prior statements.
+Its exact copy, prompt, input, official profile snapshot and raw review are
+stored privately with hashes. No private recipient content went to Fable.
+Gemini used verified EU/zero-retention/no-training routing. Fable used the
+explicit per-call public-material EU/30-day/no-training exception. Astra was
+checked again: the Requesty catalogue still does not offer gpt-6-astra. The
+pre-inference refusal is archived; no Astra verdict is claimed.
+
+Mechanical lint: zero errors and seven existing terminology warnings. The
+em-dash in the earlier status heading was corrected. No operative law,
+website, translation dictionary or download changed in this letter review.
+Final human editor read remains the next step. AI PUBLISH verdicts are neither
+legal clearance nor permission to send. No email has been sent.
+
 The earlier drafting/review history below is preserved as recorded at that time.
 
 ## Historical preparation conditions before the website release
