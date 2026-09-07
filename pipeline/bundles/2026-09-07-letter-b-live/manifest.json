@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://ownthemachine.eu/",
+    "fetched_on": "2026-09-07",
+    "archive": "home.html.gz",
+    "sha256_uncompressed": "1bcb8d78a3cfead25b346c9a41bb8b211195e608fcc309d9f6061cebfa1131ef"
+  },
+  {
+    "url": "https://ownthemachine.eu/",
+    "fetched_on": "2026-09-07",
+    "archive": "home.txt.gz",
+    "sha256_uncompressed": "8e553a5dfc2b5cc0a9920cac07d12a427f9038e3e0db65b4c59bf9a0c5e90b0c"
+  },
+  {
+    "url": "https://ownthemachine.eu/sign",
+    "fetched_on": "2026-09-07",
+    "archive": "sign.html.gz",
+    "sha256_uncompressed": "6e33baa3ece5409f6026325c0c40cd5db5adc5188d58191d515e2a8b4ed1737b"
+  },
+  {
+    "url": "https://ownthemachine.eu/sign",
+    "fetched_on": "2026-09-07",
+    "archive": "sign.txt.gz",
+    "sha256_uncompressed": "2c5a90f4a6e2270ac5cdb7d8f7559ecb7c5bfc59003fc5a825b288a2d7b22ed5"
+  }
+]

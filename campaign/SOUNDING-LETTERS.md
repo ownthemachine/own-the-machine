@@ -71,6 +71,12 @@ opening or nowhere.
 
 ## Letter B: the Belgian MEP office
 
+Preparation update, 7 September 2026: use the
+[revised bilingual Letter B and follow-up questions](LETTER-B-2026-09-07.md)
+for the next approach. Its [status record](LETTER-B-2026-09-07-STATUS.md)
+tracks review, personalisation and live-site prerequisites. The earlier
+body below remains as historical drafting context; this update records no send.
+
 > [Opening line: why this office. The member's own file or committee
 > work, named. Drafted with the shortlist.]
 >
