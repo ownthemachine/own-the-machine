@@ -99,6 +99,12 @@ counts and voluntary feedback; no person-level political profiling or ads.
 
 ## Before publishing
 
+Before the first public LinkedIn introduction, open a public consultation issue
+re-opening every provisional constitutional change listed in GOVERNANCE.md for
+a full 14 days. Link it from the introduction and record the opening and closing
+dates. Do not count earlier private Gate 1 soundings as a completed public window.
+No such consultation is claimed to have opened by this preparation pack.
+
 Check the Page fields, final copy, live join page and functioning mailbox. Keep
 claim review results with the publication record. Obtain the initiator's explicit
 instruction to create/publish the concrete Page and post. No new institution,
