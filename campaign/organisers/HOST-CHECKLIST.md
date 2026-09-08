@@ -1,8 +1,11 @@
 # Hosting an organiser introduction
 
 Proposed operating routine, 7 September 2026. No automatic messages or
-appointments are created by this document. The initiator owns the intake
-until another named person accepts that responsibility.
+appointments are created by this document. The initiator owns the local intake
+note. The hello address is forwarded by Forward Email to two project contacts'
+personal Gmail inboxes; those mailbox copies are separate from the local note
+and follow their own retention settings. A named person may accept local intake
+responsibility separately.
 
 ## First reply and conversation
 
@@ -43,9 +46,11 @@ if relevant to the statutory role, chosen task, agreed time, owner, next action,
 sharing permission and status. Suggested statuses: enquiry, conversation,
 first task, contributor, exploring organiser role, declined/closed. Formal
 organiser agreement is a separate record. Do not put individual records in Git.
-Review inactive enquiries after 90 days and delete contact records no longer
+Review inactive local intake notes after 90 days and delete contact records no longer
 needed unless the person agrees to continued contact or another retention need
 has been explained. This is a proposed routine, not an already deployed system.
+This review does not automatically delete copies in the project contacts' Gmail
+inboxes.
 
 ## Automation boundary
 

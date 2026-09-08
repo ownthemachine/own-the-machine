@@ -60,13 +60,18 @@ person providing them has agreed. Changes to public claims use the reviewer
 pipeline. Advice and a reply are not endorsements. No one speaks for another
 person or organisation without permission.
 
-Email is used to answer your enquiry. It is not permission to add you to a
-mailing list or publish your details. GitHub issues are public. See the
+Email is used to answer your enquiry. Messages sent to hello@ownthemachine.eu
+are forwarded by Forward Email, a US provider, to two project contacts' personal
+Gmail inboxes. A separate organisers@ownthemachine.eu address forwards to the
+initiator's personal Gmail inbox. This routing is not permission to add you to a
+mailing list or share or publish your enquiry without your agreement. GitHub issues
+are public. See the
 [privacy information](https://ownthemachine.eu/about). We ask before sharing an
 introduction with another contributor. You can ask us to close your enquiry.
 
-For contributor enquiries, the editor keeps a private follow-up note of contact details, the date of your enquiry, any residence voluntarily provided, the agreed task and time, its owner,
+For contributor enquiries, the initiator keeps a separate private intake note on the initiator's local computer: contact details, the date of your enquiry, any residence voluntarily provided, the agreed task and time, its owner,
 next action, status and permission to share an introduction. Inactive enquiries
 are reviewed after 90 days; details no longer needed are deleted unless continued
-contact is agreed or another retention need has been explained. At present the
-initiator handles intake; references to working together do not imply a staffed team.
+contact is agreed or another retention need has been explained. This review does not
+automatically delete copies in the project contacts' Gmail inboxes. The initiator
+owns the local intake note; references to working together do not imply a staffed team.
