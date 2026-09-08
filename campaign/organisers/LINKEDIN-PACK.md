@@ -5,8 +5,9 @@ Draft for review, 7 September 2026. Not published; no Page created.
 ## Timing and purpose
 
 Recommendation: begin a modest public introduction after the onboarding copy
-passes review and the contact route is checked. The website is already public
-and the updated draft status is live. Do not wait for legal certainty to invite
+passes review and the contact route is checked. The website is already public.
+The onboarding join page and status update must be verified live before this pack
+is used. Do not wait for legal certainty to invite
 scrutiny, but distinguish that invitation from registration or signature
 collection. Wider collection publicity follows the existing project gates.
 
