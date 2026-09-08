@@ -79,3 +79,48 @@ Next: verify the mail route and receipt; disclose the actual providers; rerun th
 affected privacy/translation/adversarial review; deploy and verify the ten page
 paths and their twins. Then the prepared LinkedIn Page/introduction can be
 considered alongside opening the required public consultation.
+
+## 8 September: mail configuration and round 6
+
+The initiator confirmed that the former Cloudflare route reached Gmail. On
+7 September the domain was moved to Forward Email; both authoritative DNS
+servers and a public resolver showed the new MX and verification TXT records.
+Forward Email's separate inbound and outbound SMTP checks passed. The hello
+address forwards to two project contacts' personal Gmail inboxes; organisers@
+forwards to the initiator's Gmail. No shared mailbox is hosted at Forward Email.
+Private local intake notes remain separate from mailbox copies. Personal
+recipient addresses are excluded from the public review bundle.
+
+On 8 September, with explicit permission, one setup test was sent to each
+address. Gmail showed Message sent, but recipient-side delivery is not yet
+established. The sender used the same Gmail account as one destination;
+Forward Email documents that self-forwarded tests can be hidden because of
+Message-ID deduplication. Neither the Sent copy nor an empty received-mail
+search proves successful delivery or failure. An independently sent test and
+confirmation of the second hello recipient remain necessary. Private test
+records are kept outside the public repository.
+
+The r6 bundle includes the full onboarding package and context. Form, layer
+fidelity and translation returned PUBLISH. Fable returned REVISE. Accept its
+neutral-MEP wording corrections in three translations, its clearer LinkedIn
+live-status premise, and its conditional funding update: the existing paid
+Forward Email account is used, so email service belongs among personally paid
+costs; Forward Email and Google belong in the named platform-service disclosure.
+These corrections are the next round's scope. The earlier claim-status release
+is live, but onboarding remains staged; the revised premise will distinguish
+those facts directly.
+
+A Luna implementation agent prepared the initial privacy changes. Primary
+review and independent Luna review identified inconsistent shared-mailbox and
+onward-sharing wording; the primary corrected all five languages and obtained
+a second independent read. The latter found no material privacy mismatch.
+Its optional date-harmonisation suggestion is deferred: the 6 and 7 September
+status statements are expressly dated historical snapshots, not assertions of
+new events. Required external gates were retained rather than replaced by
+these engineering agents. A build and release checks passed on site e5b2142;
+20 page/theme browser samples also passed, with desktop/mobile checks.
+
+The 8 September Requesty catalogue still has no Astra model. Fable's EU route
+reports 30-day retention and no training; the public-material exception was
+explicitly selected. No Requesty Astra review, human legal clearance, successful
+recipient-side delivery, onboarding deployment or LinkedIn publication is claimed.
