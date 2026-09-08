@@ -153,3 +153,19 @@ page/theme samples covering desktop and mobile. Twenty existing site objects
 were backed up and the referenced asset verified. The release remains staged:
 no onboarding objects uploaded and no CDN purge requested. Round 6 and 7
 adverse reports are retained alongside round 8 reports and hash manifests.
+
+## 8 September: operational release conditions confirmed
+
+After the independent-sender test request, the initiator explicitly confirmed
+receipt at both hello destinations and at the organisers destination. The
+initiator also confirmed the second contact's agreement to the disclosed
+no-onward-sharing and enquiry-closure handling. These are user attestations;
+the original self-sent tests remain inconclusive. The private record preserves
+that distinction and contains the handling acknowledgement.
+
+The outstanding mail and handling conditions for the reviewed onboarding
+website release are therefore closed. Public prose is unchanged, so the r8
+form, layer and hostile-counsel results and r7 translation result still apply.
+Deployment and live-byte verification are recorded separately in the site's
+8 September release record. Opening and linking the 14-day consultation
+remains a condition for the public LinkedIn introduction.
