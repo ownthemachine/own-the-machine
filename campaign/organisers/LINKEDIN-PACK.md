@@ -5,7 +5,7 @@ Draft for review, 7 September 2026. Not published; no Page created.
 ## Timing and purpose
 
 Recommendation: begin a modest public introduction after the onboarding copy
-passes review and the contact route is checked. The website is already public.
+passes review and recipient-side receipt on both mail routes is recorded. The website is already public.
 The onboarding join page and status update must be verified live before this pack
 is used. Do not wait for legal certainty to invite
 scrutiny, but distinguish that invitation from registration or signature
@@ -106,7 +106,9 @@ a full 14 days. Link it from the introduction and record the opening and closing
 dates. Do not count earlier private Gate 1 soundings as a completed public window.
 No such consultation is claimed to have opened by this preparation pack.
 
-Check the Page fields, final copy, live join page and functioning mailbox. Keep
+Check the Page fields, final copy, live join page and both mail routes, confirmed
+by recipient-side receipt of a test sent from an account that is not a destination;
+a sender-side "Message sent" does not count. Keep
 claim review results with the publication record. Obtain the initiator's explicit
 instruction to create/publish the concrete Page and post. No new institution,
 legal registration, collection launch or endorsement is implied by a Page.
