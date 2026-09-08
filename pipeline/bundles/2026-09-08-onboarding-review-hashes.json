@@ -1,0 +1,42 @@
+{
+  "note": "Raw model output preserved byte-for-byte after metadata header. Reviewer conclusions require the written disposition; PUBLISH is not legal clearance.",
+  "bundle": "2026-09-08-onboarding-r6",
+  "reviews": [
+    {
+      "path": "pipeline/reviews/2026-09-08-onboarding-legal-form-r6.md",
+      "raw_sha256": "bc2787c91cf0f79403d4aba6d56020ba324217d8bdbc5ff27dc488e2eff5fa8c",
+      "file_sha256": "a330495b1ee5edefc6202c00d2c4a40c5e4dbb139a9a0207e401e279fe40ac1f",
+      "bundle_sha256": "f765ab23afff70f8019a9c8bd4a4d9a840372df8e58728e96b08d968c1c92e53",
+      "prompt_sha256": "0e2da617e32fe2da2f1a5bfd717155287142b8d44a41348162e9625f2db00d58",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-08-onboarding-layer-fidelity-r6.md",
+      "raw_sha256": "d091ccbfc8f2b34cd647b920fb587d5b4a4ad4a6f8f8cdc8c6ce59e647c1a8d6",
+      "file_sha256": "8709f7df815d0715091c1c5f89e7d4bfaac86094416740f38018b0a89ccfaea8",
+      "bundle_sha256": "f765ab23afff70f8019a9c8bd4a4d9a840372df8e58728e96b08d968c1c92e53",
+      "prompt_sha256": "e2ea3fb3d06a7519a6b142eda3324e958943b7a441d2a91dd5b6f53c09ecf48c",
+      "verdict": "PUBLISH",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-08-onboarding-translation-r6.md",
+      "raw_sha256": "1df05ca6d663b228752fa73b7b6c6e5599d9d174ee032e2de3255c8ebaa7c4ed",
+      "file_sha256": "9b294b33803e1a9549ab6ed0331bb91e981e1c54f3809609d5f2ed65fd744ab2",
+      "bundle_sha256": "f765ab23afff70f8019a9c8bd4a4d9a840372df8e58728e96b08d968c1c92e53",
+      "prompt_sha256": "cf90b3c229deafbbd3b93a95ec4900d6392d478dcb85d71ac3efe2beeb3fcf29",
+      "verdict": "PUBLISH",
+      "gate": "translation"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-08-onboarding-hostile-counsel-r6.md",
+      "raw_sha256": "3a965e287d5afa5fa5c008a93c90ce9fa52d9c4d9a8bcea57af07206021c6a88",
+      "file_sha256": "d8a5687e5c6b52fe91ce2f55e12070ff4f82a137a31818d9fdd2e8ac2b2e601f",
+      "bundle_sha256": "f765ab23afff70f8019a9c8bd4a4d9a840372df8e58728e96b08d968c1c92e53",
+      "prompt_sha256": "9171d2136ad54f80aa8a8932ee2610de3084a9a2a72e07940bc01a4bd17c9c26",
+      "verdict": "REVISE",
+      "gate": "hostile-counsel"
+    }
+  ]
+}
