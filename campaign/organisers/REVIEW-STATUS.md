@@ -124,3 +124,32 @@ The 8 September Requesty catalogue still has no Astra model. Fable's EU route
 reports 30-day retention and no training; the public-material exception was
 explicitly selected. No Requesty Astra review, human legal clearance, successful
 recipient-side delivery, onboarding deployment or LinkedIn publication is claimed.
+
+## 8 September: final prose disposition, rounds 7 and 8
+
+Round 7 closed the funding, neutral recipient wording and live-status findings.
+Form, layer fidelity and translation returned PUBLISH. Fable returned REVISE
+solely to define the mail test condition explicitly. The LinkedIn pack now
+requires recipient-side receipt of a test from a non-destination sender; a
+sender-side Message sent confirmation does not qualify.
+
+Round 8 form, layer fidelity and Fable hostile-counsel reviews all returned
+PUBLISH. Accept these conclusions within the onboarding prose scope only.
+The round 7 translation result remains applicable: round 8 changed only the
+English LinkedIn checklist. The site translation metadata was subsequently
+marked machine-reviewed; the rendered page bytes were checked unchanged.
+No model verdict resolves the underlying legislative questions.
+
+Fable's operational conditions remain open: independently verify receipt at
+both hello destinations and the organisers destination, and privately record
+the second hello contact's acknowledgement of the disclosed no-onward-sharing
+and closure handling. No receipt or acknowledgement is inferred from sender
+confirmation or configuration checks. These are readiness conditions, not
+remaining prose defects. The 14-day consultation must be opened and linked
+before the LinkedIn introduction; neither action is claimed here.
+
+The final prose build at site f48687a passed release checks and 20 browser
+page/theme samples covering desktop and mobile. Twenty existing site objects
+were backed up and the referenced asset verified. The release remains staged:
+no onboarding objects uploaded and no CDN purge requested. Round 6 and 7
+adverse reports are retained alongside round 8 reports and hash manifests.

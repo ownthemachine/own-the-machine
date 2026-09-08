@@ -1,0 +1,34 @@
+{
+  "note": "Raw model output preserved byte-for-byte after metadata header. Reviewer conclusions require the written disposition; PUBLISH is not legal clearance.",
+  "bundle": "2026-09-08-onboarding-r8",
+  "prompt_source": "pipeline/bundles/2026-09-08-onboarding-r4-prompts",
+  "reviews": [
+    {
+      "path": "pipeline/reviews/2026-09-08-onboarding-legal-form-r8.md",
+      "raw_sha256": "a79727a20eb7a03f2c7b534a2d45579422851ee6c2797b5c56142a94ef0f4c40",
+      "file_sha256": "9b7289a549ded8e043efa46cbee2c6392ac443cbcb83680188e42bc121bd95ee",
+      "bundle_sha256": "6e4e7d0d0eb7965c4acd87f1d005ef781d226579a5541984cb81a8766388a7d3",
+      "prompt_sha256": "0e2da617e32fe2da2f1a5bfd717155287142b8d44a41348162e9625f2db00d58",
+      "verdict": "PUBLISH",
+      "gate": "legal-form"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-08-onboarding-layer-fidelity-r8.md",
+      "raw_sha256": "2554da2d5aad58dc097f74c90f406b05e6d75bad5a1483955c2863f7dbdc7517",
+      "file_sha256": "e9f5babe5b0158d42ad98460eed66686e6b8722df19bca3f411d90376085997b",
+      "bundle_sha256": "6e4e7d0d0eb7965c4acd87f1d005ef781d226579a5541984cb81a8766388a7d3",
+      "prompt_sha256": "e2ea3fb3d06a7519a6b142eda3324e958943b7a441d2a91dd5b6f53c09ecf48c",
+      "verdict": "PUBLISH",
+      "gate": "layer-fidelity"
+    },
+    {
+      "path": "pipeline/reviews/2026-09-08-onboarding-hostile-counsel-r8.md",
+      "raw_sha256": "b166828d1f547b0597d332c8fb1adf196879081397e8c603ea82fcf9a4d966a9",
+      "file_sha256": "079e9b121bd901307e69ac26127dcc09bd70984a43d1931b200f1550d2d0aa33",
+      "bundle_sha256": "6e4e7d0d0eb7965c4acd87f1d005ef781d226579a5541984cb81a8766388a7d3",
+      "prompt_sha256": "9171d2136ad54f80aa8a8932ee2610de3084a9a2a72e07940bc01a4bd17c9c26",
+      "verdict": "PUBLISH",
+      "gate": "hostile-counsel"
+    }
+  ]
+}
